@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block content %}
+<h4 class="page-title">📊 Charts</h4>
+<div class="row g-4">
+  <div class="col-md-6"><div class="card p-3">{{ chart1|safe }}</div></div>
+  <div class="col-md-6"><div class="card p-3">{{ chart2|safe }}</div></div>
+  <div class="col-md-6"><div class="card p-3">{{ chart3|safe }}</div></div>
+  <div class="col-md-6"><div class="card p-3">{{ chart4|safe }}</div></div>
+  <div class="col-md-6"><div class="card p-3">{{ chart5|safe }}</div></div>
+  <div class="col-md-6"><div class="card p-3">{{ chart6|safe }}</div></div>
+</div>
+<a href="/" class="btn btn-secondary mt-3">⬅ Back</a>
+{% endblock %}

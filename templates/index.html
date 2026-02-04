@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block content %}
+<h4 class="page-title">🔍 Filter Companies</h4>
+<div class="card p-4">
+  <form method="POST" action="/submit" class="d-flex flex-column gap-3">
+
+    <div>
+      <label class="form-label">Location</label>
+      <select class="form-select" name="location">
+        <option value="">All</option>
+        {% for l in locations %}<option value="{{ l }}">{{ l }}</option>{% endfor %}
+      </select>
+    </div>
+
+    <div>
+      <label class="form-label">Industry</label>
+      <select class="form-select" name="industry">
+        <option value="">All</option>
+        {% for i in industries %}<option value="{{ i }}">{{ i }}</option>{% endfor %}
+      </select>
+    </div>
+
+    <div>
+      <label class="form-label">Min Rating</label>
+      <select class="form-select" name="rating">
+        <option value="">All</option>
+        {% for r in ratings %}<option value="{{ r }}">{{ r }}</option>{% endfor %}
+      </select>
+    </div>
+
+    <div>
+      <label class="form-label">Type</label>
+      <select class="form-select" name="type">
+        <option value="">All</option>
+        {% for t in types %}<option value="{{ t }}">{{ t }}</option>{% endfor %}
+      </select>
+    </div>
+
+    <div>
+      <label class="form-label">Output</label>
+      <select class="form-select" name="output" required>
+        <option value="table">Table</option>
+        <option value="charts">Charts</option>
+      </select>
+    </div>
+
+    <div>
+      <button type="submit" class="btn btn-primary w-100">🚀 Show Results</button>
+    </div>
+
+  </form>
+</div>
+{% endblock %}

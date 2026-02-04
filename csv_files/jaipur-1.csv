@@ -1,0 +1,916 @@
+,company_name,company_rating,industry,size,type,years_old,location
+0,AU Small Finance Bank,4.4,Banking,10k-50k Employees,Fortune India 500,28,Jaipur
+1,Teleperformance,3.8,BPO,50k-1 Lakh Employees,Forbes Global 2000,46,Jaipur
+2,Genpact,3.9,IT Services & Consulting,1 Lakh+ Employees,Public,27,Jaipur
+3,ICICI Bank,4.0,Banking,1 Lakh+ Employees,Public,30,Jaipur
+4,HDFC Bank,4.0,Banking,1 Lakh+ Employees,Public,30,Jaipur
+5,Hero MotoCorp,4.2,Automobile,5k-10k Employees,Public,40,Jaipur
+6,Deutsche Bank,4.0,Banking,10k-50k Employees,Fortune India 500,154,Jaipur
+7,Kogta Financial India Limited,4.8,NBFC,1k-5k Employees,Public,28,Jaipur
+8,NBC Bearings,3.9,Auto Components,1k-5k Employees,Public,78,Jaipur
+9,Aavas Financiers,4.0,Financial Services,5k-10k Employees,Public,13,Jaipur
+10,Infosys,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,43,Jaipur
+11,Jio,4.0,Telecom,50k-1 Lakh Employees,Public,6,Jaipur
+12,MetLife,4.3,Insurance,1k-5k Employees,Forbes Global 2000,16,Jaipur
+13,BYJU'S,3.1,EdTech,10k-50k Employees,Indian Unicorn,13,Jaipur
+14,Celebal Technologies,2.7,IT Services & Consulting,1k-5k Employees,Startup,9,Jaipur
+15,Vodafone Idea,4.2,Telecom,5k-10k Employees,Public,6,Jaipur
+16,H.G. Infra Engineering,4.4,Engineering & Construction,1k-5k Employees,Public,21,Jaipur
+17,Bosch,4.3,Auto Components,5k-10k Employees,Public,138,Jaipur
+18,Axis Bank,3.9,Banking,50k-1 Lakh Employees,Public,31,Jaipur
+19,Kotak Mahindra Bank,3.9,Banking,50k-1 Lakh Employees,Public,21,Jaipur
+20,Mahindra & Mahindra,4.2,Automobile,1 Lakh+ Employees,Public,79,Jaipur
+21,Bharti Airtel,4.1,Telecom,10k-50k Employees,Public,29,Jaipur
+22,Vaibhav Global,3.4,Jewellery,1k-5k Employees,Public,44,Jaipur
+23,IDFC FIRST Bank,4.0,Banking,10k-50k Employees,Public,6,Jaipur
+24,Genus Power Infrastructures,4.0,Consumer Electronics & Appliances,1k-5k Employees,Public,32,Jaipur
+25,IndusInd Bank,3.7,Banking,10k-50k Employees,Public,30,Jaipur
+26,Ericsson,4.3,Telecom,10k-50k Employees,Forbes Global 2000,148,Jaipur
+27,Larsen & Toubro Limited,4.1,Engineering & Construction,10k-50k Employees,Public,86,Jaipur
+28,SK Finance Limited,4.1,NBFC,10k-50k Employees,Public,30,Jaipur
+29,Gravita,4.4,Metals & Mining,201-500 Employees,Public,32,Jaipur
+30,Paytm,3.5,FinTech,10k-50k Employees,Public,14,Jaipur
+31,Amazon,4.1,Internet,1 Lakh+ Employees,Public,30,Jaipur
+32,CarDekho,3.7,Internet,1k-5k Employees,Indian Unicorn,16,Jaipur
+33,Mayur Uniquoters,4.2,Leather,501-1k Employees,Public,32,Jaipur
+34,Reliance Industries,4.1,Oil & Gas,1 Lakh+ Employees,Public,47,Jaipur
+35,HDFC Life,4.1,Insurance,10k-50k Employees,Public,24,Jaipur
+36,DealShare,3.5,Internet,1k-5k Employees,Indian Unicorn,6,Jaipur
+37,Ess Kay Fincorp,4.1,NBFC,5k-10k Employees,Public,30,Jaipur
+38,JustDial,3.6,Internet,10k-50k Employees,Public,28,Jaipur
+39,UltraTech Cement,4.2,Building Material,10k-50k Employees,Public,41,Jaipur
+40,Oyo Rooms,3.4,Hospitality,1k-5k Employees,Indian Unicorn,11,Jaipur
+41,Asian Paints,4.1,Chemicals,5k-10k Employees,Public,82,Jaipur
+42,ICICI Prudential Life Insurance,4.1,Insurance,10k-50k Employees,Public,24,Jaipur
+43,Yes Bank,3.9,Banking,10k-50k Employees,Public,20,Jaipur
+44,Flipkart,4.0,Internet,10k-50k Employees,Public,17,Jaipur
+45,Consulting Engineers Group,4.2,Engineering & Construction,1k-5k Employees,Public,40,Jaipur
+46,Bajaj Finserv,4.1,Financial Services,50k-1 Lakh Employees,Public,17,Jaipur
+47,IIFL Finance,4.0,NBFC,10k-50k Employees,Public,29,Jaipur
+48,Vivo,4.1,Consumer Electronics & Appliances,5k-10k Employees,Conglomerate,15,Jaipur
+49,Wipro,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,79,Jaipur
+50,Dainik Bhaskar Group,4.4,Printing & Publishing,5k-10k Employees,Public,66,Jaipur
+51,Narayana Health,4.2,Healthcare,10k-50k Employees,Fortune India 500,24,Jaipur
+52,Samsung,4.1,Consumer Electronics & Appliances,50k-1 Lakh Employees,Public,55,Jaipur
+53,L&T Construction,4.1,Engineering & Construction,5k-10k Employees,Public,80,Jaipur
+54,L&T Construction,4.1,Engineering & Construction,5k-10k Employees,Public,80,Jaipur
+55,Delhivery,4.0,Logistics,10k-50k Employees,Fortune India 500,13,Jaipur
+56,Quess,4.0,BPO,1k-5k Employees,Public,17,Jaipur
+57,KEC International,4.1,Engineering & Construction,5k-10k Employees,Public,79,Jaipur
+58,OPPO,4.0,Consumer Electronics & Appliances,10k-50k Employees,Public,20,Jaipur
+59,DMart,4.0,Retail,10k-50k Employees,Fortune India 500,22,Jaipur
+60,MyTeam11,4.6,Gaming,201-500 Employees,Startup,8,Jaipur
+61,Indian Army,4.7,Defence & Aerospace,1 Lakh+ Employees,Public,129,Jaipur
+62,Shalby Hospitals,4.6,Healthcare,1k-5k Employees,Public,30,Jaipur
+63,Bandhan Bank,3.8,Banking,50k-1 Lakh Employees,Public,23,Jaipur
+64,Ashiana Housing,4.1,Real Estate,501-1k Employees,Public,45,Jaipur
+65,ITC,4.0,FMCG,10k-50k Employees,Public,114,Jaipur
+66,Reliance Communications,4.0,Telecom,201-500 Employees,Public,22,Jaipur
+67,Equitas Small Finance Bank,4.4,Banking,10k-50k Employees,Fortune India 500,17,Jaipur
+68,Havells,4.1,Electrical Equipment,5k-10k Employees,Public,41,Jaipur
+69,Varun Beverages,4.1,Beverage,5k-10k Employees,Public,29,Jaipur
+70,Tata Motors,4.2,Automobile,10k-50k Employees,Public,79,Jaipur
+71,USHA International,4.2,Consumer Electronics & Appliances,1k-5k Employees,Public,90,Jaipur
+72,Fortis Escorts Hospital,4.1,Healthcare,5k-10k Employees,Public,36,Jaipur
+73,Muthoot Finance,3.6,NBFC,10k-50k Employees,Public,85,Jaipur
+74,Accenture,4.0,IT Services & Consulting,1 Lakh+ Employees,Public,35,Jaipur
+75,Jana Small Finance Bank,3.9,Banking,10k-50k Employees,Public,18,Jaipur
+76,Tata Capital,4.2,NBFC,5k-10k Employees,Fortune India 500,17,Jaipur
+77,State Bank of India,3.9,Banking,1 Lakh+ Employees,Fortune India 500,218,Jaipur
+78,Shoppers Stop,4.1,Retail,5k-10k Employees,Public,33,Jaipur
+79,Poly Medicure,3.7,Medical Equipment,1k-5k Employees,Public,27,Jaipur
+80,RMC SWITCHGEARS,3.4,Electrical Equipment,201-500 Employees,Public,30,Jaipur
+81,Shriram Finance,4.1,NBFC,50k-1 Lakh Employees,Public,45,Jaipur
+82,Marriott International,4.3,Hospitality,10k-50k Employees,Forbes Global 2000,97,Jaipur
+83,Shree Cement,4.0,Building Material,5k-10k Employees,Public,45,Jaipur
+84,DS Group,4.1,FMCG,1k-5k Employees,Conglomerate,95,Jaipur
+85,ElasticRun,3.4,Logistics,1k-5k Employees,Indian Unicorn,8,Jaipur
+86,Indus Towers,4.0,Telecom,1k-5k Employees,Fortune India 500,17,Jaipur
+87,JK Cement,4.2,Building Material,1k-5k Employees,Public,49,Jaipur
+88,Fortis Healthcare,4.1,Healthcare,1k-5k Employees,Public,28,Jaipur
+89,Woodenstreet.com,3.5,Furniture & Furnishing,51-200 Employees,Startup,9,Jaipur
+90,Maruti Suzuki,4.2,Automobile,10k-50k Employees,Public,43,Jaipur
+91,Fexle Services,4.6,IT Services & Consulting,51-200 Employees,Public,11,Jaipur
+92,Ujjivan Small Finance Bank,4.1,Banking,10k-50k Employees,Public,7,Jaipur
+93,Tractors and Farm Equipment,4.1,Industrial Machinery,10k-50k Employees,Public,64,Jaipur
+94,ICICI Lombard General Insurance Company,3.8,Insurance,10k-50k Employees,Public,23,Jaipur
+95,Emami Agrotech,3.9,Food Processing,1k-5k Employees,Public,22,Jaipur
+96,CARS24,3.7,Internet,5k-10k Employees,Indian Unicorn,9,Jaipur
+97,Genesys International Corporation,3.8,IT Services & Consulting,1k-5k Employees,Public,29,Jaipur
+98,PhonePe,4.1,FinTech,5k-10k Employees,Indian Unicorn,9,Jaipur
+99,Berger Paints,3.8,Chemicals,1k-5k Employees,Public,101,Jaipur
+100,Voylla,3.9,Jewellery,201-500 Employees,Startup,12,Jaipur
+101,Tata Projects,4.3,Engineering & Construction,5k-10k Employees,Public,45,Jaipur
+102,DCB Bank,3.9,Banking,5k-10k Employees,Fortune India 500,94,Jaipur
+103,Fleeca India,3.2,Logistics,51-200 Employees,Startup,8,Jaipur
+104,Dabur,3.8,FMCG,5k-10k Employees,Public,140,Jaipur
+105,Inox Leisure,4.1,Media & Entertainment,1k-5k Employees,Public,25,Jaipur
+106,Pidilite Industries,4.4,Chemicals,5k-10k Employees,Public,65,Jaipur
+107,Indiabulls Home Loans,3.9,NBFC,5k-10k Employees,Public,19,Jaipur
+108,Cholamandalam Investment & Finance,4.1,NBFC,10k-50k Employees,Fortune India 500,46,Jaipur
+109,Mahindra Finance,4.3,NBFC,10k-50k Employees,Public,33,Jaipur
+110,WeNet Global,5.0,IT Services & Consulting,51-200 Employees,Startup,2,Jaipur
+111,RBL Bank,3.8,Banking,10k-50k Employees,Public,81,Jaipur
+112,Bank of Baroda,3.6,Banking,50k-1 Lakh Employees,Fortune India 500,116,Jaipur
+113,PNB MetLife,3.5,Insurance,5k-10k Employees,Conglomerate,23,Jaipur
+114,Swiggy,3.9,Internet,5k-10k Employees,Indian Unicorn,10,Jaipur
+115,Capri Global Capital,3.7,NBFC,1k-5k Employees,Public,27,Jaipur
+116,Poonawalla Fincorp,3.9,NBFC,1k-5k Employees,Public,36,Jaipur
+117,Health Care Global Enterprises,4.2,Healthcare,5k-10k Employees,Public,35,Jaipur
+118,Data Ingenious Global,3.8,IT Services & Consulting,501-1k Employees,Public,29,Jaipur
+119,Blinkit,3.9,Internet,1k-5k Employees,Indian Unicorn,11,Jaipur
+120,JK Lakshmi Cement,3.9,Building Material,1k-5k Employees,Public,42,Jaipur
+121,Indian Oil Corporation,4.4,Oil & Gas,10k-50k Employees,Fortune India 500,65,Jaipur
+122,Manappuram Finance,4.0,NBFC,10k-50k Employees,Public,75,Jaipur
+123,Future Group,4.3,Retail,10k-50k Employees,Conglomerate,11,Jaipur
+124,Mahindra Rural Housing Finance,4.1,NBFC,10k-50k Employees,Public,17,Jaipur
+125,NeuroEquilibrium,4.3,Healthcare,51-200 Employees,Startup,9,Jaipur
+126,BigBasket,4.0,Internet,10k-50k Employees,Indian Unicorn,13,Jaipur
+127,Trent,4.1,Retail,10k-50k Employees,Public,26,Jaipur
+128,Vakrangee,3.7,BPO,1k-5k Employees,Public,34,Jaipur
+129,Sandhar Technologies,3.9,Auto Components,1k-5k Employees,Public,37,Jaipur
+130,ITC Hotels,4.2,Hospitality,5k-10k Employees,Public,49,Jaipur
+131,Lenskart,3.3,Internet,5k-10k Employees,Indian Unicorn,14,Jaipur
+132,McDonald's,4.2,Hospitality,1k-5k Employees,Forbes Global 2000,69,Jaipur
+133,Sandhar Technologies,3.9,Auto Components,1k-5k Employees,Public,37,Jaipur
+134,McDonald's,4.2,Hospitality,1k-5k Employees,Forbes Global 2000,69,Jaipur
+135,Domino's Pizza,4.0,Hospitality,1k-5k Employees,Public,64,Jaipur
+136,Kotak Mahindara Life Insurance,3.9,Insurance,10k-50k Employees,Public,23,Jaipur
+137,TTK Healthcare,4.2,Healthcare,1k-5k Employees,Public,96,Jaipur
+138,Abbott,4.2,Pharma,10k-50k Employees,Public,136,Jaipur
+139,TCS,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,56,Jaipur
+140,Lenskart,3.3,Internet,5k-10k Employees,Indian Unicorn,14,Jaipur
+141,Bharat Financial Inclusion,4.0,NBFC,10k-50k Employees,Public,26,Jaipur
+142,Habilelabs,4.1,Emerging Technologies,51-200 Employees,Startup,8,Jaipur
+143,LG Electronics,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,66,Jaipur
+144,Habilelabs,4.1,Emerging Technologies,51-200 Employees,Startup,8,Jaipur
+145,Jubilant Foods Works,3.9,Hospitality,10k-50k Employees,Public,29,Jaipur
+146,Cipla,4.1,Pharma,10k-50k Employees,Public,89,Jaipur
+147,Tata Play,4.0,Broadcasting,5k-10k Employees,Public,18,Jaipur
+148,Electronica Finance,4.2,NBFC,1k-5k Employees,Public,34,Jaipur
+149,Digamber Capfin,4.3,Financial Services,51-200 Employees,Public,29,Jaipur
+150,Hilton,4.4,Hospitality,1k-5k Employees,Forbes Global 2000,105,Jaipur
+151,Mahindra Logistics,4.1,Logistics,1k-5k Employees,Public,24,Jaipur
+152,Hindustan Unilever,4.3,FMCG,10k-50k Employees,Public,152,Jaipur
+153,InterGlobe Aviation,3.6,Aviation,10k-50k Employees,Fortune India 500,19,Jaipur
+154,HCL Infosystems,4.1,IT Services & Consulting,51-200 Employees,Public,48,Jaipur
+155,Crowne Plaza,4.1,Hospitality,501-1k Employees,Public,41,Jaipur
+156,Royal Orchid Hotels,4.0,Hospitality,1k-5k Employees,Public,38,Jaipur
+157,Patanjali Ayurved,3.2,FMCG,1k-5k Employees,Fortune India 500,18,Jaipur
+158,BlackBuck,3.9,Internet,1k-5k Employees,Indian Unicorn,9,Jaipur
+159,Metro Cash & Carry,4.3,Retail,1k-5k Employees,Forbes Global 2000,21,Jaipur
+160,Ashok Leyland,4.1,Automobile,5k-10k Employees,Public,76,Jaipur
+161,HDFC Ergo General Insurance,4.0,Insurance,10k-50k Employees,Public,22,Jaipur
+162,Future Retail,4.3,Retail,10k-50k Employees,Public,37,Jaipur
+163,Wipro Infotech,4.0,IT Services & Consulting,1 Lakh+ Employees (Global),MNC,79,Jaipur
+164,Lifestyle,4.4,Retail,10k-50k Employees,Fortune India 500,25,Jaipur
+165,Toppr,3.4,EdTech,1k-5k Employees,Startup,11,Jaipur
+166,Tax2win,4.1,Internet,51-200 Employees,Startup,9,Jaipur
+167,Adecco Group,3.8,Recruitment,1k-5k Employees,Forbes Global 2000,25,Jaipur
+168,Nippon Paint India,4.1,Chemicals,1k-5k Employees,Forbes Global 2000,143,Jaipur
+169,Kotak Securities,3.7,Financial Services,5k-10k Employees,Conglomerate,30,Jaipur
+170,Shriram Housing Finance,4.0,Financial Services,501-1k Employees,Public,14,Jaipur
+171,Kansai Nerolac Paints,3.9,Chemicals,1k-5k Employees,Public,104,Jaipur
+172,Muthoot Fincorp,4.1,NBFC,10k-50k Employees,Conglomerate,137,Jaipur
+173,Shadowfax Technologies,3.7,Logistics,1k-5k Employees,Public,9,Jaipur
+174,Autolite (India),3.3,Auto Components,501-1k Employees,Public,54,Jaipur
+175,Exide Industries,3.6,Auto Components,5k-10k Employees,Public,77,Jaipur
+176,WholesaleBox Internet,4.2,Fashion & Textile,11-50 Employees,Startup,9,Jaipur
+177,V-Mart,4.2,Retail,5k-10k Employees,Public,22,Jaipur
+178,Toppersnotes,3.9,Internet,51-200 Employees,Startup,9,Jaipur
+179,Delhi Public School,3.9,Education & Training,1k-5k Employees,Public,26,Jaipur
+180,Safexpress,4.1,Logistics,1k-5k Employees,Conglomerate,27,Jaipur
+181,Aditya Birla Capital,4.0,Financial Services,10k-50k Employees,Public,7,Jaipur
+182,CMS IT Services,3.2,IT Services & Consulting,5k-10k Employees,Startup,10,Jaipur
+183,Rajasthan Electronics & Instruments,3.2,Electronics Manufacturing,51-200 Employees,Central,43,Jaipur
+184,ImaginXP,3.2,Education & Training,51-200 Employees (Global),Startup,11,Jaipur
+185,Nuvoco Vistas,4.2,Building Material,1k-5k Employees,Fortune India 500,25,Jaipur
+186,L&T Finance,4.0,NBFC,10k-50k Employees,Public,30,Jaipur
+187,CK Birla Group,4.2,Building Material,1k-5k Employees,Conglomerate,162,Delhi/NCR
+188,Sony,4.3,Consumer Electronics & Appliances,1k-5k Employees,Public,30,Delhi/NCR
+189,Team Lease,4.0,Recruitment,1k-5k Employees,Public,8,Bangalore/Bengaluru
+190,Bajaj Auto,3.9,Automobile,5k-10k Employees,Public,79,Pune
+191,TVS Motor,4.1,Automobile,5k-10k Employees,Public,45,Chennai
+192,XpressBees,3.8,Logistics,5k-10k Employees,Indian Unicorn,9,Pune
+193,Manglam Build Developers,2.9,Real Estate,501-1k Employees,Public,24,Jaipur
+194,Spicejet,3.5,Aviation,5k-10k Employees,Public,20,Jaipur
+195,Alkem Laboratories,4.0,Pharma,10k-50k Employees,Public,51,Jaipur
+196,LeadsGuru,4.3,EdTech,11-50 Employees,Startup,4,Jaipur
+197,SYSKA LED Lights,2.9,Consumer Electronics & Appliances,1k-5k Employees (Global),Startup,12,Jaipur
+198,Reliance SMSL,4.0,BPO,1k-5k Employees,Public,17,Jaipur
+199,Godrej & Boyce Manufacturing,4.0,Consumer Electronics & Appliances,10k-50k Employees,Fortune India 500,127,Jaipur
+200,Dhanuka Agritech,3.9,Agro Chemicals,1k-5k Employees,Public,42,Jaipur
+201,GAIL,4.5,Oil & Gas,1k-5k Employees,Fortune India 500,40,Jaipur
+202,Pernod Ricard,3.9,Beverage,1k-5k Employees,Forbes Global 2000,49,Jaipur
+203,Apollo Tyres,4.1,Auto Components,5k-10k Employees,Public,52,Jaipur
+204,Tata Motors Finance,4.2,NBFC,1k-5k Employees,Conglomerate,67,Jaipur
+205,Unacademy,3.3,EdTech,1k-5k Employees,Indian Unicorn,9,Jaipur
+206,Ceinsys Tech,3.9,IT Services & Consulting,501-1k Employees,Public,26,Jaipur
+207,Poddar Pigments,4.1,Chemicals,201-500 Employees,Public,33,Jaipur
+208,PNB Housing Finance,3.9,Financial Services,1k-5k Employees,Public,36,Jaipur
+209,KONE,4.3,Industrial Machinery,5k-10k Employees,Forbes Global 2000,114,Jaipur
+210,Aksh Optifibre,3.6,Telecom,201-500 Employees,Public,38,Jaipur
+211,Blue Dart Express,4.1,Logistics,10k-50k Employees,Public,41,Jaipur
+212,Aurionpro Solutions,3.7,Software Product,1k-5k Employees,Public,27,Jaipur
+213,Tata Teleservices,4.1,Telecom,201-500 Employees,Public,28,Jaipur
+214,Aditya Birla Fashion and Retail,4.2,Fashion & Textile,10k-50k Employees,Fortune India 500,36,Mumbai
+215,Dhabriya Polywood,3.2,Building Material,51-200 Employees,Public,32,Jaipur
+216,Dhabriya Polywood,3.2,Building Material,51-200 Employees,Public,32,Jaipur
+217,Edelweiss,3.8,Financial Services,1k-5k Employees,Public,7,Jaipur
+218,Adani Wilmar,4.2,FMCG,1k-5k Employees,Public,25,Jaipur
+219,IFB,3.7,Consumer Electronics & Appliances,201-500 Employees,Public,50,Jaipur
+220,Adani Wilmar,4.2,FMCG,1k-5k Employees,Public,25,Ahmedabad
+221,Edelweiss,3.8,Financial Services,1k-5k Employees,Public,7,Mumbai
+222,Escorts Kubota Limited,4.1,Automobile,1k-5k Employees,Public,80,Faridabad
+223,Prince Pipes & Fittings,4.3,Building Material,1k-5k Employees,Public,37,Mumbai
+224,Sundaram Finance,4.2,NBFC,1k-5k Employees,Public,70,Chennai
+225,Norsk Hydro,4.3,Metals & Mining,10k-50k Employees,Forbes Global 2000,119,Jaipur
+226,Pine Labs,3.7,FinTech,1k-5k Employees,Indian Unicorn,26,Jaipur
+227,Care Health Insurance,3.8,Internet,5k-10k Employees,Public,12,Jaipur
+228,Honda,4.2,Automobile,10k-50k Employees,Forbes Global 2000,39,Jaipur
+229,CG Power and Industrial Solutions,3.9,Electrical Equipment,1k-5k Employees,Public,87,Jaipur
+230,Lupin,4.1,Pharma,1k-5k Employees,Public,56,Jaipur
+231,National Informatics Centre,4.2,Government,1k-5k Employees,Central,48,Jaipur
+232,CG Power and Industrial Solutions,3.9,Electrical Equipment,1k-5k Employees,Public,87,Jaipur
+233,Honda,4.2,Automobile,10k-50k Employees,Forbes Global 2000,39,Jaipur
+234,ICICI Securities,3.8,Financial Services,1k-5k Employees,Public,29,Jaipur
+235,Bajaj Capital,3.9,Financial Services,1k-5k Employees,Public,60,Jaipur
+236,Rupeek,3.7,FinTech,1k-5k Employees,Startup,9,Jaipur
+237,Sun Pharmaceutical Industries,4.1,Pharma,10k-50k Employees,Public,41,Jaipur
+238,Zomato,3.8,Internet,1k-5k Employees,Public,16,Jaipur
+239,CBRE,4.2,Real Estate,10k-50k Employees,Forbes Global 2000,118,Gurgaon
+240,GlaxoSmithKline Pharmaceuticals,4.2,Pharma,1k-5k Employees,Fortune India 500,194,Mumbai
+241,ART Housing Finance (India),3.8,Financial Services,51-200 Employees,Public,11,Jaipur
+242,CenturyPly,4.0,Furniture & Furnishing,1k-5k Employees,Public,38,Jaipur
+243,NLET Initiatives LLP,4.3,Software Product,11-50 Employees,Startup,7,Jaipur
+244,Flitpay,4.2,Financial Services,11-50 Employees,Startup,7,Jaipur
+245,Blue Star,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,81,Mumbai
+246,Lava International,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,15,Jaipur
+247,Reliance Capital,4.0,Financial Services,1k-5k Employees,Public,19,Jaipur
+248,Rivigo,3.9,Internet,1k-5k Employees,Indian Unicorn,10,Jaipur
+249,Bajaj Electricals,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,86,Jaipur
+250,Nokia,4.2,Telecom,10k-50k Employees,Forbes Global 2000,159,Jaipur
+251,Tech Mahindra,3.7,IT Services & Consulting,1 Lakh+ Employees,Public,38,Jaipur
+252,Ways & Means Technology,4.7,IT Services & Consulting,11-50 Employees,Public,15,Jaipur
+253,Indian Railways,4.2,Railways,1 Lakh+ Employees,Central,171,Delhi/NCR
+254,Ola Cabs,3.5,Internet,1k-5k Employees,Indian Unicorn,14,Bangalore
+255,Intex Technologies,3.7,Consumer Electronics & Appliances,1k-5k Employees,Public,28,Delhi/NCR
+256,Whirlpool,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,113,Michigan
+257,Reliance Trends,4.4,Retail,1 Lakh+ Employees,Conglomerate,18,Navi
+258,Star Health & Allied Insurance,3.9,Insurance,10k-50k Employees,Fortune India 500,18,Chennai
+259,Lemon Tree Hotels,4.2,Hospitality,5k-10k Employees,Public,22,Delhi/NCR
+260,Schneider Electric,4.2,Industrial Automation,10k-50k Employees,Forbes Global 2000,25,Paris
+261,Ola Cabs,3.5,Internet,1k-5k Employees,Indian Unicorn,14,Bangalore
+262,Indian Railways,4.2,Railways,1 Lakh+ Employees,Central,171,Kolkata
+263,Aye Finance,4.2,NBFC,5k-10k Employees,Startup,11,Jaipur
+264,PharmEasy,3.7,Internet,1k-5k Employees,Indian Unicorn,9,Jaipur
+265,NSE.IT,3.6,IT Services & Consulting,1k-5k Employees,Public,25,Jaipur
+266,MRF Tyres,3.8,Auto Components,10k-50k Employees,Public,78,Jaipur
+267,Wonder Cement,4.2,Building Material,1k-5k Employees,Fortune India 500,14,Jaipur
+268,VLCC,3.7,Beauty & Personal Care,1k-5k Employees,Conglomerate,35,Jaipur
+269,Apollo Hospitals,4.2,Healthcare,10k-50k Employees,Public,41,Jaipur
+270,Transcorp International,3.5,NBFC,501-1k Employees,Public,30,Jaipur
+271,Uber,4.2,Internet,1k-5k Employees,Public,15,Jaipur
+272,Yethi Consulting,3.4,IT Services & Consulting,501-1k Employees,Startup,11,Jaipur
+273,Renault,4.3,Automobile,10k-50k Employees,Forbes Global 2000,126,Jaipur
+274,Airtel Payments Bank,4.2,FinTech,501-1k Employees,Public,8,Jaipur
+275,FedEx Express,4.2,Logistics,5k-10k Employees,Forbes Global 2000,53,Jaipur
+276,Sharekhan,4.0,Financial Services,1k-5k Employees,Public,24,Jaipur
+277,Polycab Wires,4.1,Electrical Equipment,1k-5k Employees,Fortune India 500,28,Jaipur
+278,Tata Communications,4.1,Telecom,5k-10k Employees,Public,38,Jaipur
+279,Titan Company,4.4,Retail,5k-10k Employees,Public,40,Jaipur
+280,IPE Global,4.0,Management Consulting,1k-5k Employees,Public,26,Jaipur
+281,Kajaria Ceramics,4.2,Building Material,1k-5k Employees,Public,39,Jaipur
+282,Recpdcl.ltd,4.0,Facility Management Services,1k-5k Employees,Central,17,Jaipur
+283,Xiaomi,3.9,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,14,Jaipur
+284,Punjab National Bank,4.1,Banking,1 Lakh+ Employees,Fortune India 500,130,Jaipur
+285,IMG Global Infotech,3.6,IT Services & Consulting,51-200 Employees,Startup,10,Jaipur
+286,Big Bazaar,4.3,Retail,10k-50k Employees,Conglomerate,23,Jaipur
+287,Randstad,3.9,Recruitment,5k-10k Employees,Conglomerate,32,Chennai
+288,Ziqitza Health Care,4.0,Healthcare,5k-10k Employees,Public,19,Mumbai
+289,IMG Global Infotech,3.6,IT Services & Consulting,51-200 Employees,Startup,10,Jaipur
+290,Punjab National Bank,4.1,Banking,1 Lakh+ Employees,Fortune India 500,130,Delhi/NCR
+291,Xiaomi,3.9,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,14,Haidian
+292,Recpdcl.ltd,4.0,Facility Management Services,1k-5k Employees,Central,17,Noida
+293,RenewBuy,3.8,Insurance,1k-5k Employees,Startup,10,Gurgaon
+294,Kalyan Jewellers,4.7,Jewellery,5k-10k Employees,Fortune India 500,31,Jaipur
+295,Amara Raja Energy & Mobility,4.3,Auto Components,5k-10k Employees,Fortune India 500,39,Jaipur
+296,Jhandewala Foods,2.1,FMCG,201-500 Employees,Public,18,Jaipur
+297,FirstCry,3.8,Retail,1k-5k Employees,Indian Unicorn,14,Jaipur
+298,Kotak Mahindra Prime,4.0,NBFC,5k-10k Employees,Public,28,Jaipur
+299,DCM Shriram,4.3,Chemicals,5k-10k Employees,Public,34,Jaipur
+300,Sterlite Technologies,3.8,Hardware & Networking,1k-5k Employees,Public,36,Jaipur
+301,PwC,3.6,Management Consulting,10k-50k Employees,Conglomerate,144,Jaipur
+302,TerraCIS Technologies,3.8,IT Services & Consulting,1k-5k Employees,Public,31,Jaipur
+303,JLL,4.2,Real Estate,10k-50k Employees,Forbes Global 2000,25,Jaipur
+304,Sodexo,4.1,Facility Management Services,10k-50k Employees,Forbes Global 2000,16,Jaipur
+305,Spinny,3.9,Internet,1k-5k Employees,Indian Unicorn,9,Jaipur
+306,QUICK HEAL TECHNOLOGIES,3.9,Software Product,1k-5k Employees,Public,29,Jaipur
+307,ZTE Corporation,4.0,Telecom,201-500 Employees,Forbes Global 2000,21,Jaipur
+308,Minimalist,2.7,Internet,51-200 Employees,Startup,4,Jaipur
+309,Central Institute of Plastics Engineering & Technology,3.9,Education & Training,51-200 Employees,Public,56,Jaipur
+310,Videocon d2h,3.9,Internet,501-1k Employees,Public,15,Jaipur
+311,Utkarsh Small Finance Bank,3.9,Banking,10k-50k Employees,Public,15,Jaipur
+312,CRYSTAL CROP PROTECTION,3.9,Agro Chemicals,1k-5k Employees,Public,44,Jaipur
+313,Carlsberg,4.3,Beverage,1k-5k Employees,Forbes Global 2000,177,Jaipur
+314,VIP Industries,4.0,Retail,1k-5k Employees,Public,53,Jaipur
+315,Diageo,4.0,Beverage,1k-5k Employees,Public,27,Jaipur
+316,Hyundai Motor India Limited,4.4,Automobile,10k-50k Employees,Fortune India 500,57,Jaipur
+317,ShopKirana,3.8,Software Product,501-1k Employees,Startup,10,Jaipur
+318,Cult.fit,3.8,Fitness & Wellness,1k-5k Employees,Indian Unicorn,8,Jaipur
+319,Ugro Capital,3.8,NBFC,1k-5k Employees,Public,31,Jaipur
+320,GTL Infrastructure,4.6,Hardware & Networking,1k-5k Employees,Public,20,Jaipur
+321,HFCL,4.2,Hardware & Networking,1k-5k Employees,Public,37,Jaipur
+322,Johnson & Johnson,4.2,Pharma,1k-5k Employees,Forbes Global 2000,67,Jaipur
+323,Standard Chartered,3.9,Banking,10k-50k Employees,Fortune India 500,171,Jaipur
+324,3i Infotech,3.6,IT Services & Consulting,1k-5k Employees,Public,31,Jaipur
+325,Dr. Reddy's,4.2,Pharma,10k-50k Employees,Public,40,Jaipur
+326,Bank of India,4.0,Banking,50k-1 Lakh Employees,Fortune India 500,118,Jaipur
+327,Dr Lal PathLabs,4.2,Healthcare,1k-5k Employees,Public,75,Jaipur
+328,Devyani International,3.9,Hospitality,10k-50k Employees,Public,33,Jaipur
+329,Greenpanel Industries,4.1,Furniture & Furnishing,1k-5k Employees,Public,7,Jaipur
+330,Centre For Electronic Governance,4.4,Government,51-200 Employees (Global),Public,18,Jaipur
+331,Fabriclore,4.4,Internet,11-50 Employees,Startup,8,Jaipur
+332,Ipca Laboratories,4.0,Pharma,10k-50k Employees,Public,75,Jaipur
+333,Orient Electric,4.0,Consumer Electronics & Appliances,501-1k Employees,Public,70,Jaipur
+334,PolicyBazaar,3.4,Internet,10k-50k Employees,Public,16,Jaipur
+335,Ipca Laboratories,4.0,Pharma,10k-50k Employees,Public,75,Jaipur
+336,Godfrey Phillips India,4.1,FMCG,501-1k Employees,Public,91,Jaipur
+337,Canara Bank,3.5,Banking,50k-1 Lakh Employees,Public,118,Jaipur
+338,Microland,3.6,IT Services & Consulting,1k-5k Employees,Public,35,Jaipur
+339,Akzo Nobel India,4.2,Chemicals,1k-5k Employees,Public,85,Jaipur
+340,Shakti Pumps,3.9,Industrial Machinery,501-1k Employees,Public,42,Jaipur
+341,Marico,4.1,FMCG,1k-5k Employees,Public,36,Jaipur
+342,Voltas,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,70,Jaipur
+343,Tata Consumer Products,3.9,FMCG,1k-5k Employees,Public,62,Jaipur
+344,UPL,4.2,Agro Chemicals,5k-10k Employees,Public,55,Jaipur
+345,Somany Ceramics,4.3,Building Material,1k-5k Employees,Public,56,Jaipur
+346,Agrostar,4.0,Internet,1k-5k Employees,Startup,11,Jaipur
+347,Medlife,3.7,Internet,1k-5k Employees,Startup,10,Jaipur
+348,Orient Electric,4.0,Consumer Electronics & Appliances,501-1k Employees,Public,70,Jaipur
+349,PolicyBazaar,3.4,Internet,10k-50k Employees,Public,16,Jaipur
+350,Greenply,4.0,Furniture & Furnishing,1k-5k Employees,Public,40,Jaipur
+351,Tata Group,4.3,IT Services & Consulting,1 Lakh+ Employees,Conglomerate,156,Jaipur
+352,THE LEELA PALACES HOTELS & RESORTS,4.0,Hospitality,1k-5k Employees,Conglomerate,41,Jaipur
+353,HCLTech,3.7,IT Services & Consulting,1 Lakh+ Employees,Public,33,Jaipur
+354,Schwing Stetter,4.1,Industrial Machinery,1k-5k Employees,Fortune India 500,26,Jaipur
+355,Bharti Infratel,4.3,Telecom,1k-5k Employees,Public,18,Jaipur
+356,PVR Cinemas,4.1,Media & Entertainment,1k-5k Employees,Public,27,Jaipur
+357,S Chand Group,4.1,Education & Training,1k-5k Employees,Public,85,Jaipur
+358,Kalindee Rail Nirman (E),4.1,Telecom,1k-5k Employees,Public,40,Jaipur
+359,Sodhani Biotech,3.9,Biotechnology,11-50 Employees,Startup,10,Jaipur
+360,Medtronic,4.1,Medical Equipment,1k-5k Employees,Forbes Global 2000,45,Jaipur
+361,Haier Appliances India,4.1,Consumer Electronics & Appliances,1k-5k Employees,Conglomerate,20,Jaipur
+362,Jain Irrigation Systems,4.0,Agriculture,5k-10k Employees,Public,61,Jaipur
+363,Emami,4.1,Beauty & Personal Care,1k-5k Employees,Public,50,Jaipur
+364,Vertiv,4.0,IT Services & Consulting,51-200 Employees (Global),Startup,8,Jaipur
+365,Apollo Munich Health Insurance,3.9,Financial Services,1k-5k Employees,Public,17,Jaipur
+366,Ola Electric Mobility,3.3,Automobile,5k-10k Employees,Indian Unicorn,7,Jaipur
+367,Aditya Birla Housing Finance,4.0,Financial Services,1k-5k Employees,Public,15,Jaipur
+368,Paytm Payments Bank,4.0,FinTech,1k-5k Employees,Public,8,Jaipur
+369,DHL Express,4.1,Logistics,1k-5k Employees,Conglomerate,45,Jaipur
+370,Mangalam Cement,4.2,Building Material,1k-5k Employees,Public,48,Jaipur
+371,Cera Sanitaryware,4.3,Building Material,1k-5k Employees,Public,44,Jaipur
+372,DeHaat,3.7,Agriculture,1k-5k Employees,Startup,5,Jaipur
+373,Porter,4.2,Internet,1k-5k Employees,Startup,10,Jaipur
+374,Apollo Munich Health Insurance,3.9,Financial Services,1k-5k Employees,Public,17,Jaipur
+375,Aditya Birla Housing Finance,4.0,Financial Services,1k-5k Employees,Public,15,Jaipur
+376,Ola Electric Mobility,3.3,Automobile,5k-10k Employees,Indian Unicorn,7,Jaipur
+377,Paytm Payments Bank,4.0,FinTech,1k-5k Employees,Public,8,Jaipur
+378,Vertiv,4.0,IT Services & Consulting,51-200 Employees (Global),Startup,8,Jaipur
+379,Emami,4.1,Beauty & Personal Care,1k-5k Employees,Public,50,Jaipur
+380,DHL Express,4.1,Logistics,1k-5k Employees,Conglomerate,45,Jaipur
+381,Meesho,3.7,Internet,5k-10k Employees,Indian Unicorn,9,Jaipur
+382,United Breweries,3.9,Beverage,1k-5k Employees,Public,167,Jaipur
+383,Hitachi,4.1,Industrial Machinery,10k-50k Employees,Forbes Global 2000,114,Jaipur
+384,Physicswallah,3.8,EdTech,10k-50k Employees,Indian Unicorn,5,Jaipur
+385,JK Tyres,3.8,Auto Components,1k-5k Employees,Fortune India 500,73,Jaipur
+386,IBM,4.1,IT Services & Consulting,1 Lakh+ Employees,Public,113,Jaipur
+387,Future Lifestyle Fashion,4.2,Retail,1k-5k Employees,Public,12,Jaipur
+388,GVK Group,3.9,Engineering & Construction,50k-1 Lakh Employees,Public,32,Jaipur
+389,Tijaria Polypipes,4.5,Building Material,51-200 Employees,Public,18,Jaipur
+390,MAS Financial Services,3.7,Financial Services,1k-5k Employees,Public,29,Jaipur
+391,Future Lifestyle Fashion,4.2,Retail,1k-5k Employees,Public,12,Jaipur
+392,Reliance Smart,4.2,Retail,5k-10k Employees,Public,18,Jaipur
+393,Ion Exchange India,3.9,Waste Management,1k-5k Employees,Public,60,Jaipur
+394,Bacardi,3.9,Beverage,201-500 Employees,Conglomerate,162,Jaipur
+395,Britannia,4.1,FMCG,1k-5k Employees,Public,132,Jaipur
+396,Nilkamal,3.9,Furniture & Furnishing,1k-5k Employees,Public,43,Jaipur
+397,Kirloskar Oil Engines,4.2,Industrial Machinery,1k-5k Employees,Public,78,Jaipur
+398,Muthoot Group,3.6,Financial Services,10k-50k Employees,Public,137,Jaipur
+399,Reliance Smart,4.2,Retail,5k-10k Employees,Public,18,Jaipur
+400,FDC,4.1,Pharma,5k-10k Employees,Public,84,Jaipur
+401,Coca-Cola Company,4.3,Beverage,5k-10k Employees,Forbes Global 2000,138,Jaipur
+402,Coforge,3.5,IT Services & Consulting,10k-50k Employees,Public,20,Jaipur
+403,Nowfloats Technologies,3.3,Software Product,201-500 Employees,Startup,12,Jaipur
+404,Go First,3.7,Aviation,1k-5k Employees,Public,19,Jaipur
+405,Coca-Cola Company,4.3,Beverage,5k-10k Employees,Forbes Global 2000,138,Jaipur
+406,FDC,4.1,Pharma,5k-10k Employees,Public,84,Jaipur
+407,Satin Creditcare Network,4.1,NBFC,5k-10k Employees,Public,34,Jaipur
+408,LUX Industries,3.7,Fashion & Textile,1k-5k Employees,Public,67,Jaipur
+409,LIC Housing Finance,4.0,NBFC,1k-5k Employees,Public,35,Jaipur
+410,Aditya Birla Group,4.1,Building Material,1 Lakh+ Employees,Conglomerate,167,Jaipur
+411,Relyon Softech,4.0,Software Product,501-1k Employees,Public,23,Jaipur
+412,Vardhman Fabrics,4.1,Fashion & Textile,10k-50k Employees,Fortune India 500,59,Jaipur
+413,Prism Johnson,4.0,Building Material,1k-5k Employees,Public,32,Jaipur
+414,Nowfloats Technologies,3.3,Software Product,201-500 Employees,Startup,12,Jaipur
+415,Honda Cars,4.4,Automobile,5k-10k Employees,Fortune India 500,29,Jaipur
+416,Uniinfo Telecom Services,4.0,Telecom,201-500 Employees,Public,14,Jaipur
+417,Cummins,4.4,Industrial Machinery,1k-5k Employees,Fortune India 500,105,Jaipur
+418,Udaipur Cement Works,4.1,Building Material,201-500 Employees,Public,31,Jaipur
+419,Megha Engineering & Infrastructures,4.0,Engineering & Construction,5k-10k Employees,Conglomerate,35,Jaipur
+420,American Tower Corporation,3.9,Telecom,501-1k Employees,Forbes Global 2000,29,Jaipur
+421,CSL Finance,4.2,FMCG,51-200 Employees,Public,32,Jaipur
+422,CANTABIL RETAIL INDIA,4.3,Fashion & Textile,1k-5k Employees,Public,24,Jaipur
+423,Bridgestone,4.2,Auto Components,1k-5k Employees,Forbes Global 2000,28,Jaipur
+424,Adani Group,4.0,Power,10k-50k Employees,Public,36,Jaipur
+425,BOB Financial Solutions,4.3,NBFC,501-1k Employees,Public,30,Jaipur
+426,American Tower Corporation,3.9,Telecom,501-1k Employees,Forbes Global 2000,29,Jaipur
+427,Udaipur Cement Works,4.1,Building Material,201-500 Employees,Public,31,Jaipur
+428,Adani Group,4.0,Power,10k-50k Employees,Public,36,Jaipur
+429,Bridgestone,4.2,Auto Components,1k-5k Employees,Forbes Global 2000,28,Jaipur
+430,Megha Engineering & Infrastructures,4.0,Engineering & Construction,5k-10k Employees,Conglomerate,35,Jaipur
+431,Ryan International School,3.7,Education & Training,10k-50k Employees,Public,32,Jaipur
+432,AB InBev India,3.5,Beverage,1k-5k Employees,Public,36,Jaipur
+433,Veto Switchgears & Cables,4.2,Electrical Equipment,201-500 Employees,Public,57,Jaipur
+434,Fourth Dimension Solutions,3.3,IT Services & Consulting,201-500 Employees,Public,13,Jaipur
+435,IRB Infrastructure,4.2,Engineering & Construction,5k-10k Employees,Public,26,Jaipur
+436,Alankit,3.3,Financial Services,1k-5k Employees,Public,33,Jaipur
+437,Bajaj Consumer Care,3.9,FMCG,201-500 Employees,Public,94,Jaipur
+438,PillarPlus,4.2,Building Material,11-50 Employees,Startup,4,Jaipur
+439,MEDdelivery,3.0,Internet,51-200 Employees,Startup,6,Jaipur
+440,MEDdelivery,3.0,Internet,51-200 Employees,Startup,6,Jaipur
+441,Login2Design Technologies,4.6,IT Services & Consulting,11-50 Employees,Startup,4,Jaipur
+442,Kissht Finance,4.1,FinTech,201-500 Employees,Startup,9,Jaipur
+443,ManpowerGroup,3.9,Recruitment,50k-1 Lakh Employees,Forbes Global 2000,29,Jaipur
+444,ITI,3.7,Hardware & Networking,1k-5k Employees,Central,76,Jaipur
+445,JM Financial,3.8,Financial Services,1k-5k Employees,Public,40,Jaipur
+446,Pratibha Industries,4.7,Engineering & Construction,501-1k Employees,Public,42,Jaipur
+447,Wapcos,3.6,Engineering & Construction,1k-5k Employees,State,55,Jaipur
+448,TTK Prestige,4.0,Consumer Electronics & Appliances,1k-5k Employees,Public,69,Jaipur
+449,Imarticus Learning,4.2,EdTech,501-1k Employees,Startup,12,Jaipur
+450,Ivrcl Infrastructures & Projects,4.3,Engineering & Construction,1k-5k Employees,Public,37,Jaipur
+451,Hinduja Global Solutions,4.0,IT Services & Consulting,10k-50k Employees,Public,24,Jaipur
+452,Religare Housing Development Finance Corporation,4.5,Financial Services,51-200 Employees,Public,31,Jaipur
+453,CIEL HR,4.1,Recruitment,1k-5k Employees,Startup,9,Jaipur
+454,Ofbusiness,3.1,Internet,1k-5k Employees,Indian Unicorn,9,Jaipur
+455,Kirana King,4.6,Retail,51-200 Employees,Startup,10,Jaipur
+456,G R Infraprojects,4.2,Engineering & Construction,10k-50k Employees,Public,29,Jaipur
+457,Future Supply Chain Solutions,4.4,Logistics,1k-5k Employees,Public,18,Jaipur
+458,Heritage Foods,4.1,Food Processing,1k-5k Employees,Public,32,Jaipur
+459,Aviva Life Insurance India,3.6,Insurance,1k-5k Employees,Forbes Global 2000,328,Jaipur
+460,Sahara India Pariwar,3.8,Broadcasting,5k-10k Employees,Conglomerate,46,Jaipur
+461,IDBI Bank,3.7,Banking,10k-50k Employees,Public,60,Jaipur
+462,Volkswagen,4.2,Automobile,1k-5k Employees,Forbes Global 2000,23,Jaipur
+463,IIC Technologies,3.9,IT Services & Consulting,1k-5k Employees,Public,30,Jaipur
+464,Pratibha Industries,4.7,Engineering & Construction,501-1k Employees,Public,42,Jaipur
+465,Srei Equipment Finance,4.5,Financial Services,1k-5k Employees,Public,35,Jaipur
+466,Imarticus Learning,4.2,EdTech,501-1k Employees,Startup,12,Jaipur
+467,Bharat IT Services,3.2,IT Services & Consulting,501-1k Employees,Public,28,Jaipur
+468,Ofbusiness,3.1,Internet,1k-5k Employees,Indian Unicorn,9,Jaipur
+469,Kirana King,4.6,Retail,51-200 Employees,Startup,10,Jaipur
+470,CIEL HR,4.1,Recruitment,1k-5k Employees,Startup,9,Jaipur
+471,OnePlus,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,11,Jaipur
+472,The Indian Hume Pipe Co.,4.1,Building Material,1k-5k Employees,Public,98,Jaipur
+473,Nippon Life India Asset Management,4.7,Financial Services,1k-5k Employees,Public,29,Jaipur
+474,Greenlam Industries,4.2,Building Material,1k-5k Employees,Public,11,Jaipur
+475,Milkbasket,3.8,Internet,501-1k Employees,Startup,9,Jaipur
+476,Dr. Agarwal's Eye Hospital,4.0,Healthcare,1k-5k Employees,Public,67,Chennai
+477,Info Edge,4.0,Internet,5k-10k Employees,Public,29,Noida
+478,Indostar Capital Finance,4.5,NBFC,1k-5k Employees,Public,13,Mumbai
+479,PC Jewellers,4.0,Metals & Mining,1k-5k Employees,Public,19,Jaipur
+480,Vedantu,3.4,EdTech,1k-5k Employees,Indian Unicorn,13,Jaipur
+481,NIIT,3.7,Education & Training,1k-5k Employees,Public,43,Jaipur
+482,Bikaji Foods,4.1,FMCG,1k-5k Employees,Public,37,Jaipur
+483,Mahindra Powerol,3.8,Industrial Machinery,51-200 Employees,Public,23,Jaipur
+484,Schoolnet India,3.8,EdTech,51-200 Employees,Public,27,Pune
+485,SKIT Jaipur,4.0,Education & Training,51-200 Employees,Startup,8,Jaipur
+486,Ceat Tyres,4.1,Auto Components,5k-10k Employees,Public,66,Jaipur
+487,Schoolnet India,3.8,EdTech,51-200 Employees,Public,27,Jaipur
+488,EM3 Agri Services,3.7,IT Services & Consulting,51-200 Employees,Startup,11,Jaipur
+489,Unomer,2.4,Internet,51-200 Employees,Startup,9,Jaipur
+490,National Insurance Company,4.2,Insurance,5k-10k Employees,Central,118,Jaipur
+491,HBL Power Systems,4.0,Electrical Equipment,1k-5k Employees,Public,47,Jaipur
+492,Religare Finvest,4.4,Financial Services,1k-5k Employees,Public,18,Jaipur
+493,Emcure Pharmaceuticals,3.8,Pharma,5k-10k Employees,Fortune India 500,43,Jaipur
+494,Archidply Industries,4.0,Furniture & Furnishing,501-1k Employees,Public,48,Jaipur
+495,MTS,4.1,Telecom,1k-5k Employees,Conglomerate,58,Jaipur
+496,Chambal Fertilisers And Chemicals,4.1,Agro Chemicals,1k-5k Employees,Public,39,Jaipur
+497,Vadilal Industries,4.1,FMCG,501-1k Employees,Public,117,Jaipur
+498,Khaitan Electricals,3.2,Food Processing,201-500 Employees,Public,43,Jaipur
+499,VRL Logistics,4.0,Logistics,10k-50k Employees,Public,41,Jaipur
+500,GVPR Engineers,4.0,Engineering & Construction,501-1k Employees,Public,27,Jaipur
+501,Snapmint Credit Advisory,4.0,Financial Services,51-200 Employees,Startup,9,Jaipur
+502,Capital Trust,4.0,NBFC,1k-5k Employees,Public,38,Jaipur
+503,Samunnati Financial Intermediation and Services,4.5,Financial Services,201-500 Employees,Startup,10,Jaipur
+504,Shalimar Paints,3.9,Chemicals,1k-5k Employees,Public,122,Jaipur
+505,Kaya Skin Clinic,4.1,Beauty & Personal Care,501-1k Employees,Public,21,Jaipur
+506,Action Construction Equipment,3.8,Industrial Machinery,1k-5k Employees,Public,29,Jaipur
+507,Thomas Cook,3.9,Travel & Tourism,1k-5k Employees,Public,143,Jaipur
+508,Telesonic Networks,3.7,Telecom,5k-10k Employees,Public,15,Jaipur
+509,TCI Express,3.9,Logistics,1k-5k Employees,Public,28,Jaipur
+510,Military Engineer Services,4.5,Engineering & Construction,51-200 Employees,Public,101,Jaipur
+511,Asian Granito India,3.8,Building Material,1k-5k Employees,Public,24,Jaipur
+512,Rebel Foods,3.8,Internet,5k-10k Employees,Indian Unicorn,12,Jaipur
+513,Chambal Fertilisers And Chemicals,4.1,Agro Chemicals,1k-5k Employees,Public,39,Jaipur
+514,Kirloskar Brothers,4.1,Industrial Machinery,1k-5k Employees,Public,136,Jaipur
+515,Union Bank of India,4.1,Banking,50k-1 Lakh Employees,Public,105,Jaipur
+516,CityMall,3.2,Internet,1k-5k Employees,Startup,5,Jaipur
+517,Sanofi,4.4,Pharma,1k-5k Employees,Public,20,Jaipur
+518,Federal Bank,3.9,Banking,10k-50k Employees,Public,93,Jaipur
+519,Rebel Foods,3.8,Internet,5k-10k Employees,Indian Unicorn,12,Jaipur
+520,KhataBook,3.6,FinTech,501-1k Employees,Startup,6,Jaipur
+521,WiJungle,4.2,Emerging Technologies,51-200 Employees,Startup,7,Jaipur
+522,EICHER TRUCKS AND BUSES,4.4,Automobile,1k-5k Employees,Public,16,Jaipur
+523,Force Motors,3.6,Automobile,1k-5k Employees,Public,66,Jaipur
+524,Cure foods,3.9,Fitness & Wellness,501-1k Employees,Startup,8,Jaipur
+525,Atishay,3.8,BPO,51-200 Employees,Public,35,Jaipur
+526,Air India,4.0,Aviation,10k-50k Employees,Central,94,Jaipur
+527,Relaxo Footwear,4.3,Fashion & Textile,5k-10k Employees,Public,40,Jaipur
+528,Jumbotail Technologies,3.7,Retail,201-500 Employees,Startup,9,Jaipur
+529,Sanofi,4.4,Pharma,1k-5k Employees,Public,20,Paris
+530,Procter & Gamble,4.2,FMCG,1k-5k Employees,Public,187,Cincinnati
+531,ECE Industries,3.7,Electrical Equipment,201-500 Employees,Public,79,Delhi/NCR
+532,Magma Housing Finance,4.3,Financial Services,5k-10k Employees,Public,35,Kolkata
+533,Merino Industries,2.7,Furniture & Furnishing,1k-5k Employees,Public,56,Jaipur
+534,Muthoot Pappachan Group,3.1,Financial Services,10k-50k Employees,Conglomerate,137,Jaipur
+535,Core Integra Consulting Services,3.6,Recruitment,501-1k Employees,Conglomerate,13,Jaipur
+536,ECE Industries,3.7,Electrical Equipment,201-500 Employees,Public,79,Jaipur
+537,KapitalTech,4.1,Financial Services,201-500 Employees,Public,10,Jaipur
+538,Merino Industries,2.7,Furniture & Furnishing,1k-5k Employees,Public,56,Jaipur
+539,Muthoot Pappachan Group,3.1,Financial Services,10k-50k Employees,Conglomerate,137,Jaipur
+540,Copado,4.9,Internet,51-200 Employees (Global),Startup,12,Jaipur
+541,FreshoKartz Agri Products,4.3,Internet,51-200 Employees,Startup,8,Jaipur
+542,Indian Motor Parts & Accessories,4.1,Auto Components,51-200 Employees,Public,70,Jaipur
+543,Honeywell Automation,3.8,Consumer Electronics & Appliances,10k-50k Employees,Public,118,Jaipur
+544,Exclusífe Technosoft,3.0,Retail,11-50 Employees,Startup,11,Jaipur
+545,Hello English,3.8,EdTech,1-10 Employees,Startup,12,Jaipur
+546,FreshoKartz Agri Products,4.3,Internet,51-200 Employees,Startup,8,Jaipur
+547,1ne Click Online,3.1,Internet,51-200 Employees,Startup,10,Jaipur
+548,Emgee Cables Communication,4.9,Electrical Equipment,11-50 Employees (Global),Public,37,Jaipur
+549,Indian Motor Parts & Accessories,4.1,Auto Components,51-200 Employees,Public,70,Jaipur
+550,ZipLoan,2.9,Internet,201-500 Employees,Startup,9,Jaipur
+551,Gifts On Air,2.5,Internet,51-200 Employees (Global),Startup,7,Jaipur
+552,Pantaloons,4.2,Fashion & Textile,5k-10k Employees,Public,27,Thane
+553,Tata Hitachi Construction Machinery,4.1,Industrial Machinery,1k-5k Employees,Fortune India 500,25,Kharagpur
+554,Saint-Gobain,4.0,Building Material,10k-50k Employees,Forbes Global 2000,359,Thane
+555,AccorHotels,4.3,Hospitality,5k-10k Employees,Forbes Global 2000,57,New
+556,Pearson,4.1,Education & Training,10k-50k Employees (Global),Conglomerate,180,Noida
+557,Max Healthcare,4.1,Healthcare,1k-5k Employees,Fortune India 500,23,Thane
+558,Yamaha Motor,4.2,Automobile,1k-5k Employees,Fortune India 500,69,Chennai
+559,Reliance Infrastructure,4.1,Engineering & Construction,1k-5k Employees,Public,95,Jaipur
+560,Philip Morris International,3.7,FMCG,51-200 Employees,Forbes Global 2000,37,Jaipur
+561,Tata Chemicals,4.2,Chemicals,1k-5k Employees,Public,85,Jaipur
+562,Airports Authority of India,4.4,Aviation,10k-50k Employees,Central,29,Jaipur
+563,Thyrocare Technologies,3.6,Healthcare,1k-5k Employees,Public,28,Jaipur
+564,Biocon Limited,3.9,Biotechnology,5k-10k Employees,Public,46,Jaipur
+565,Adani Power,3.9,Power,1k-5k Employees,Public,18,Jaipur
+566,Citigroup,3.7,Banking,10k-50k Employees,Forbes Global 2000,212,Jaipur
+567,Volvo,4.1,Automobile,1k-5k Employees,Forbes Global 2000,97,Jaipur
+568,Indian Navy,4.6,Defence & Aerospace,50k-1 Lakh Employees,Central,74,Jaipur
+569,Pearson,4.1,Education & Training,10k-50k Employees (Global),Conglomerate,180,Jaipur
+570,GSPL,4.0,Oil & Gas,1k-5k Employees,Public,45,Jaipur
+571,Securitas,4.0,Law Enforcement & Security,10k-50k Employees,Forbes Global 2000,90,Jaipur
+572,Symphony,4.1,Consumer Electronics & Appliances,201-500 Employees,Public,36,Jaipur
+573,Stelmec,3.5,Electronics Manufacturing,501-1k Employees,Public,40,Jaipur
+574,goStops,3.5,Internet,51-200 Employees,Startup,10,Jaipur
+575,Rallis India,4.3,Agro Chemicals,1k-5k Employees,Public,76,Jaipur
+576,United India Insurance Company,4.3,Insurance,10k-50k Employees,Public,86,Jaipur
+577,AccorHotels,4.3,Hospitality,5k-10k Employees,Forbes Global 2000,57,Jaipur
+578,Pantaloons,4.2,Fashion & Textile,5k-10k Employees,Public,27,Jaipur
+579,Kalpataru Power Transmission,4.2,Engineering & Construction,1k-5k Employees,Public,43,Jaipur
+580,Carborundum Universal,4.0,Metals & Mining,1k-5k Employees,Public,70,Jaipur
+581,NIKE,4.4,Fashion & Textile,1k-5k Employees,Public,60,Jaipur
+582,USV,4.1,Pharma,1k-5k Employees,Fortune India 500,63,Jaipur
+583,Sany Heavy Industry,4.0,Industrial Machinery,1k-5k Employees,Forbes Global 2000,35,Jaipur
+584,Umang Dairies,3.7,FMCG,201-500 Employees,Public,30,Gajraula
+585,Eris Lifesciences,3.8,Pharma,1k-5k Employees,Public,17,Ahmedabad
+586,Madhu Jayanti International,3.9,FMCG,201-500 Employees,Public,82,Kolkata
+587,Ge T & D India,4.3,Electrical Equipment,201-500 Employees,Public,67,Noida
+588,GAMMON INDIA,3.8,Engineering & Construction,11-50 Employees,Public,102,Mumbai
+589,You Broadband,3.7,Telecom,1k-5k Employees,Public,23,Surat
+590,SMEcorner,3.8,Financial Services,501-1k Employees,Startup,10,Mumbai
+591,Apar Industries,4.1,Electrical Equipment,1k-5k Employees,Public,66,Mumbai
+592,Swastika Investmart,4.4,Investment Banking / Venture Capital / Private Equity,501-1k Employees,Public,32,Jaipur
+593,PNC Infratech,4.0,Engineering & Construction,5k-10k Employees,Public,25,Jaipur
+594,MagicPin,3.2,Internet,201-500 Employees,Startup,9,Jaipur
+595,Eduncle,3.1,EdTech,51-200 Employees,Startup,8,Jaipur
+596,Jabil Circuit India,4.0,Electronics Manufacturing,1k-5k Employees,Public,58,Jaipur
+597,VA Tech Wabag,4.0,Waste Management,501-1k Employees,Public,100,Jaipur
+598,National Small Industries Corporation,3.9,Government,1k-5k Employees,Central,69,Jaipur
+599,Edureka,3.4,EdTech,501-1k Employees,Startup,13,Jaipur
+600,Can Fin Homes,3.4,NBFC,501-1k Employees,Public,37,Jaipur
+601,Morepen Laboratories,4.1,Pharma,1k-5k Employees,Public,40,Jaipur
+602,Unicharm,4.2,Beauty & Personal Care,1k-5k Employees,Forbes Global 2000,63,Jaipur
+603,Varrsana Ispat,3.6,Engineering & Construction,501-1k Employees,Public,24,Jaipur
+604,Shriram Pistons & Rings,4.1,Auto Components,1k-5k Employees,Public,61,Jaipur
+605,Qriyo,3.3,Internet,11-50 Employees (Global),Startup,9,Jaipur
+606,RevFin,4.2,Financial Services,11-50 Employees,Startup,6,Jaipur
+607,NACTUS (India) Services Pvt. Ltd.,4.5,EdTech,11-50 Employees,Startup,9,Jaipur
+608,OneCode,4.1,FinTech,51-200 Employees,Startup,6,Jaipur
+609,NACTUS (India) Services Pvt. Ltd.,4.5,EdTech,11-50 Employees,Startup,9,Jaipur
+610,Battery Smart,3.5,Internet,51-200 Employees,Startup,4,Jaipur
+611,Body Cupid,3.9,Internet,51-200 Employees,Startup,8,Jaipur
+612,2050 Healthcare,3.8,Healthcare,1k-5k Employees,Startup,5,Jaipur
+613,OneCode,4.1,FinTech,51-200 Employees,Startup,6,Jaipur
+614,RevFin,4.2,Financial Services,11-50 Employees,Startup,6,Jaipur
+615,AVJ HR Solutions,4.9,Management Consulting,1-10 Employees,Startup,3,Jaipur
+616,Mfine,3.5,Internet,501-1k Employees,Startup,7,Jaipur
+617,Samvardhana Motherson Group,3.8,Auto Components,1k-5k Employees,Public,38,Jaipur
+618,Aurobindo Pharma,4.0,Pharma,10k-50k Employees,Public,38,Jaipur
+619,Kellogg,4.3,FMCG,1k-5k Employees,Forbes Global 2000,118,Jaipur
+620,Liberty Shoes,3.8,Fashion & Textile,51-200 Employees,Public,70,Jaipur
+621,Aplab,4.2,Consumer Electronics & Appliances,501-1k Employees,Public,62,Jaipur
+622,Kendriya Vidyalaya Sangathan,4.4,Education & Training,10k-50k Employees,Public,61,Jaipur
+623,Roots Multiclean,4.0,Industrial Machinery,1k-5k Employees,Public,32,Jaipur
+624,Zoomcar,3.7,Internet,1k-5k Employees,Startup,12,Jaipur
+625,HomeLane,3.5,Architecture & Interior Design,1k-5k Employees,Startup,10,Jaipur
+626,Legrand,3.7,Electrical Equipment,1k-5k Employees,Forbes Global 2000,164,Jaipur
+627,Zee News,3.8,Broadcasting,10k-50k Employees,Public,25,Jaipur
+628,Karnataka Bank,3.8,Banking,5k-10k Employees,Public,100,Jaipur
+629,Snowman Logistics,4.1,Logistics,201-500 Employees,Public,28,Jaipur
+630,KMC Constructions,3.6,Engineering & Construction,201-500 Employees,Public,27,Jaipur
+631,Paul Merchants,4.3,NBFC,1k-5k Employees,Public,40,Jaipur
+632,Ziploan.in,3.6,Financial Services,51-200 Employees,Public,9,Jaipur
+633,Silver Touch Technologies,3.6,IT Services & Consulting,1k-5k Employees,Public,32,Jaipur
+634,Zee Media Corporation,3.6,Media & Entertainment,1k-5k Employees,Public,25,Noida
+635,Essel Group,4.1,Media & Entertainment,10k-50k Employees,Conglomerate,98,Mumbai
+636,Vritti Solutions,3.9,IT Services & Consulting,201-500 Employees,Public,19,Pune
+637,Indag Rubber,4.2,Auto Components,201-500 Employees,Public,46,Jaipur
+638,Ang India,4.0,Consumer Electronics & Appliances,201-500 Employees,Public,46,Jaipur
+639,IFCI Financial Services,3.7,FMCG,1k-5k Employees,Central,76,Jaipur
+640,Idex,3.7,Non-Profit,201-500 Employees,Forbes Global 2000,37,Jaipur
+641,Srg Housing Finance,4.0,NBFC,201-500 Employees,Public,25,Jaipur
+642,NoBroker,3.2,Internet,1k-5k Employees,Indian Unicorn,10,Jaipur
+643,Parag Milk Foods,4.3,FMCG,1k-5k Employees,Public,32,Jaipur
+644,Cogent E Services,3.3,BPO,10k-50k Employees,Conglomerate,20,Jaipur
+645,Dedicated Freight Corridor Corporation Of India,4.1,Government,501-1k Employees,Public,18,New
+646,Tractor Junction,4.3,Agriculture,201-500 Employees,Startup,6,Alwar
+647,Automobile Products Of India,4.3,Auto Components,1k-5k Employees,Public,75,New
+648,Kellogg,4.3,FMCG,1k-5k Employees,Forbes Global 2000,118,Jaipur
+649,Liberty Shoes,3.8,Fashion & Textile,51-200 Employees,Public,70,Jaipur
+650,Transport Corporation Of India,4.1,Logistics,1k-5k Employees,Public,66,Jaipur
+651,UFO Moviez,3.7,Media & Entertainment,201-500 Employees,Public,19,Jaipur
+652,Hi Tech Gears,3.8,Auto Components,501-1k Employees,Public,38,Jaipur
+653,PSL,4.0,Industrial Machinery,501-1k Employees,Public,37,Jaipur
+654,Adobe,4.2,Software Product,5k-10k Employees,Public,27,Jaipur
+655,3M,4.3,Electronics Manufacturing,1k-5k Employees,Public,37,Jaipur
+656,Torrent Pharmaceuticals,4.0,Pharma,10k-50k Employees,Public,53,Jaipur
+657,Wockhardt,3.9,Pharma,5k-10k Employees,Public,25,Jaipur
+658,NEC,4.6,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,125,Jaipur
+659,Allied Digital Services,3.5,IT Services & Consulting,1k-5k Employees,Public,29,Jaipur
+660,Educomp Solutions,3.7,EdTech,11-50 Employees,Public,30,Jaipur
+661,ABC,4.0,Broadcasting,1k-5k Employees (Global),Public,81,Jaipur
+662,Lacoste,4.2,Fashion & Textile,5k-10k Employees (Global),Public,91,Jaipur
+663,JSW Group,4.1,Iron & Steel,10k-50k Employees,Conglomerate,42,Jaipur
+664,Canon,4.2,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,87,Jaipur
+665,Gap,3.7,Fashion & Textile,1k-5k Employees,Forbes Global 2000,28,Jaipur
+666,CMC,4.2,Education & Training,10k-50k Employees,Public,56,Jaipur
+667,Pradhan Mantri Kaushal Vikas Yojana,4.0,Education & Training,1-10 Employees,Public,9,Jaipur
+668,The Byke Hotels & Resorts,3.5,Hospitality,501-1k Employees,Public,18,Jaipur
+669,Nykaa,3.5,Internet,1k-5k Employees,Public,12,Jaipur
+670,Join Ventures,3.7,Internet,11-50 Employees,Startup,4,Jaipur
+671,Varaha Infra,4.3,Engineering & Construction,1k-5k Employees,Public,44,Jodhpur
+672,HungerBox,3.8,Internet,501-1k Employees,Startup,8,Bangalore
+673,Page Industries,4.2,Fashion & Textile,10k-50k Employees,Public,30,Bangalore/Bengaluru
+674,Hindustan Wellness,3.9,Healthcare,501-1k Employees,Startup,10,Jaipur
+675,Lirik Infotech,4.4,IT Services & Consulting,51-200 Employees,Public,9,Jaipur
+676,Modern Insulators,4.1,Electrical Equipment,501-1k Employees,Public,39,Jaipur
+677,Crisil,3.7,Financial Services,1k-5k Employees,Public,37,Jaipur
+678,Sundaram Home Finance,4.2,NBFC,1k-5k Employees,Public,25,Jaipur
+679,BOB Capital Markets,3.4,Financial Services,51-200 Employees,Central,28,Jaipur
+680,Cresire Consulting,5.0,Architecture & Interior Design,1-10 Employees,Startup,9,Jaipur
+681,Universal Cables,4.0,Building Material,1k-5k Employees,Public,62,Jaipur
+682,Blowhorn,4.6,Logistics,501-1k Employees,Startup,10,Jaipur
+683,Shilpa Medicare,3.6,Pharma,1k-5k Employees,Public,37,Jaipur
+684,ShareChat,3.6,Internet,1k-5k Employees,Indian Unicorn,9,Jaipur
+685,Signify,3.6,Consumer Electronics & Appliances,1k-5k Employees,Conglomerate,8,Jaipur
+686,Sadbhav Engineering,4.4,Engineering & Construction,1k-5k Employees,Public,36,Jaipur
+687,Pocket FM,3.5,Media & Entertainment,201-500 Employees,Startup,6,Jaipur
+688,Siyaram Silk Mills,3.8,Fashion & Textile,1k-5k Employees,Public,46,Jaipur
+689,Sulphur Mills,4.0,Agro Chemicals,201-500 Employees,Public,64,Jaipur
+690,DotPe,3.0,IT Services & Consulting,201-500 Employees,Startup,5,Jaipur
+691,Godrej Consumer Products,4.2,FMCG,1k-5k Employees,Public,23,Jaipur
+692,JSW Group,4.1,Iron & Steel,10k-50k Employees,Conglomerate,42,Jaipur
+693,Gap,3.7,Fashion & Textile,1k-5k Employees,Forbes Global 2000,28,Jaipur
+694,UFO Moviez,3.7,Media & Entertainment,201-500 Employees,Public,19,Jaipur
+695,CMC,4.2,Education & Training,10k-50k Employees,Public,56,Jaipur
+696,LT Foods,4.1,Food Processing,1k-5k Employees,Public,34,Jaipur
+697,PSL,4.0,Industrial Machinery,501-1k Employees,Public,37,Jaipur
+698,Adobe,4.2,Software Product,5k-10k Employees,Public,27,Jaipur
+699,3M,4.3,Electronics Manufacturing,1k-5k Employees,Public,37,Jaipur
+700,Allied Digital Services,3.5,IT Services & Consulting,1k-5k Employees,Public,29,Jaipur
+701,Wockhardt,3.9,Pharma,5k-10k Employees,Public,25,Jaipur
+702,Lacoste,4.2,Fashion & Textile,5k-10k Employees (Global),Public,91,Jaipur
+703,Hi Tech Gears,3.8,Auto Components,501-1k Employees,Public,38,Jaipur
+704,Torrent Pharmaceuticals,4.0,Pharma,10k-50k Employees,Public,53,Jaipur
+705,NEC,4.6,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,125,Jaipur
+706,Sadbhav Engineering,4.4,Engineering & Construction,1k-5k Employees,Public,36,Jaipur
+707,Canon,4.2,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,87,Jaipur
+708,ABC,4.0,Broadcasting,1k-5k Employees (Global),Public,81,Jaipur
+709,Atul Auto,3.9,Automobile,501-1k Employees,Public,38,Jaipur
+710,Hewlett Packard Enterprise,4.3,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,9,Jaipur
+711,Vogo Automotive,4.0,Internet,51-200 Employees,Startup,8,Jaipur
+712,VuNet Systems,3.2,Software Product,51-200 Employees,Startup,7,Jaipur
+713,Karnataka Bank,3.8,Banking,5k-10k Employees,Public,100,Jaipur
+714,Silver Touch Technologies,3.6,IT Services & Consulting,1k-5k Employees,Public,32,Jaipur
+715,Haqdarshak Empowerment Solutions,3.9,Non-Profit,11-50 Employees,Startup,8,Pune
+716,Corteva Agriscience,4.3,Agro Chemicals,1k-5k Employees,Public,5,Hyderabad
+717,Stryker,4.1,Medical Equipment,1k-5k Employees,Public,83,Noida
+718,VST Industries,4.1,FMCG,501-1k Employees,Public,94,Jaipur
+719,Corteva Agriscience,4.3,Agro Chemicals,1k-5k Employees,Public,5,Jaipur
+720,SML Isuzu,4.2,Automobile,501-1k Employees,Public,39,Jaipur
+721,Hewlett Packard Enterprise,4.3,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,9,Jaipur
+722,South Indian Bank,3.6,Banking,1k-5k Employees,Public,95,Jaipur
+723,Vogo Automotive,4.0,Internet,51-200 Employees,Startup,8,Jaipur
+724,Zydus Wellness,3.9,FMCG,501-1k Employees,Public,36,Jaipur
+725,Chembond Chemicals,3.8,Agro Chemicals,51-200 Employees,Public,51,Jaipur
+726,Haqdarshak Empowerment Solutions,3.9,Non-Profit,11-50 Employees,Startup,8,Jaipur
+727,Tci Freight,4.3,Logistics,201-500 Employees,Public,66,Jaipur
+728,International Combustion (I),4.2,Industrial Machinery,201-500 Employees,Public,88,Jaipur
+729,Bluestone.com,3.8,Jewellery,501-1k Employees,Startup,13,Jaipur
+730,Sheela Foam,4.2,Furniture & Furnishing,1k-5k Employees,Public,53,Jaipur
+731,Globus Spirits,3.6,Beverage,1k-5k Employees,Public,32,Jaipur
+732,PTC,4.2,Software Product,1k-5k Employees,Public,39,Jaipur
+733,VuNet Systems,3.2,Software Product,51-200 Employees,Startup,7,Jaipur
+734,Stryker,4.1,Medical Equipment,1k-5k Employees,Public,83,Jaipur
+735,Portea Medical,4.4,Healthcare,1k-5k Employees,Startup,11,Jaipur
+736,DotPe,3.0,IT Services & Consulting,201-500 Employees,Startup,5,Jaipur
+737,Godrej Consumer Products,4.2,FMCG,1k-5k Employees,Public,23,Jaipur
+738,Parag Milk Foods,4.3,FMCG,1k-5k Employees,Public,32,Jaipur
+739,Ang India,4.0,Consumer Electronics & Appliances,201-500 Employees,Public,46,Jaipur
+740,TVS Eurogrip,3.8,Auto Components,1k-5k Employees,Public,42,Madurai
+741,Ircon International,4.0,Engineering & Construction,1k-5k Employees,Fortune India 500,48,Delhi/NCR
+742,NoBroker,3.2,Internet,1k-5k Employees,Indian Unicorn,10,Bangalore
+743,Dedicated Freight Corridor Corporation Of India,4.1,Government,501-1k Employees,Public,18,New
+744,Schlumberger,4.1,Oil & Gas,5k-10k Employees,Forbes Global 2000,98,Jaipur
+745,Times Internet,3.6,Internet,10k-50k Employees,Public,25,Jaipur
+746,Sumitomo Chemical,4.0,Chemicals,1k-5k Employees,Fortune India 500,99,Jaipur
+747,Cisco,4.3,Hardware & Networking,10k-50k Employees,Public,40,Jaipur
+748,Power Grid Corporation of India,4.4,Power,5k-10k Employees,Fortune India 500,35,Jaipur
+749,Finolex Cables,3.9,Electrical Equipment,1k-5k Employees,Public,68,Jaipur
+750,Jet Airways,4.6,Aviation,201-500 Employees,Public,31,Jaipur
+751,Teachmint,3.4,EdTech,501-1k Employees,Startup,4,Jaipur
+752,Inox Wind,3.7,Power,501-1k Employees,Public,15,Jaipur
+753,Zee Media Corporation,3.6,Media & Entertainment,1k-5k Employees,Public,25,Noida
+754,HomeLane,3.5,Architecture & Interior Design,1k-5k Employees,Startup,10,Bangalore
+755,Indag Rubber,4.2,Auto Components,201-500 Employees,Public,46,Delhi/NCR
+756,Paul Merchants,4.3,NBFC,1k-5k Employees,Public,40,Chandigarh
+757,Ziploan.in,3.6,Financial Services,51-200 Employees,Public,9,New
+758,Zee News,3.8,Broadcasting,10k-50k Employees,Public,25,Jaipur
+759,Essel Group,4.1,Media & Entertainment,10k-50k Employees,Conglomerate,98,Jaipur
+760,Vritti Solutions,3.9,IT Services & Consulting,201-500 Employees,Public,19,Jaipur
+761,KMC Constructions,3.6,Engineering & Construction,201-500 Employees,Public,27,Jaipur
+762,Legrand,3.7,Electrical Equipment,1k-5k Employees,Forbes Global 2000,164,Jaipur
+763,Gramophone,4.1,Agriculture,201-500 Employees,Startup,8,Jaipur
+764,Wakefit,4.2,Furniture & Furnishing,1k-5k Employees,Startup,8,Jaipur
+765,Sundaram Home Finance,4.2,NBFC,1k-5k Employees,Public,25,Jaipur
+766,Animall,3.8,Internet,51-200 Employees,Startup,5,Jaipur
+767,ABB Group,4.1,Electrical Equipment,1k-5k Employees,Public,36,Jaipur
+768,Nykaa,3.5,Internet,1k-5k Employees,Public,12,Jaipur
+769,Campus Activewear,4.2,Fashion & Textile,1k-5k Employees,Public,18,Jaipur
+770,Varaha Infra,4.3,Engineering & Construction,1k-5k Employees,Public,44,Jaipur
+771,Fiserv,3.6,FinTech,5k-10k Employees,Forbes Global 2000,40,Jaipur
+772,Pradhan Mantri Kaushal Vikas Yojana,4.0,Education & Training,1-10 Employees,Public,9,Jaipur
+773,Cresire Consulting,5.0,Architecture & Interior Design,1-10 Employees,Startup,9,Jaipur
+774,Universal Cables,4.0,Building Material,1k-5k Employees,Public,62,Jaipur
+775,BOB Capital Markets,3.4,Financial Services,51-200 Employees,Central,28,Jaipur
+776,TTSL,4.1,Telecom,1k-5k Employees,Public,28,Pune
+777,Open Financial Technologies Private Limited,3.5,FinTech,201-500 Employees,Indian Unicorn,7,Bangalore
+778,Capacit'e Infraprojects,3.6,Engineering & Construction,1k-5k Employees,Public,12,Jaipur
+779,Gramophone,4.1,Agriculture,201-500 Employees,Startup,8,Jaipur
+780,Wakefit,4.2,Furniture & Furnishing,1k-5k Employees,Startup,8,Jaipur
+781,Spencer's Retail,3.9,Retail,1k-5k Employees,Public,161,Jaipur
+782,Shilpa Medicare,3.6,Pharma,1k-5k Employees,Public,37,Jaipur
+783,Crisil,3.7,Financial Services,1k-5k Employees,Public,37,Jaipur
+784,Cremica Food Industries,4.1,Food Processing,501-1k Employees,Public,46,Jaipur
+785,Manba Finance,3.9,NBFC,501-1k Employees,Public,28,Jaipur
+786,ShareChat,3.6,Internet,1k-5k Employees,Indian Unicorn,9,Jaipur
+787,Repos Energy,3.6,Power,51-200 Employees,Startup,7,Jaipur
+788,Revv,3.7,Internet,201-500 Employees,Startup,9,Jaipur
+789,Singer India,4.3,Consumer Electronics & Appliances,201-500 Employees,Public,47,Jaipur
+790,Hyatt Regency,4.2,Hospitality,1k-5k Employees,Forbes Global 2000,44,Jaipur
+791,LTIMindtree,3.6,IT Services & Consulting,50k-1 Lakh Employees,Public,27,Bangalore
+792,Shree Krishna Paper Mills & Industries,3.2,Pulp & Paper,501-1k Employees,Public,49,Delhi/NCR
+793,FabHotels,3.1,Hospitality,501-1k Employees,Startup,10,Bangalore
+794,MPS Limited,4.0,Content Development,1k-5k Employees,Public,54,Bangalore
+795,Punjab & Sind Bank,3.4,Banking,5k-10k Employees,Fortune India 500,116,New
+796,Bada Business,3.7,Internet,5k-10k Employees,Startup,5,Bangalore
+797,Bada Business,3.7,Internet,5k-10k Employees,Startup,5,Jaipur
+798,Club Oxygen,4.2,Hospitality,201-500 Employees,Public,6,Jaipur
+799,Suzlon Group,4.2,Power,5k-10k Employees,Public,29,Jaipur
+800,MPS Limited,4.0,Content Development,1k-5k Employees,Public,54,Jaipur
+801,Planet Spark,3.7,EdTech,51-200 Employees,Startup,7,Jaipur
+802,TVS Mobility,4.2,Automobile,5k-10k Employees,Public,113,Jaipur
+803,Alstom Transportation,3.9,Urban Transport,5k-10k Employees,Forbes Global 2000,96,Jaipur
+804,Euler Motors,3.5,Automobile,51-200 Employees,Startup,9,Jaipur
+805,Brady Corporation,4.2,Printing & Publishing,5k-10k Employees (Global),Public,110,Jaipur
+806,OTO Capital,3.0,Internet,501-1k Employees,Startup,6,Jaipur
+807,Insecticides India,4.5,Agro Chemicals,1k-5k Employees,Public,22,Jaipur
+808,Startek,3.3,BPO,10k-50k Employees,Public,7,Jaipur
+809,Synergy Steels,3.2,Metals & Mining,501-1k Employees,Public,24,Jaipur
+810,Venus Remedies,4.4,Pharma,1k-5k Employees,Public,35,Jaipur
+811,Birlasoft,3.8,IT Services & Consulting,10k-50k Employees,Public,29,Jaipur
+812,Arvind Group,4.1,Fashion & Textile,10k-50k Employees,Public,93,Jaipur
+813,Ebix Software India,3.3,IT Services & Consulting,1k-5k Employees,Public,48,Jaipur
+814,Capgemini,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,57,Jaipur
+815,Jindal Saw,4.1,Building Material,5k-10k Employees,Public,40,Jaipur
+816,HDIL,4.2,Real Estate,1k-5k Employees,Public,28,Jaipur
+817,Kitex Garments,3.8,Fashion & Textile,1k-5k Employees,Public,32,Jaipur
+818,Tulip Telecom,3.1,Telecom,1k-5k Employees,Public,32,Jaipur
+819,UAE Exchange,4.2,FinTech,1-10 Employees,Public,29,Jaipur
+820,TIL,3.4,Industrial Machinery,1k-5k Employees,Public,80,Jaipur
+821,Accrete Globus Technology,3.9,IT Services & Consulting,51-200 Employees (Global),Startup,11,Jaipur
+822,Oxfam,4.9,Non-Profit,51-200 Employees,Public,20,Jaipur
+823,Petoo,2.8,Financial Services,11-50 Employees (Global),Startup,9,Jaipur
+824,Kangaroo Kids Education,4.4,Education & Training,51-200 Employees,Public,31,Jaipur
+825,KIFS Securities,4.9,Financial Services,501-1k Employees (Global),Public,37,Jaipur
+826,Bank of America Securities,4.4,Investment Banking / Venture Capital / Private Equity,51-200 Employees,Public,15,Jaipur
+827,Navriti Technologies,2.9,Education & Training,51-200 Employees,Startup,12,Jaipur
+828,Tulip Telecom,3.1,Telecom,1k-5k Employees,Public,32,Jaipur
+829,Kitex Garments,3.8,Fashion & Textile,1k-5k Employees,Public,32,Jaipur
+830,Ravi,4.3,Food Processing,201-500 Employees (Global),Public,58,Jaipur
+831,Indian Airlines,3.0,Aviation,10k-50k Employees (Global),Public,94,Jaipur
+832,Ujaas Energy,3.6,Power,201-500 Employees,Public,45,Jaipur
+833,Ravi,4.3,Food Processing,201-500 Employees (Global),Public,58,Jaipur
+834,PTCL,4.6,Telecom,10k-50k Employees (Global),Public,29,Jaipur
+835,Zee Laboratories,3.3,Pharma,201-500 Employees,Public,31,Jaipur
+836,Securens System,4.2,Law Enforcement & Security,201-500 Employees,Startup,12,Jaipur
+837,Bloom Dekor,2.9,Furniture & Furnishing,51-200 Employees,Public,30,Jaipur
+838,HDIL,4.2,Real Estate,1k-5k Employees,Public,28,Jaipur
+839,Criteo,3.6,Internet,1k-5k Employees (Global),Public,19,Jaipur
+840,Petoo,2.8,Financial Services,11-50 Employees (Global),Startup,9,Jaipur
+841,Bank of America Securities,4.4,Investment Banking / Venture Capital / Private Equity,51-200 Employees,Public,15,Jaipur
+842,Prima Telecom,4.0,Financial Services,51-200 Employees,Public,29,Jaipur
+843,Bell Finvest,2.7,NBFC,51-200 Employees,Public,30,Jaipur
+844,Apollo Pipes,4.0,Building Material,201-500 Employees,Public,24,Jaipur
+845,Concord Biotech,3.7,Pharma,501-1k Employees,Public,24,Jaipur
+846,Lyka Labs,3.0,Pharma,201-500 Employees,Public,48,Jaipur
+847,Binani Industries,4.6,Building Material,1k-5k Employees,Public,152,Jaipur
+848,The Oriental Insurance Co.,4.5,Insurance,10k-50k Employees,Central,77,Jaipur
+849,Eastern Treads,3.7,Auto Components,201-500 Employees,Public,31,Jaipur
+850,PTCL,4.6,Telecom,10k-50k Employees (Global),Public,29,Barbil
+851,Zee Laboratories,3.3,Pharma,201-500 Employees,Public,31,Karnal
+852,Ourfood,2.9,Internet,51-200 Employees,Startup,8,Jaipur
+853,The MobileStore,4.3,Internet,501-1k Employees,Public,18,Jaipur
+854,Gitanjali Gems,4.0,Jewellery,501-1k Employees,Public,58,Jaipur
+855,Omnitech InfoSolutions,4.8,IT Services & Consulting,51-200 Employees,Public,37,Jaipur
+856,Remi Sales & Engineering,3.2,Medical Equipment,201-500 Employees (Global),Public,64,Jaipur
+857,Saboo Sodium Chloro,2.0,FMCG,51-200 Employees,Public,32,Jaipur
+858,Crocs,4.4,Fashion & Textile,51-200 Employees,Public,22,Jaipur
+859,Ice Make Refrigeration,4.2,Electrical Equipment,501-1k Employees,Public,31,Jaipur
+860,Talent,3.0,Internet,11-50 Employees,Startup,9,Jaipur
+861,Bhagwan Mahaveer Jain Hospital,3.9,Healthcare,51-200 Employees,Public,49,Jaipur
+862,Bhagwan Mahaveer Jain Hospital,3.9,Healthcare,51-200 Employees,Public,49,Jaipur
+863,GE Money,4.8,Financial Services,1k-5k Employees,Public,92,Jaipur
+864,Uniply Industries,3.1,Furniture & Furnishing,51-200 Employees,Public,36,Jaipur
+865,Talent,3.0,Internet,11-50 Employees,Startup,9,Jaipur
+866,Emirates Flight Catering,4.3,Hospitality,201-500 Employees,Public,42,Jaipur
+867,Ion Exchange Services,3.6,Waste Management,1k-5k Employees (Global),Public,60,Jaipur
+868,Rajeswari Infrastructure,1.1,Engineering & Construction,51-200 Employees,Public,31,Jaipur
+869,Aarav Unmanned Systems,3.6,Aviation,11-50 Employees,Startup,11,Jaipur
+870,Bloom Dekor,2.9,Furniture & Furnishing,51-200 Employees,Public,30,Ahmedabad
+871,Crocs,4.4,Fashion & Textile,51-200 Employees,Public,22,Jaipur
+872,Eastern Treads,3.7,Auto Components,201-500 Employees,Public,31,Kochi
+873,GE Money,4.8,Financial Services,1k-5k Employees,Public,92,Norwalk
+874,NuvoEx,4.2,Logistics,1k-5k Employees,Startup,11,Jaipur
+875,Kaminds Nutrichem,5.0,Pharma,1-10 Employees,Startup,3,Jaipur
+876,Fortigo Network Logistics,3.8,Internet,51-200 Employees,Startup,9,Jaipur
+877,Inspirisys Solution,3.9,IT Services & Consulting,1k-5k Employees,Public,33,Jaipur
+878,Il&fs Environmental Infrastructure And Services,3.6,Waste Management,201-500 Employees,Public,17,Jaipur
+879,Prest Loans (Asaf Ali Road),3.8,Internet,51-200 Employees (Global),Startup,7,Delhi
+880,AYN InfoTech,4.6,IT Services & Consulting,51-200 Employees,Public,15,Jaipur
+881,Criteo,3.6,Internet,1k-5k Employees (Global),Public,19,Jaipur
+882,Life in Control,5.0,Financial Services,11-50 Employees (Global),Startup,9,Jaipur
+883,Rajeswari Infrastructure,1.1,Engineering & Construction,51-200 Employees,Public,31,Nagar
+884,Ujala Credit Co-Operative Society,4.4,Financial Services,51-200 Employees,Public,12,Jaipur
+885,Chase Bank,4.2,Banking,1 Lakh+ Employees (Global),Public,24,Jaipur
+886,Zostel,4.1,Hospitality,1-10 Employees,Startup,11,Jaipur
+887,TAB Capital,4.6,Financial Services,51-200 Employees,Startup,8,Jaipur
+888,Ujaas Energy,3.6,Power,201-500 Employees,Public,45,Jaipur
+889,DB Digital,3.9,Internet,51-200 Employees,Startup,4,Jaipur
+890,K D Digital Rajasthan,4.6,Marketing & Advertising,1-10 Employees,Startup,3,Udaipur
+891,Code Accelerator Private Limited,5.0,Marketing & Advertising,1-10 Employees,Startup,3,Jaipur
+892,Tara Jewels,4.5,Jewellery,1k-5k Employees (Global),Public,24,Jaipur
+893,ITC Wills Lifestyle,4.6,Fashion & Textile,201-500 Employees (Global),Public,114,Jaipur
+894,Winds E World,4.0,Retail,51-200 Employees,Public,6,Kolkata
+895,Globe Capital Market,3.6,Investment Banking / Venture Capital / Private Equity,1k-5k Employees,Public,40,Jaipur
+896,Zicom Electronic Security Systems,3.4,Consumer Electronics & Appliances,201-500 Employees,Public,30,Jaipur
+897,AYN InfoTech,4.6,IT Services & Consulting,51-200 Employees,Public,15,Jaipur
+898,Binani Industries,4.6,Building Material,1k-5k Employees,Public,152,Jaipur
+899,The Oriental Insurance Co.,4.5,Insurance,10k-50k Employees,Central,77,Jaipur
+900,DB Digital,3.9,Internet,51-200 Employees,Startup,4,Jaipur
+901,Concord Biotech,3.7,Pharma,501-1k Employees,Public,24,Jaipur
+902,EdHusk,4.8,EdTech,1-10 Employees (Global),Startup,7,Jaipur
+903,Delhi Institute of Digital Marketing (DIDM),3.6,Education & Training,51-200 Employees,Startup,10,Jaipur
+904,Honor,4.9,Internet,1-10 Employees,Startup,10,Jaipur
+905,Droplet,4.3,Internet,1-10 Employees,Startup,9,Jaipur
+906,Illumnus,5.0,EdTech,11-50 Employees,Startup,6,Jaipur
+907,Invito Software Solutions,4.9,IT Services & Consulting,11-50 Employees,Public,5,Mohali
+908,Droplet,4.3,Internet,1-10 Employees,Startup,9,Jaipur
+909,CureLink,3.8,Healthcare,51-200 Employees,Startup,3,Jaipur
+910,pracemo global solutions,5.0,IT Services & Consulting,51-200 Employees,Startup,4,Jaipur
+911,Branchx,4.3,FinTech,51-200 Employees,Startup,4,Jaipur
+912,VOIZ,4.4,BPO,201-500 Employees,Startup,2,Jaipur
+913,FrontRow,2.7,Internet,501-1k Employees,Startup,4,Jaipur
+914,Illumnus,5.0,EdTech,11-50 Employees,Startup,6,Jaipur

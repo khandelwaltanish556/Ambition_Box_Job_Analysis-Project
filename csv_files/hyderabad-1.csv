@@ -1,0 +1,1387 @@
+,company_name,company_rating,industry,size,type,years_old,location
+0,TCS,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,56,Hyderabad
+1,Cognizant,3.9,IT Services & Consulting,1 Lakh+ Employees,Forbes Global 2000,30,Hyderabad
+2,Wipro,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,79,Hyderabad
+3,Genpact,3.9,IT Services & Consulting,1 Lakh+ Employees,Public,27,Hyderabad
+4,Accenture,4.0,IT Services & Consulting,1 Lakh+ Employees,Public,35,Hyderabad
+5,Tech Mahindra,3.7,IT Services & Consulting,1 Lakh+ Employees,Public,38,Hyderabad
+6,Infosys,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,43,Hyderabad
+7,Amazon,4.1,Internet,1 Lakh+ Employees,Public,30,Hyderabad
+8,Capgemini,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,57,Hyderabad
+9,ICICI Bank,4.0,Banking,1 Lakh+ Employees,Public,30,Hyderabad
+10,Dr. Reddy's,4.2,Pharma,10k-50k Employees,Public,40,Hyderabad
+11,Wells Fargo,4.0,Financial Services,10k-50k Employees,Public,172,Hyderabad
+12,Cyient,3.8,IT Services & Consulting,10k-50k Employees,Public,33,Hyderabad
+13,Aurobindo Pharma,4.0,Pharma,10k-50k Employees,Public,38,Hyderabad
+14,IBM,4.1,IT Services & Consulting,1 Lakh+ Employees,Public,113,Hyderabad
+15,HSBC Group,4.1,Banking,10k-50k Employees,Forbes Global 2000,159,Hyderabad
+16,HCLTech,3.7,IT Services & Consulting,1 Lakh+ Employees,Public,33,Hyderabad
+17,Megha Engineering & Infrastructures,4.0,Engineering & Construction,5k-10k Employees,Conglomerate,35,Hyderabad
+18,Automatic Data Processing (ADP),4.1,Software Product,1k-5k Employees,Forbes Global 2000,75,Hyderabad
+19,LTIMindtree,3.6,IT Services & Consulting,50k-1 Lakh Employees,Public,27,Hyderabad
+20,KFintech,3.7,FinTech,5k-10k Employees,Startup,7,Hyderabad
+21,HDFC Bank,4.0,Banking,1 Lakh+ Employees,Public,30,Hyderabad
+22,UnitedHealth,4.1,Healthcare,10k-50k Employees,Forbes Global 2000,47,Hyderabad
+23,Teleperformance,3.8,BPO,50k-1 Lakh Employees,Forbes Global 2000,46,Hyderabad
+24,Concentrix Corporation,3.9,BPO,50k-1 Lakh Employees,Public,41,Hyderabad
+25,Oracle,3.8,Software Product,50k-1 Lakh Employees,Public,47,Hyderabad
+26,Axis Bank,3.9,Banking,50k-1 Lakh Employees,Public,31,Hyderabad
+27,CGI Group,4.1,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,48,Hyderabad
+28,JPMorgan Chase & Co.,4.1,Financial Services,50k-1 Lakh Employees,Public,56,Hyderabad
+29,DXC Technology,3.8,IT Services & Consulting,10k-50k Employees,Public,7,Hyderabad
+30,Synchrony,4.4,Financial Services,1k-5k Employees,Forbes Global 2000,92,Hyderabad
+31,Hinduja Global Solutions,4.0,IT Services & Consulting,10k-50k Employees,Public,24,Hyderabad
+32,S&P Global,4.2,Analytics & KPO,10k-50k Employees,Public,164,Hyderabad
+33,Tata Projects,4.3,Engineering & Construction,5k-10k Employees,Public,45,Hyderabad
+34,State Street Corporation,3.8,Financial Services,10k-50k Employees,Forbes Global 2000,232,Hyderabad
+35,Nagarjuna Construction Company,4.2,Engineering & Construction,5k-10k Employees,Public,26,Hyderabad
+36,Bank of America,4.4,Banking,10k-50k Employees,Fortune India 500,26,Hyderabad
+37,Viatris,4.2,Pharma,10k-50k Employees,Forbes Global 2000,4,Hyderabad
+38,Kotak Mahindra Bank,3.9,Banking,50k-1 Lakh Employees,Public,21,Hyderabad
+39,Dell,4.2,Consumer Electronics & Appliances,10k-50k Employees,Forbes Global 2000,40,Hyderabad
+40,Broadridge Financial Solutions,4.0,FinTech,5k-10k Employees,Forbes Global 2000,17,Hyderabad
+41,Gland Pharma,3.7,Pharma,1k-5k Employees,Fortune India 500,46,Hyderabad
+42,BYJU'S,3.1,EdTech,10k-50k Employees,Indian Unicorn,13,Hyderabad
+43,Granules India,3.9,Pharma,1k-5k Employees,Public,40,Hyderabad
+44,Jio,4.0,Telecom,50k-1 Lakh Employees,Public,6,Hyderabad
+45,Verizon,4.2,Telecom,5k-10k Employees,Forbes Global 2000,24,Hyderabad
+46,ECIL,4.1,Electronics Manufacturing,1k-5k Employees,Public,57,Hyderabad
+47,Vodafone Idea,4.2,Telecom,5k-10k Employees,Public,6,Hyderabad
+48,PepsiCo,4.2,Food Processing,1 Lakh+ Employees,Public,59,Hyderabad
+49,Microsoft Corporation,4.1,Software Product,10k-50k Employees,Forbes Global 2000,49,Hyderabad
+50,Qualcomm,4.0,Semiconductors,10k-50k Employees,Forbes Global 2000,28,Hyderabad
+51,Foundever,3.8,BPO,5k-10k Employees,Conglomerate,39,Hyderabad
+52,Thomson Reuters,4.2,Software Product,5k-10k Employees,Forbes Global 2000,16,Hyderabad
+53,CBRE,4.2,Real Estate,10k-50k Employees,Forbes Global 2000,118,Hyderabad
+54,Cigniti Technologies,3.9,IT Services & Consulting,1k-5k Employees,Public,26,Hyderabad
+55,Apollo Hospitals,4.2,Healthcare,10k-50k Employees,Public,41,Hyderabad
+56,SAI Life Sciences,3.9,Pharma,1k-5k Employees,Public,25,Hyderabad
+57,Salesforce,4.1,Software Product,5k-10k Employees,Public,25,Hyderabad
+58,JLL,4.2,Real Estate,10k-50k Employees,Forbes Global 2000,25,Hyderabad
+59,DMart,4.0,Retail,10k-50k Employees,Fortune India 500,22,Hyderabad
+60,Power Mech Projects,3.9,Engineering & Construction,1k-5k Employees,Public,17,Hyderabad
+61,Larsen & Toubro Limited,4.1,Engineering & Construction,10k-50k Employees,Public,86,Hyderabad
+62,Shapoorji Pallonji Group,4.2,Engineering & Construction,5k-10k Employees,Conglomerate,159,Hyderabad
+63,PwC,3.6,Management Consulting,10k-50k Employees,Conglomerate,144,Hyderabad
+64,ICICI Lombard General Insurance Company,3.8,Insurance,10k-50k Employees,Public,23,Hyderabad
+65,OMICS International,2.6,Printing & Publishing,1k-5k Employees,Conglomerate,17,Hyderabad
+66,L&T Infotech,3.8,IT Services & Consulting,10k-50k Employees,Public,28,Hyderabad
+67,Bharti Airtel,4.1,Telecom,10k-50k Employees,Public,29,Hyderabad
+68,Flipkart,4.0,Internet,10k-50k Employees,Public,17,Hyderabad
+69,Neuland Laboratories,4.1,Pharma,1k-5k Employees,Public,40,Hyderabad
+70,Quess,4.0,BPO,1k-5k Employees,Public,17,Hyderabad
+71,Zensar Technologies,3.8,IT Services & Consulting,5k-10k Employees,Public,23,Hyderabad
+72,Laurus Labs,4.2,Pharma,5k-10k Employees,Public,19,Hyderabad
+73,Mphasis,3.5,IT Services & Consulting,10k-50k Employees,Public,26,Hyderabad
+74,Heritage Foods,4.1,Food Processing,1k-5k Employees,Public,32,Hyderabad
+75,Birlasoft,3.8,IT Services & Consulting,10k-50k Employees,Public,29,Hyderabad
+76,IDFC FIRST Bank,4.0,Banking,10k-50k Employees,Public,6,Hyderabad
+77,Randstad,3.9,Recruitment,5k-10k Employees,Conglomerate,32,Hyderabad
+78,JustDial,3.6,Internet,10k-50k Employees,Public,28,Hyderabad
+79,Kyndryl,4.1,IT Services & Consulting,10k-50k Employees,Public,2,Hyderabad
+80,Asian Paints,4.1,Chemicals,5k-10k Employees,Public,82,Hyderabad
+81,NCR Corporation,4.1,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,140,Hyderabad
+82,Invesco,4.0,Financial Services,1k-5k Employees,Forbes Global 2000,89,Hyderabad
+83,Tech Mahindra Business Services,3.5,BPO,5k-10k Employees,Public,21,Hyderabad
+84,DIVI'S Laboratories,3.9,Healthcare,10k-50k Employees,Public,34,Hyderabad
+85,Natco Pharma,4.1,Pharma,1k-5k Employees,Public,43,Hyderabad
+86,MRF Tyres,3.8,Auto Components,10k-50k Employees,Public,78,Hyderabad
+87,Matrimony.com,4.4,Internet,1k-5k Employees,Public,27,Hyderabad
+88,BigBasket,4.0,Internet,10k-50k Employees,Indian Unicorn,13,Hyderabad
+89,GVPR Engineers,4.0,Engineering & Construction,501-1k Employees,Public,27,Hyderabad
+90,Sanofi,4.4,Pharma,1k-5k Employees,Public,20,Hyderabad
+91,Sodexo,4.1,Facility Management Services,10k-50k Employees,Forbes Global 2000,16,Hyderabad
+92,Muthoot Finance,3.6,NBFC,10k-50k Employees,Public,85,Hyderabad
+93,UBS,3.9,Investment Banking / Venture Capital / Private Equity,5k-10k Employees,Forbes Global 2000,9,Hyderabad
+94,Persistent Systems,3.8,IT Services & Consulting,10k-50k Employees,Public,34,Hyderabad
+95,IndusInd Bank,3.7,Banking,10k-50k Employees,Public,30,Hyderabad
+96,Startek,3.3,BPO,10k-50k Employees,Public,7,Hyderabad
+97,Bajaj Finserv,4.1,Financial Services,50k-1 Lakh Employees,Public,17,Hyderabad
+98,Corteva Agriscience,4.3,Agro Chemicals,1k-5k Employees,Public,5,Hyderabad
+99,Eastman Chemical Company,4.3,Chemicals,501-1k Employees,Forbes Global 2000,74,Hyderabad
+100,Swiggy,3.9,Internet,5k-10k Employees,Indian Unicorn,10,Hyderabad
+101,Sonata Software,3.7,IT Services & Consulting,1k-5k Employees,Public,38,Hyderabad
+102,Reliance Industries,4.1,Oil & Gas,1 Lakh+ Employees,Public,47,Hyderabad
+103,Shriram Life Insurance,3.8,Insurance,1k-5k Employees,Conglomerate,19,Hyderabad
+104,Micron Technology,3.7,Semiconductors,1k-5k Employees,Forbes Global 2000,46,Hyderabad
+105,Novartis Healthcare,4.1,Pharma,51-200 Employees,Public,28,Hyderabad
+106,Pennar Industries,3.7,Engineering & Construction,1k-5k Employees,Public,36,Hyderabad
+107,Astra Microwave Products,3.9,Hardware & Networking,51-200 Employees,Public,33,Hyderabad
+108,First American Corporation,3.9,Financial Services,1k-5k Employees,Forbes Global 2000,30,Hyderabad
+109,HDFC Life,4.1,Insurance,10k-50k Employees,Public,24,Hyderabad
+110,GMR Group,4.1,Engineering & Construction,10k-50k Employees,Public,46,Hyderabad
+111,Ramky Infrastructure,4.2,Engineering & Construction,501-1k Employees,Public,30,Hyderabad
+112,HBL Power Systems,4.0,Electrical Equipment,1k-5k Employees,Public,47,Hyderabad
+113,Defence Research & Development Organisation,4.5,Defence & Aerospace,10k-50k Employees,Central,66,Hyderabad
+114,Vimta Labs,3.6,Other,1k-5k Employees,Public,40,Hyderabad/Secunderabad
+115,Black Knight,3.6,IT Services & Consulting,501-1k Employees,Startup,10,Jacksonville
+116,NxtWave,3.9,EdTech,1k-5k Employees,Startup,4,Hyderabad
+117,Welspun Flooring,3.8,Building Material,51-200 Employees,Public,8,Hyderabad
+118,Spandana Sphoorty Financial,3.8,NBFC,10k-50k Employees,Public,26,Hyderabad/Secunderabad
+119,ServiceNow,4.0,Software Product,1k-5k Employees,Public,20,Hyderabad
+120,Wipro Infotech,4.0,IT Services & Consulting,1 Lakh+ Employees (Global),MNC,79,Hyderabad
+121,Indian Immunologicals,4.1,Biotechnology,1k-5k Employees,Public,42,Hyderabad
+122,Delhivery,4.0,Logistics,10k-50k Employees,Fortune India 500,13,Hyderabad
+123,Examity,3.4,EdTech,201-500 Employees (Global),Startup,11,Hyderabad
+124,Coromandel International,4.2,Agro Chemicals,5k-10k Employees,Public,63,Hyderabad
+125,Coforge,3.5,IT Services & Consulting,10k-50k Employees,Public,20,Hyderabad
+126,Paytm,3.5,FinTech,10k-50k Employees,Public,14,Hyderabad
+127,Indian Army,4.7,Defence & Aerospace,1 Lakh+ Employees,Public,129,Hyderabad
+128,Tata Teleservices,4.1,Telecom,201-500 Employees,Public,28,Hyderabad
+129,Uber,4.2,Internet,1k-5k Employees,Public,15,Hyderabad
+130,Schneider Electric,4.2,Industrial Automation,10k-50k Employees,Forbes Global 2000,25,Hyderabad
+131,Intellect Design Arena,4.1,FinTech,5k-10k Employees,Public,13,Hyderabad
+132,Model N,4.7,Software Product,501-1k Employees,Public,25,Hyderabad
+133,Manappuram Finance,4.0,NBFC,10k-50k Employees,Public,75,Hyderabad
+134,ICICI Prudential Life Insurance,4.1,Insurance,10k-50k Employees,Public,24,Hyderabad
+135,IIFL Finance,4.0,NBFC,10k-50k Employees,Public,29,Hyderabad
+136,3i Infotech,3.6,IT Services & Consulting,1k-5k Employees,Public,31,Hyderabad
+137,MosChip Technologies,4.3,Semiconductors,1k-5k Employees,Public,25,Hyderabad
+138,Bharat Financial Inclusion,4.0,NBFC,10k-50k Employees,Public,26,Hyderabad
+139,Hyundai Mobis,3.9,Auto Components,1k-5k Employees,Forbes Global 2000,7,Hyderabad
+140,ITC,4.0,FMCG,10k-50k Employees,Public,114,Hyderabad
+141,Muthoot Fincorp,4.1,NBFC,10k-50k Employees,Conglomerate,137,Hyderabad
+142,Team Lease,4.0,Recruitment,1k-5k Employees,Public,8,Hyderabad
+143,Team Lease,4.0,Recruitment,1k-5k Employees,Public,8,Hyderabad
+144,InterGlobe Aviation,3.6,Aviation,10k-50k Employees,Fortune India 500,19,Hyderabad
+145,Oyo Rooms,3.4,Hospitality,1k-5k Employees,Indian Unicorn,11,Hyderabad
+146,State Bank of India,3.9,Banking,1 Lakh+ Employees,Fortune India 500,218,Hyderabad
+147,IIC Technologies,3.9,IT Services & Consulting,1k-5k Employees,Public,30,Hyderabad
+148,SS&C TECHNOLOGIES,3.5,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,38,Hyderabad
+149,SkillRecruit,4.7,Recruitment,201-500 Employees,MNC,19,Hyderabad
+150,Mahindra & Mahindra,4.2,Automobile,1 Lakh+ Employees,Public,79,Hyderabad
+151,Yes Bank,3.9,Banking,10k-50k Employees,Public,20,Hyderabad
+152,First Source,3.8,BPO,10k-50k Employees,Public,23,Hyderabad
+153,BHEL,4.2,Electrical Equipment,10k-50k Employees,Fortune India 500,60,Hyderabad
+154,ZF Steering Gear,3.8,Auto Components,501-1k Employees,Public,109,Hyderabad
+155,Ninjacart,4.1,Internet,1k-5k Employees,Startup,9,Hyderabad
+156,Samsung,4.1,Consumer Electronics & Appliances,50k-1 Lakh Employees,Public,55,Hyderabad
+157,Aditya Birla Fashion and Retail,4.2,Fashion & Textile,10k-50k Employees,Fortune India 500,36,Hyderabad
+158,UltraTech Cement,4.2,Building Material,10k-50k Employees,Public,41,Hyderabad
+159,Tata Capital,4.2,NBFC,5k-10k Employees,Fortune India 500,17,Hyderabad
+160,Broadcom,3.4,Semiconductors,1k-5k Employees,Forbes Global 2000,48,Hyderabad
+161,DCB Bank,3.9,Banking,5k-10k Employees,Fortune India 500,94,Hyderabad
+162,Bharat Dynamics,4.4,Defence & Aerospace,1k-5k Employees,Fortune India 500,54,Hyderabad
+163,L&T Construction,4.1,Engineering & Construction,5k-10k Employees,Public,80,Hyderabad
+164,Cadsys,3.9,IT Services & Consulting,201-500 Employees,Public,35,Hyderabad
+165,Infinite Computer Solutions,3.5,IT Services & Consulting,1k-5k Employees,Public,23,Hyderabad
+166,Shriram Finance,4.1,NBFC,50k-1 Lakh Employees,Public,45,Hyderabad
+167,Johnson Controls,3.7,Industrial Automation,5k-10k Employees,Public,139,Hyderabad
+168,Intercontinental Exchange,3.6,FinTech,1k-5k Employees,Forbes Global 2000,24,Hyderabad
+169,Sagarsoft,4.5,IT Services & Consulting,51-200 Employees,Public,28,Hyderabad
+170,N.C.L. Industries,3.9,Building Material,501-1k Employees,Public,44,Hyderabad
+171,QualiZeal,4.5,IT Services & Consulting,201-500 Employees,Startup,3,Hyderabad
+172,Tata Motors,4.2,Automobile,10k-50k Employees,Public,79,Hyderabad
+173,ITC Hotels,4.2,Hospitality,5k-10k Employees,Public,49,Hyderabad
+174,Darwinbox,3.5,Software Product,501-1k Employees,Indian Unicorn,9,Hyderabad
+175,Compass Group Support Services,4.1,Hospitality,10k-50k Employees,Public,83,Hyderabad
+176,NexTurn,4.4,IT Services & Consulting,51-200 Employees,Startup,3,Hyderabad
+177,Metro Cash & Carry,4.3,Retail,1k-5k Employees,Forbes Global 2000,21,Hyderabad
+178,Reventics,4.2,Healthcare,201-500 Employees,Startup,8,Hyderabad
+179,Zenoti,3.2,IT Services & Consulting,501-1k Employees,Indian Unicorn,14,Hyderabad
+180,Colruyt Group,4.1,IT Services & Consulting,501-1k Employees,Forbes Global 2000,17,Hyderabad
+181,Aspiro Pharma,3.7,Pharma,51-200 Employees,Startup,12,Hyderabad
+182,Infinity Learn,3.6,EdTech,501-1k Employees,Startup,3,Hyderabad
+183,HIL,4.2,Building Material,1k-5k Employees,Public,78,Hyderabad
+184,L&T Technology Services,3.4,IT Services & Consulting,10k-50k Employees,Public,12,Hyderabad
+185,Olectra Greentech,3.3,Automobile,201-500 Employees,Public,32,Hyderabad
+186,OPPO,4.0,Consumer Electronics & Appliances,10k-50k Employees,Public,20,Hyderabad
+187,Hindustan Sanitaryware & Industries,4.1,Furniture & Furnishing,1k-5k Employees,Public,64,Hyderabad
+188,Tata Communications,4.1,Telecom,5k-10k Employees,Public,38,Hyderabad
+189,Rane Engine Valve Limited,4.0,Auto Components,1k-5k Employees,Public,65,Hyderabad
+190,Karvy Financial Services,3.7,Financial Services,51-200 Employees,Conglomerate,43,Hyderabad
+191,Ivrcl Infrastructures & Projects,4.3,Engineering & Construction,1k-5k Employees,Public,37,Hyderabad
+192,Hindustan Aeronautics,4.4,Defence & Aerospace,10k-50k Employees,Fortune India 500,84,Hyderabad
+193,Agility E Services,3.6,IT Services & Consulting,51-200 Employees,Public,17,Hyderabad
+194,Bharat Electronics,4.2,Electronics Manufacturing,5k-10k Employees,Fortune India 500,70,Hyderabad
+195,AT&T,4.2,Telecom,5k-10k Employees,Forbes Global 2000,41,Hyderabad
+196,AT&T,4.2,Telecom,5k-10k Employees,Forbes Global 2000,41,Hyderabad
+197,Shoppers Stop,4.1,Retail,5k-10k Employees,Public,33,Hyderabad
+198,Clarivate,3.9,Analytics & KPO,1k-5k Employees,Public,8,Hyderabad
+199,Medtronic,4.1,Medical Equipment,1k-5k Employees,Forbes Global 2000,45,Hyderabad
+200,Gayatri Projects,4.0,Engineering & Construction,1k-5k Employees,Public,61,Hyderabad
+201,CallHealth,3.7,Healthcare,51-200 Employees,Startup,11,Hyderabad
+202,LG Electronics,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,66,Hyderabad
+203,Jubilant Foods Works,3.9,Hospitality,10k-50k Employees,Public,29,Hyderabad
+204,Lenskart,3.3,Internet,5k-10k Employees,Indian Unicorn,14,Hyderabad
+205,Skill Lync,3.1,EdTech,1k-5k Employees,Startup,9,Hyderabad
+206,CMS IT Services,3.2,IT Services & Consulting,5k-10k Employees,Startup,10,Hyderabad
+207,Reliance Communications,4.0,Telecom,201-500 Employees,Public,22,Hyderabad
+208,Biocon Limited,3.9,Biotechnology,5k-10k Employees,Public,46,Hyderabad
+209,Blue Star,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,81,Hyderabad
+210,Medvarsity Online,3.3,Education & Training,201-500 Employees,Public,24,Hyderabad
+211,Lifestyle,4.4,Retail,10k-50k Employees,Fortune India 500,25,Hyderabad
+212,Abbott,4.2,Pharma,10k-50k Employees,Public,136,Hyderabad
+213,CARS24,3.7,Internet,5k-10k Employees,Indian Unicorn,9,Hyderabad
+214,Future Group,4.3,Retail,10k-50k Employees,Conglomerate,11,Hyderabad
+215,Syngene International,3.9,Pharma,1k-5k Employees,Public,31,Hyderabad
+216,ICICI Securities,3.8,Financial Services,1k-5k Employees,Public,29,Hyderabad
+217,MTAR Technologies,4.3,Defence & Aerospace,1k-5k Employees,Public,54,Hyderabad
+218,USHA International,4.2,Consumer Electronics & Appliances,1k-5k Employees,Public,90,Hyderabad
+219,HFCL,4.2,Hardware & Networking,1k-5k Employees,Public,37,Hyderabad
+220,Promea Therapeutics,4.4,Medical Equipment,501-1k Employees,Startup,7,Hyderabad
+221,Ola Cabs,3.5,Internet,1k-5k Employees,Indian Unicorn,14,Hyderabad
+222,Visaka Industries,4.1,Building Material,1k-5k Employees,Public,43,Hyderabad
+223,Nvidia,4.1,Hardware & Networking,1k-5k Employees,Forbes Global 2000,31,Pune
+224,Indian Railways,4.2,Railways,1 Lakh+ Employees,Central,171,Coimbatore
+225,Nuziveedu Seeds,4.2,Agriculture,1k-5k Employees,Public,51,Coimbatore
+226,ICE Data Services,3.2,Financial Services,501-1k Employees,Public,24,Hyderabad
+227,Nowfloats Technologies,3.3,Software Product,201-500 Employees,Startup,12,Hyderabad
+228,Sterlite Technologies,3.8,Hardware & Networking,1k-5k Employees,Public,36,Hyderabad
+229,Lokesh Machines,3.7,Industrial Machinery,501-1k Employees,Public,41,Hyderabad
+230,Maruti Suzuki,4.2,Automobile,10k-50k Employees,Public,43,Hyderabad
+231,DQ Entertainment,3.7,Animation & VFX,51-200 Employees,Public,17,Hyderabad
+232,Ananth Technologies,3.9,Electronics Manufacturing,1k-5k Employees,Public,32,Hyderabad
+233,Hindustan Unilever,4.3,FMCG,10k-50k Employees,Public,152,Hyderabad
+234,Mahindra Logistics,4.1,Logistics,1k-5k Employees,Public,24,Hyderabad
+235,Advanced Micro Devices,3.9,Semiconductors,5k-10k Employees,Forbes Global 2000,55,Hyderabad
+236,Amazon Web Services,4.0,Software Product,10k-50k Employees,Public,18,Hyderabad
+237,JMC Projects,4.2,Engineering & Construction,1k-5k Employees,Public,42,Hyderabad
+238,Zomato,3.8,Internet,1k-5k Employees,Public,16,Hyderabad
+239,Pitti Engineering Solutions,4.1,Industrial Machinery,1k-5k Employees,Public,41,Hyderabad
+240,Locuz Enterprise Solutions,4.2,IT Services & Consulting,501-1k Employees,Public,25,Hyderabad
+241,Pitti Engineering Solutions,4.1,Industrial Machinery,1k-5k Employees,Public,41,Hyderabad
+242,Locuz Enterprise Solutions,4.2,IT Services & Consulting,501-1k Employees,Public,25,Hyderabad
+243,Shilpa Medicare,3.6,Pharma,1k-5k Employees,Public,37,Hyderabad
+244,Hyundai Motor India Limited,4.4,Automobile,10k-50k Employees,Fortune India 500,57,Hyderabad
+245,Ericsson,4.3,Telecom,10k-50k Employees,Forbes Global 2000,148,Hyderabad
+246,Rimini Street,4.2,IT Services & Consulting,501-1k Employees,Public,12,Hyderabad
+247,Procter & Gamble,4.2,FMCG,1k-5k Employees,Public,187,Hyderabad
+248,Toppr,3.4,EdTech,1k-5k Employees,Startup,11,Hyderabad
+249,Fujitsu,3.9,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,89,Hyderabad
+250,Adecco Group,3.8,Recruitment,1k-5k Employees,Forbes Global 2000,25,Hyderabad
+251,Blue Dart Express,4.1,Logistics,10k-50k Employees,Public,41,Hyderabad
+252,Hyatt Regency,4.2,Hospitality,1k-5k Employees,Forbes Global 2000,44,Hyderabad
+253,Alembic Pharmaceuticals,4.1,Pharma,10k-50k Employees,Public,117,Hyderabad
+254,Bpo Convergence,3.6,BPO,1k-5k Employees,Conglomerate,10,Hyderabad
+255,Godrej & Boyce Manufacturing,4.0,Consumer Electronics & Appliances,10k-50k Employees,Fortune India 500,127,Hyderabad
+256,CES,3.7,IT Services & Consulting,1k-5k Employees,Public,28,Hyderabad
+257,Havells,4.1,Electrical Equipment,5k-10k Employees,Public,41,Hyderabad
+258,Mold-Tek Technologies,3.6,IT Services & Consulting,1k-5k Employees,Public,38,Hyderabad
+259,Domino's Pizza,4.0,Hospitality,1k-5k Employees,Public,64,Hyderabad
+260,Ebix Software India,3.3,IT Services & Consulting,1k-5k Employees,Public,48,Hyderabad
+261,Vasudha Pharma Chem,3.7,Pharma,1k-5k Employees,Public,29,Hyderabad
+262,Orient Cement,4.3,Building Material,1k-5k Employees,Public,45,Hyderabad
+263,Chubb Group,3.8,Insurance,1k-5k Employees,Forbes Global 2000,39,Hyderabad
+264,Pidilite Industries,4.4,Chemicals,5k-10k Employees,Public,65,Hyderabad
+265,Aptonline,4.0,IT Services & Consulting,201-500 Employees,Public,22,Hyderabad
+266,Suven Life Sciences,3.7,Pharma,51-200 Employees,Public,35,Hyderabad
+267,HomeLane,3.5,Architecture & Interior Design,1k-5k Employees,Startup,10,Hyderabad
+268,PVR Cinemas,4.1,Media & Entertainment,1k-5k Employees,Public,27,Hyderabad
+269,Intense Technologies,4.1,IT Services & Consulting,501-1k Employees,Public,34,Hyderabad
+270,Landmark Group,4.1,Retail,1k-5k Employees,Conglomerate,51,Hyderabad
+271,Gap,3.7,Fashion & Textile,1k-5k Employees,Forbes Global 2000,28,Hyderabad
+272,Indus Towers,4.0,Telecom,1k-5k Employees,Fortune India 500,17,Hyderabad
+273,Electronic Arts,4.3,Gaming,1k-5k Employees,Forbes Global 2000,42,Hyderabad
+274,F5 Networks,4.1,IT Services & Consulting,501-1k Employees,Public,28,Hyderabad
+275,Bandhan Bank,3.8,Banking,50k-1 Lakh Employees,Public,23,Hyderabad
+276,Copart,4.0,Automobile,201-500 Employees,Forbes Global 2000,42,Hyderabad
+277,Advance Auto Parts,3.7,Auto Components,201-500 Employees,Forbes Global 2000,92,Hyderabad
+278,Piramal Pharma,4.0,Pharma,1k-5k Employees,Public,36,Hyderabad
+279,Quest Diagnostics,3.5,Clinical Research,501-1k Employees,Forbes Global 2000,57,Hyderabad
+280,Exel Rubber,4.0,Petrochemicals,51-200 Employees,Public,34,Hyderabad
+281,Madhucon Projects,3.2,Engineering & Construction,1k-5k Employees,Public,41,Hyderabad
+282,Reliance SMSL,4.0,BPO,1k-5k Employees,Public,17,Hyderabad
+283,Marriott International,4.3,Hospitality,10k-50k Employees,Forbes Global 2000,97,Hyderabad
+284,XpressBees,3.8,Logistics,5k-10k Employees,Indian Unicorn,9,Hyderabad
+285,McDonald's,4.2,Hospitality,1k-5k Employees,Forbes Global 2000,69,Hyderabad
+286,Tata Group,4.3,IT Services & Consulting,1 Lakh+ Employees,Conglomerate,156,Hyderabad
+287,Unschool Learning,3.5,EdTech,51-200 Employees,Startup,5,Hyderabad
+288,LivSpace,3.5,Architecture & Interior Design,1k-5k Employees,Indian Unicorn,9,Hyderabad
+289,TVS Credit,4.5,NBFC,10k-50k Employees,Public,16,Hyderabad
+290,Titan Company,4.4,Retail,5k-10k Employees,Public,40,Hyderabad
+291,Alstom Transportation,3.9,Urban Transport,5k-10k Employees,Forbes Global 2000,96,Hyderabad
+292,Equitas Small Finance Bank,4.4,Banking,10k-50k Employees,Fortune India 500,17,Hyderabad
+293,Apple,4.3,Consumer Electronics & Appliances,10k-50k Employees,Forbes Global 2000,48,Hyderabad
+294,HCL Infosystems,4.1,IT Services & Consulting,51-200 Employees,Public,48,Hyderabad
+295,JK Agri Genetics,4.0,Biotechnology,201-500 Employees,Public,35,Hyderabad
+296,PhonePe,4.1,FinTech,5k-10k Employees,Indian Unicorn,9,Hyderabad
+297,Dabur,3.8,FMCG,5k-10k Employees,Public,140,Hyderabad
+298,Rane (Madras),4.0,Auto Components,1k-5k Employees,Public,27,Hyderabad
+299,Agro Tech Foods,4.2,FMCG,501-1k Employees,Public,38,Hyderabad
+300,STANPLUS TECHNOLOGIES,3.3,Healthcare,11-50 Employees,Startup,8,Hyderabad
+301,IL&FS Engineering and Construction,4.4,Engineering & Construction,1k-5k Employees,Public,36,Hyderabad
+302,Axiscades,3.4,IT Services & Consulting,1k-5k Employees,Public,34,Hyderabad
+303,Cipla,4.1,Pharma,10k-50k Employees,Public,89,Hyderabad
+304,Blinkit,3.9,Internet,1k-5k Employees,Indian Unicorn,11,Hyderabad
+305,VST Industries,4.1,FMCG,501-1k Employees,Public,94,Hyderabad
+306,RBL Bank,3.8,Banking,10k-50k Employees,Public,81,Hyderabad
+307,Cult.fit,3.8,Fitness & Wellness,1k-5k Employees,Indian Unicorn,8,Hyderabad
+308,Zen Technologies,3.5,Defence & Aerospace,201-500 Employees,Public,31,Hyderabad
+309,Wonderla Holidays,4.6,Hospitality,501-1k Employees,Public,24,Bangalore/Bengaluru
+310,Honeywell Automation,3.8,Consumer Electronics & Appliances,10k-50k Employees,Public,118,Hyderabad
+311,Star Health & Allied Insurance,3.9,Insurance,10k-50k Employees,Fortune India 500,18,Hyderabad
+312,Union Bank of India,4.1,Banking,50k-1 Lakh Employees,Public,105,Hyderabad
+313,Amara Raja Group,4.2,Auto Components,5k-10k Employees,Public,39,Hyderabad
+314,Motilal Oswal Financial Services,3.8,Financial Services,10k-50k Employees,Public,37,Hyderabad
+315,Kalpataru Power Transmission,4.2,Engineering & Construction,1k-5k Employees,Public,43,Hyderabad
+316,Ea Games India,4.4,Gaming,501-1k Employees,Public,42,Hyderabad
+317,Reckitt Benckiser,4.0,FMCG,1k-5k Employees,Conglomerate,25,Hyderabad
+318,Tiger Analytics,3.5,Analytics & KPO,1k-5k Employees,Startup,13,Hyderabad
+319,98thPercentile,4.4,EdTech,51-200 Employees,Startup,6,Hyderabad
+320,Rivigo,3.9,Internet,1k-5k Employees,Indian Unicorn,10,Hyderabad
+321,Payswiff Solutions,4.0,FinTech,201-500 Employees,Startup,11,Hyderabad
+322,Spencer's Retail,3.9,Retail,1k-5k Employees,Public,161,Hyderabad
+323,Hatsun Agro Product,4.0,Food Processing,5k-10k Employees,Public,54,Hyderabad
+324,Zepto,3.7,Internet,1k-5k Employees,Indian Unicorn,3,Hyderabad
+325,Mahindra Finance,4.3,NBFC,10k-50k Employees,Public,33,Hyderabad
+326,Univariety,3.7,EdTech,51-200 Employees,Startup,13,Hyderabad
+327,Stanza Living,3.1,Internet,501-1k Employees,Startup,7,Hyderabad
+328,ACC,4.0,Building Material,5k-10k Employees,Public,88,Hyderabad
+329,Portea Medical,4.4,Healthcare,1k-5k Employees,Startup,11,Hyderabad
+330,Bank of Baroda,3.6,Banking,50k-1 Lakh Employees,Fortune India 500,116,Hyderabad
+331,Tata Play,4.0,Broadcasting,5k-10k Employees,Public,18,Hyderabad
+332,NCL BUILDTEK,4.0,Building Material,501-1k Employees,Public,35,Hyderabad
+333,Indiabulls Home Loans,3.9,NBFC,5k-10k Employees,Public,19,Hyderabad
+334,Mitsui O.S.K. Lines,4.0,Ports & Shipping,51-200 Employees,Forbes Global 2000,140,Hyderabad
+335,ekincare,2.9,Healthcare,201-500 Employees,Startup,10,Hyderabad
+336,GlaxoSmithKline Pharmaceuticals,4.2,Pharma,1k-5k Employees,Fortune India 500,194,Hyderabad
+337,Infra.Market,4.2,Building Material,1k-5k Employees,Indian Unicorn,8,Hyderabad
+338,VAYA Finserv,4.1,Financial Services,1k-5k Employees,Startup,10,Hyderabad
+339,Vivimed Labs,3.6,Chemicals,501-1k Employees,Public,33,Hyderabad
+340,Startoon Labs,4.5,Internet,11-50 Employees,Startup,7,Hyderabad
+341,Lemon Tree Hotels,4.2,Hospitality,5k-10k Employees,Public,22,Hyderabad
+342,Bajaj Electronics,3.9,Retail,1k-5k Employees,Public,44,Hyderabad
+343,Sears Holdings,3.6,Retail,501-1k Employees,Forbes Global 2000,15,Hyderabad
+344,Amvotech Solutions,3.6,IT Services & Consulting,201-500 Employees,Startup,6,Hyderabad
+345,Pernod Ricard,3.9,Beverage,1k-5k Employees,Forbes Global 2000,49,Hyderabad
+346,IKF Finance,3.9,NBFC,1k-5k Employees,Public,33,Hyderabad
+347,Rupeek,3.7,FinTech,1k-5k Employees,Startup,9,Hyderabad
+348,Columbus Global,4.2,IT Services & Consulting,201-500 Employees,Public,35,Hyderabad
+349,Delhi Public School,3.9,Education & Training,1k-5k Employees,Public,26,Pune
+350,Shadowfax Technologies,3.7,Logistics,1k-5k Employees,Public,9,Hyderabad
+351,Walmart,4.0,Retail,5k-10k Employees,Forbes Global 2000,15,Hyderabad
+352,Karur Vysya Bank,3.7,Banking,5k-10k Employees,Public,108,Hyderabad
+353,Urban Company,3.6,Internet,1k-5k Employees,Indian Unicorn,9,Hyderabad
+354,SMS Pharmaceuticals,3.8,Pharma,501-1k Employees,Public,34,Hyderabad
+355,Recykal,4.8,Internet,51-200 Employees,Startup,8,Hyderabad
+356,BPR Infrastructure,3.8,Engineering & Construction,201-500 Employees,Public,18,Hyderabad
+357,Welspun,4.1,Fashion & Textile,10k-50k Employees,Fortune India 500,39,Hyderabad
+358,Welspun,4.1,Fashion & Textile,10k-50k Employees,Fortune India 500,39,Pune
+359,Reliance Trends,4.4,Retail,1 Lakh+ Employees,Conglomerate,18,Pune
+360,Varun Beverages,4.1,Beverage,5k-10k Employees,Public,29,Pune
+361,GE,4.3,Defence & Aerospace,10k-50k Employees,Forbes Global 2000,132,Pune
+362,Kotak Mahindara Life Insurance,3.9,Insurance,10k-50k Employees,Public,23,Pune
+363,Ion Exchange India,3.9,Waste Management,1k-5k Employees,Public,60,Pune
+364,Standard Chartered,3.9,Banking,10k-50k Employees,Fortune India 500,171,Hyderabad
+365,Rain Industries,3.6,Chemicals / Agri Inputs,51-200 Employees,Public,50,Hyderabad
+366,Voltas,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,70,Hyderabad
+367,Bajaj Electricals,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,86,Hyderabad
+368,Arth Design Build,4.5,Software Product,51-200 Employees,Startup,10,Hyderabad
+369,Hindustan Foods,3.8,FMCG,1k-5k Employees,Public,36,Hyderabad
+370,V-Guard Industries,4.4,Consumer Electronics & Appliances,1k-5k Employees,Public,47,Hyderabad
+371,L&T Finance,4.0,NBFC,10k-50k Employees,Public,30,Hyderabad
+372,Siemens,4.2,Industrial Automation,5k-10k Employees,Public,177,Hyderabad
+373,Sigachi Industries,3.9,Pharma,201-500 Employees,Public,35,Hyderabad
+374,ABC,4.0,Broadcasting,1k-5k Employees (Global),Public,81,Hyderabad
+375,Sagar Cements,4.3,Building Material,1k-5k Employees,Public,39,Hyderabad
+376,NoBroker,3.2,Internet,1k-5k Employees,Indian Unicorn,10,Hyderabad
+377,Sheenlac Paints,4.6,Chemicals,501-1k Employees,Public,62,Hyderabad
+378,Ahlada Engineers,3.6,Furniture & Furnishing,1k-5k Employees,Public,19,Hyderabad
+379,Cholamandalam Investment & Finance,4.1,NBFC,10k-50k Employees,Fortune India 500,46,Hyderabad
+380,Berger Paints,3.8,Chemicals,1k-5k Employees,Public,101,Hyderabad
+381,GSS Infotech,3.9,IT Services & Consulting,51-200 Employees,Public,25,Hyderabad
+382,Aditya Birla Capital,4.0,Financial Services,10k-50k Employees,Public,7,Hyderabad
+383,Kanerika Software,4.4,IT Services & Consulting,51-200 Employees,Startup,9,Hyderabad
+384,Tanla Platforms,3.5,Software Product,501-1k Employees,Public,25,Hyderabad
+385,upGrad,3.8,EdTech,5k-10k Employees,Indian Unicorn,9,Hyderabad
+386,Xilinx,4.3,Semiconductors,51-200 Employees,Forbes Global 2000,18,Hyderabad
+387,GITAM University,4.0,Education & Training,1k-5k Employees,Conglomerate,44,Hyderabad
+388,Nava Limited,3.8,Metals & Mining,51-200 Employees,Public,52,Hyderabad
+389,AB InBev India,3.5,Beverage,1k-5k Employees,Public,36,Hyderabad
+390,Muthoot Group,3.6,Financial Services,10k-50k Employees,Public,137,Hyderabad
+391,Genesys International Corporation,3.8,IT Services & Consulting,1k-5k Employees,Public,29,Hyderabad
+392,CreditVidya,4.0,FinTech,501-1k Employees,Startup,12,Hyderabad
+393,Piramal Group,4.0,Financial Services,10k-50k Employees,Fortune India 500,44,Hyderabad
+394,Fipola Retail,3.6,Food Processing,1k-5k Employees,Startup,8,Hyderabad
+395,Spicejet,3.5,Aviation,5k-10k Employees,Public,20,Hyderabad
+396,Bureau Veritas,4.0,Other,1k-5k Employees,Forbes Global 2000,196,Hyderabad
+397,Amara Raja Energy & Mobility,4.3,Auto Components,5k-10k Employees,Fortune India 500,39,Hyderabad
+398,Thermo Fisher Scientific,3.9,Pharma,1k-5k Employees,Forbes Global 2000,68,Hyderabad
+399,KNR Constructions,3.8,Engineering & Construction,1k-5k Employees,Public,29,Hyderabad
+400,Prosper Overseas,4.4,Education & Training,51-200 Employees,Public,20,Hyderabad
+401,Kellton,3.0,IT Services & Consulting,1k-5k Employees,Public,15,Hyderabad
+402,Bayer,4.2,Pharma,10k-50k Employees,Public,161,Hyderabad
+403,JoulestoWatts Business Solutions,2.9,IT Services & Consulting,201-500 Employees,Startup,9,Hyderabad
+404,Trent,4.1,Retail,10k-50k Employees,Public,26,Hyderabad
+405,Naukri,4.0,Internet,1k-5k Employees,Public,28,Hyderabad
+406,Goldstone Technologies,3.4,IT Services & Consulting,51-200 Employees,Public,30,Hyderabad
+407,Spinny,3.9,Internet,1k-5k Employees,Indian Unicorn,9,Hyderabad
+408,HDFC Ergo General Insurance,4.0,Insurance,10k-50k Employees,Public,22,Hyderabad
+409,Sun Pharmaceutical Industries,4.1,Pharma,10k-50k Employees,Public,41,Hyderabad
+410,Nokia,4.2,Telecom,10k-50k Employees,Forbes Global 2000,159,Hyderabad
+411,Pokarna,4.0,Building Material,201-500 Employees,Public,23,Hyderabad
+412,CIEL HR,4.1,Recruitment,1k-5k Employees,Startup,9,Hyderabad
+413,Freshworks,3.7,Software Product,1k-5k Employees,Public,14,Hyderabad
+414,Ksk Energy Ventures,4.5,Oil & Gas,1k-5k Employees,Public,23,Hyderabad
+415,Info Edge,4.0,Internet,5k-10k Employees,Public,29,Hyderabad
+416,Life Insurance Corporation of India,4.4,Insurance,1 Lakh+ Employees,Fortune India 500,68,Hyderabad
+417,Security and Intelligence Services (India),4.1,Law Enforcement & Security,1 Lakh+ Employees,Public,39,Hyderabad
+418,Future Retail,4.3,Retail,10k-50k Employees,Public,37,Hyderabad
+419,InsanelyGood,4.1,Internet,11-50 Employees,Startup,9,Hyderabad
+420,PharmEasy,3.7,Internet,1k-5k Employees,Indian Unicorn,9,Hyderabad
+421,KEC International,4.1,Engineering & Construction,5k-10k Employees,Public,79,Hyderabad
+422,The Ramco Cements,4.3,Building Material,1k-5k Employees,Public,63,Hyderabad
+423,Bata,3.9,Fashion & Textile,1k-5k Employees,Public,93,Hyderabad
+424,National Institute of Rural Development and Panchayati Raj,3.9,Government,201-500 Employees,Public,41,Hyderabad
+425,ElasticRun,3.4,Logistics,1k-5k Employees,Indian Unicorn,8,Hyderabad
+426,Pfizer,4.1,Pharma,1k-5k Employees,Public,20,Hyderabad
+427,Ashok Leyland,4.1,Automobile,5k-10k Employees,Public,76,Hyderabad
+428,Sarvotham Care,4.1,Pharma,51-200 Employees,Public,28,Hyderabad
+429,Marico,4.1,FMCG,1k-5k Employees,Public,36,Hyderabad
+430,Bhagwati Products,3.9,Consumer Electronics & Appliances,11-50 Employees,Public,22,Hyderabad
+431,TVS Motor,4.1,Automobile,5k-10k Employees,Public,45,Hyderabad
+432,Air India,4.0,Aviation,10k-50k Employees,Central,94,Hyderabad
+433,Britannia,4.1,FMCG,1k-5k Employees,Public,132,Hyderabad
+434,Vigilare Biopharma,4.4,Internet,11-50 Employees (Global),Startup,10,Hyderabad
+435,DSM,4.4,Chemicals,1k-5k Employees,Forbes Global 2000,122,Hyderabad
+436,Canara Bank,3.5,Banking,50k-1 Lakh Employees,Public,118,Hyderabad
+437,Jet Airways,4.6,Aviation,201-500 Employees,Public,31,Hyderabad
+438,TIDE,4.7,FinTech,501-1k Employees,Startup,9,Hyderabad
+439,Indian Oil Corporation,4.4,Oil & Gas,10k-50k Employees,Fortune India 500,65,Hyderabad
+440,Megasoft,3.7,IT Services & Consulting,51-200 Employees,Public,30,Hyderabad
+441,Practically,2.3,Internet,201-500 Employees,Startup,6,Hyderabad
+442,KMC Constructions,3.6,Engineering & Construction,201-500 Employees,Public,27,Hyderabad
+443,Rebel Foods,3.8,Internet,5k-10k Employees,Indian Unicorn,12,Hyderabad
+444,Devyani International,3.9,Hospitality,10k-50k Employees,Public,33,Hyderabad
+445,KMC Constructions,3.6,Engineering & Construction,201-500 Employees,Public,27,Hyderabad
+446,Samunnati Financial Intermediation and Services,4.5,Financial Services,201-500 Employees,Startup,10,Hyderabad
+447,Dunzo,3.5,Internet,1k-5k Employees,Startup,10,Hyderabad
+448,Pine Labs,3.7,FinTech,1k-5k Employees,Indian Unicorn,26,Hyderabad
+449,VLCC,3.7,Beauty & Personal Care,1k-5k Employees,Conglomerate,35,Hyderabad
+450,Freyr Energy Services,3.9,Power,51-200 Employees,Startup,12,Hyderabad
+451,Toshiba,4.0,Industrial Machinery,201-500 Employees,Forbes Global 2000,149,Hyderabad
+452,Optimus Global Services,4.1,BPO,51-200 Employees,Public,22,Hyderabad
+453,Optimus Global Services,4.1,BPO,51-200 Employees,Public,22,Hyderabad
+454,Safexpress,4.1,Logistics,1k-5k Employees,Conglomerate,27,Hyderabad
+455,Hexaware Technologies,3.7,IT Services & Consulting,10k-50k Employees,Fortune India 500,34,Hyderabad
+456,Vasista Enterprise Solutions,3.7,Financial Services,51-200 Employees,Startup,11,Hyderabad
+457,CarDekho,3.7,Internet,1k-5k Employees,Indian Unicorn,16,Hyderabad
+458,Citibank,4.0,Banking,10k-50k Employees (Global),Fortune India 500,212,Hyderabad
+459,FedEx Express,4.2,Logistics,5k-10k Employees,Forbes Global 2000,53,Hyderabad
+460,Synopsys,4.0,Software Product,1k-5k Employees,Public,38,Hyderabad
+461,Deccan Cements,4.3,Building Material,501-1k Employees,Public,45,Hyderabad
+462,HSBC Global Banking and Markets,4.1,Banking,10k-50k Employees,Public,33,Hyderabad
+463,KONE,4.3,Industrial Machinery,5k-10k Employees,Forbes Global 2000,114,Hyderabad
+464,Care Health Insurance,3.8,Internet,5k-10k Employees,Public,12,Hyderabad
+465,Alkem Laboratories,4.0,Pharma,10k-50k Employees,Public,51,Hyderabad
+466,Unique Biotech,3.5,Pharma,51-200 Employees,Public,23,Hyderabad
+467,Zenotech Laboratories,4.3,Biotechnology,51-200 Employees,Public,35,Hyderabad
+468,XTGlobal,4.4,IT Services & Consulting,501-1k Employees,Public,26,Hyderabad
+469,Lokal App,3.8,Internet,51-200 Employees,Startup,6,Hyderabad
+470,Jacobs Engineering Group,4.1,Engineering & Construction,1k-5k Employees,Forbes Global 2000,77,Hyderabad
+471,Supreme Industries,4.2,Petrochemicals,5k-10k Employees,Public,82,Hyderabad
+472,Welspun World,3.8,Building Material,1k-5k Employees,Public,39,Hyderabad
+473,Daikin,4.2,Consumer Electronics & Appliances,1k-5k Employees,Fortune India 500,24,Hyderabad
+474,Dbs Mintek,3.6,Financial Services,1k-5k Employees,Forbes Global 2000,16,Hyderabad
+475,Aditya Birla Group,4.1,Building Material,1 Lakh+ Employees,Conglomerate,167,Hyderabad
+476,Bambino Agro Industries,4.1,Food Processing,201-500 Employees,Public,42,Pune
+477,Zydus Lifesciences,4.2,Pharma,10k-50k Employees,Public,72,Pune
+478,Electronics Mart India,3.8,Retail,1k-5k Employees,Public,44,Hyderabad
+479,Glenmark Pharmaceuticals,4.0,Pharma,10k-50k Employees,Public,47,Hyderabad
+480,Ourfood,2.9,Internet,51-200 Employees,Startup,8,Hyderabad
+481,IDBI Intech Limited,3.7,IT Services & Consulting,1k-5k Employees,Public,24,Hyderabad
+482,Thomas Cook,3.9,Travel & Tourism,1k-5k Employees,Public,143,Hyderabad
+483,Hala Mobility,5.0,Internet,51-200 Employees,Startup,4,Hyderabad
+484,CMC,4.2,Education & Training,10k-50k Employees,Public,56,Hyderabad
+485,Big Bazaar,4.3,Retail,10k-50k Employees,Conglomerate,23,Hyderabad
+486,Polycab Wires,4.1,Electrical Equipment,1k-5k Employees,Fortune India 500,28,Hyderabad
+487,Tata Elxsi,4.0,IT Services & Consulting,5k-10k Employees,Public,35,Hyderabad
+488,Bharat Sanchar Nigam,4.0,Telecom,50k-1 Lakh Employees,Central,24,Hyderabad
+489,Big Bazaar,4.3,Retail,10k-50k Employees,Conglomerate,23,Hyderabad
+490,Tata Elxsi,4.0,IT Services & Consulting,5k-10k Employees,Public,35,Hyderabad
+491,IQVIA,4.0,Clinical Research,10k-50k Employees,Forbes Global 2000,42,Hyderabad
+492,Keka HR Payroll Software,3.1,Internet,51-200 Employees,Startup,10,Hyderabad
+493,Edelweiss,3.8,Financial Services,1k-5k Employees,Public,7,Hyderabad
+494,Cavinkare,4.0,FMCG,1k-5k Employees,Conglomerate,41,Hyderabad
+495,Lupin,4.1,Pharma,1k-5k Employees,Public,56,Hyderabad
+496,SAP,4.3,Software Product,10k-50k Employees,Forbes Global 2000,52,Hyderabad
+497,Feuji,2.2,Financial Services,11-50 Employees (Global),Startup,10,Hyderabad
+498,Veritas Finance,4.7,NBFC,1k-5k Employees,Startup,9,Hyderabad
+499,Licious,3.8,Internet,1k-5k Employees,Indian Unicorn,9,Hyderabad
+500,United Breweries,3.9,Beverage,1k-5k Employees,Public,167,Hyderabad
+501,PNB MetLife,3.5,Insurance,5k-10k Employees,Conglomerate,23,Hyderabad
+502,Johnson & Johnson,4.2,Pharma,1k-5k Employees,Forbes Global 2000,67,Hyderabad
+503,Hewlett Packard Enterprise,4.3,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,9,Hyderabad
+504,HMT Machine Tools,4.0,Industrial Machinery,51-200 Employees,Central,71,Hyderabad
+505,Vertiv,4.0,IT Services & Consulting,51-200 Employees (Global),Startup,8,Hyderabad
+506,IFB,3.7,Consumer Electronics & Appliances,201-500 Employees,Public,50,Hyderabad
+507,Vivo,4.1,Consumer Electronics & Appliances,5k-10k Employees,Conglomerate,15,Hyderabad
+508,Sharekhan,4.0,Financial Services,1k-5k Employees,Public,24,Hyderabad
+509,HMT Machine Tools,4.0,Industrial Machinery,51-200 Employees,Central,71,Hyderabad
+510,DAZN,3.2,Media & Entertainment,501-1k Employees,Startup,9,Pune
+511,OnePlus,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,11,Pune
+512,JSW Cement,4.1,Building Material,1k-5k Employees,Conglomerate,15,Hyderabad
+513,Porter,4.2,Internet,1k-5k Employees,Startup,10,Hyderabad
+514,Intel,4.3,Semiconductors,10k-50k Employees,Public,56,Hyderabad
+515,Meesho,3.7,Internet,5k-10k Employees,Indian Unicorn,9,Hyderabad
+516,Adani Wilmar,4.2,FMCG,1k-5k Employees,Public,25,Hyderabad
+517,Eze Software,3.6,IT Services & Consulting,51-200 Employees,Public,29,Hyderabad
+518,Whirlpool,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,113,Hyderabad
+519,CRYSTAL CROP PROTECTION,3.9,Agro Chemicals,1k-5k Employees,Public,44,Hyderabad
+520,AU Small Finance Bank,4.4,Banking,10k-50k Employees,Fortune India 500,28,Hyderabad
+521,CK Birla Group,4.2,Building Material,1k-5k Employees,Conglomerate,162,Hyderabad
+522,ABB Group,4.1,Electrical Equipment,1k-5k Employees,Public,36,Hyderabad
+523,Nayara Energy,4.3,Petrochemicals,1k-5k Employees,Fortune India 500,35,Hyderabad
+524,Marino Food Products,4.1,Food Processing,51-200 Employees,Startup,9,Hyderabad
+525,HDFC Securities,3.7,Financial Services,1k-5k Employees,Public,24,Hyderabad
+526,Crisil,3.7,Financial Services,1k-5k Employees,Public,37,Hyderabad
+527,Exide Industries,3.6,Auto Components,5k-10k Employees,Public,77,Hyderabad
+528,GTN Engineering,4.1,Metals & Mining,201-500 Employees,Public,34,Hyderabad
+529,India Cements,3.8,Building Material,1k-5k Employees,Public,78,Hyderabad
+530,American Express,4.2,Financial Services,10k-50k Employees,Forbes Global 2000,174,Hyderabad
+531,NMDC,4.3,Metals & Mining,5k-10k Employees,Fortune India 500,66,Hyderabad
+532,NRB Bearings,4.2,Auto Components,1k-5k Employees,Public,59,Hyderabad
+533,Rizzle,3.3,Internet,51-200 Employees,Startup,5,Hyderabad
+534,Bajaj Capital,3.9,Financial Services,1k-5k Employees,Public,60,Hyderabad
+535,Yext,4.5,Software Product,51-200 Employees,Public,18,Hyderabad
+536,Kotak Mahindra Prime,4.0,NBFC,5k-10k Employees,Public,28,Hyderabad
+537,Marks & Spencer,4.0,Retail,1k-5k Employees,Forbes Global 2000,140,Hyderabad
+538,Kotak Mahindra Prime,4.0,NBFC,5k-10k Employees,Public,28,Hyderabad
+539,Thermax Limited,4.2,Industrial Machinery,1k-5k Employees,Public,58,Hyderabad
+540,Akzo Nobel India,4.2,Chemicals,1k-5k Employees,Public,85,Hyderabad
+541,Bosch,4.3,Auto Components,5k-10k Employees,Public,138,Hyderabad
+542,Shriram Housing Finance,4.0,Financial Services,501-1k Employees,Public,14,Hyderabad
+543,KSK Mahanadi Power Company,3.8,Power,1k-5k Employees,Public,23,Hyderabad
+544,Vogo Automotive,4.0,Internet,51-200 Employees,Startup,8,Hyderabad
+545,Bosch,4.3,Auto Components,5k-10k Employees,Public,138,Hyderabad
+546,Palred Online Technologies,3.9,IT Services & Consulting,51-200 Employees,Public,25,Hyderabad
+547,Vedantu,3.4,EdTech,1k-5k Employees,Indian Unicorn,13,Hyderabad
+548,Mishra Dhatu Nigam,4.1,Metals & Mining,1k-5k Employees,Public,48,Hyderabad
+549,Isthara,3.3,Internet,51-200 Employees,Startup,7,Hyderabad
+550,Shree Cement,4.0,Building Material,5k-10k Employees,Public,45,Hyderabad
+551,Xiaomi,3.9,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,14,Hyderabad
+552,VRL Logistics,4.0,Logistics,10k-50k Employees,Public,41,Hyderabad
+553,HungerBox,3.8,Internet,501-1k Employees,Startup,8,Hyderabad
+554,LEAP India Private Limited,4.4,Packaging,501-1k Employees,Startup,11,Hyderabad
+555,Softsol,3.4,IT Services & Consulting,51-200 Employees,Public,31,Hyderabad
+556,Yum!,4.1,Hospitality,501-1k Employees,Forbes Global 2000,27,Hyderabad
+557,Shell Infotech,4.1,IT Services & Consulting,201-500 Employees,Public,22,Hyderabad
+558,Cisco,4.3,Hardware & Networking,10k-50k Employees,Public,40,Hyderabad
+559,Sundaram Finance,4.2,NBFC,1k-5k Employees,Public,70,Hyderabad
+560,Rapido,3.8,Internet,1k-5k Employees,Startup,9,Hyderabad
+561,Rane Brake Lining,4.3,Auto Components,201-500 Employees,Public,60,Hyderabad
+562,Nestle,4.1,Food Processing,5k-10k Employees,Public,65,Hyderabad
+563,UPL,4.2,Agro Chemicals,5k-10k Employees,Public,55,Hyderabad
+564,Coastal Projects,3.8,Engineering & Construction,5k-10k Employees (Global),Public,29,Hyderabad
+565,Sony,4.3,Consumer Electronics & Appliances,1k-5k Employees,Public,30,Sonipat
+566,Pi DATACENTERS,3.6,IT Services & Consulting,51-200 Employees,Startup,10,Hyderabad
+567,Panasonic,4.1,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,106,Gurgaon
+568,Bharat Petroleum,4.2,Oil & Gas,5k-10k Employees,Fortune India 500,72,Hyderabad
+569,Sony,4.3,Consumer Electronics & Appliances,1k-5k Employees,Public,30,Hyderabad
+570,Prime Focus,3.9,Animation & VFX,1k-5k Employees,Public,27,Hyderabad
+571,Pi DATACENTERS,3.6,IT Services & Consulting,51-200 Employees,Startup,10,Hyderabad
+572,LEAD School,3.3,EdTech,1k-5k Employees,Indian Unicorn,11,Hyderabad
+573,Vijayasri Organics,4.3,Pharma,201-500 Employees,Public,38,Hyderabad
+574,BrightCHAMPS,3.5,EdTech,501-1k Employees,Startup,4,Hyderabad
+575,TTEC Digital Analytics India,4.0,BPO,1k-5k Employees,Public,42,Hyderabad
+576,Katerra,3.4,Engineering & Construction,501-1k Employees,Startup,9,Hyderabad
+577,AlgonoX Technologies,3.4,Internet,51-200 Employees,Startup,9,Hyderabad
+578,Facebook,4.3,Internet,1k-5k Employees,Forbes Global 2000,20,Hyderabad
+579,Godrej Group,4.0,Chemicals,10k-50k Employees,Public,127,Hyderabad
+580,Future Supply Chain Solutions,4.4,Logistics,1k-5k Employees,Public,18,Hyderabad
+581,EffiaSoft,4.1,IT Services & Consulting,11-50 Employees,Startup,12,Hyderabad
+582,Virtusa Software Services,4.0,IT Services & Consulting,5k-10k Employees,Public,28,Hyderabad
+583,Aster Dm Healthcare,3.8,Healthcare,1k-5k Employees,Public,37,Hyderabad
+584,Future Supply Chain Solutions,4.4,Logistics,1k-5k Employees,Public,18,Hyderabad
+585,Godrej Group,4.0,Chemicals,10k-50k Employees,Public,127,Hyderabad
+586,Verisk Analytics,3.9,IT Services & Consulting,501-1k Employees,Forbes Global 2000,53,Hyderabad
+587,BharatPe,3.7,FinTech,201-500 Employees,Indian Unicorn,6,Hyderabad
+588,Facebook,4.3,Internet,1k-5k Employees,Forbes Global 2000,20,Hyderabad
+589,EffiaSoft,4.1,IT Services & Consulting,11-50 Employees,Startup,12,Hyderabad
+590,Virtusa Software Services,4.0,IT Services & Consulting,5k-10k Employees,Public,28,Hyderabad
+591,PULSUS HealthTech Group,3.9,Printing & Publishing,501-1k Employees,Public,40,Hyderabad
+592,3F Industries,3.9,Food Processing,1k-5k Employees,Public,64,Hyderabad
+593,PULSUS HealthTech Group,3.9,Printing & Publishing,501-1k Employees,Public,40,Hyderabad
+594,Hero MotoCorp,4.2,Automobile,5k-10k Employees,Public,40,Hyderabad
+595,Patanjali Ayurved,3.2,FMCG,1k-5k Employees,Fortune India 500,18,Hyderabad
+596,Emcure Pharmaceuticals,3.8,Pharma,5k-10k Employees,Fortune India 500,43,Pune
+597,Rallis India,4.3,Agro Chemicals,1k-5k Employees,Public,76,Pune
+598,Sathavahana Ispat,3.2,Iron & Steel,501-1k Employees,Public,35,Ballari
+599,Railtel Corporation Of India,3.9,Hardware & Networking,1k-5k Employees,Public,24,Pune
+600,PaySafe India,3.6,FinTech,201-500 Employees,Public,28,Hyderabad
+601,Sathavahana Ispat,3.2,Iron & Steel,501-1k Employees,Public,35,Hyderabad
+602,Railtel Corporation Of India,3.9,Hardware & Networking,1k-5k Employees,Public,24,Hyderabad
+603,Emcure Pharmaceuticals,3.8,Pharma,5k-10k Employees,Fortune India 500,43,Hyderabad
+604,Rallis India,4.3,Agro Chemicals,1k-5k Employees,Public,76,Hyderabad
+605,Hitachi,4.1,Industrial Machinery,10k-50k Employees,Forbes Global 2000,114,Hyderabad
+606,H&M,4.0,Fashion & Textile,1k-5k Employees,Forbes Global 2000,77,Hyderabad
+607,Army Ordnance Corps,4.7,Defence & Aerospace,11-50 Employees,Public,249,Hyderabad
+608,Fraazo,3.4,Internet,201-500 Employees,Startup,8,Hyderabad
+609,Clariant Chemicals,4.2,Chemicals,1k-5k Employees,Public,29,Pune
+610,H&M,4.0,Fashion & Textile,1k-5k Employees,Forbes Global 2000,77,Pune
+611,NeoGrowth Credit,3.7,NBFC,501-1k Employees,Startup,11,Pune
+612,Karvy Innotech,3.2,IT Services & Consulting,501-1k Employees,Public,12,Pune
+613,Zee Entertainment Enterprises,3.6,Media & Entertainment,1k-5k Employees,Public,32,Pune
+614,Sun TV Network,3.8,Media & Entertainment,1k-5k Employees,Public,31,Hyderabad
+615,Tata Hitachi Construction Machinery,4.1,Industrial Machinery,1k-5k Employees,Fortune India 500,25,Pune
+616,Sobha,4.0,Real Estate,1k-5k Employees,Public,29,Pune
+617,Trident Group,3.5,Fashion & Textile,10k-50k Employees,Public,34,Pune
+618,Atos,3.8,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,27,Pune
+619,NexGen Technologies,4.3,Internet,51-200 Employees (Global),Public,27,Pune
+620,Welspun Global Brands,3.8,Fashion & Textile,10k-50k Employees (Global),Public,24,Hyderabad
+621,Securitas,4.0,Law Enforcement & Security,10k-50k Employees,Forbes Global 2000,90,Hyderabad
+622,Turvo,2.9,Logistics,201-500 Employees,Startup,10,Hyderabad
+623,Simhapuri Energy,4.4,Power,201-500 Employees,Public,19,Hyderabad
+624,Airtel Payments Bank,4.2,FinTech,501-1k Employees,Public,8,Hyderabad
+625,Athena Global Technologies,3.3,IT Services & Consulting,201-500 Employees,Public,32,Hyderabad
+626,SYSKA LED Lights,2.9,Consumer Electronics & Appliances,1k-5k Employees (Global),Startup,12,Hyderabad
+627,Shodhana Laboratories,4.0,Pharma,51-200 Employees,Public,24,Hyderabad
+628,National Mineral Development Corporation,4.4,Metals & Mining,5k-10k Employees (Global),Public,66,Hyderabad
+629,Mapmygenome- Genetic Testing/Counseling,3.0,Biotechnology,11-50 Employees,Startup,12,Hyderabad
+630,ThyssenKrupp Industries India,4.2,Industrial Machinery,1k-5k Employees,Conglomerate,77,Hyderabad
+631,Principal Global Services,4.2,Insurance,1k-5k Employees,Forbes Global 2000,18,Hyderabad
+632,Bajaj Auto,3.9,Automobile,5k-10k Employees,Public,79,Hyderabad
+633,Alphageo,3.7,Oil & Gas,51-200 Employees,Public,37,Hyderabad
+634,B2B Software Technologies,4.4,IT Services & Consulting,51-200 Employees,Public,24,Hyderabad
+635,Bank of India,4.0,Banking,50k-1 Lakh Employees,Fortune India 500,118,Hyderabad
+636,TVS Electronics,3.9,Consumer Electronics & Appliances,501-1k Employees,Public,38,Hyderabad
+637,Pantaloons,4.2,Fashion & Textile,5k-10k Employees,Public,27,Hyderabad
+638,Inox Leisure,4.1,Media & Entertainment,1k-5k Employees,Public,25,Hyderabad
+639,Aviva Life Insurance India,3.6,Insurance,1k-5k Employees,Forbes Global 2000,328,Hyderabad
+640,Wockhardt,3.9,Pharma,5k-10k Employees,Public,25,Hyderabad
+641,Vishnu Chemicals,3.9,Chemicals / Agri Inputs,201-500 Employees,Public,34,Hyderabad
+642,V-Trans,4.1,Logistics,1k-5k Employees,Public,66,Hyderabad
+643,PNB Housing Finance,3.9,Financial Services,1k-5k Employees,Public,36,Delhi/NCR
+644,Intas Pharmaceuticals,4.2,Pharma,10k-50k Employees,Fortune India 500,47,Hyderabad
+645,FirstCry,3.8,Retail,1k-5k Employees,Indian Unicorn,14,Hyderabad
+646,Kakatiya Cement Sugar & Industries,4.0,Building Material,201-500 Employees,Public,45,Hyderabad
+647,bhanzu,3.7,Education & Training,201-500 Employees,Startup,4,Hyderabad
+648,GVK Group,3.9,Engineering & Construction,50k-1 Lakh Employees,Public,32,Hyderabad
+649,Fiserv,3.6,FinTech,5k-10k Employees,Forbes Global 2000,40,Pune
+650,Escorts Kubota Limited,4.1,Automobile,1k-5k Employees,Public,80,Aurangabad
+651,PolicyBazaar,3.5,Internet,10k-50k Employees,Public,16,Aurangabad
+652,Suryalakshmi Cotton Mills,3.7,Fashion & Textile,501-1k Employees,Public,62,Hyderabad
+653,TeraSoftware,3.9,IT Services & Consulting,501-1k Employees,Public,30,Hyderabad
+654,Apollo Microsystems,4.0,Consumer Electronics & Appliances,51-200 Employees,Public,39,Hyderabad
+655,Raymond,4.1,Fashion & Textile,5k-10k Employees,Public,99,Hyderabad
+656,DHL Express,4.1,Logistics,1k-5k Employees,Conglomerate,45,Hyderabad
+657,South Indian Bank,3.6,Banking,1k-5k Employees,Public,95,Hyderabad
+658,Housing.com,3.8,Internet,1k-5k Employees,Startup,12,Hyderabad
+659,Whitehat jr,3.5,EdTech,5k-10k Employees,Startup,6,Hyderabad
+660,Federal Bank,3.9,Banking,10k-50k Employees,Public,93,Hyderabad
+661,Cure foods,3.9,Fitness & Wellness,501-1k Employees,Startup,8,Hyderabad
+662,UTI Technology Services,3.8,IT Services & Consulting,1k-5k Employees,Public,31,Hyderabad
+663,Tata Motors Finance,4.2,NBFC,1k-5k Employees,Conglomerate,67,Hyderabad
+664,Lodha group,4.1,Real Estate,5k-10k Employees,Fortune India 500,44,Hyderabad
+665,Manjeera Constructions,3.9,Real Estate,501-1k Employees,Public,37,Hyderabad
+666,Easy Quick Web,5.0,IT Services & Consulting,11-50 Employees,Startup,3,Hyderabad
+667,Reliance Smart,4.2,Retail,5k-10k Employees,Public,18,Hyderabad
+668,Saint-Gobain,4.0,Building Material,10k-50k Employees,Forbes Global 2000,359,Hyderabad
+669,Mondelez International,4.4,Food Processing,1k-5k Employees,Forbes Global 2000,12,Hyderabad
+670,Jain Irrigation Systems,4.0,Agriculture,5k-10k Employees,Public,61,Hyderabad
+671,LIC Housing Finance,4.0,NBFC,1k-5k Employees,Public,35,Hyderabad
+672,Diageo,4.0,Beverage,1k-5k Employees,Public,27,Hyderabad
+673,National Informatics Centre,4.2,Government,1k-5k Employees,Central,48,Hyderabad
+674,GlaxoSmithKline Consumer Healthcare,4.5,Pharma,1k-5k Employees,Public,24,Hyderabad
+675,TVS Sundram Fasteners,3.8,Auto Components,1k-5k Employees,Public,62,Hyderabad
+676,Hindustan Petroleum,4.3,Oil & Gas,5k-10k Employees,Central,50,Hyderabad
+677,National Informatics Centre,4.2,Government,1k-5k Employees,Central,48,Hyderabad
+678,TVS Sundram Fasteners,3.8,Auto Components,1k-5k Employees,Public,62,Hyderabad
+679,Harsha Toyota,4.4,Automobile,201-500 Employees (Global),Public,87,Hyderabad
+680,LetsTransport,3.4,Logistics,501-1k Employees,Startup,9,Hyderabad
+681,Mercedes-Benz Research & Development India,4.0,IT Services & Consulting,5k-10k Employees,Public,28,Hyderabad
+682,Greenlam Industries,4.2,Building Material,1k-5k Employees,Public,11,Hyderabad
+683,Apollo Tyres,4.1,Auto Components,5k-10k Employees,Public,52,Hyderabad
+684,NIIT,3.7,Education & Training,1k-5k Employees,Public,43,Hyderabad
+685,Talent Logic,1.9,Recruitment,51-200 Employees,MNC,40,Hyderabad
+686,Chiripal Poly Films,4.3,Packaging,501-1k Employees,Public,12,Hyderabad
+687,Vigocare,3.2,Internet,51-200 Employees,Startup,6,Hyderabad
+688,United Spirits,4.0,Beverage,1k-5k Employees,Public,27,Hyderabad
+689,Lanco Infratech,4.4,Engineering & Construction,5k-10k Employees,Public,38,Hyderabad
+690,Kirloskar Brothers,4.1,Industrial Machinery,1k-5k Employees,Public,136,Hyderabad
+691,Kendriya Vidyalaya Sangathan,4.4,Education & Training,10k-50k Employees,Public,61,Hyderabad
+692,RLabs Enterprise Services,3.8,Recruitment,1k-5k Employees,Public,11,Hyderabad
+693,VIP Industries,4.0,Retail,1k-5k Employees,Public,53,Hyderabad
+694,Ola Electric Mobility,3.3,Automobile,5k-10k Employees,Indian Unicorn,7,Hyderabad
+695,Cygni Energy,4.1,Power,51-200 Employees,Startup,10,Hyderabad
+696,Bristol-Myers Squibb,4.4,Pharma,201-500 Employees,Forbes Global 2000,137,Hyderabad
+697,Coca-Cola Company,4.3,Beverage,5k-10k Employees,Forbes Global 2000,138,Hyderabad
+698,TCI Express,3.9,Logistics,1k-5k Employees,Public,28,Hyderabad
+699,Srei Equipment Finance,4.5,Financial Services,1k-5k Employees,Public,35,Hyderabad
+700,Sheela Foam,4.2,Furniture & Furnishing,1k-5k Employees,Public,53,Hyderabad
+701,Kesoram Industries,3.7,Auto Components,501-1k Employees,Public,105,Hyderabad
+702,Chiripal Poly Films,4.3,Packaging,501-1k Employees,Public,12,Hyderabad
+703,Kirloskar Brothers,4.1,Industrial Machinery,1k-5k Employees,Public,136,Hyderabad
+704,Vigocare,3.2,Internet,51-200 Employees,Startup,6,Hyderabad
+705,United Spirits,4.0,Beverage,1k-5k Employees,Public,27,Hyderabad
+706,Lanco Infratech,4.4,Engineering & Construction,5k-10k Employees,Public,38,Hyderabad
+707,Aleor Dermaceuticals,3.7,Pharma,51-200 Employees,Public,8,Hyderabad
+708,Dr. Agarwal's Eye Hospital,4.0,Healthcare,1k-5k Employees,Public,67,Hyderabad
+709,Pristyn Care,3.7,Healthcare,1k-5k Employees,Indian Unicorn,6,Hyderabad
+710,Wilco Source,4.0,IT Services & Consulting,11-50 Employees,Startup,10,Hyderabad
+711,Kernex Micro Systems,3.4,IT Services & Consulting,201-500 Employees,Public,33,Hyderabad
+712,Onward Technologies Inc,3.2,Software Product,1k-5k Employees,Public,33,Hyderabad
+713,Tv18 Broadcast,4.1,Media & Entertainment,1k-5k Employees,Public,28,Hyderabad
+714,ZTE Corporation,4.0,Telecom,201-500 Employees,Forbes Global 2000,21,Hyderabad
+715,CenturyPly,4.0,Furniture & Furnishing,1k-5k Employees,Public,38,Hyderabad
+716,Rapidue Technologies,3.4,IT Services & Consulting,51-200 Employees,Startup,7,Hyderabad
+717,Smartron India,3.6,Financial Services,51-200 Employees,Startup,11,Hyderabad
+718,Eunimart,2.6,IT Services & Consulting,51-200 Employees,Startup,8,Hyderabad
+719,Nilkamal,3.9,Furniture & Furnishing,1k-5k Employees,Public,43,Hyderabad
+720,Parker Hannifin,4.0,Defence & Aerospace,1k-5k Employees,Forbes Global 2000,107,Hyderabad
+721,TTK Prestige,4.0,Consumer Electronics & Appliances,1k-5k Employees,Public,69,Hyderabad
+722,Ajanta Pharma,4.1,Pharma,5k-10k Employees,Public,51,Hyderabad
+723,Torrent Pharmaceuticals,4.0,Pharma,10k-50k Employees,Public,53,Hyderabad
+724,Ingram Micro,3.9,IT Services & Consulting,1k-5k Employees,Conglomerate,45,Hyderabad
+725,Thales,3.8,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,24,Hyderabad
+726,Patanjali Foods,4.0,FMCG,5k-10k Employees,Public,38,Hyderabad
+727,Redington,4.0,Hardware & Networking,1k-5k Employees,Public,25,Hyderabad
+728,Cos Global,4.9,Software Product,11-50 Employees,Startup,3,Hyderabad
+729,Singareni Collieries Company,4.4,Metals & Mining,10k-50k Employees,State,104,Hyderabad
+730,Torrent Pharmaceuticals,4.0,Pharma,10k-50k Employees,Public,53,Hyderabad
+731,Thales,3.8,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,24,Hyderabad
+732,Ingram Micro,3.9,IT Services & Consulting,1k-5k Employees,Conglomerate,45,Hyderabad
+733,Air India Engineering Services,3.9,Industrial Machinery,501-1k Employees,Public,20,Hyderabad
+734,Ajanta Pharma,4.1,Pharma,5k-10k Employees,Public,51,Hyderabad
+735,Tata Steel,4.2,Iron & Steel,1 Lakh+ Employees,Public,117,Hyderabad
+736,Transport Corporation Of India,4.1,Logistics,1k-5k Employees,Public,66,Hyderabad
+737,Drogo Drones,3.7,Emerging Technologies,51-200 Employees,Startup,3,Hyderabad
+738,Philips,3.9,Consumer Electronics & Appliances,5k-10k Employees,Forbes Global 2000,94,New
+739,Milkbasket,3.8,Internet,501-1k Employees,Startup,9,New
+740,CredRight,4.2,FinTech,51-200 Employees,Startup,8,Hyderabad
+741,Nuvoco Vistas,4.2,Building Material,1k-5k Employees,Fortune India 500,25,New
+742,JK Tyres,3.8,Auto Components,1k-5k Employees,Fortune India 500,73,Hyderabad
+743,TCNS Clothing Company,4.1,Fashion & Textile,501-1k Employees,Public,23,Hyderabad
+744,LOREAL,4.1,Beauty & Personal Care,1k-5k Employees,Forbes Global 2000,33,Pune
+745,Nuvoco Vistas,4.2,Building Material,1k-5k Employees,Fortune India 500,25,Hyderabad
+746,JK Tyres,3.8,Auto Components,1k-5k Employees,Fortune India 500,73,Pune
+747,Celigo,3.5,Software Product,51-200 Employees (Global),Startup,13,Hyderabad
+748,Uflex,3.8,Packaging,5k-10k Employees,Public,39,Pune
+749,AccorHotels,4.3,Hospitality,5k-10k Employees,Forbes Global 2000,57,Pune
+750,Ester Industries,4.2,Chemicals / Agri Inputs,501-1k Employees,Public,39,Khatima
+751,National Small Industries Corporation,3.9,Government,1k-5k Employees,Central,69,Hyderabad
+752,Power Grid Corporation of India,4.4,Power,5k-10k Employees,Fortune India 500,35,Hyderabad
+753,Can Fin Homes,3.4,NBFC,501-1k Employees,Public,37,Hyderabad
+754,International Travel House,4.1,Hospitality,501-1k Employees,Public,43,Hyderabad
+755,InCred Finance,4.0,NBFC,1k-5k Employees,Indian Unicorn,8,Mumbai
+756,Jeevan Scientific Technology,3.7,Healthcare,51-200 Employees,Public,25,Hyderabad/Secunderabad
+757,Zoomcar,3.7,Internet,1k-5k Employees,Startup,12,Bangalore
+758,Bharat IT Services,3.2,IT Services & Consulting,501-1k Employees,Public,28,Hyderabad
+759,GrabOn,3.7,Internet,51-200 Employees,Startup,11,Hyderabad
+760,Dr Lal PathLabs,4.2,Healthcare,1k-5k Employees,Public,75,Hyderabad
+761,Coupa Software Inc,4.0,IT Services & Consulting,501-1k Employees,Public,18,San
+762,Concorde Motors,4.5,Automobile,501-1k Employees (Global),Public,52,Hyderabad
+763,Shivashakthi Group of Companies,4.6,Agro Chemicals,1k-5k Employees (Global),Public,28,Hyderabad
+764,Numbermall,4.6,Internet,11-50 Employees,Startup,12,Hyderabad
+765,DISH TV,3.6,Broadcasting,201-500 Employees,Public,21,Hyderabad
+766,myGate,3.3,Law Enforcement & Security,1k-5k Employees,Startup,8,Hyderabad
+767,ITSource Technologies,3.1,IT Services & Consulting,201-500 Employees,Public,26,Hyderabad
+768,Apollo Munich Health Insurance,3.9,Financial Services,1k-5k Employees,Public,17,Ahmedabad
+769,Sri Chaitanya Schools,3.9,Education & Training,11-50 Employees,Public,38,Hyderabad
+770,Godfrey Phillips India,4.1,FMCG,501-1k Employees,Public,91,Hyderabad
+771,FDC,4.1,Pharma,5k-10k Employees,Public,84,Hyderabad
+772,HARMAN,3.9,Consumer Electronics & Appliances,5k-10k Employees,Public,15,Hyderabad
+773,DISH TV,3.6,Broadcasting,201-500 Employees,Public,21,Hyderabad
+774,PayPal,3.9,FinTech,1k-5k Employees,Forbes Global 2000,26,Hyderabad
+775,Kalyan Jewellers,4.7,Jewellery,5k-10k Employees,Fortune India 500,31,Hyderabad
+776,Avanse Financial Services,4.0,Financial Services,501-1k Employees,Startup,12,Pune
+777,JK Tech,3.8,IT Services & Consulting,501-1k Employees,Public,30,Pune
+778,PI Industries,4.2,Agro Chemicals,1k-5k Employees,Public,77,Pune
+779,Suzlon Group,4.2,Power,5k-10k Employees,Public,29,Pune
+780,Macleods Pharmaceuticals,3.8,Pharma,10k-50k Employees,Public,38,Pune
+781,Macleods Pharmaceuticals,3.8,Pharma,10k-50k Employees,Public,38,Hyderabad
+782,Sasken,3.5,IT Services & Consulting,1k-5k Employees,Public,35,Hyderabad
+783,The Indian Hume Pipe Co.,4.1,Building Material,1k-5k Employees,Public,98,Hyderabad
+784,Avanse Financial Services,4.0,Financial Services,501-1k Employees,Startup,12,Hyderabad
+785,JK Tech,3.8,IT Services & Consulting,501-1k Employees,Public,30,Hyderabad
+786,Adani Group,4.0,Power,10k-50k Employees,Public,36,Hyderabad
+787,Prajay Engineers Syndicate,3.7,Engineering & Construction,51-200 Employees,Public,38,Hyderabad
+788,Zoylo Digihealth,3.2,Internet,51-200 Employees,Startup,8,Hyderabad
+789,Syntizen Technologies,3.2,Internet,11-50 Employees,Startup,10,Hyderabad
+790,Yamaha Motor,4.2,Automobile,1k-5k Employees,Fortune India 500,69,Pune
+791,Spoton Logistics,4.5,Logistics,1k-5k Employees,Startup,12,Pune
+792,Ujjivan Small Finance Bank,4.1,Banking,10k-50k Employees,Public,7,Pune
+793,AirAsia,3.6,Aviation,1k-5k Employees,Public,11,Pune
+794,Orient Electric,4.0,Consumer Electronics & Appliances,501-1k Employees,Public,70,Pune
+795,Imarticus Learning,4.2,EdTech,501-1k Employees,Startup,12,Pune
+796,Wicked Ride Adventures,4.0,Internet,51-200 Employees,Startup,10,Bangalore
+797,Kaya Skin Clinic,4.1,Beauty & Personal Care,501-1k Employees,Public,21,Hyderabad
+798,Atlas Copco,4.3,Industrial Machinery,1k-5k Employees,Public,151,Hyderabad
+799,MTR Foods,4.2,FMCG,1k-5k Employees,Forbes Global 2000,100,Hyderabad
+800,Indoco Remedies,3.7,Pharma,5k-10k Employees,Public,77,Hyderabad
+801,Central Reserve Police Force,4.6,Government,1 Lakh+ Employees,Central,85,Hyderabad
+802,Signify,3.6,Consumer Electronics & Appliances,1k-5k Employees,Conglomerate,8,Hyderabad
+803,Time Technoplast,3.8,Petrochemicals,1k-5k Employees,Public,32,Hyderabad
+804,Lava International,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,15,Hyderabad
+805,InovarTech Private Limted,3.8,IT Services & Consulting,51-200 Employees,Startup,7,Hyderabad
+806,Lumen Technologies,4.0,Hardware & Networking,1k-5k Employees,Forbes Global 2000,94,Gurgaon
+807,Time Technoplast,3.8,Petrochemicals,1k-5k Employees,Public,32,Mumbai
+808,CG Power and Industrial Solutions,3.9,Electrical Equipment,1k-5k Employees,Public,87,Gurgaon
+809,JSW Steel,4.0,Iron & Steel,10k-50k Employees,Public,42,Gurgaon
+810,Eveready Industries,4.0,Consumer Electronics & Appliances,1k-5k Employees,Public,90,Gurgaon
+811,Skipper,3.8,Power,1k-5k Employees,Public,43,Gurgaon
+812,Nippon Life India Asset Management,4.7,Financial Services,1k-5k Employees,Public,29,Gurgaon
+813,Vertex,4.1,Pharma,501-1k Employees,Conglomerate,35,Hyderabad
+814,Signify,3.6,Consumer Electronics & Appliances,1k-5k Employees,Conglomerate,8,Hyderabad
+815,InovarTech Private Limted,3.8,IT Services & Consulting,51-200 Employees,Startup,7,Hyderabad
+816,Ministry of Defence,4.4,Government,1 Lakh+ Employees,Central,77,Hyderabad
+817,Everest Fleet,3.8,Internet,501-1k Employees,Startup,8,Hyderabad
+818,Narayana Health,4.2,Healthcare,10k-50k Employees,Fortune India 500,24,Hyderabad
+819,Walsons Facility Solutions,4.0,Recruitment,5k-10k Employees,Conglomerate,28,Hyderabad
+820,MIC Electronics,3.5,Consumer Electronics & Appliances,201-500 Employees,Public,36,Hyderabad
+821,UTC Fire & Security,4.5,Law Enforcement & Security,50k-1 Lakh Employees (Global),Public,21,Hyderabad
+822,CustomFurnish,4.1,Internet,51-200 Employees,Startup,10,Hyderabad
+823,International Paper APPM,4.2,Pulp & Paper,10k-50k Employees,Public,60,Hyderabad
+824,Synergy Netsoft,4.6,IT Services & Consulting,501-1k Employees,Public,31,Hyderabad
+825,Foyr,3.5,Internet,11-50 Employees,Startup,10,Hyderabad
+826,Scoop Technologies,4.7,Internet,51-200 Employees,Startup,9,Hyderabad
+827,BDO,3.5,Accounting & Auditing,5k-10k Employees,Public,61,Hyderabad
+828,Ipca Laboratories,4.0,Pharma,10k-50k Employees,Public,75,Hyderabad
+829,Snowman Logistics,4.1,Logistics,201-500 Employees,Public,28,Hyderabad
+830,Ambuja Cements,4.0,Building Material,5k-10k Employees,Public,41,Hyderabad
+831,Apollo Clinic,4.0,Healthcare,201-500 Employees,Public,22,Hyderabad
+832,Dizitive It Solutions,3.7,IT Services & Consulting,11-50 Employees,Startup,8,Hyderabad
+833,ARCADIS,4.2,IT Services & Consulting,1k-5k Employees,Public,15,Hyderabad
+834,Net Access India,4.0,IT Services & Consulting,201-500 Employees,Public,27,Hyderabad
+835,Lakme,4.3,Beauty & Personal Care,201-500 Employees,Public,44,Hyderabad
+836,Action Construction Equipment,3.8,Industrial Machinery,1k-5k Employees,Public,29,Hyderabad
+837,Microchip Technology,4.2,Semiconductors,1k-5k Employees,Forbes Global 2000,35,Hyderabad
+838,Confederation of Indian Industry,3.5,Law Enforcement & Security,5k-10k Employees,Central,129,Hyderabad
+839,CyberArk,3.7,Software Product,51-200 Employees,Public,25,Hyderabad
+840,Cera Sanitaryware,4.3,Building Material,1k-5k Employees,Public,44,Hyderabad
+841,DP World,4.1,Logistics,1k-5k Employees,Public,19,Hyderabad
+842,Medlife,3.7,Internet,1k-5k Employees,Startup,10,Hyderabad
+843,Government of India,4.3,Government,1 Lakh+ Employees,Central,74,Hyderabad
+844,BASF,4.5,Chemicals,1k-5k Employees,Fortune India 500,81,Hyderabad
+845,Simplex Infrastructures,3.3,Engineering & Construction,1k-5k Employees,Public,100,Hyderabad
+846,Honda,4.2,Automobile,10k-50k Employees,Forbes Global 2000,39,Hyderabad
+847,TTK Healthcare,4.2,Healthcare,1k-5k Employees,Public,96,Hyderabad
+848,Alien Technology Transfer,2.5,Management Consulting,51-200 Employees (Global),Public,11,Hyderabad
+849,Waters Corporation,4.4,Clinical Research,501-1k Employees,Forbes Global 2000,66,Hyderabad
+850,Adonmo,3.9,Marketing & Advertising,501-1k Employees,Startup,8,Hyderabad
+851,Prince Pipes & Fittings,4.3,Building Material,1k-5k Employees,Public,37,Hyderabad
+852,DS Group,4.1,FMCG,1k-5k Employees,Conglomerate,95,Hyderabad
+853,Orix Auto Infrastructure Services,4.4,Logistics,201-500 Employees,Public,29,Hyderabad
+854,Captain Fresh,3.8,Food Processing,501-1k Employees,Startup,5,Hyderabad
+855,Ceat Tyres,4.1,Auto Components,5k-10k Employees,Public,66,Hyderabad
+856,Core Integra Consulting Services,3.6,Recruitment,501-1k Employees,Conglomerate,13,Hyderabad
+857,Orix Auto Infrastructure Services,4.4,Logistics,201-500 Employees,Public,29,Hyderabad
+858,Renault,4.3,Automobile,10k-50k Employees,Forbes Global 2000,126,Hyderabad
+859,ADTRAN,4.5,Telecom,51-200 Employees,Public,39,Hyderabad
+860,ADTRAN,4.5,Telecom,51-200 Employees,Public,39,Hyderabad
+861,CAT Technologies,3.7,IT Services & Consulting,51-200 Employees,Public,25,Hyderabad
+862,Thyrocare Technologies,3.6,Healthcare,1k-5k Employees,Public,28,Navi
+863,TotalEnergies,3.9,Oil & Gas,1k-5k Employees,Forbes Global 2000,100,Mumbai
+864,Plaza Premium Lounge,4.4,Hospitality,201-500 Employees,Public,26,New
+865,Volkswagen,4.2,Automobile,1k-5k Employees,Forbes Global 2000,23,Pune
+866,Adishwar India,3.8,Internet,501-1k Employees,Public,27,Bangalore
+867,JSW Group,4.1,Iron & Steel,10k-50k Employees,Conglomerate,42,Mumbai
+868,Canon,4.2,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,87,Gurgaon
+869,Toothsi,2.8,Internet,501-1k Employees,Startup,6,Mumbai
+870,Nath Bio - Genes,4.0,Agro Chemicals,501-1k Employees,Public,45,Aurangabad
+871,SS Infrastructure,3.2,Engineering & Construction,51-200 Employees,Public,37,Hyderabad
+872,Premier Explosives,3.9,Chemicals / Agri Inputs,1k-5k Employees,Public,44,Hyderabad
+873,Deepak Nitrite,3.9,Chemicals,1k-5k Employees,Public,54,Vadodara
+874,Premier Explosives,3.9,Chemicals / Agri Inputs,1k-5k Employees,Public,44,Hyderabad
+875,Medikabazaar,4.7,Medical Equipment,501-1k Employees,Startup,10,Hyderabad
+876,JSW Group,4.1,Iron & Steel,10k-50k Employees,Conglomerate,42,Hyderabad
+877,Volkswagen,4.2,Automobile,1k-5k Employees,Forbes Global 2000,23,Hyderabad
+878,Adishwar India,3.8,Internet,501-1k Employees,Public,27,Hyderabad
+879,Canon,4.2,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,87,Hyderabad
+880,GTL Infrastructure,4.6,Hardware & Networking,1k-5k Employees,Public,20,Hyderabad
+881,REPCO HOME FINANCE,3.9,NBFC,501-1k Employees,Public,24,Hyderabad
+882,Smartworks,3.4,Real Estate,201-500 Employees,Startup,8,Hyderabad
+883,Aditya Birla Housing Finance,4.0,Financial Services,1k-5k Employees,Public,15,Hyderabad
+884,Indira Gandhi International Airport,3.9,Urban Transport,10k-50k Employees (Global),Public,62,Hyderabad
+885,RentoMojo,4.4,Internet,501-1k Employees,Startup,10,Hyderabad
+886,Hike Education Private Limited,3.3,EdTech,201-500 Employees,Startup,10,Gurgaon
+887,NanoHealth,3.4,Internet,51-200 Employees,Startup,4,Hyderabad
+888,Hike Education Private Limited,3.3,EdTech,201-500 Employees,Startup,10,Hyderabad
+889,Banyan Nation,3.6,Internet,11-50 Employees,Startup,11,Hyderabad
+890,Arvind Group,4.1,Fashion & Textile,10k-50k Employees,Public,93,Hyderabad
+891,Nexxoft Infotel,4.5,Gaming,51-200 Employees (Global),Public,33,Hyderabad
+892,Jumbotail Technologies,3.7,Retail,201-500 Employees,Startup,9,Hyderabad
+893,Bluestone.com,3.8,Jewellery,501-1k Employees,Startup,13,Hyderabad
+894,DealShare,3.5,Internet,1k-5k Employees,Indian Unicorn,6,Hyderabad
+895,Ccl Products,3.9,Food Processing,501-1k Employees,Public,30,Hyderabad
+896,Balmer Lawrie,4.0,Packaging,501-1k Employees,Central,157,Hyderabad
+897,Faasos Food Services,4.0,Internet,1k-5k Employees,Indian Unicorn,14,Hyderabad
+898,Deccan Chronicle Holdings,4.4,Printing & Publishing,201-500 Employees,Public,94,Hyderabad
+899,Cybermate Infotek,3.3,IT Services & Consulting,201-500 Employees (Global),Public,30,Hyderabad
+900,GE Money,4.8,Financial Services,1k-5k Employees,Public,92,Hyderabad
+901,"Lantronix India Pvt. Ltd.,",3.8,Hardware & Networking,51-200 Employees,Public,35,Hyderabad
+902,Cadila Pharmaceuticals,3.6,Pharma,5k-10k Employees,Public,73,Hyderabad
+903,Sentini,3.7,Medical Equipment,51-200 Employees,Conglomerate,24,Hyderabad
+904,Swiss Re,4.0,Insurance,1k-5k Employees,Public,161,Hyderabad
+905,Tilaknagar Industries Ltd.,3.8,Beverage,201-500 Employees,Public,91,Hyderabad
+906,General Mills,4.2,Food Processing,1k-5k Employees,Forbes Global 2000,96,Hyderabad
+907,Tribhovandas Bhimji Zaveri,4.2,Metals & Mining,1k-5k Employees,Public,160,Hyderabad
+908,Kansai Nerolac Paints,3.9,Chemicals,1k-5k Employees,Public,104,Hyderabad
+909,Amrutanjan Health Care,3.8,Pharma,1k-5k Employees,Public,131,Hyderabad
+910,Swiss Re,4.0,Insurance,1k-5k Employees,Public,161,Hyderabad
+911,Amrutanjan Health Care,3.8,Pharma,1k-5k Employees,Public,131,Chennai
+912,KPIT Technologies,3.6,Software Product,5k-10k Employees,Public,34,Ahmedabad
+913,Access Livelihoods Consulting,2.8,Management Consulting,51-200 Employees (Global),Public,19,Hyderabad
+914,Times Internet,3.6,Internet,10k-50k Employees,Public,25,Hyderabad
+915,Alp Consulting,3.3,Recruitment,201-500 Employees,Public,28,Hyderabad
+916,Bacardi,3.9,Beverage,201-500 Employees,Conglomerate,162,Hyderabad
+917,Trigyn Technologies,3.8,IT Services & Consulting,501-1k Employees,Public,38,Hyderabad
+918,Ugro Capital,3.8,NBFC,1k-5k Employees,Public,31,Hyderabad
+919,Tribhovandas Bhimji Zaveri,4.2,Metals & Mining,1k-5k Employees,Public,160,Hyderabad
+920,Turtlemint,3.6,Internet,1k-5k Employees,Startup,9,Hyderabad
+921,truData Solutions,4.7,IT Services & Consulting,11-50 Employees,Startup,6,Hyderabad
+922,truData Solutions,4.7,IT Services & Consulting,11-50 Employees,Startup,6,Hyderabad
+923,SignalX,3.2,Internet,11-50 Employees,Startup,6,Hyderabad
+924,QUICK HEAL TECHNOLOGIES,3.9,Software Product,1k-5k Employees,Public,29,Hyderabad
+925,Indostar Capital Finance,4.5,NBFC,1k-5k Employees,Public,13,Hyderabad
+926,Veeva Systems,3.4,Software Product,1k-5k Employees (Global),Forbes Global 2000,17,Hyderabad
+927,Merino Industries,2.7,Furniture & Furnishing,1k-5k Employees,Public,56,Hyderabad
+928,Merino Industries,2.7,Furniture & Furnishing,1k-5k Employees,Public,56,Hyderabad
+929,DLF,4.0,Real Estate,501-1k Employees,Public,78,Hyderabad
+930,Rajvir Industries,4.3,Fashion & Textile,501-1k Employees,Public,62,Hyderabad
+931,Bounce,4.0,Automobile,501-1k Employees,Startup,10,Hyderabad
+932,Muzigal,4.4,Internet,11-50 Employees,Startup,4,Hyderabad
+933,Mfine,3.5,Internet,501-1k Employees,Startup,7,Hyderabad
+934,Flex,4.1,Logistics,5k-10k Employees,Forbes Global 2000,55,Hyderabad
+935,Agarwal Packers and Movers Limited,3.6,Logistics,5k-10k Employees,Public,37,Hyderabad
+936,ITI,3.7,Hardware & Networking,1k-5k Employees,Central,76,Hyderabad
+937,JK Cement,4.2,Building Material,1k-5k Employees,Public,49,Hyderabad
+938,Videocon d2h,3.9,Internet,501-1k Employees,Public,15,Hyderabad
+939,Novo Nordisk,4.1,Pharma,1k-5k Employees,Forbes Global 2000,101,Hyderabad
+940,Symphony,4.1,Consumer Electronics & Appliances,201-500 Employees,Public,36,Hyderabad
+941,Mfine,3.5,Internet,501-1k Employees,Startup,7,Hyderabad
+942,Novo Nordisk,4.1,Pharma,1k-5k Employees,Forbes Global 2000,101,Hyderabad
+943,Videocon d2h,3.9,Internet,501-1k Employees,Public,15,Hyderabad
+944,The Indian Hotels Company,4.2,Hospitality,10k-50k Employees,Fortune India 500,125,Hyderabad
+945,Ricoh,3.9,IT Services & Consulting,1-10 Employees,Public,88,Hyderabad
+946,Anjani Portland Cement,4.4,Building Material,501-1k Employees,Public,25,Hyderabad
+947,House of Beauty,4.1,Internet,51-200 Employees,Startup,5,Hyderabad
+948,Medfin India,3.3,Internet,51-200 Employees,Startup,8,Hyderabad
+949,Keerthi Industries,4.6,Building Material,501-1k Employees,Public,42,Hyderabad
+950,The Indian Hotels Company,4.2,Hospitality,10k-50k Employees,Fortune India 500,125,Hyderabad
+951,Ricoh,3.9,IT Services & Consulting,1-10 Employees,Public,88,Hyderabad
+952,Maharashtra Seamless,3.7,Building Material,1k-5k Employees,Public,36,Hyderabad
+953,SSV Creative Labs,4.1,Internet,11-50 Employees,Startup,4,Hyderabad
+954,ITCrats Info Solutions,3.9,IT Services & Consulting,51-200 Employees,Startup,10,Hyderabad
+955,HT Media,3.4,Media & Entertainment,1k-5k Employees,Public,100,Hyderabad
+956,Husys Consulting,4.0,Recruitment,51-200 Employees,Public,22,Hyderabad
+957,Airports Authority of India,4.4,Aviation,10k-50k Employees,Central,29,Hyderabad
+958,Well Point IT Solutions,4.2,IT Services & Consulting,1-10 Employees,MNC,11,Hyderabad
+959,MagicPin,3.2,Internet,201-500 Employees,Startup,9,Hyderabad
+960,3LOQ Labs,3.1,Internet,11-50 Employees,Startup,12,Hyderabad
+961,Control Print,3.9,Consumer Electronics & Appliances,501-1k Employees,Public,33,Hyderabad
+962,Inditrade Capital,4.1,NBFC,201-500 Employees,Public,30,Hyderabad
+963,NSE.IT,3.6,IT Services & Consulting,1k-5k Employees,Public,25,Hyderabad
+964,Maharashtra Seamless,3.7,Building Material,1k-5k Employees,Public,36,Hyderabad
+965,Keerthi Industries,4.6,Building Material,501-1k Employees,Public,42,Hyderabad
+966,Greenply,4.0,Furniture & Furnishing,1k-5k Employees,Public,40,Hyderabad
+967,Solon India,4.1,Internet,201-500 Employees (Global),Startup,12,Hyderabad
+968,NTT Global Networks,4.1,IT Services & Consulting,501-1k Employees,Public,5,Hyderabad
+969,India Post,3.9,Government,1 Lakh+ Employees,Public,170,Hyderabad
+970,Brigade Group,4.2,Real Estate,501-1k Employees,Public,38,Hyderabad
+971,Brigade Group,4.2,Real Estate,501-1k Employees,Public,38,Hyderabad
+972,PropTiger.com,4.2,Internet,1k-5k Employees,Startup,13,Hyderabad
+973,Religare,3.9,Financial Services,1k-5k Employees,Public,40,Hyderabad
+974,Rungta Irrigation,3.4,Building Material,51-200 Employees,Public,38,Hyderabad
+975,KernelSphere Technologies,4.0,Internet,51-200 Employees (Global),Startup,8,Hyderabad
+976,THE STARS GROUP,3.4,Gaming,1k-5k Employees (Global),Public,23,Hyderabad
+977,UrbanKisaan,3.5,Internet,51-200 Employees,Startup,7,Hyderabad
+978,LeanIX,3.8,IT Services & Consulting,11-50 Employees,Startup,12,Hyderabad
+979,Radico Khaitan,4.0,Beverage,1k-5k Employees,Public,81,Hyderabad
+980,Shriram Group,4.1,Financial Services,50k-1 Lakh Employees,Conglomerate,50,Hyderabad
+981,AIG,3.9,Insurance,10k-50k Employees,Forbes Global 2000,15,Hyderabad
+982,Modernize Chip Solutions,3.5,Semiconductors,51-200 Employees,Startup,4,Hyderabad
+983,Jindal Steel and Power,4.0,Iron & Steel,5k-10k Employees,Fortune India 500,45,Hyderabad
+984,Kajaria Ceramics,4.2,Building Material,1k-5k Employees,Public,39,Hyderabad
+985,Kirloskar Oil Engines,4.2,Industrial Machinery,1k-5k Employees,Public,78,Hyderabad
+986,Kellogg,4.3,FMCG,1k-5k Employees,Forbes Global 2000,118,Hyderabad
+987,Haier Appliances India,4.1,Consumer Electronics & Appliances,1k-5k Employees,Conglomerate,20,Hyderabad
+988,Sany Heavy Industry,4.0,Industrial Machinery,1k-5k Employees,Forbes Global 2000,35,Hyderabad
+989,Bharat Forge,3.9,Iron & Steel,1k-5k Employees,Public,63,Hyderabad
+990,ICRA,3.1,Financial Services,201-500 Employees,Public,33,Hyderabad
+991,Patel Engineering,4.3,Engineering & Construction,1k-5k Employees,Public,75,Hyderabad
+992,Mitsubishi Electric,4.2,Electronics Manufacturing,501-1k Employees,Forbes Global 2000,103,Hyderabad
+993,Patel Engineering,4.3,Engineering & Construction,1k-5k Employees,Public,75,Hyderabad
+994,Sany Heavy Industry,4.0,Industrial Machinery,1k-5k Employees,Forbes Global 2000,35,Hyderabad
+995,ICRA,3.1,Financial Services,201-500 Employees,Public,33,Hyderabad
+996,Bharat Forge,3.9,Iron & Steel,1k-5k Employees,Public,63,Hyderabad
+997,Mitsubishi Electric,4.2,Electronics Manufacturing,501-1k Employees,Forbes Global 2000,103,Hyderabad
+998,Telstra,4.3,Telecom,1k-5k Employees,Forbes Global 2000,32,Hyderabad
+999,Kirloskar Oil Engines,4.2,Industrial Machinery,1k-5k Employees,Public,78,Hyderabad
+1000,Shriram Group,4.1,Financial Services,50k-1 Lakh Employees,Conglomerate,50,Hyderabad
+1001,Avantha Technologies,3.4,IT Services & Consulting,201-500 Employees,Public,20,Hyderabad
+1002,Ramco Industries,4.2,Building Material,1k-5k Employees,Public,32,Hyderabad
+1003,AstraZeneca,4.2,Pharma,501-1k Employees,Public,25,Hyderabad
+1004,Godrej Consumer Products,4.2,FMCG,1k-5k Employees,Public,23,Pune
+1005,AIG,3.9,Insurance,10k-50k Employees,Forbes Global 2000,15,Bangalore
+1006,Modernize Chip Solutions,3.5,Semiconductors,51-200 Employees,Startup,4,Hyderabad
+1007,Jindal Steel and Power,4.0,Iron & Steel,5k-10k Employees,Fortune India 500,45,Pune
+1008,Walbrydge Technologies,4.5,Software Product,201-500 Employees,Conglomerate,7,Hyderabad
+1009,Zeta,3.4,Emerging Technologies,501-1k Employees,Indian Unicorn,9,Hyderabad
+1010,Modern Foods,3.8,Food Processing,51-200 Employees,Public,59,Hyderabad
+1011,Ceinsys Tech,3.9,IT Services & Consulting,501-1k Employees,Public,26,Hyderabad
+1012,J B Chemicals And Pharmaceuticals,3.9,Pharma,1k-5k Employees,Public,48,Hyderabad
+1013,Decisions,2.9,Software Product,51-200 Employees,Startup,16,Hyderabad
+1014,ENTRI SOFTWARE,3.7,EdTech,51-200 Employees,Startup,7,Hyderabad
+1015,CMR Group of Institutions,3.9,Education & Training,501-1k Employees,Public,33,Hyderabad
+1016,Unacademy,3.3,EdTech,1k-5k Employees,Indian Unicorn,9,Hyderabad
+1017,ShopX,4.4,Internet,201-500 Employees,Startup,9,Hyderabad
+1018,Caplin Point Laboratories,4.1,Pharma,501-1k Employees,Public,34,Hyderabad
+1019,Weddingz.in,4.1,Internet,501-1k Employees,Startup,9,Hyderabad
+1020,CMR Group of Institutions,3.9,Education & Training,501-1k Employees,Public,33,Hyderabad
+1021,ENTRI SOFTWARE,3.7,EdTech,51-200 Employees,Startup,7,Hyderabad
+1022,J B Chemicals And Pharmaceuticals,3.9,Pharma,1k-5k Employees,Public,48,Hyderabad
+1023,AceMicromatic Group,4.4,Industrial Machinery,501-1k Employees,Public,45,Hyderabad
+1024,Honeywell International India,4.0,Defence & Aerospace,10k-50k Employees,Forbes Global 2000,118,Hyderabad
+1025,Financepeer,3.1,Financial Services,201-500 Employees,Startup,7,Hyderabad
+1026,Williams Lea,4.1,BPO,1k-5k Employees,Public,204,Hyderabad
+1027,Milky Mist Dairy Food,3.6,Food Processing,501-1k Employees,Startup,10,Hyderabad
+1028,Prestige Estates Projects,4.5,Real Estate,1k-5k Employees,Public,38,Hyderabad
+1029,Prithvi Information Solutions,3.8,IT Services & Consulting,1k-5k Employees,Public,26,Hyderabad
+1030,Rolta India,2.7,IT Services & Consulting,501-1k Employees,Public,35,Hyderabad
+1031,Technvision Ventures,4.6,IT Services & Consulting,51-200 Employees,Public,44,Hyderabad
+1032,Fenoplast,4.6,Petrochemicals,201-500 Employees (Global),Public,48,Hyderabad
+1033,Technvision Ventures,4.6,IT Services & Consulting,51-200 Employees,Public,44,Hyderabad
+1034,Brand Factory,4.5,Retail,10k-50k Employees,Public,18,Hyderabad
+1035,MetroMedi,4.5,Internet,51-200 Employees,Startup,6,Hyderabad
+1036,Copado,4.9,Internet,51-200 Employees (Global),Startup,12,Hyderabad
+1037,Kalpataru Group,3.9,Real Estate,1k-5k Employees,Conglomerate,55,Hyderabad
+1038,Jetking Infotrain,3.7,Education & Training,51-200 Employees,Public,77,Hyderabad
+1039,Tracxn,3.2,Internet,501-1k Employees,Startup,11,Hyderabad
+1040,ICON Plc,4.2,Clinical Research,1k-5k Employees,Public,34,Hyderabad
+1041,Kalpataru Group,3.9,Real Estate,1k-5k Employees,Conglomerate,55,Hyderabad
+1042,Jetking Infotrain,3.7,Education & Training,51-200 Employees,Public,77,Hyderabad
+1043,Government of Andhra Pradesh,3.9,Government,1 Lakh+ Employees,Public,71,Hyderabad
+1044,Wapcos,3.6,Engineering & Construction,1k-5k Employees,State,55,Hyderabad
+1045,Sincro,3.6,Marketing & Advertising,201-500 Employees,Public,58,Hyderabad
+1046,Ge India Industrial,4.3,Industrial Machinery,201-500 Employees,Conglomerate,122,Hyderabad
+1047,Utkarsh Small Finance Bank,3.9,Banking,10k-50k Employees,Public,15,Hyderabad
+1048,TCL,4.1,Consumer Electronics & Appliances,51-200 Employees,Forbes Global 2000,43,Hyderabad
+1049,Kotak Mahindra General Insurance,3.8,Insurance,501-1k Employees,Public,9,Hyderabad
+1050,Electronica Finance,4.2,NBFC,1k-5k Employees,Public,34,Hyderabad
+1051,Woodenstreet.com,3.5,Furniture & Furnishing,51-200 Employees,Startup,9,Hyderabad
+1052,Healthians,3.5,Healthcare,1k-5k Employees,Startup,11,Hyderabad
+1053,Khadims,3.9,Fashion & Textile,1k-5k Employees,Public,59,Hyderabad
+1054,Japfa Comfeed,4.2,Agriculture,501-1k Employees,Public,29,Hyderabad
+1055,Etrio,3.2,Internet,11-50 Employees,Startup,7,Hyderabad
+1056,Housejoy,4.2,Facility Management Services,201-500 Employees,Startup,10,Hyderabad
+1057,The KCP,4.1,Building Material,1k-5k Employees,Public,83,Hyderabad
+1058,Dalmia Bharat Cement,4.1,Building Material,5k-10k Employees,Public,89,Hyderabad
+1059,Aries Agro,4.1,Agro Chemicals,501-1k Employees,Public,55,Hyderabad
+1060,Adani Green Energy,4.2,Power,1k-5k Employees,Fortune India 500,9,Hyderabad
+1061,Japfa Comfeed,4.2,Agriculture,501-1k Employees,Public,29,Hyderabad
+1062,Etrio,3.2,Internet,11-50 Employees,Startup,7,Hyderabad
+1063,Adani Green Energy,4.2,Power,1k-5k Employees,Fortune India 500,9,Hyderabad
+1064,Goodyear,4.0,Auto Components,501-1k Employees,Public,126,Hyderabad
+1065,The Hershey Company,4.2,Food Processing,201-500 Employees,Forbes Global 2000,130,Hyderabad
+1066,Central Bank of India,4.0,Banking,10k-50k Employees,Public,113,Hyderabad
+1067,Telesonic Networks,3.7,Telecom,5k-10k Employees,Public,15,Hyderabad
+1068,Educomp Solutions,3.7,EdTech,11-50 Employees,Public,30,Hyderabad
+1069,Aries Agro,4.1,Agro Chemicals,501-1k Employees,Public,55,Hyderabad
+1070,United India Insurance Company,4.3,Insurance,10k-50k Employees,Public,86,Hyderabad
+1071,Nettlinx,3.1,IT Services & Consulting,51-200 Employees,Public,25,Hyderabad
+1072,Raptakos Brett and Company,3.6,Pharma,201-500 Employees,Public,94,Hyderabad
+1073,Zydus Wellness,3.9,FMCG,501-1k Employees,Public,36,Hyderabad
+1074,Rail Vikas Nigam,3.3,FMCG,501-1k Employees,Fortune India 500,21,Hyderabad
+1075,PCS Technology,4.5,IT Services & Consulting,1k-5k Employees,Public,43,Hyderabad
+1076,Healthcare At Home,3.6,Healthcare,1k-5k Employees,Startup,12,Hyderabad
+1077,The KCP,4.1,Building Material,1k-5k Employees,Public,83,Hyderabad
+1078,Elixr Labs Technologies,4.6,IT Services & Consulting,51-200 Employees,Startup,3,Hyderabad
+1079,Tracxn,3.2,Internet,501-1k Employees,Startup,11,Hyderabad
+1080,Housejoy,4.2,Facility Management Services,201-500 Employees,Startup,10,Hyderabad
+1081,Dalmia Bharat Cement,4.1,Building Material,5k-10k Employees,Public,89,Hyderabad
+1082,Orient Technologies,3.9,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,32,Hyderabad
+1083,Indian Terrain Fashions,4.1,Fashion & Textile,201-500 Employees,Public,24,Hyderabad
+1084,Khadims,3.9,Fashion & Textile,1k-5k Employees,Public,59,Hyderabad
+1085,Andhra Paper,3.8,Pulp & Paper,1k-5k Employees,Public,60,Hyderabad
+1086,BGR Energy Systems,3.9,Engineering & Construction,1k-5k Employees,Public,39,Hyderabad
+1087,JOVEO,3.4,Software Product,51-200 Employees,Startup,7,Hyderabad
+1088,Starbucks,4.3,Hospitality,1k-5k Employees,Public,53,Hyderabad
+1089,Celebal Technologies,2.7,IT Services & Consulting,1k-5k Employees,Startup,9,Hyderabad
+1090,Skyroot Aerospace,3.9,Defence & Aerospace,51-200 Employees,Startup,6,Hyderabad
+1091,Oaknorth Bank,3.1,Banking,51-200 Employees,Startup,9,Hyderabad
+1092,Puravankara,3.7,Real Estate,501-1k Employees,Public,49,Hyderabad
+1093,DB Schenker,4.3,Logistics,1k-5k Employees,Conglomerate,34,Hyderabad
+1094,Sintex-bapl,3.8,Petrochemicals,501-1k Employees,Public,17,Hyderabad
+1095,Cummins,4.4,Industrial Machinery,1k-5k Employees,Fortune India 500,105,Hyderabad
+1096,VOIZ,4.4,BPO,201-500 Employees,Startup,2,Hyderabad
+1097,Skyroot Aerospace,3.9,Defence & Aerospace,51-200 Employees,Startup,6,Hyderabad
+1098,AGC Networks,3.7,IT Services & Consulting,501-1k Employees,Public,38,Hyderabad
+1099,Geological Survey of India,3.6,Government,1k-5k Employees (Global),Central,173,Hyderabad
+1100,Go First,3.7,Aviation,1k-5k Employees,Public,19,Hyderabad
+1101,Kissht Finance,4.1,FinTech,201-500 Employees,Startup,9,Hyderabad
+1102,Sharp Business Systems India,3.5,Consumer Electronics & Appliances,51-200 Employees,Forbes Global 2000,112,Hyderabad
+1103,Legrand,3.7,Electrical Equipment,1k-5k Employees,Forbes Global 2000,164,Hyderabad
+1104,Jagsonpal Pharmaceuticals,3.6,Pharma,1k-5k Employees,Public,60,Hyderabad
+1105,IDBI Capital,3.5,Financial Services,51-200 Employees,Public,31,Hyderabad
+1106,Religare Finvest,4.4,Financial Services,1k-5k Employees,Public,18,Hyderabad
+1107,JSW Energy,4.2,Power,1k-5k Employees,Public,30,Hyderabad
+1108,Baker Hughes,4.1,Oil & Gas,1k-5k Employees,Conglomerate,8,Hyderabad
+1109,Tata ClassEdge,3.5,EdTech,501-1k Employees,Public,13,Hyderabad
+1110,VMware Software,4.5,Software Product,5k-10k Employees,Forbes Global 2000,26,Hyderabad
+1111,Apar Industries,4.1,Electrical Equipment,1k-5k Employees,Public,66,Hyderabad
+1112,Karnataka Soaps & Detergents,4.0,FMCG,501-1k Employees,Public,108,Hyderabad
+1113,The Jaypee Group,3.9,Engineering & Construction,10k-50k Employees,Public,45,Hyderabad
+1114,Levi Strauss & Co.,4.5,Fashion & Textile,1k-5k Employees,Public,171,Hyderabad
+1115,Fujitec,3.9,Electronics Manufacturing,51-200 Employees,Public,14,Hyderabad
+1116,Sri Chakra Cement,4.7,Engineering & Construction,501-1k Employees,Public,39,Hyderabad
+1117,Linde India,4.1,Oil & Gas,201-500 Employees,Public,145,Hyderabad
+1118,Go First,3.7,Aviation,1k-5k Employees,Public,19,Hyderabad
+1119,Zuari Agro Chemicals,4.1,Agro Chemicals,501-1k Employees,Public,57,Hyderabad
+1120,Cogos Technologies,2.7,Internet,51-200 Employees,Startup,8,Hyderabad
+1121,Sahara India Pariwar,3.8,Broadcasting,5k-10k Employees,Conglomerate,46,Hyderabad
+1122,Asian Granito India,3.8,Building Material,1k-5k Employees,Public,24,Hyderabad
+1123,Schneider Electric Infrastructure,4.2,Electrical Equipment,10k-50k Employees,Public,188,Hyderabad
+1124,Treebo Hotels,3.5,Internet,51-200 Employees,Startup,9,Hyderabad
+1125,Chqbook.com,3.3,Financial Services,51-200 Employees,Startup,7,Hyderabad
+1126,Treebo Hotels,3.5,Internet,51-200 Employees,Startup,9,Hyderabad
+1127,Hindalco Industries,4.3,Metals & Mining,10k-50k Employees,Public,66,Hyderabad
+1128,State Bank of Hyderabad,3.7,Banking,10k-50k Employees (Global),State,69,Hyderabad
+1129,Sharp Business Systems India,3.5,Consumer Electronics & Appliances,51-200 Employees,Forbes Global 2000,112,Hyderabad
+1130,Schneider Electric Infrastructure,4.2,Electrical Equipment,10k-50k Employees,Public,188,Hyderabad
+1131,Asian Granito India,3.8,Building Material,1k-5k Employees,Public,24,Hyderabad
+1132,John Deere,4.3,Industrial Machinery,5k-10k Employees,Fortune India 500,23,Hyderabad
+1133,Linde India,4.1,Oil & Gas,201-500 Employees,Public,145,Hyderabad
+1134,Amdocs,4.0,Software Product,10k-50k Employees,Forbes Global 2000,42,Hyderabad
+1135,Indian Navy,4.6,Defence & Aerospace,50k-1 Lakh Employees,Central,74,Hyderabad
+1136,V2 Retail,3.6,Retail,1k-5k Employees,Public,23,Hyderabad
+1137,Legrand,3.7,Electrical Equipment,1k-5k Employees,Forbes Global 2000,164,Hyderabad
+1138,VMware Software,4.5,Software Product,5k-10k Employees,Forbes Global 2000,26,Hyderabad
+1139,Karnataka Soaps & Detergents,4.0,FMCG,501-1k Employees,Public,108,Hyderabad
+1140,Venky's,3.7,FMCG,5k-10k Employees,Public,48,Hyderabad
+1141,Lithium Urban Technologies,3.7,Urban Transport,51-200 Employees,Startup,11,Hyderabad
+1142,MediBuddy,3.2,Healthcare,1k-5k Employees,Startup,11,Hyderabad
+1143,Navneet Education,3.9,Printing & Publishing,501-1k Employees,Public,65,Hyderabad
+1144,Red FM 93.5,4.1,Broadcasting,501-1k Employees (Global),Public,22,Hyderabad
+1145,Great Learning,3.7,EdTech,1k-5k Employees,Startup,11,Hyderabad
+1146,Shriji Polymers,3.6,Packaging,51-200 Employees,Public,21,Hyderabad
+1147,Navneet Education,3.9,Printing & Publishing,501-1k Employees,Public,65,Hyderabad
+1148,Red FM 93.5,4.1,Broadcasting,501-1k Employees (Global),Public,22,Hyderabad
+1149,L&T Power,3.9,Power,1k-5k Employees,Public,18,Hyderabad
+1150,Chakravuyha,4.4,IT Services & Consulting,51-200 Employees (Global),Public,7,Hyderabad
+1151,Škoda Auto India,4.4,Automobile,1k-5k Employees,Conglomerate,23,Hyderabad
+1152,MediBuddy,3.2,Healthcare,1k-5k Employees,Startup,11,Hyderabad
+1153,Olympus,4.1,Healthcare,201-500 Employees,Forbes Global 2000,14,Hyderabad
+1154,Videocon Industries Ltd.,4.1,Consumer Electronics & Appliances,5k-10k Employees,Public,45,Hyderabad
+1155,Shriji Polymers,3.6,Packaging,51-200 Employees,Public,21,Ahmedabad
+1156,Yaantra,3.7,Internet,501-1k Employees,Startup,11,Ahmedabad
+1157,Mahindra Rural Housing Finance,4.1,NBFC,10k-50k Employees,Public,17,Ahmedabad
+1158,Mahindra Rural Housing Finance,4.1,NBFC,10k-50k Employees,Public,17,Hyderabad
+1159,Allstate,4.0,Insurance,5k-10k Employees,Forbes Global 2000,12,Hyderabad
+1160,Allstate,4.0,Insurance,5k-10k Employees,Forbes Global 2000,12,Hyderabad
+1161,Great Learning,3.7,EdTech,1k-5k Employees,Startup,11,Hyderabad
+1162,L&T Power,3.9,Power,1k-5k Employees,Public,18,Hyderabad
+1163,Škoda Auto India,4.4,Automobile,1k-5k Employees,Conglomerate,23,Hyderabad
+1164,Chakravuyha,4.4,IT Services & Consulting,51-200 Employees (Global),Public,7,Hyderabad
+1165,Muthoot Pappachan Group,3.1,Financial Services,10k-50k Employees,Conglomerate,137,Hyderabad
+1166,Praxis home Retail,4.1,Retail,1k-5k Employees,Public,17,Hyderabad
+1167,Cement Corporation of India,3.6,Building Material,1k-5k Employees,State,59,Hyderabad
+1168,Digit Insurance,4.0,Insurance,1k-5k Employees,Fortune India 500,8,Hyderabad
+1169,Inditex,3.8,Fashion & Textile,1k-5k Employees,Forbes Global 2000,61,Hyderabad
+1170,GTN Textiles,4.1,Fashion & Textile,1k-5k Employees,Public,58,Hyderabad
+1171,Grasim Industries,4.1,Building Material,10k-50k Employees,Public,77,Hyderabad
+1172,MINI MUTHOOTTU NIDHI K,3.7,NBFC,501-1k Employees,Public,103,Hyderabad
+1173,Gitanjali Gems,4.0,Jewellery,501-1k Employees,Public,58,Hyderabad
+1174,Bank of America Securities,4.4,Investment Banking / Venture Capital / Private Equity,51-200 Employees,Public,15,Hyderabad
+1175,Microsemi,2.9,Semiconductors,201-500 Employees,Public,65,Hyderabad
+1176,Object One Information Systems,4.6,IT Services & Consulting,51-200 Employees,Public,25,Hyderabad
+1177,Asmitha Microfinance,4.4,Financial Services,51-200 Employees,Public,22,Hyderabad
+1178,CARE 9,3.9,Internet,1-10 Employees,Startup,8,Hyderabad
+1179,CARE 9,3.9,Internet,1-10 Employees,Startup,8,Hyderabad
+1180,Jetfleet,3.6,Internet,201-500 Employees,Startup,6,Hyderabad
+1181,Zyxan Technologies,5.0,Software Product,11-50 Employees,Startup,2,Hyderabad
+1182,LT Foods,4.1,Food Processing,1k-5k Employees,Public,34,Hyderabad
+1183,Barclays,4.0,Banking,10k-50k Employees,Forbes Global 2000,334,Hyderabad
+1184,Finolex Cables,3.9,Electrical Equipment,1k-5k Employees,Public,68,Hyderabad
+1185,Healthsignz Technologies,3.4,IT Services & Consulting,51-200 Employees,Startup,10,Hyderabad
+1186,Windsor Machines,3.7,Industrial Machinery,501-1k Employees,Public,61,Hyderabad
+1187,Avanti Feeds,4.4,FMCG,1k-5k Employees,Public,31,Hyderabad
+1188,Stanley Black & Decker,4.0,Industrial Machinery,1k-5k Employees,Forbes Global 2000,181,Hyderabad
+1189,Garden Silk Mills,4.0,Fashion & Textile,1k-5k Employees,Public,45,Hyderabad
+1190,MetLife,4.3,Insurance,1k-5k Employees,Forbes Global 2000,16,Hyderabad
+1191,Saudi Aramco,4.6,Oil & Gas,1k-5k Employees,Forbes Global 2000,91,Hyderabad
+1192,Antro-PAI Technologies,4.7,Emerging Technologies,11-50 Employees,Startup,1,Hyderabad
+1193,Jawaharlal Nehru University,4.2,Education & Training,1k-5k Employees (Global),Central,58,Hyderabad
+1194,Bank Muscat,4.2,Banking,51-200 Employees,Forbes Global 2000,42,Hyderabad
+1195,Fresenius Medical Care,3.9,Healthcare,201-500 Employees,Public,28,Hyderabad
+1196,BetterPlace Safety Solutions,3.2,IT Services & Consulting,201-500 Employees,Startup,9,Hyderabad
+1197,VuNet Systems,3.2,Software Product,51-200 Employees,Startup,7,Hyderabad
+1198,Cuemath,3.8,EdTech,1k-5k Employees,Startup,11,Hyderabad
+1199,Stanley Black & Decker,4.0,Industrial Machinery,1k-5k Employees,Forbes Global 2000,181,Hyderabad
+1200,Arvind Fashions,3.9,Fashion & Textile,1k-5k Employees,Public,31,Hyderabad
+1201,Elecon Engineering,4.2,Electrical Equipment,501-1k Employees,Public,73,Hyderabad
+1202,The WorldGrad,4.3,Education & Training,51-200 Employees,Startup,3,Hyderabad
+1203,Stanley Lifestyles,4.1,Furniture & Furnishing,1k-5k Employees,Public,28,Hyderabad
+1204,Sterling Holiday Resort,3.9,Hospitality,1k-5k Employees,Public,38,Hyderabad
+1205,Haigreeva Infratech Projects,3.9,Engineering & Construction,51-200 Employees,Public,23,Hyderabad
+1206,MLIT Solutions,2.8,Internet,11-50 Employees,Startup,10,Hyderabad
+1207,Cogent E Services,3.3,BPO,10k-50k Employees,Conglomerate,20,Hyderabad
+1208,Recpdcl.ltd,4.0,Facility Management Services,1k-5k Employees,Central,17,Hyderabad
+1209,Avanti Feeds,4.4,FMCG,1k-5k Employees,Public,31,Hyderabad
+1210,Healthsignz Technologies,3.4,IT Services & Consulting,51-200 Employees,Startup,10,Hyderabad
+1211,Windsor Machines,3.7,Industrial Machinery,501-1k Employees,Public,61,Hyderabad
+1212,Bank Muscat,4.2,Banking,51-200 Employees,Forbes Global 2000,42,Hyderabad
+1213,Kores,3.8,FMCG,1k-5k Employees,Conglomerate,88,Hyderabad
+1214,StoreKing,3.6,Internet,501-1k Employees,Startup,12,Hyderabad
+1215,American Tower Corporation,3.9,Telecom,501-1k Employees,Forbes Global 2000,29,Hyderabad
+1216,Tata Technologies,3.8,Engineering & Construction,5k-10k Employees,Conglomerate,35,Hyderabad
+1217,Teachnook,3.2,EdTech,501-1k Employees,Startup,3,Hyderabad
+1218,CL Educate,3.9,Education & Training,501-1k Employees,Public,28,Hyderabad
+1219,Jawahar Navodaya Vidyalaya,4.4,Education & Training,10k-50k Employees,Central,39,Hyderabad
+1220,American Tower Corporation,3.9,Telecom,501-1k Employees,Forbes Global 2000,29,Hyderabad
+1221,Indian Space Research Organisation,4.5,Defence & Aerospace,10k-50k Employees,Public,55,Hyderabad
+1222,FabHotels,3.1,Hospitality,501-1k Employees,Startup,10,Hyderabad
+1223,Hyundai Engineering,4.1,Engineering & Construction,51-200 Employees,Forbes Global 2000,50,Hyderabad
+1224,Premier Irrigation Adritec,3.8,Agriculture,501-1k Employees,Public,59,Hyderabad
+1225,Tata Technologies,3.8,Engineering & Construction,5k-10k Employees,Conglomerate,35,Hyderabad
+1226,Euler Motors,3.5,Automobile,51-200 Employees,Startup,9,Hyderabad
+1227,Il&fs Energy Development Company,4.1,Power,51-200 Employees,Public,16,Hyderabad
+1228,Euler Motors,3.5,Automobile,51-200 Employees,Startup,9,Hyderabad
+1229,Indian Space Research Organisation,4.5,Defence & Aerospace,10k-50k Employees,Public,55,Hyderabad
+1230,Auxilo Finserve,4.2,Financial Services,51-200 Employees,Startup,7,Hyderabad
+1231,Recordent,4.1,Internet,11-50 Employees,Startup,6,Hyderabad
+1232,Allengers Medical Systems,3.2,Medical Equipment,1k-5k Employees,Public,37,Hyderabad
+1233,Siti Networks,4.0,Media & Entertainment,201-500 Employees,Public,30,Hyderabad
+1234,2050 Healthcare,3.7,Healthcare,1k-5k Employees,Startup,5,Hyderabad
+1235,RR kabel,4.2,Electrical Equipment,1k-5k Employees,Public,29,Hyderabad
+1236,Eris Lifesciences,3.8,Pharma,1k-5k Employees,Public,17,Hyderabad
+1237,Eris Lifesciences,3.8,Pharma,1k-5k Employees,Public,17,Hyderabad
+1238,ECE Industries,3.7,Electrical Equipment,201-500 Employees,Public,79,Hyderabad
+1239,Gojavas,3.7,Logistics,1k-5k Employees,Startup,11,Hyderabad
+1240,Garmin,3.2,Electronics Manufacturing,1k-5k Employees (Global),Forbes Global 2000,35,Hyderabad
+1241,Adroit Infotech,2.2,IT Services & Consulting,11-50 Employees,Public,24,Hyderabad
+1242,Silly Monks Entertainment,3.4,Marketing & Advertising,51-200 Employees,Public,11,Hyderabad
+1243,Gojavas,3.7,Logistics,1k-5k Employees,Startup,11,Hyderabad
+1244,Silly Monks Entertainment,3.4,Marketing & Advertising,51-200 Employees,Public,11,Hyderabad
+1245,Quaqua Experiences,1.4,Internet,11-50 Employees,Startup,8,Hyderabad
+1246,ECE Industries,3.7,Electrical Equipment,201-500 Employees,Public,79,Hyderabad
+1247,Rakyan Beverages,4.4,FMCG,201-500 Employees,Startup,10,Hyderabad
+1248,Rakyan Beverages,4.4,FMCG,201-500 Employees,Startup,10,Hyderabad
+1249,Alcon,3.7,Medical Equipment,1k-5k Employees,Public,79,Hyderabad
+1250,Greaves Cotton,4.1,Auto Components,501-1k Employees,Public,165,Hyderabad
+1251,Aplab,4.2,Consumer Electronics & Appliances,501-1k Employees,Public,62,Hyderabad
+1252,TITAGARH WAGONS,3.2,Industrial Machinery,501-1k Employees,Public,26,Hyderabad
+1253,Emaar India Limited,3.7,Real Estate,501-1k Employees,Public,19,Hyderabad
+1254,BNP Paribas,3.9,Financial Services,10k-50k Employees,Forbes Global 2000,176,Hyderabad
+1255,KEI Industries,4.2,Electrical Equipment,1k-5k Employees,Public,56,Hyderabad
+1256,Wep Solutions India,3.6,IT Services & Consulting,201-500 Employees,Public,29,Hyderabad
+1257,IFB Agro Industries,4.2,Beverage,1k-5k Employees,Public,42,Hyderabad
+1258,Bharat Bijlee,4.3,Electrical Equipment,501-1k Employees,Public,78,Hyderabad
+1259,Pearson,4.1,Education & Training,10k-50k Employees (Global),Conglomerate,180,Hyderabad
+1260,Zee Learn,3.8,Education & Training,201-500 Employees,Public,8,Hyderabad
+1261,Greaves Cotton,4.1,Auto Components,501-1k Employees,Public,165,Hyderabad
+1262,Alcon,3.7,Medical Equipment,1k-5k Employees,Public,79,Hyderabad
+1263,Nissan,4.0,Automobile,10k-50k Employees,Forbes Global 2000,91,Hyderabad
+1264,Onicra Credit Rating Agency,2.6,FinTech,501-1k Employees,Public,31,Hyderabad
+1265,Cornerstone OnDemand,3.8,Software Product,501-1k Employees,Conglomerate,25,Hyderabad
+1266,Aptech,3.7,Education & Training,201-500 Employees,Public,38,Hyderabad
+1267,Panacea Biotec,3.9,Biotechnology,1k-5k Employees,Public,40,Hyderabad
+1268,CareEdge Ratings,2.9,Financial Services,501-1k Employees,Public,31,Hyderabad
+1269,Krebs Biochemicals & Industries,4.0,Pharma,51-200 Employees,Public,33,Hyderabad
+1270,Wheelseye Technology,3.7,Logistics,1k-5k Employees,Startup,7,Hyderabad
+1271,Progressive Infotech,3.5,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,26,Hyderabad
+1272,MakeMyTrip,3.7,Internet,5k-10k Employees,Public,24,Hyderabad
+1273,Allied Digital Services,3.5,IT Services & Consulting,1k-5k Employees,Public,29,Hyderabad
+1274,WPIL,3.8,Building Material,201-500 Employees,Public,72,Hyderabad
+1275,Allen Solly,3.9,Fashion & Textile,10k-50k Employees,Public,280,Hyderabad
+1276,Voylla,3.9,Jewellery,201-500 Employees,Startup,12,Hyderabad
+1277,Blue Cross Laboratories,3.9,Pharma,1k-5k Employees,Public,44,Hyderabad
+1278,Awfis,4.0,Real Estate,501-1k Employees,Startup,9,Hyderabad
+1279,Allergan,3.8,Healthcare,1k-5k Employees,Forbes Global 2000,11,Hyderabad
+1280,BridgeLabz Solutions,3.4,EdTech,201-500 Employees,Startup,8,Hyderabad
+1281,Nabard Consultancy Services,4.3,Management Consulting,201-500 Employees,Central,21,Hyderabad
+1282,RenewBuy,3.8,Insurance,1k-5k Employees,Startup,10,Hyderabad
+1283,Hill International,4.1,Engineering & Construction,201-500 Employees,Public,48,Hyderabad
+1284,Nabard Consultancy Services,4.3,Management Consulting,201-500 Employees,Central,21,Hyderabad
+1285,Shalimar Paints,3.9,Chemicals,1k-5k Employees,Public,122,Hyderabad
+1286,Kimplas Piping System,4.0,Building Material,51-200 Employees,Public,28,Hyderabad
+1287,Echs Polyclinic,3.2,Healthcare,11-50 Employees,Public,21,Hyderabad
+1288,CampX,5.0,EdTech,11-50 Employees,Startup,2,Hyderabad
+1289,BillDesk,3.4,FinTech,201-500 Employees (Global),Public,24,Hyderabad
+1290,TITAGARH WAGONS,3.2,Industrial Machinery,501-1k Employees,Public,26,Hyderabad
+1291,Allied Digital Services,3.5,IT Services & Consulting,1k-5k Employees,Public,29,Hyderabad
+1292,LIXIL,4.0,Building Material,501-1k Employees,Public,17,Hyderabad
+1293,Dash Ninja Technologies,4.4,Software Product,11-50 Employees,Startup,9,Hyderabad
+1294,WPIL,3.8,Building Material,201-500 Employees,Public,72,Hyderabad
+1295,Allen Solly,3.9,Fashion & Textile,10k-50k Employees,Public,280,Hyderabad
+1296,Pharmed,3.9,Pharma,1k-5k Employees,Public,78,Hyderabad
+1297,Stryker,4.1,Medical Equipment,1k-5k Employees,Public,83,Hyderabad
+1298,Axio,3.7,Financial Services,501-1k Employees,Startup,11,Hyderabad
+1299,Arzooo.com,2.4,Internet,51-200 Employees,Startup,8,Hyderabad
+1300,Archidply Industries,4.0,Furniture & Furnishing,501-1k Employees,Public,48,Hyderabad
+1301,Emaar India Limited,3.7,Real Estate,501-1k Employees,Public,19,Hyderabad
+1302,Wep Solutions India,3.6,IT Services & Consulting,201-500 Employees,Public,29,Hyderabad
+1303,IFB Agro Industries,4.2,Beverage,1k-5k Employees,Public,42,Hyderabad
+1304,KEI Industries,4.2,Electrical Equipment,1k-5k Employees,Public,56,Hyderabad
+1305,Voylla,3.9,Jewellery,201-500 Employees,Startup,12,Hyderabad
+1306,Ups Logistics,4.0,Logistics,1k-5k Employees,Forbes Global 2000,117,Hyderabad
+1307,Vishvaraj Infrastructure,4.1,Waste Management,201-500 Employees,Public,25,Hyderabad
+1308,CriticaLog India Private Limited,4.6,Logistics,501-1k Employees,Startup,11,Hyderabad
+1309,Hill International,4.1,Engineering & Construction,201-500 Employees,Public,48,Hyderabad
+1310,Ripplr,3.9,Internet,201-500 Employees,Startup,5,Hyderabad
+1311,Force Motors,3.6,Automobile,1k-5k Employees,Public,66,Hyderabad
+1312,Becton Dickinson,4.1,Medical Equipment,201-500 Employees,Forbes Global 2000,23,Hyderabad
+1313,Apeejay Surrendra Group,4.1,FMCG,10k-50k Employees,Conglomerate,114,Hyderabad
+1314,MPS Limited,4.0,Content Development,1k-5k Employees,Public,54,Hyderabad
+1315,LIXIL,4.0,Building Material,501-1k Employees,Public,17,Hyderabad
+1316,CASHe,4.6,Internet,51-200 Employees,Startup,8,Hyderabad
+1317,News18,3.8,Broadcasting,1k-5k Employees (Global),Public,19,Hyderabad
+1318,Dash Ninja Technologies,4.4,Software Product,11-50 Employees,Startup,9,Hyderabad
+1319,BridgeLabz Solutions,3.4,EdTech,201-500 Employees,Startup,8,Hyderabad
+1320,Blue Cross Laboratories,3.9,Pharma,1k-5k Employees,Public,44,Pune
+1321,Nilkamal Furniture,4.1,Furniture & Furnishing,1k-5k Employees,Public,34,Hyderabad
+1322,Force Motors,3.6,Automobile,1k-5k Employees,Public,66,Hyderabad
+1323,Jai Kisan,3.7,Internet,51-200 Employees,Startup,7,Hyderabad
+1324,Datamatics Global Services,3.6,IT Services & Consulting,5k-10k Employees,Public,49,Hyderabad
+1325,Hester Biosciences,4.2,Biotechnology,201-500 Employees,Public,41,Hyderabad
+1326,Becton Dickinson,4.1,Medical Equipment,201-500 Employees,Forbes Global 2000,23,Hyderabad
+1327,Arrivae,3.5,Internet,201-500 Employees,Startup,7,Hyderabad
+1328,Electrotherm,4.2,Iron & Steel,1k-5k Employees,Public,41,Hyderabad
+1329,Baxter International,4.1,Healthcare,1k-5k Employees,Forbes Global 2000,93,Hyderabad
+1330,Arrivae,3.5,Internet,201-500 Employees,Startup,7,Hyderabad
+1331,Council of Scientific and Industrial Research,4.5,Government,5k-10k Employees,Central,82,Hyderabad
+1332,Physicswallah,3.8,EdTech,10k-50k Employees,Indian Unicorn,5,Hyderabad
+1333,Finnovationz,4.3,Financial Services,51-200 Employees,Startup,4,Hyderabad
+1334,BuildNext,3.9,Engineering & Construction,51-200 Employees (Global),Startup,9,Hyderabad
+1335,ByteDance,4.2,Internet,1k-5k Employees,Startup,12,Shanghai
+1336,The Hindu Group,4.0,Printing & Publishing,1k-5k Employees,Public,146,Chennai
+1337,Inspirisys Solution,3.9,IT Services & Consulting,1k-5k Employees,Public,33,Hyderabad
+1338,Uber eats,4.5,Internet,1k-5k Employees (Global),Startup,10,Hyderabad
+1339,Godrej Industries,4.2,Chemicals,1k-5k Employees,Public,61,Hyderabad
+1340,Unicharm,4.2,Beauty & Personal Care,1k-5k Employees,Forbes Global 2000,63,Hyderabad
+1341,Globe Capital Market,3.6,Investment Banking / Venture Capital / Private Equity,1k-5k Employees,Public,40,Hyderabad
+1342,Image Infotainment,3.6,EdTech,201-500 Employees,Public,28,Hyderabad
+1343,ING Vysya Bank,4.4,Banking,5k-10k Employees,Public,22,Hyderabad
+1344,Ecoboard Industries,3.9,Building Material,51-200 Employees,Public,33,Hyderabad
+1345,Sapien Biosciences,3.2,Internet,11-50 Employees (Global),Startup,11,Hyderabad
+1346,Corporation Bank,4.5,Banking,10k-50k Employees,Public,118,Hyderabad
+1347,ING Vysya Bank,4.4,Banking,5k-10k Employees,Public,22,Hyderabad
+1348,Tyche Industries,3.7,Pharma,201-500 Employees,Public,26,Hyderabad
+1349,Suryalata Spinning Mills,4.0,Fashion & Textile,501-1k Employees,Public,41,Hyderabad
+1350,Ecoboard Industries,3.9,Building Material,51-200 Employees,Public,33,Hyderabad
+1351,Sri Hema Infotech,4.4,IT Services & Consulting,11-50 Employees (Global),Public,20,Hyderabad
+1352,Lotus Chocolate Company,4.4,FMCG,201-500 Employees,Public,32,Hyderabad
+1353,Potful,4.5,Internet,51-200 Employees,Startup,7,Hyderabad
+1354,QuickXpert Infotech,3.5,IT Services & Consulting,11-50 Employees,Public,10,Hyderabad
+1355,Potful,4.5,Internet,51-200 Employees,Startup,7,Hyderabad
+1356,Fluentoo,4.9,EdTech,11-50 Employees,Startup,2,Hyderabad
+1357,ANSYS,3.7,IT Services & Consulting,501-1k Employees,Forbes Global 2000,54,Pune
+1358,Indian Bank,3.5,Banking,10k-50k Employees,Fortune India 500,117,Pune
+1359,Zesht IT Consulting Services,3.8,IT Services & Consulting,11-50 Employees,Startup,3,Hyderabad
+1360,Fluentoo,4.9,EdTech,11-50 Employees,Startup,2,Hyderabad
+1361,Tamilnad Mercantile Bank,3.0,Banking,1k-5k Employees,Fortune India 500,103,Chennai
+1362,Everest Industries,4.1,Building Material,1k-5k Employees,Public,90,Hyderabad
+1363,Embibe,3.7,EdTech,1k-5k Employees,Startup,12,Hyderabad
+1364,Netmeds.com,3.6,Internet,501-1k Employees,Startup,9,Hyderabad
+1365,Techno Electric & Engineering Company,4.0,Engineering & Construction,201-500 Employees,Public,61,Hyderabad
+1366,C-Square Info Solutions,3.7,IT Services & Consulting,201-500 Employees,Public,22,Pune
+1367,Viasat,3.2,Telecom,201-500 Employees,Public,38,Chennai
+1368,Fidelity National Financial,3.8,Financial Services,1k-5k Employees,Forbes Global 2000,177,Hyderabad
+1369,Keysight Technologies,4.0,Electronics Manufacturing,1k-5k Employees,Forbes Global 2000,10,Hyderabad
+1370,Royal Orchid Hotels,4.0,Hospitality,1k-5k Employees,Public,38,Hyderabad
+1371,GTL,4.2,Hardware & Networking,1k-5k Employees,Public,37,Hyderabad
+1372,Ingersoll Rand,4.3,Industrial Machinery,501-1k Employees,Public,52,Hyderabad
+1373,Everest Industries,4.1,Building Material,1k-5k Employees,Public,90,Hyderabad
+1374,Patel Integrated Logistics,4.3,Logistics,201-500 Employees,Public,65,Hyderabad
+1375,ANSYS,3.7,IT Services & Consulting,501-1k Employees,Forbes Global 2000,54,Hyderabad
+1376,ArcelorMittal,4.0,Iron & Steel,501-1k Employees,Forbes Global 2000,18,Hyderabad
+1377,Saipem,4.1,Engineering & Construction,1k-5k Employees,Forbes Global 2000,67,Hyderabad
+1378,TVS Eurogrip,3.8,Auto Components,1k-5k Employees,Public,42,Hyderabad
+1379,Khaitan Electricals,3.2,Food Processing,201-500 Employees,Public,43,Kolkata
+1380,Freecharge,4.0,FinTech,501-1k Employees,Conglomerate,14,Hyderabad
+1381,Wanbury,3.5,Pharma,1k-5k Employees,Public,36,Hyderabad
+1382,myPaisaa,2.6,Internet,51-200 Employees,Startup,4,Hyderabad
+1383,Pradhan Mantri Kaushal Vikas Yojana,4.0,Education & Training,1-10 Employees,Public,9,Hyderabad
+1384,GIVA Jewellery,3.7,Internet,51-200 Employees,Startup,5,Hyderabad
+1385,Eicher Motors,4.2,Automobile,5k-10k Employees,Public,42,Hyderabad

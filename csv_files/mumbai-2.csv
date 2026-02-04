@@ -1,0 +1,1930 @@
+,company_name,company_rating,industry,size,type,years_old,location
+0,TCS,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,56,Mumbai
+1,Kotak Mahindra Bank,3.9,Banking,50k-1 Lakh Employees,Public,21,Mumbai
+2,Accenture,4.0,IT Services & Consulting,1 Lakh+ Employees,Public,35,Mumbai
+3,ICICI Bank,4.0,Banking,1 Lakh+ Employees,Public,30,Mumbai
+4,Capgemini,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,57,Mumbai
+5,HDFC Bank,4.0,Banking,1 Lakh+ Employees,Public,30,Mumbai
+6,Axis Bank,3.9,Banking,50k-1 Lakh Employees,Public,31,Mumbai
+7,Larsen & Toubro Limited,4.1,Engineering & Construction,10k-50k Employees,Public,86,Mumbai
+8,Whitehat jr,3.5,EdTech,5k-10k Employees,Startup,6,Mumbai
+9,Wipro,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,79,Mumbai
+10,JPMorgan Chase & Co.,4.1,Financial Services,50k-1 Lakh Employees,Public,56,Mumbai
+11,Teleperformance,3.8,BPO,50k-1 Lakh Employees,Forbes Global 2000,46,Mumbai
+12,Cipla,4.1,Pharma,10k-50k Employees,Public,89,Mumbai
+13,Jio,4.0,Telecom,50k-1 Lakh Employees,Public,6,Mumbai
+14,Reliance Industries,4.1,Oil & Gas,1 Lakh+ Employees,Public,47,Mumbai
+15,Lodha group,4.1,Real Estate,5k-10k Employees,Fortune India 500,44,Mumbai
+16,Godrej & Boyce Manufacturing,4.0,Consumer Electronics & Appliances,10k-50k Employees,Fortune India 500,127,Mumbai
+17,Yes Bank,3.9,Banking,10k-50k Employees,Public,20,Mumbai
+18,Mahindra & Mahindra,4.2,Automobile,1 Lakh+ Employees,Public,79,Mumbai
+19,IDFC FIRST Bank,4.0,Banking,10k-50k Employees,Public,6,Mumbai
+20,Tech Mahindra,3.7,IT Services & Consulting,1 Lakh+ Employees,Public,38,Mumbai
+21,IndusInd Bank,3.7,Banking,10k-50k Employees,Public,30,Mumbai
+22,Abbott,4.2,Pharma,10k-50k Employees,Public,136,Mumbai
+23,L&T Infotech,3.8,IT Services & Consulting,10k-50k Employees,Public,28,Mumbai
+24,Macleods Pharmaceuticals,3.8,Pharma,10k-50k Employees,Public,38,Mumbai
+25,HDFC Life,4.1,Insurance,10k-50k Employees,Public,24,Mumbai
+26,Asian Paints,4.1,Chemicals,5k-10k Employees,Public,82,Mumbai
+27,Cognizant,3.9,IT Services & Consulting,1 Lakh+ Employees,Forbes Global 2000,30,Mumbai
+28,Lupin,4.1,Pharma,1k-5k Employees,Public,56,Mumbai
+29,Hindustan Unilever,4.3,FMCG,10k-50k Employees,Public,152,Mumbai
+30,Shapoorji Pallonji Group,4.2,Engineering & Construction,5k-10k Employees,Conglomerate,159,Mumbai
+31,Sun Pharmaceutical Industries,4.1,Pharma,10k-50k Employees,Public,41,Mumbai
+32,Motilal Oswal Financial Services,3.8,Financial Services,10k-50k Employees,Public,37,Mumbai
+33,Vodafone Idea,4.2,Telecom,5k-10k Employees,Public,6,Mumbai
+34,Glenmark Pharmaceuticals,4.0,Pharma,10k-50k Employees,Public,47,Mumbai
+35,Crisil,3.7,Financial Services,1k-5k Employees,Public,37,Mumbai
+36,Morgan Stanley,3.7,Financial Services,10k-50k Employees,Forbes Global 2000,93,Mumbai
+37,PwC,3.6,Management Consulting,10k-50k Employees,Conglomerate,144,Mumbai
+38,ICICI Lombard General Insurance Company,3.8,Insurance,10k-50k Employees,Public,23,Mumbai
+39,Siemens,4.2,Industrial Automation,5k-10k Employees,Public,177,Mumbai
+40,Ajanta Pharma,4.1,Pharma,5k-10k Employees,Public,51,Mumbai
+41,Alkem Laboratories,4.0,Pharma,10k-50k Employees,Public,51,Mumbai
+42,ICICI Prudential Life Insurance,4.1,Insurance,10k-50k Employees,Public,24,Mumbai
+43,Pidilite Industries,4.4,Chemicals,5k-10k Employees,Public,65,Mumbai
+44,JSW Steel,4.0,Iron & Steel,10k-50k Employees,Public,42,Mumbai
+45,Ipca Laboratories,4.0,Pharma,10k-50k Employees,Public,75,Mumbai
+46,upGrad,3.8,EdTech,5k-10k Employees,Indian Unicorn,9,Mumbai
+47,Tata Projects,4.3,Engineering & Construction,5k-10k Employees,Public,45,Mumbai
+48,DMart,4.0,Retail,10k-50k Employees,Fortune India 500,22,Mumbai
+49,Datamatics Global Services,3.6,IT Services & Consulting,5k-10k Employees,Public,49,Mumbai
+50,L&T Construction,4.1,Engineering & Construction,5k-10k Employees,Public,80,Mumbai
+51,BYJU'S,3.1,EdTech,10k-50k Employees,Indian Unicorn,13,Mumbai
+52,eClerx,3.5,IT Services & Consulting,10k-50k Employees,Public,24,Mumbai
+53,IBM,4.1,IT Services & Consulting,1 Lakh+ Employees,Public,113,Mumbai
+54,HDFC Ergo General Insurance,4.0,Insurance,10k-50k Employees,Public,22,Mumbai
+55,AU Small Finance Bank,4.4,Banking,10k-50k Employees,Fortune India 500,28,Mumbai
+56,BNP Paribas,3.9,Financial Services,10k-50k Employees,Forbes Global 2000,176,Mumbai
+57,KEC International,4.1,Engineering & Construction,5k-10k Employees,Public,79,Mumbai
+58,J. Kumar Infraprojects,4.1,Engineering & Construction,5k-10k Employees,Public,44,Mumbai
+59,General Mills,4.2,Food Processing,1k-5k Employees,Forbes Global 2000,96,Mumbai
+60,RBL Bank,3.8,Banking,10k-50k Employees,Public,81,Mumbai
+61,Concentrix Corporation,3.9,BPO,50k-1 Lakh Employees,Public,41,Mumbai
+62,First Source,3.8,BPO,10k-50k Employees,Public,23,Mumbai
+63,UltraTech Cement,4.2,Building Material,10k-50k Employees,Public,41,Mumbai
+64,Indian Navy,4.6,Defence & Aerospace,50k-1 Lakh Employees,Central,74,Mumbai
+65,Foundever,3.8,BPO,5k-10k Employees,Conglomerate,39,Mumbai
+66,ABC,4.0,Broadcasting,1k-5k Employees (Global),Public,81,Mumbai
+67,CBRE,4.2,Real Estate,10k-50k Employees,Forbes Global 2000,118,Mumbai
+68,Nomura Holdings,3.8,Investment Banking / Venture Capital / Private Equity,1k-5k Employees,Public,15,Mumbai
+69,Jet Airways,4.6,Aviation,201-500 Employees,Public,31,Mumbai
+70,Bharti Airtel,4.1,Telecom,10k-50k Employees,Public,29,Mumbai
+71,Tata Communications,4.1,Telecom,5k-10k Employees,Public,38,Mumbai
+72,Capacit'e Infraprojects,3.6,Engineering & Construction,1k-5k Employees,Public,12,Mumbai
+73,JLL,4.2,Real Estate,10k-50k Employees,Forbes Global 2000,25,Mumbai
+74,NSE.IT,3.6,IT Services & Consulting,1k-5k Employees,Public,25,Mumbai
+75,IIFL Finance,4.0,NBFC,10k-50k Employees,Public,29,Mumbai
+76,Deutsche Bank,4.0,Banking,10k-50k Employees,Fortune India 500,154,Chennai
+77,Bajaj Electricals,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,86,Chennai
+78,Sodexo,4.1,Facility Management Services,10k-50k Employees,Forbes Global 2000,16,Chennai
+79,Cogoport,3.0,Internet,51-200 Employees,Startup,8,Chennai
+80,DHL Express,4.1,Logistics,1k-5k Employees,Conglomerate,45,Chennai
+81,Hexaware Technologies,3.7,IT Services & Consulting,10k-50k Employees,Fortune India 500,34,Chennai
+82,Hindustan Construction Company,4.3,Engineering & Construction,1k-5k Employees,Public,98,Chennai
+83,Kotak Mahindara Life Insurance,3.9,Insurance,10k-50k Employees,Public,23,Chennai
+84,SS&C TECHNOLOGIES,3.5,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,38,Chennai
+85,CMS IT Services,3.2,IT Services & Consulting,5k-10k Employees,Startup,10,Chennai
+86,CitiusTech,3.5,IT Services & Consulting,1k-5k Employees,Indian Unicorn,19,Mumbai
+87,Tata Motors,4.2,Automobile,10k-50k Employees,Public,79,Mumbai
+88,Edelweiss,3.8,Financial Services,1k-5k Employees,Public,7,Mumbai
+89,LTIMindtree,3.6,IT Services & Consulting,50k-1 Lakh Employees,Public,27,Mumbai
+90,Shoppers Stop,4.1,Retail,5k-10k Employees,Public,33,Mumbai
+91,Tech Mahindra Business Services,3.5,BPO,5k-10k Employees,Public,21,Mumbai
+92,Godrej Group,4.0,Chemicals,10k-50k Employees,Public,127,Mumbai
+93,GlaxoSmithKline Pharmaceuticals,4.2,Pharma,1k-5k Employees,Fortune India 500,194,Mumbai
+94,Tata Power,4.0,Power,10k-50k Employees,Public,109,Mumbai
+95,Marsh McLennan,4.1,Management Consulting,5k-10k Employees,Forbes Global 2000,153,Mumbai
+96,USV,4.1,Pharma,1k-5k Employees,Fortune India 500,63,Mumbai
+97,Ceat Tyres,4.1,Auto Components,5k-10k Employees,Public,66,Mumbai
+98,DCB Bank,3.9,Banking,5k-10k Employees,Fortune India 500,94,Mumbai
+99,Bank of America,4.4,Banking,10k-50k Employees,Fortune India 500,26,Mumbai
+100,Amazon,4.1,Internet,1 Lakh+ Employees,Public,30,Mumbai
+101,Citibank,4.0,Banking,10k-50k Employees (Global),Fortune India 500,212,Mumbai
+102,Future Group,4.3,Retail,10k-50k Employees,Conglomerate,11,Mumbai
+103,JustDial,3.6,Internet,10k-50k Employees,Public,28,Mumbai
+104,Johnson & Johnson,4.2,Pharma,1k-5k Employees,Forbes Global 2000,67,Mumbai
+105,L&T Finance,4.0,NBFC,10k-50k Employees,Public,30,Mumbai
+106,FDC,4.1,Pharma,5k-10k Employees,Public,84,Mumbai
+107,Alembic Pharmaceuticals,4.1,Pharma,10k-50k Employees,Public,117,Vadodara
+108,JMC Projects,4.2,Engineering & Construction,1k-5k Employees,Public,42,Rishikesh
+109,Kotak Securities,3.7,Financial Services,5k-10k Employees,Conglomerate,30,Mumbai
+110,Kalpataru Group,3.9,Real Estate,1k-5k Employees,Conglomerate,55,Mumbai
+111,Expertrons,3.8,Education & Training,201-500 Employees,Startup,5,Mumbai
+112,Quantiphi Analytics Solutions Private Limited,3.1,IT Services & Consulting,1k-5k Employees,Startup,11,Mumbai
+113,Tata Capital,4.2,NBFC,5k-10k Employees,Fortune India 500,17,Mumbai
+114,uFaber,2.8,Education & Training,1k-5k Employees,Startup,11,Mumbai
+115,Samsung,4.1,Consumer Electronics & Appliances,50k-1 Lakh Employees,Public,55,Mumbai
+116,State Bank of India,3.9,Banking,1 Lakh+ Employees,Fortune India 500,218,Mumbai
+117,Intellect Design Arena,4.1,FinTech,5k-10k Employees,Public,13,Mumbai
+118,Aditya Birla Fashion and Retail,4.2,Fashion & Textile,10k-50k Employees,Fortune India 500,36,Mumbai
+119,UPL,4.2,Agro Chemicals,5k-10k Employees,Public,55,Mumbai
+120,Mphasis,3.5,IT Services & Consulting,10k-50k Employees,Public,26,Mumbai
+121,Atos,3.8,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,27,Mumbai
+122,Bharat Petroleum,4.2,Oil & Gas,5k-10k Employees,Fortune India 500,72,Mumbai
+123,Wockhardt,3.9,Pharma,5k-10k Employees,Public,25,Mumbai
+124,ITD Cementation India,4.3,Engineering & Construction,1k-5k Employees,Public,93,Mumbai
+125,Pfizer,4.1,Pharma,1k-5k Employees,Public,20,Mumbai
+126,Quess,4.0,BPO,1k-5k Employees,Public,17,Mumbai
+127,Blue Star,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,81,Mumbai
+128,Piramal Group,4.0,Financial Services,10k-50k Employees,Fortune India 500,44,Mumbai
+129,Standard Chartered,3.9,Banking,10k-50k Employees,Fortune India 500,171,Mumbai
+130,Impact Guru,4.1,Internet,501-1k Employees,Startup,10,Mumbai
+131,Nykaa,3.5,Internet,1k-5k Employees,Public,12,Mumbai
+132,Aditya Birla Group,4.1,Building Material,1 Lakh+ Employees,Conglomerate,167,Mumbai
+133,Zydus Lifesciences,4.2,Pharma,10k-50k Employees,Public,72,Mumbai
+134,Godrej Properties,3.7,Real Estate,1k-5k Employees,Public,34,Mumbai
+135,Flipkart,4.0,Internet,10k-50k Employees,Public,17,Mumbai
+136,Hinduja Global Solutions,4.0,IT Services & Consulting,10k-50k Employees,Public,24,Mumbai
+137,Aditya Birla Capital,4.0,Financial Services,10k-50k Employees,Public,7,Mumbai
+138,ACC,4.0,Building Material,5k-10k Employees,Public,88,Mumbai
+139,Toothsi,2.8,Internet,501-1k Employees,Startup,6,Mumbai
+140,NCR Corporation,4.1,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,140,Mumbai
+141,Saint-Gobain,4.0,Building Material,10k-50k Employees,Forbes Global 2000,359,Mumbai
+142,IQVIA,4.0,Clinical Research,10k-50k Employees,Forbes Global 2000,42,Mumbai
+143,Indoco Remedies,3.7,Pharma,5k-10k Employees,Public,77,Mumbai
+144,PharmEasy,3.7,Internet,1k-5k Employees,Indian Unicorn,9,Mumbai
+145,Infosys,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,43,Mumbai
+146,Kansai Nerolac Paints,3.9,Chemicals,1k-5k Employees,Public,104,Mumbai
+147,Marico,4.1,FMCG,1k-5k Employees,Public,36,Mumbai
+148,Voltas,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,70,Mumbai
+149,Thomas Cook,3.9,Travel & Tourism,1k-5k Employees,Public,143,Mumbai
+150,Colgate Palmolive,4.2,FMCG,1k-5k Employees,Public,87,Mumbai
+151,Genesys International Corporation,3.8,IT Services & Consulting,1k-5k Employees,Public,29,Mumbai
+152,Sanofi,4.4,Pharma,1k-5k Employees,Public,20,Mumbai
+153,Sharekhan,4.0,Financial Services,1k-5k Employees,Public,24,Mumbai
+154,Medikabazaar,4.7,Medical Equipment,501-1k Employees,Startup,10,Mumbai
+155,Wipro Infotech,4.0,IT Services & Consulting,1 Lakh+ Employees (Global),MNC,79,Mumbai
+156,Trent,4.1,Retail,10k-50k Employees,Public,26,Mumbai
+157,LEAD School,3.3,EdTech,1k-5k Employees,Indian Unicorn,11,Mumbai
+158,Paytm,3.5,FinTech,10k-50k Employees,Public,14,Mumbai
+159,ICICI Securities,3.8,Financial Services,1k-5k Employees,Public,29,Mumbai
+160,Aarti Industries,4.2,Agro Chemicals,5k-10k Employees,Public,49,Mumbai
+161,Kalpataru Power Transmission,4.2,Engineering & Construction,1k-5k Employees,Public,43,Mumbai
+162,Bureau Veritas,4.0,Other,1k-5k Employees,Forbes Global 2000,196,Mumbai
+163,Metropolis Healthcare,4.1,Healthcare,1k-5k Employees,Conglomerate,44,Mumbai
+164,Mahindra Logistics,4.1,Logistics,1k-5k Employees,Public,24,Mumbai
+165,Raymond,4.1,Fashion & Textile,5k-10k Employees,Public,99,Mumbai
+166,HDFC Securities,3.7,Financial Services,1k-5k Employees,Public,24,Mumbai
+167,Bank of Baroda,3.6,Banking,50k-1 Lakh Employees,Fortune India 500,116,Mumbai
+168,Mahindra Finance,4.3,NBFC,10k-50k Employees,Public,33,Mumbai
+169,Fynd,3.6,Internet,501-1k Employees,Public,12,Mumbai
+170,McDonald's,4.2,Hospitality,1k-5k Employees,Forbes Global 2000,69,Mumbai
+171,IDBI Bank,3.7,Banking,10k-50k Employees,Public,60,Mumbai
+172,Royal Caribbean International,3.5,Sports & Recreation,501-1k Employees,Public,55,Mumbai
+173,Hindustan Petroleum,4.3,Oil & Gas,5k-10k Employees,Central,50,Mumbai
+174,Delhivery,4.0,Logistics,10k-50k Employees,Fortune India 500,13,Mumbai
+175,Indiabulls Home Loans,3.9,NBFC,5k-10k Employees,Public,19,Mumbai
+176,Datamatics Business Solutions,3.4,Management Consulting,1k-5k Employees,Public,42,Mumbai
+177,National Stock Exchange of India,3.7,Financial Services,1k-5k Employees,Fortune India 500,32,Mumbai
+178,Go First,3.7,Aviation,1k-5k Employees,Public,19,Mumbai
+179,JM Financial,3.8,Financial Services,1k-5k Employees,Public,40,Mumbai
+180,IIT Bombay,4.6,Education & Training,501-1k Employees,Public,66,Mumbai
+181,Carnival Cruise Lines,4.5,Sports & Recreation,1k-5k Employees,Public,52,Mumbai
+182,Hindalco Industries,4.3,Metals & Mining,10k-50k Employees,Public,66,Mumbai
+183,HCLTech,3.7,IT Services & Consulting,1 Lakh+ Employees,Public,33,Mumbai
+184,3i Infotech,3.6,IT Services & Consulting,1k-5k Employees,Public,31,Mumbai
+185,Bajaj Finserv,4.1,Financial Services,50k-1 Lakh Employees,Public,17,Mumbai
+186,Swiggy,3.9,Internet,5k-10k Employees,Indian Unicorn,10,Mumbai
+187,Parag Milk Foods,4.3,FMCG,1k-5k Employees,Public,32,Mumbai
+188,Zepto,3.7,Internet,1k-5k Employees,Indian Unicorn,3,Mumbai
+189,Porter,4.2,Internet,1k-5k Employees,Startup,10,Mumbai
+190,Medley Pharmaceuticals,4.1,Pharma,1k-5k Employees,Public,55,Mumbai
+191,J B Chemicals And Pharmaceuticals,3.9,Pharma,1k-5k Employees,Public,48,Mumbai
+192,CG Power and Industrial Solutions,3.9,Electrical Equipment,1k-5k Employees,Public,87,Mumbai
+193,Ingram Micro,3.9,IT Services & Consulting,1k-5k Employees,Conglomerate,45,Mumbai
+194,Mondelez International,4.4,Food Processing,1k-5k Employees,Forbes Global 2000,12,Mumbai
+195,Mahanagar Gas,4.2,Oil & Gas,501-1k Employees,Public,29,Mumbai
+196,Schneider Electric,4.2,Industrial Automation,10k-50k Employees,Forbes Global 2000,25,Mumbai
+197,Reliance Communications,4.0,Telecom,201-500 Employees,Public,22,Mumbai
+198,Johnson Controls,3.7,Industrial Automation,5k-10k Employees,Public,139,Mumbai
+199,Blue Dart Express,4.1,Logistics,10k-50k Employees,Public,41,Mumbai
+200,63 Moons Technologies,3.8,IT Services & Consulting,501-1k Employees,Public,36,Mumbai
+201,Oil And Natural Gas Corporation,4.3,Oil & Gas,10k-50k Employees,Public,68,Mumbai
+202,Grasim Industries,4.1,Building Material,10k-50k Employees,Public,77,Mumbai
+203,Kissht Finance,4.1,FinTech,201-500 Employees,Startup,9,Mumbai
+204,Tata Steel,4.2,Iron & Steel,1 Lakh+ Employees,Public,117,Mumbai
+205,FedEx Express,4.2,Logistics,5k-10k Employees,Forbes Global 2000,53,Mumbai
+206,InterGlobe Aviation,3.6,Aviation,10k-50k Employees,Fortune India 500,19,Mumbai
+207,Rebel Foods,3.8,Internet,5k-10k Employees,Indian Unicorn,12,Mumbai
+208,Oracle Financial Services Software,3.7,IT Services & Consulting,10k-50k Employees,Public,34,Mumbai
+209,Inox Leisure,4.1,Media & Entertainment,1k-5k Employees,Public,25,Mumbai
+210,Team Lease,4.0,Recruitment,1k-5k Employees,Public,8,Mumbai
+211,Aarvi Encon,4.1,Recruitment,5k-10k Employees,Public,37,Mumbai
+212,Oberoi Realty,3.9,Real Estate,501-1k Employees,Public,44,Mumbai
+213,Zee Entertainment Enterprises,3.6,Media & Entertainment,1k-5k Employees,Public,32,Mumbai
+214,BigBasket,4.0,Internet,10k-50k Employees,Indian Unicorn,13,Mumbai
+215,Orient Technologies,3.9,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,32,Mumbai
+216,L&T Technology Services,3.4,IT Services & Consulting,10k-50k Employees,Public,12,Mumbai
+217,Nilkamal,3.9,Furniture & Furnishing,1k-5k Employees,Public,43,Mumbai
+218,Siyaram Silk Mills,3.8,Fashion & Textile,1k-5k Employees,Public,46,Mumbai
+219,Godrej Consumer Products,4.2,FMCG,1k-5k Employees,Public,23,Mumbai
+220,Ketto,4.0,Internet,201-500 Employees,Startup,12,Mumbai
+221,Polycab Wires,4.1,Electrical Equipment,1k-5k Employees,Fortune India 500,28,Mumbai
+222,LOREAL,4.1,Beauty & Personal Care,1k-5k Employees,Forbes Global 2000,33,Mumbai
+223,Jubilant Foods Works,3.9,Hospitality,10k-50k Employees,Public,29,Mumbai
+224,Ambuja Cements,4.0,Building Material,5k-10k Employees,Public,41,Mumbai
+225,CARS24,3.7,Internet,5k-10k Employees,Indian Unicorn,9,Mumbai
+226,DXC Technology,3.8,IT Services & Consulting,10k-50k Employees,Public,7,Mumbai
+227,Sir H. N. Reliance Foundation Hospital and Research,3.9,Healthcare,51-200 Employees,Public,99,Mumbai
+228,Xanadu,3.4,Real Estate,501-1k Employees,Startup,9,Mumbai
+229,Dabur,3.8,FMCG,5k-10k Employees,Public,140,Mumbai
+230,Fractal Analytics,4.1,Analytics & KPO,1k-5k Employees,Indian Unicorn,24,Mumbai
+231,Allied Digital Services,3.5,IT Services & Consulting,1k-5k Employees,Public,29,Mumbai
+232,Microland,3.6,IT Services & Consulting,1k-5k Employees,Public,35,Mumbai
+233,Reliance Infrastructure,4.1,Engineering & Construction,1k-5k Employees,Public,95,Mumbai
+234,Tata Play,4.0,Broadcasting,5k-10k Employees,Public,18,Mumbai
+235,Air India,4.0,Aviation,10k-50k Employees,Central,94,Mumbai
+236,GAMMON INDIA,3.8,Engineering & Construction,11-50 Employees,Public,102,Mumbai
+237,Procter & Gamble,4.2,FMCG,1k-5k Employees,Public,187,Mumbai
+238,ITC,4.0,FMCG,10k-50k Employees,Public,114,Mumbai
+239,Vakrangee,3.7,BPO,1k-5k Employees,Public,34,Mumbai
+240,Pantaloons,4.2,Fashion & Textile,5k-10k Employees,Public,27,Chennai
+241,Oyo Rooms,3.4,Hospitality,1k-5k Employees,Indian Unicorn,11,Mumbai
+242,Future Retail,4.3,Retail,10k-50k Employees,Public,37,Mumbai
+243,EPL Limited,4.0,Packaging,1k-5k Employees,Public,40,Mumbai
+244,IRB Infrastructure,4.2,Engineering & Construction,5k-10k Employees,Public,26,Mumbai
+245,Ericsson,4.3,Telecom,10k-50k Employees,Forbes Global 2000,148,Mumbai
+246,Randstad,3.9,Recruitment,5k-10k Employees,Conglomerate,32,Mumbai
+247,Purplle.com,3.7,Beauty & Personal Care,201-500 Employees,Indian Unicorn,13,Mumbai
+248,Jana Small Finance Bank,3.9,Banking,10k-50k Employees,Public,18,Mumbai
+249,Jacobs Engineering Group,4.1,Engineering & Construction,1k-5k Employees,Forbes Global 2000,77,Mumbai
+250,Ola Cabs,3.5,Internet,1k-5k Employees,Indian Unicorn,14,Mumbai
+251,Piramal Pharma,4.0,Pharma,1k-5k Employees,Public,36,Mumbai
+252,Reliance SMSL,4.0,BPO,1k-5k Employees,Public,17,Mumbai
+253,Birlasoft,3.8,IT Services & Consulting,10k-50k Employees,Public,29,Mumbai
+254,PVR Cinemas,4.1,Media & Entertainment,1k-5k Employees,Public,27,Mumbai
+255,MSCI,4.0,Financial Services,1k-5k Employees,Public,55,Mumbai
+256,Godrej Industries,4.2,Chemicals,1k-5k Employees,Public,61,Mumbai
+257,Nayara Energy,4.3,Petrochemicals,1k-5k Employees,Fortune India 500,35,Mumbai
+258,Rolta India,2.7,IT Services & Consulting,501-1k Employees,Public,35,Mumbai
+259,Unichem Laboratories,3.9,Pharma,1k-5k Employees,Public,80,Chennai
+260,Newgen Software Technologies,3.6,IT Services & Consulting,1k-5k Employees,Public,32,Chennai
+261,Genpact,3.9,IT Services & Consulting,1 Lakh+ Employees,Public,27,Chennai
+262,Titan Company,4.4,Retail,5k-10k Employees,Public,40,Mumbai
+263,ITSource Technologies,3.1,IT Services & Consulting,201-500 Employees,Public,26,Mumbai
+264,Teva Pharmaceuticals,4.2,Pharma,1k-5k Employees,Forbes Global 2000,123,Mumbai
+265,Indian Oil Corporation,4.4,Oil & Gas,10k-50k Employees,Fortune India 500,65,Mumbai
+266,ITC Hotels,4.2,Hospitality,5k-10k Employees,Public,49,Mumbai
+267,Shriram Finance,4.1,NBFC,50k-1 Lakh Employees,Public,45,Mumbai
+268,Orange Business,4.3,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,32,Mumbai
+269,Toppr,3.4,EdTech,1k-5k Employees,Startup,11,Mumbai
+270,Turtlemint,3.6,Internet,1k-5k Employees,Startup,9,Mumbai
+271,Nestle,4.1,Food Processing,5k-10k Employees,Public,65,Mumbai
+272,BARC,4.4,Defence & Aerospace,10k-50k Employees,Public,79,Mumbai
+273,LEAP India Private Limited,4.4,Packaging,501-1k Employees,Startup,11,Mumbai
+274,Citigroup,3.7,Banking,10k-50k Employees,Forbes Global 2000,212,Mumbai
+275,Domino's Pizza,4.0,Hospitality,1k-5k Employees,Public,64,Mumbai
+276,Fortis Healthcare,4.1,Healthcare,1k-5k Employees,Public,28,Mumbai
+277,Nuvoco Vistas,4.2,Building Material,1k-5k Employees,Fortune India 500,25,Mumbai
+278,HSBC Group,4.1,Banking,10k-50k Employees,Forbes Global 2000,159,Mumbai
+279,NoBroker,3.2,Internet,1k-5k Employees,Indian Unicorn,10,Mumbai
+280,Anunta Technology Management Services,3.6,IT Services & Consulting,501-1k Employees,Startup,12,Mumbai
+281,Lifestyle,4.4,Retail,10k-50k Employees,Fortune India 500,25,Mumbai
+282,The Saraswat Co-operative Bank,3.4,Banking,1k-5k Employees,Public,106,Mumbai
+283,UBS,3.9,Investment Banking / Venture Capital / Private Equity,5k-10k Employees,Forbes Global 2000,9,Mumbai
+284,Nippon Life India Asset Management,4.7,Financial Services,1k-5k Employees,Public,29,Mumbai
+285,PNB MetLife,3.5,Insurance,5k-10k Employees,Conglomerate,23,Mumbai
+286,Lenskart,3.3,Internet,5k-10k Employees,Indian Unicorn,14,Mumbai
+287,Samsung C&T,4.1,Engineering & Construction,501-1k Employees,Forbes Global 2000,86,Mumbai
+288,LivSpace,3.5,Architecture & Interior Design,1k-5k Employees,Indian Unicorn,9,Mumbai
+289,State Street Corporation,3.8,Financial Services,10k-50k Employees,Forbes Global 2000,232,Mumbai
+290,Consolidated Contractors,4.5,Engineering & Construction,1k-5k Employees,Public,72,Mumbai
+291,Patel Engineering,4.3,Engineering & Construction,1k-5k Employees,Public,75,Mumbai
+292,Imarticus Learning,4.2,EdTech,501-1k Employees,Startup,12,Mumbai
+293,Sunteck Realty,3.5,Real Estate,51-200 Employees,Public,43,Mumbai
+294,Bandhan Bank,3.8,Banking,50k-1 Lakh Employees,Public,23,Mumbai
+295,Mastek,3.7,IT Services & Consulting,1k-5k Employees,Public,42,Mumbai
+296,BridgeLabz Solutions,3.4,EdTech,201-500 Employees,Startup,8,Mumbai
+297,Welspun,4.1,Fashion & Textile,10k-50k Employees,Fortune India 500,39,Mumbai
+298,Vivo,4.1,Consumer Electronics & Appliances,5k-10k Employees,Conglomerate,15,Mumbai
+299,Groupm Media,4.0,Marketing & Advertising,1k-5k Employees,Public,21,Mumbai
+300,Dr. Reddy's,4.2,Pharma,10k-50k Employees,Public,40,Mumbai
+301,Tata Teleservices,4.1,Telecom,201-500 Employees,Public,28,Mumbai
+302,Eduvanz,3.6,FinTech,201-500 Employees,Startup,8,Mumbai
+303,MT Educare,3.2,EdTech,201-500 Employees,Public,36,Mumbai
+304,Saregama India,4.1,Media & Entertainment,201-500 Employees,Public,123,Mumbai
+305,Shemaroo Entertainment,3.6,Media & Entertainment,501-1k Employees,Public,62,Mumbai
+306,Allcargo Logistics,3.9,Logistics,501-1k Employees,Public,31,Mumbai
+307,VIP Industries,4.0,Retail,1k-5k Employees,Public,53,Mumbai
+308,Barclays,4.0,Banking,10k-50k Employees,Forbes Global 2000,334,Mumbai
+309,American Express,4.2,Financial Services,10k-50k Employees,Forbes Global 2000,174,Mumbai
+310,Tata Group,4.3,IT Services & Consulting,1 Lakh+ Employees,Conglomerate,156,Mumbai
+311,Supreme Industries,4.2,Petrochemicals,5k-10k Employees,Public,82,Mumbai
+312,Alok Industries,3.8,Fashion & Textile,10k-50k Employees,Public,38,Mumbai
+313,Mahindra Lifespace Developers,4.1,Real Estate,201-500 Employees,Public,30,Mumbai
+314,Sterlite Technologies,3.8,Hardware & Networking,1k-5k Employees,Public,36,Mumbai
+315,Britannia,4.1,FMCG,1k-5k Employees,Public,132,Bangalore
+316,JSW Group,4.1,Iron & Steel,10k-50k Employees,Conglomerate,42,Mumbai
+317,Roche Diagnostics,3.7,Pharma,201-500 Employees,Conglomerate,128,Mumbai
+318,Ninjacart,4.1,Internet,1k-5k Employees,Startup,9,Mumbai
+319,Chhatrapati Shivaji International Airport,4.2,Real Estate,1k-5k Employees,Public,18,Mumbai
+320,Landmark Group,4.1,Retail,1k-5k Employees,Conglomerate,51,Mumbai
+321,Maersk Line,4.3,Logistics,1k-5k Employees,Public,120,Mumbai
+322,LG Electronics,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,66,Mumbai
+323,Apollo Hospitals,4.2,Healthcare,10k-50k Employees,Public,41,Mumbai
+324,Ion Exchange India,3.9,Waste Management,1k-5k Employees,Public,60,Mumbai
+325,STAR,4.2,Broadcasting,1k-5k Employees,Conglomerate,30,Mumbai
+326,NTT Global Networks,4.1,IT Services & Consulting,501-1k Employees,Public,5,Mumbai
+327,Bayer,4.2,Pharma,10k-50k Employees,Public,161,Mumbai
+328,Continuum Managed Services,4.0,IT Services & Consulting,51-200 Employees,Conglomerate,19,Mumbai
+329,Everest Industries,4.1,Building Material,1k-5k Employees,Public,90,Mumbai
+330,BillDesk,3.4,FinTech,201-500 Employees (Global),Public,24,Mumbai
+331,JSW Cement,4.1,Building Material,1k-5k Employees,Conglomerate,15,Mumbai
+332,S2 Infotech,3.4,Recruitment,201-500 Employees,Public,19,Mumbai
+333,JSW Cement,4.1,Building Material,1k-5k Employees,Conglomerate,15,Mumbai
+334,Onward Technologies Inc,3.2,Software Product,1k-5k Employees,Public,33,Mumbai
+335,Oracle,3.8,Software Product,50k-1 Lakh Employees,Public,47,Mumbai
+336,Cavinkare,4.0,FMCG,1k-5k Employees,Conglomerate,41,Mumbai
+337,KONE,4.3,Industrial Machinery,5k-10k Employees,Forbes Global 2000,114,Mumbai
+338,Gracenote,3.7,Media & Entertainment,501-1k Employees,Public,26,Mumbai
+339,Tata Consumer Products,3.9,FMCG,1k-5k Employees,Public,62,Mumbai
+340,Medlife,3.7,Internet,1k-5k Employees,Startup,10,Mumbai
+341,Spicejet,3.5,Aviation,5k-10k Employees,Public,20,Mumbai
+342,Rallis India,4.3,Agro Chemicals,1k-5k Employees,Public,76,Mumbai
+343,Testbook.com,3.7,EdTech,501-1k Employees,Startup,10,Mumbai
+344,Indian Railways,4.2,Railways,1 Lakh+ Employees,Central,171,Mumbai
+345,Prince Pipes & Fittings,4.3,Building Material,1k-5k Employees,Public,37,Mumbai
+346,ThyssenKrupp Industries India,4.2,Industrial Machinery,1k-5k Employees,Conglomerate,77,Mumbai
+347,Dell,4.2,Consumer Electronics & Appliances,10k-50k Employees,Forbes Global 2000,40,Mumbai
+348,Kellogg,4.3,FMCG,1k-5k Employees,Forbes Global 2000,118,Mumbai
+349,Blackrock,3.9,Management Consulting,1k-5k Employees,Forbes Global 2000,20,Mumbai
+350,DP World,4.1,Logistics,1k-5k Employees,Public,19,Mumbai
+351,Aksentt Tech Services,4.8,IT Services & Consulting,201-500 Employees,Public,17,Mumbai
+352,Shipping Corporation of India,3.8,Logistics,1k-5k Employees,Fortune India 500,63,Mumbai
+353,Kaya Skin Clinic,4.1,Beauty & Personal Care,501-1k Employees,Public,21,Mumbai
+354,Time Technoplast,3.8,Petrochemicals,1k-5k Employees,Public,32,Mumbai
+355,Apar Industries,4.1,Electrical Equipment,1k-5k Employees,Public,66,Mumbai
+356,Cipla Health,4.2,Pharma,10k-50k Employees,Public,11,Mumbai
+357,CGI Group,4.1,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,48,Mumbai
+358,Info Edge,4.0,Internet,5k-10k Employees,Public,29,Mumbai
+359,Prism Johnson,4.0,Building Material,1k-5k Employees,Public,32,Mumbai
+360,Rashtriya Chemicals and Fertilizers,4.3,Agro Chemicals,1k-5k Employees,Central,57,Mumbai
+361,Aegis Logistics,4.0,Oil & Gas,1k-5k Employees,Public,68,Mumbai
+362,Peninsula Land,3.9,Real Estate,501-1k Employees,Public,27,Mumbai
+363,Life Insurance Corporation of India,4.4,Insurance,1 Lakh+ Employees,Fortune India 500,68,Mumbai
+364,Simplex Infrastructures,3.3,Engineering & Construction,1k-5k Employees,Public,100,Mumbai
+365,Maharashtra Seamless,3.7,Building Material,1k-5k Employees,Public,36,Mumbai
+366,Nagarjuna Construction Company,4.2,Engineering & Construction,5k-10k Employees,Public,26,Mumbai
+367,Aptech,3.7,Education & Training,201-500 Employees,Public,38,Mumbai
+368,Essar Group,4.0,Engineering & Construction,10k-50k Employees,Public,55,Mumbai
+369,The Phoenix Mills,3.8,Real Estate,501-1k Employees,Public,119,Mumbai
+370,Federal Bank,3.9,Banking,10k-50k Employees,Public,93,Mumbai
+371,Reliance Trends,4.4,Retail,1 Lakh+ Employees,Conglomerate,18,Mumbai
+372,Adecco Group,3.8,Recruitment,1k-5k Employees,Forbes Global 2000,25,Mumbai
+373,Coforge,3.5,IT Services & Consulting,10k-50k Employees,Public,20,Mumbai
+374,PolicyBazaar,3.5,Internet,10k-50k Employees,Public,16,Mumbai
+375,PhonePe,4.1,FinTech,5k-10k Employees,Indian Unicorn,9,Mumbai
+376,Tribhovandas Bhimji Zaveri,4.2,Metals & Mining,1k-5k Employees,Public,160,Mumbai
+377,Thermo Fisher Scientific,3.9,Pharma,1k-5k Employees,Forbes Global 2000,68,Mumbai
+378,Themis Medicare,3.7,Pharma,201-500 Employees,Public,55,Mumbai
+379,Welspun Global Brands,3.8,Fashion & Textile,10k-50k Employees (Global),Public,24,Mumbai
+380,Flamingo Pharmaceuticals,3.3,Pharma,501-1k Employees,Public,39,Mumbai
+381,Tata ClassEdge,3.5,EdTech,501-1k Employees,Public,13,Mumbai
+382,AtkinsRealis,4.0,Engineering & Construction,1k-5k Employees,Public,113,Mumbai
+383,Gufic Biosciences,3.2,Pharma,501-1k Employees,Public,54,Mumbai
+384,Startek,3.3,BPO,10k-50k Employees,Public,7,Mumbai
+385,Raptakos Brett and Company,3.6,Pharma,201-500 Employees,Public,94,Mumbai
+386,Bliss Gvs Pharma,3.9,Pharma,501-1k Employees,Public,40,Mumbai
+387,ByteDance,4.2,Internet,1k-5k Employees,Startup,12,Mumbai
+388,Havells,4.1,Electrical Equipment,5k-10k Employees,Public,41,Mumbai
+389,Union Bank of India,4.1,Banking,50k-1 Lakh Employees,Public,105,Mumbai
+390,Hubtown,3.7,Engineering & Construction,1k-5k Employees,Public,35,Mumbai
+391,Drip Capital,4.0,FinTech,201-500 Employees,Startup,10,Mumbai
+392,Indiabulls Real Estate,4.6,Real Estate,501-1k Employees,Public,18,Mumbai
+393,Marks & Spencer,4.0,Retail,1k-5k Employees,Forbes Global 2000,140,Mumbai
+394,Pine Labs,3.7,FinTech,1k-5k Employees,Indian Unicorn,26,Mumbai
+395,Capri Global Capital,3.7,NBFC,1k-5k Employees,Public,27,Mumbai
+396,Adani Group,4.0,Power,10k-50k Employees,Public,36,Mumbai
+397,Huntsman International,4.3,Chemicals,501-1k Employees,Forbes Global 2000,54,Mumbai
+398,TotalEnergies,3.9,Oil & Gas,1k-5k Employees,Forbes Global 2000,100,Mumbai
+399,OPPO,4.0,Consumer Electronics & Appliances,10k-50k Employees,Public,20,Mumbai
+400,Donear Industries,3.5,Fashion & Textile,1k-5k Employees,Public,47,Mumbai
+401,Ashapura Group Of Industries,4.0,Metals & Mining,201-500 Employees,Public,64,Mumbai
+402,Zomato,3.8,Internet,1k-5k Employees,Public,16,Mumbai
+403,Zomato,3.8,Internet,1k-5k Employees,Public,16,Mumbai
+404,Prime Focus,3.9,Animation & VFX,1k-5k Employees,Public,27,Mumbai
+405,Bank of India,4.0,Banking,50k-1 Lakh Employees,Fortune India 500,118,Mumbai
+406,Danone Foods Beverages,3.5,Food Processing,501-1k Employees,Forbes Global 2000,105,Mumbai
+407,New India Co-Op Bank,3.3,Banking,11-50 Employees,Public,56,Mumbai
+408,VVF,3.7,FMCG,501-1k Employees,Public,85,Mumbai
+409,Gulf Oil Lubricants,4.1,Chemicals / Agri Inputs,501-1k Employees,Public,31,Mumbai
+410,Patanjali Foods,4.0,FMCG,5k-10k Employees,Public,38,Mumbai
+411,PepsiCo,4.2,Food Processing,1 Lakh+ Employees,Public,59,Mumbai
+412,Welspun World,3.8,Building Material,1k-5k Employees,Public,39,Mumbai
+413,Manappuram Finance,4.0,NBFC,10k-50k Employees,Public,75,Mumbai
+414,Castrol,4.3,Petrochemicals,501-1k Employees,Public,125,Mumbai
+415,Hyatt Regency,4.2,Hospitality,1k-5k Employees,Forbes Global 2000,44,Mumbai
+416,MEP Infrastructure Developers,3.5,Engineering & Construction,1k-5k Employees,Public,22,Mumbai
+417,Reckitt Benckiser,4.0,FMCG,1k-5k Employees,Conglomerate,25,Mumbai
+418,Vertiv,4.0,IT Services & Consulting,51-200 Employees (Global),Startup,8,Mumbai
+419,Laxmi Organic Industries,4.2,Chemicals,501-1k Employees,Public,32,Mumbai
+420,Neon Laboratories,3.9,Pharma,1k-5k Employees,Public,42,Mumbai
+421,Maruti Suzuki,4.2,Automobile,10k-50k Employees,Public,43,Mumbai
+422,Maruti Suzuki,4.2,Automobile,10k-50k Employees,Public,43,Mumbai
+423,Saipem,4.1,Engineering & Construction,1k-5k Employees,Forbes Global 2000,67,Mumbai
+424,Canara Bank,3.5,Banking,50k-1 Lakh Employees,Public,118,Mumbai
+425,Kokuyo Camlin,4.2,FMCG,1k-5k Employees,Public,93,Mumbai
+426,Ujjivan Small Finance Bank,4.1,Banking,10k-50k Employees,Public,7,Mumbai
+427,ICPA Health Products,3.4,Healthcare,51-200 Employees,Public,41,Mumbai
+428,Trigyn Technologies,3.8,IT Services & Consulting,501-1k Employees,Public,38,Mumbai
+429,CareEdge Ratings,2.9,Financial Services,501-1k Employees,Public,31,Mumbai
+430,Trigyn Technologies,3.8,IT Services & Consulting,501-1k Employees,Public,38,Mumbai
+431,Tata International,3.7,Import & Export,1k-5k Employees,Public,62,Mumbai
+432,Compass Group Support Services,4.1,Hospitality,10k-50k Employees,Public,83,Mumbai
+433,Mahindra Rural Housing Finance,4.1,NBFC,10k-50k Employees,Public,17,Mumbai
+434,VLCC,3.7,Beauty & Personal Care,1k-5k Employees,Conglomerate,35,Mumbai
+435,Zee Learn,3.8,Education & Training,201-500 Employees,Public,8,Mumbai
+436,Blinkit,3.9,Internet,1k-5k Employees,Indian Unicorn,11,Mumbai
+437,Ziqitza Health Care,4.0,Healthcare,5k-10k Employees,Public,19,Mumbai
+438,BOB Financial Solutions,4.3,NBFC,501-1k Employees,Public,30,Mumbai
+439,THE LEELA PALACES HOTELS & RESORTS,4.0,Hospitality,1k-5k Employees,Conglomerate,41,Mumbai
+440,SpeedLabs,3.5,EdTech,201-500 Employees,Startup,9,Mumbai
+441,Matrimony.com,4.4,Internet,1k-5k Employees,Public,27,Mumbai
+442,RPG Life Sciences,4.1,Pharma,1k-5k Employees,Public,31,Mumbai
+443,The Indian Hotels Company,4.2,Hospitality,10k-50k Employees,Fortune India 500,125,Mumbai
+444,The Hershey Company,4.2,Food Processing,201-500 Employees,Forbes Global 2000,130,Mumbai
+445,Consulting Engineers Group,4.2,Engineering & Construction,1k-5k Employees,Public,40,Mumbai
+446,Medtronic,4.1,Medical Equipment,1k-5k Employees,Forbes Global 2000,45,Mumbai
+447,Metro Cash & Carry,4.3,Retail,1k-5k Employees,Forbes Global 2000,21,Mumbai
+448,HCL Infosystems,4.1,IT Services & Consulting,51-200 Employees,Public,48,Mumbai
+449,Indian Army,4.7,Defence & Aerospace,1 Lakh+ Employees,Public,129,Mumbai
+450,Tata Chemicals,4.2,Chemicals,1k-5k Employees,Public,85,Mumbai
+451,Balkrishna Industries,4.1,Auto Components,1k-5k Employees,Public,37,Mumbai
+452,Muthoot Finance,3.6,NBFC,10k-50k Employees,Public,85,Mumbai
+453,Publicis,3.7,Marketing & Advertising,5k-10k Employees,Forbes Global 2000,98,Mumbai
+454,Panacea Biotec,3.9,Biotechnology,1k-5k Employees,Public,40,Mumbai
+455,NRB Bearings,4.2,Auto Components,1k-5k Employees,Public,59,Mumbai
+456,Multi Commodity Exchange of India,3.5,Financial Services,201-500 Employees,Public,21,Mumbai
+457,Utkarsh Small Finance Bank,3.9,Banking,10k-50k Employees,Public,15,Mumbai
+458,Emcure Pharmaceuticals,3.8,Pharma,5k-10k Employees,Fortune India 500,43,Mumbai
+459,NRB Bearings,4.2,Auto Components,1k-5k Employees,Public,59,Mumbai
+460,FirstCry,3.8,Retail,1k-5k Employees,Indian Unicorn,14,Mumbai
+461,Four Seasons Hotel,4.3,Hospitality,501-1k Employees,Public,27,Mumbai
+462,Equitas Small Finance Bank,4.4,Banking,10k-50k Employees,Fortune India 500,17,Mumbai
+463,BDO,3.5,Accounting & Auditing,5k-10k Employees,Public,61,Mumbai
+464,Baker Hughes,4.1,Oil & Gas,1k-5k Employees,Conglomerate,8,Mumbai
+465,Tata Housing Development Company,4.1,Real Estate,1k-5k Employees,Public,40,Mumbai
+466,Prism Johnson Limited - RMC (India) Division,4.1,Building Material,501-1k Employees,Public,28,Mumbai
+467,The Souled Store,3.5,Fashion & Textile,201-500 Employees,Startup,11,Mumbai
+468,Bharat Gears,4.2,Auto Components,1k-5k Employees,Public,52,Mumbai
+469,Emami,4.1,Beauty & Personal Care,1k-5k Employees,Public,50,Mumbai
+470,Municipal Corporation of Greater Mumbai,3.7,Government,501-1k Employees,Public,136,Mumbai
+471,NEC,4.6,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,125,Mumbai
+472,Emami,4.1,Beauty & Personal Care,1k-5k Employees,Public,50,Mumbai
+473,Dosti Realty,4.0,Real Estate,501-1k Employees,Public,44,Mumbai
+474,Tata Motors Finance,4.2,NBFC,1k-5k Employees,Conglomerate,67,Mumbai
+475,Bluestone.com,3.8,Jewellery,501-1k Employees,Startup,13,Mumbai
+476,Reliance Power,4.2,Power,1k-5k Employees,Public,29,Mumbai
+477,Kogta Financial India Limited,4.8,NBFC,1k-5k Employees,Public,28,Mumbai
+478,Xpo Logistics,3.8,Logistics,51-200 Employees,Public,13,Mumbai
+479,V-Trans,4.1,Logistics,1k-5k Employees,Public,66,Mumbai
+480,Stock Holding Corporation of India,3.6,Financial Services,201-500 Employees,Public,38,Mumbai
+481,Dunzo,3.5,Internet,1k-5k Employees,Startup,10,Mumbai
+482,WPP,3.6,Marketing & Advertising,501-1k Employees,Forbes Global 2000,39,Mumbai
+483,Mitsui O.S.K. Lines,4.0,Ports & Shipping,51-200 Employees,Forbes Global 2000,140,Mumbai
+484,Bunge India,4.0,Food Processing,1k-5k Employees,Forbes Global 2000,24,Mumbai
+485,Ugro Capital,3.8,NBFC,1k-5k Employees,Public,31,Mumbai
+486,USHA International,4.2,Consumer Electronics & Appliances,1k-5k Employees,Public,90,Mumbai
+487,Apple,4.3,Consumer Electronics & Appliances,10k-50k Employees,Forbes Global 2000,48,Mumbai
+488,Thomson Reuters,4.2,Software Product,5k-10k Employees,Forbes Global 2000,16,Mumbai
+489,Yangpoo University Partners,3.8,EdTech,51-200 Employees,Startup,8,Mumbai
+490,EMERSON PROCESS MANAGEMENT,4.1,Industrial Machinery,1k-5k Employees,Public,134,Mumbai
+491,Upstox,3.8,FinTech,1k-5k Employees,Indian Unicorn,13,Mumbai
+492,Traya Health,3.7,Internet,51-200 Employees,Startup,5,Mumbai
+493,ABB Group,4.1,Electrical Equipment,1k-5k Employees,Public,36,Mumbai
+494,Bata,3.9,Fashion & Textile,1k-5k Employees,Public,93,Mumbai
+495,Indus Towers,4.0,Telecom,1k-5k Employees,Fortune India 500,17,Mumbai
+496,Ryan International School,3.7,Education & Training,10k-50k Employees,Public,32,Mumbai
+497,Neebal Technologies,3.6,IT Services & Consulting,51-200 Employees,Startup,12,Mumbai
+498,Reliance Capital,4.0,Financial Services,1k-5k Employees,Public,19,Mumbai
+499,Xiaomi,3.9,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,14,Mumbai
+500,UFO Moviez,3.7,Media & Entertainment,201-500 Employees,Public,19,Mumbai
+501,Kimberly-Clark,4.2,Beauty & Personal Care,1k-5k Employees,Forbes Global 2000,152,Mumbai
+502,Progressive Infotech,3.5,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,26,Mumbai
+503,Weddingz.in,4.1,Internet,501-1k Employees,Startup,9,Mumbai
+504,Square Panda India LLP,3.8,EdTech,51-200 Employees,Startup,10,Mumbai
+505,Bajaj Consumer Care,3.9,FMCG,201-500 Employees,Public,94,Mumbai
+506,Exide Industries,3.6,Auto Components,5k-10k Employees,Public,77,Mumbai
+507,Ahluwalia Contracts India,4.1,Engineering & Construction,1k-5k Employees,Public,59,Mumbai
+508,TAJSATS AIR CATERING,4.1,Hospitality,51-200 Employees,Public,48,Mumbai
+509,Dodsal Engineering & Construction,4.4,Engineering & Construction,501-1k Employees,Conglomerate,41,Mumbai
+510,Navneet Education,3.9,Printing & Publishing,501-1k Employees,Public,65,Mumbai
+511,Health Care Global Enterprises,4.2,Healthcare,5k-10k Employees,Public,35,Mumbai
+512,NEARBY TECHNOLOGIES,3.8,Internet,1k-5k Employees,Startup,8,Mumbai
+513,NeoGrowth Credit,3.7,NBFC,501-1k Employees,Startup,11,Mumbai
+514,XpressBees,3.8,Logistics,5k-10k Employees,Indian Unicorn,9,Mumbai
+515,Hind Rectifiers,3.4,Electrical Equipment,201-500 Employees,Public,66,Mumbai
+516,ManpowerGroup,3.9,Recruitment,50k-1 Lakh Employees,Forbes Global 2000,29,Mumbai
+517,Dream11,3.7,Internet,501-1k Employees,Indian Unicorn,16,Mumbai
+518,Grauer & Weil (i),3.6,Chemicals,501-1k Employees,Public,67,Mumbai
+519,ManpowerGroup,3.9,Recruitment,50k-1 Lakh Employees,Forbes Global 2000,29,Mumbai
+520,Marriott International,4.3,Hospitality,10k-50k Employees,Forbes Global 2000,97,Mumbai
+521,Gupshup,3.7,Software Product,501-1k Employees,Indian Unicorn,20,Mumbai
+522,IDBI Capital,3.5,Financial Services,51-200 Employees,Public,31,Mumbai
+523,Punjab National Bank,4.1,Banking,1 Lakh+ Employees,Fortune India 500,130,Mumbai
+524,Muthoot Fincorp,4.1,NBFC,10k-50k Employees,Conglomerate,137,Mumbai
+525,Punjab National Bank,4.1,Banking,1 Lakh+ Employees,Fortune India 500,130,Mumbai
+526,IDBI Capital,3.5,Financial Services,51-200 Employees,Public,31,Mumbai
+527,Philips,3.9,Consumer Electronics & Appliances,5k-10k Employees,Forbes Global 2000,94,Mumbai
+528,Varun Beverages,4.1,Beverage,5k-10k Employees,Public,29,Mumbai
+529,Entero Healthcare Solutions,4.3,Pharma,1k-5k Employees,Public,6,Mumbai
+530,Cisco,4.3,Hardware & Networking,10k-50k Employees,Public,40,Mumbai
+531,Videocon d2h,3.9,Internet,501-1k Employees,Public,15,Mumbai
+532,Godfrey Phillips India,4.1,FMCG,501-1k Employees,Public,91,Mumbai
+533,Healthcare At Home,3.6,Healthcare,1k-5k Employees,Startup,12,Mumbai
+534,Rivigo,3.9,Internet,1k-5k Employees,Indian Unicorn,10,Mumbai
+535,Avanse Financial Services,4.0,Financial Services,501-1k Employees,Startup,12,Mumbai
+536,LenDenClub,3.2,FinTech,201-500 Employees,Startup,9,Mumbai
+537,Hewlett Packard Enterprise,4.3,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,9,Mumbai
+538,Future Lifestyle Fashion,4.2,Retail,1k-5k Employees,Public,12,Mumbai
+539,Stelmec,3.5,Electronics Manufacturing,501-1k Employees,Public,40,Mumbai
+540,Ajmera Realty & Infra India,3.5,Real Estate,51-200 Employees,Public,57,Mumbai
+541,Kotak Mahindra Prime,4.0,NBFC,5k-10k Employees,Public,28,Mumbai
+542,DB Schenker,4.3,Logistics,1k-5k Employees,Conglomerate,34,Mumbai
+543,Schoolnet India,3.8,EdTech,51-200 Employees,Public,27,Mumbai
+544,Uber,4.2,Internet,1k-5k Employees,Public,15,Mumbai
+545,Kores,3.8,FMCG,1k-5k Employees,Conglomerate,88,Mumbai
+546,Billabong High International School,3.8,Education & Training,51-200 Employees,Public,15,Mumbai
+547,Liquiloans,2.9,FinTech,201-500 Employees,Startup,6,Mumbai
+548,Hotstar,3.7,Internet,501-1k Employees (Global),Startup,9,Mumbai
+549,Thermax Limited,4.2,Industrial Machinery,1k-5k Employees,Public,58,Mumbai
+550,Mankind Pharma,4.1,Pharma,10k-50k Employees,Fortune India 500,29,Mumbai
+551,Aurionpro Solutions,3.7,Software Product,1k-5k Employees,Public,27,Mumbai
+552,Essar Projects India,3.8,Engineering & Construction,5k-10k Employees,Public,55,Mumbai
+553,Starbucks,4.3,Hospitality,1k-5k Employees,Public,53,Mumbai
+554,Ekeeda,4.0,EdTech,51-200 Employees,Startup,8,Mumbai
+555,Oriental Aromatics,3.2,Chemicals,501-1k Employees,Public,69,Mumbai
+556,Sulphur Mills,4.0,Agro Chemicals,201-500 Employees,Public,64,Mumbai
+557,Future Supply Chain Solutions,4.4,Logistics,1k-5k Employees,Public,18,Mumbai
+558,Central Bank of India,4.0,Banking,10k-50k Employees,Public,113,Mumbai
+559,Atomberg Technologies,4.1,Consumer Electronics & Appliances,201-500 Employees,Startup,12,Mumbai
+560,Tata Technologies,3.8,Engineering & Construction,5k-10k Employees,Conglomerate,35,Mumbai
+561,Persistent Systems,3.8,IT Services & Consulting,10k-50k Employees,Public,34,Mumbai
+562,Berger Paints,3.8,Chemicals,1k-5k Employees,Public,101,Mumbai
+563,Punjab and Maharashtra Co-operative Bank,3.9,Banking,10k-50k Employees (Global),Public,40,Mumbai
+564,3 Minds Digital,4.4,Marketing & Advertising,51-200 Employees,Startup,8,Mumbai
+565,Ashoka Buildcon,4.1,Engineering & Construction,1k-5k Employees,Public,48,Mumbai
+566,Majesco,3.8,IT Services & Consulting,1k-5k Employees,Public,42,Mumbai
+567,Kewal Kiran Clothing,4.1,Fashion & Textile,1k-5k Employees,Public,43,Mumbai
+568,Sony,4.3,Consumer Electronics & Appliances,1k-5k Employees,Public,30,Mumbai
+569,Asahi India Glass,3.9,Auto Components,1k-5k Employees,Public,40,Mumbai
+570,Deepak Fertilisers and Petrochemicals,3.9,Agro Chemicals,1k-5k Employees,Public,45,Mumbai
+571,Bdh Industries,4.7,Pharma,51-200 Employees,Public,34,Mumbai
+572,Digitas,3.6,Marketing & Advertising,201-500 Employees,Public,18,Mumbai
+573,CarDekho,3.7,Internet,1k-5k Employees,Indian Unicorn,16,Mumbai
+574,National Organic Chemical Industries,4.1,Chemicals,501-1k Employees,Public,49,Mumbai
+575,Shadowfax Technologies,3.7,Logistics,1k-5k Employees,Public,9,Mumbai
+576,Housing.com,3.8,Internet,1k-5k Employees,Startup,12,Mumbai
+577,HT Media,3.4,Media & Entertainment,1k-5k Employees,Public,100,Mumbai
+578,Welspun Enterprises,4.2,Engineering & Construction,1k-5k Employees,Public,48,Mumbai
+579,Canon,4.2,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,87,Mumbai
+580,The WorldGrad,4.3,Education & Training,51-200 Employees,Startup,3,Mumbai
+581,BIZONGO,3.4,Emerging Technologies,201-500 Employees,Startup,9,Mumbai
+582,Clariant Chemicals,4.2,Chemicals,1k-5k Employees,Public,29,Mumbai
+583,Core Integra Consulting Services,3.6,Recruitment,501-1k Employees,Conglomerate,13,Mumbai
+584,BASF,4.5,Chemicals,1k-5k Employees,Fortune India 500,81,Mumbai
+585,Bharat Bijlee,4.3,Electrical Equipment,501-1k Employees,Public,78,Mumbai
+586,Star Health & Allied Insurance,3.9,Insurance,10k-50k Employees,Fortune India 500,18,Mumbai
+587,Quikr,3.9,Internet,1k-5k Employees,Indian Unicorn,16,Mumbai
+588,Lido Learning,2.3,EdTech,201-500 Employees,Startup,5,Mumbai
+589,Courtyard by Marriott,4.2,Hospitality,1k-5k Employees,Public,97,Mumbai
+590,Epimoney,3.7,Financial Services,201-500 Employees,Startup,29,Mumbai
+591,Great Eastern Shipping Company,4.1,Oil & Gas,501-1k Employees,Public,76,Mumbai
+592,Unicharm,4.2,Beauty & Personal Care,1k-5k Employees,Forbes Global 2000,63,Mumbai
+593,Balmer Lawrie,4.0,Packaging,501-1k Employees,Central,157,Mumbai
+594,BeyondSkool,3.3,Internet,201-500 Employees,Startup,4,Mumbai
+595,Galaxy Surfactants,3.9,Chemicals,1k-5k Employees,Public,44,Mumbai
+596,Nitco,4.3,Building Material,1k-5k Employees,Public,71,Mumbai
+597,CoinDCX,3.8,Emerging Technologies,501-1k Employees,Indian Unicorn,7,Mumbai
+598,Isprava,3.7,Real Estate,51-200 Employees,Startup,11,Mumbai
+599,Galaxy Surfactants,3.9,Chemicals,1k-5k Employees,Public,44,Mumbai
+600,Bharat Wire Ropes,3.8,Iron & Steel,201-500 Employees,Public,38,Mumbai
+601,Indostar Capital Finance,4.5,NBFC,1k-5k Employees,Public,13,Mumbai
+602,Infibeam Avenues,3.4,IT Services & Consulting,501-1k Employees,Public,17,Mumbai
+603,The Walt Disney Company,4.1,Media & Entertainment,5k-10k Employees,Forbes Global 2000,101,Mumbai
+604,CASHe,4.6,Internet,51-200 Employees,Startup,8,Mumbai
+605,Grindwell Norton,4.1,Industrial Machinery,1k-5k Employees,Public,83,Mumbai
+606,Jai Kisan,3.7,Internet,51-200 Employees,Startup,7,Mumbai
+607,Microgen Hygiene,2.9,Healthcare,51-200 Employees,MNC,17,Mumbai
+608,The Indian Hume Pipe Co.,4.1,Building Material,1k-5k Employees,Public,98,Mumbai
+609,Tata Realty and Infrastructure,4.0,Real Estate,501-1k Employees,Public,17,Mumbai
+610,Balaji Telefilms,3.3,Media & Entertainment,201-500 Employees,Public,30,Mumbai
+611,Sumitomo Chemical,4.0,Chemicals,1k-5k Employees,Fortune India 500,99,Mumbai
+612,ICRA,3.1,Financial Services,201-500 Employees,Public,33,Mumbai
+613,CMC,4.2,Education & Training,10k-50k Employees,Public,56,Mumbai
+614,CMC,4.2,Education & Training,10k-50k Employees,Public,56,Mumbai
+615,ICRA,3.1,Financial Services,201-500 Employees,Public,33,Mumbai
+616,Petron Engineering Construction,4.4,Engineering & Construction,501-1k Employees,Public,48,Mumbai
+617,Sumitomo Chemical,4.0,Chemicals,1k-5k Employees,Fortune India 500,99,Mumbai
+618,Balaji Telefilms,3.3,Media & Entertainment,201-500 Employees,Public,30,Mumbai
+619,NIIT,3.7,Education & Training,1k-5k Employees,Public,43,Mumbai
+620,Honeywell Automation,3.8,Consumer Electronics & Appliances,10k-50k Employees,Public,118,Mumbai
+621,Religare,3.9,Financial Services,1k-5k Employees,Public,40,Mumbai
+622,Mumbai District Central Co-operative Bank,4.6,Banking,5k-10k Employees,Public,49,Mumbai
+623,Halliburton,3.6,Engineering & Construction,1k-5k Employees,Forbes Global 2000,105,Mumbai
+624,Hyundai Motor India Limited,4.4,Automobile,10k-50k Employees,Fortune India 500,57,Mumbai
+625,IFB,3.7,Consumer Electronics & Appliances,201-500 Employees,Public,50,Mumbai
+626,TransUnion,4.0,Financial Services,201-500 Employees,Forbes Global 2000,56,Mumbai
+627,Hyundai Motor India Limited,4.4,Automobile,10k-50k Employees,Fortune India 500,57,Mumbai
+628,IFB,3.7,Consumer Electronics & Appliances,201-500 Employees,Public,50,Mumbai
+629,Shell,4.3,Oil & Gas,10k-50k Employees,Public,117,Mumbai
+630,Cult.fit,3.8,Fitness & Wellness,1k-5k Employees,Indian Unicorn,8,Mumbai
+631,Nokia,4.2,Telecom,10k-50k Employees,Forbes Global 2000,159,Mumbai
+632,Gallagher,3.9,Insurance,10k-50k Employees,Forbes Global 2000,97,Mumbai
+633,Spinny,3.9,Internet,1k-5k Employees,Indian Unicorn,9,Mumbai
+634,myGate,3.3,Law Enforcement & Security,1k-5k Employees,Startup,8,Mumbai
+635,Saksoft,3.7,IT Services & Consulting,1k-5k Employees,Public,25,Mumbai
+636,Freecharge,4.0,FinTech,501-1k Employees,Conglomerate,14,Mumbai
+637,Nkgsb CO-OP Bank,4.2,Banking,1k-5k Employees,Public,107,Mumbai
+638,FMC,4.2,Agro Chemicals,1k-5k Employees,Forbes Global 2000,15,Mumbai
+639,Zodiac Clothing Company,3.6,Fashion & Textile,1k-5k Employees,Public,40,Mumbai
+640,Lakme,4.3,Beauty & Personal Care,201-500 Employees,Public,44,Mumbai
+641,Repro India,3.8,FMCG,501-1k Employees,Public,40,Mumbai
+642,Shriram Housing Finance,4.0,Financial Services,501-1k Employees,Public,14,Mumbai
+643,Nkgsb CO-OP Bank,4.2,Banking,1k-5k Employees,Public,107,Mumbai
+644,FMC,4.2,Agro Chemicals,1k-5k Employees,Forbes Global 2000,15,Mumbai
+645,Dr Lal PathLabs,4.2,Healthcare,1k-5k Employees,Public,75,Mumbai
+646,Microsoft Corporation,4.1,Software Product,10k-50k Employees,Forbes Global 2000,49,Mumbai
+647,A K Capital Services,3.3,Investment Banking / Venture Capital / Private Equity,201-500 Employees,Public,31,Mumbai
+648,Care Health Insurance,3.8,Internet,5k-10k Employees,Public,12,Mumbai
+649,Labdhi Lifestyle,4.1,Real Estate,51-200 Employees,Public,10,Mumbai
+650,Mukand Limited,3.8,Iron & Steel,1k-5k Employees,Public,87,Mumbai
+651,Novo Nordisk,4.1,Pharma,1k-5k Employees,Forbes Global 2000,101,Mumbai
+652,Sajjan India,3.8,Chemicals,51-200 Employees,Public,119,Mumbai
+653,Lava International,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,15,Mumbai
+654,Redington,4.0,Hardware & Networking,1k-5k Employees,Public,25,Mumbai
+655,Hilton,4.4,Hospitality,1k-5k Employees,Forbes Global 2000,105,Mumbai
+656,Redington,4.0,Hardware & Networking,1k-5k Employees,Public,25,Mumbai
+657,Adani Wilmar,4.2,FMCG,1k-5k Employees,Public,25,Mumbai
+658,Greaves Cotton,4.1,Auto Components,501-1k Employees,Public,165,Mumbai
+659,Indo Amines,3.2,Chemicals,201-500 Employees,Public,45,Kalyan
+660,Compuage Infocom,3.9,Hardware & Networking,501-1k Employees,Public,37,Mumbai
+661,Mosaic Wellness,3.8,Fitness & Wellness,51-200 Employees,Startup,5,Mumbai
+662,Orix Auto Infrastructure Services,4.4,Logistics,201-500 Employees,Public,29,Mumbai
+663,Fraazo,3.4,Internet,201-500 Employees,Startup,8,Mumbai
+664,Bajaj Auto,3.9,Automobile,5k-10k Employees,Public,79,Mumbai
+665,Whirlpool,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,113,Mumbai
+666,Torrent Power,3.8,Power,5k-10k Employees,Public,28,Mumbai
+667,Givaudan,4.1,Beauty & Personal Care,51-200 Employees,Forbes Global 2000,129,Mumbai
+668,WorkStore,3.8,Facility Management Services,501-1k Employees,Public,17,Mumbai
+669,Arrivae,3.5,Internet,201-500 Employees,Startup,7,Mumbai
+670,Fiserv,3.6,FinTech,5k-10k Employees,Forbes Global 2000,40,Mumbai
+671,Schlumberger,4.1,Oil & Gas,5k-10k Employees,Forbes Global 2000,98,Mumbai
+672,Ashok Leyland,4.1,Automobile,5k-10k Employees,Public,76,Mumbai
+673,Pratibha Industries,4.7,Engineering & Construction,501-1k Employees,Public,42,Mumbai
+674,Reliance Home Finance,4.5,NBFC,501-1k Employees,Public,16,Mumbai
+675,Fable Fintech,3.3,Internet,51-200 Employees,Startup,3,Mumbai
+676,Glenmark Life Sciences,3.8,Pharma,201-500 Employees,Public,47,Mumbai
+677,Fable Fintech,3.3,Internet,51-200 Employees,Startup,3,Mumbai
+678,Pratibha Industries,4.7,Engineering & Construction,501-1k Employees,Public,42,New
+679,Ashok Leyland,4.1,Automobile,5k-10k Employees,Public,76,Chennai
+680,Schlumberger,4.1,Oil & Gas,5k-10k Employees,Forbes Global 2000,98,Pune
+681,Nandan Petrochem,3.7,Petrochemicals,201-500 Employees,Public,32,Mumbai
+682,Glenmark Life Sciences,3.8,Pharma,201-500 Employees,Public,47,Ankleshwar
+683,Sharda Cropchem,3.9,Chemicals,201-500 Employees,Public,37,Mumbai
+684,Financepeer,3.1,Financial Services,201-500 Employees,Startup,7,Chennai
+685,JK Tyres,3.8,Auto Components,1k-5k Employees,Fortune India 500,73,Chennai
+686,RR kabel,4.2,Electrical Equipment,1k-5k Employees,Public,29,Chennai
+687,Games24x7,4.0,Gaming,501-1k Employees,Indian Unicorn,18,Bangalore
+688,Patanjali Ayurved,3.2,FMCG,1k-5k Employees,Fortune India 500,18,Chennai
+689,LIC Housing Finance,4.0,NBFC,1k-5k Employees,Public,35,Chennai
+690,Poonawalla Fincorp,3.9,NBFC,1k-5k Employees,Public,36,Chennai
+691,Motilal Oswal,3.9,Financial Services,5k-10k Employees,Public,37,Chennai
+692,Volkswagen,4.2,Automobile,1k-5k Employees,Forbes Global 2000,23,Chennai
+693,IG Petrochemicals,3.6,Chemicals,1k-5k Employees,Public,36,Mumbai
+694,Poonawalla Fincorp,3.9,NBFC,1k-5k Employees,Public,36,Mumbai
+695,LIC Housing Finance,4.0,NBFC,1k-5k Employees,Public,35,Mumbai
+696,StayVista,2.8,Travel & Tourism,201-500 Employees,Startup,9,Mumbai
+697,Arvind Group,4.1,Fashion & Textile,10k-50k Employees,Public,93,Mumbai
+698,Speciality Restaurants,4.1,Hospitality,1k-5k Employees,Public,33,Mumbai
+699,ASM Technologies,3.7,Engineering & Construction,1k-5k Employees,Public,32,Mumbai
+700,Aavas Financiers,4.0,Financial Services,5k-10k Employees,Public,13,Mumbai
+701,Karvy Innotech,3.2,IT Services & Consulting,501-1k Employees,Public,12,Mumbai
+702,Lloyds Engineering Works Limited,4.0,Industrial Machinery,201-500 Employees,Public,50,Mumbai
+703,Praxis home Retail,4.1,Retail,1k-5k Employees,Public,17,Mumbai
+704,YouGov,3.8,Analytics & KPO,201-500 Employees,Public,24,Mumbai
+705,RouteMobile,4.2,IT Services & Consulting,201-500 Employees,Public,20,Mumbai
+706,KFintech,3.7,FinTech,5k-10k Employees,Startup,7,Mumbai
+707,Cholamandalam Investment & Finance,4.1,NBFC,10k-50k Employees,Fortune India 500,46,Mumbai
+708,5Paisa Capital Limited,4.0,Financial Services,501-1k Employees,Public,9,Mumbai
+709,Banswara Syntex,4.1,Fashion & Textile,10k-50k Employees,Public,48,Mumbai
+710,Safexpress,4.1,Logistics,1k-5k Employees,Conglomerate,27,Mumbai
+711,Banswara Syntex,4.1,Fashion & Textile,10k-50k Employees,Public,48,Mumbai
+712,5Paisa Capital Limited,4.0,Financial Services,501-1k Employees,Public,9,Mumbai
+713,Safexpress,4.1,Logistics,1k-5k Employees,Conglomerate,27,Mumbai
+714,Edocs Solutions,2.6,IT Services & Consulting,51-200 Employees,Public,8,Mumbai
+715,Nuclear Power Corporation of India,4.1,Power,10k-50k Employees,State,37,Mumbai
+716,AB InBev India,3.5,Beverage,1k-5k Employees,Public,36,Mumbai
+717,KPIT Technologies,3.6,Software Product,5k-10k Employees,Public,34,Mumbai
+718,Eveready Industries,4.0,Consumer Electronics & Appliances,1k-5k Employees,Public,90,Mumbai
+719,JK Cement,4.2,Building Material,1k-5k Employees,Public,49,Mumbai
+720,Karur Vysya Bank,3.7,Banking,5k-10k Employees,Public,108,Mumbai
+721,JSW Energy,4.2,Power,1k-5k Employees,Public,30,Mumbai
+722,Smith & Nephew Healthcare,3.9,Medical Equipment,1k-5k Employees,Public,168,Mumbai
+723,HIL,4.2,Building Material,1k-5k Employees,Public,78,Mumbai
+724,Danaher,4.0,Pharma,1k-5k Employees,Forbes Global 2000,40,Mumbai
+725,Security and Intelligence Services (India),4.1,Law Enforcement & Security,1 Lakh+ Employees,Public,39,Mumbai
+726,Daikin,4.2,Consumer Electronics & Appliances,1k-5k Employees,Fortune India 500,24,Mumbai
+727,Vinati Organics,3.8,Chemicals,501-1k Employees,Public,35,Mumbai
+728,RPG Group,4.2,Engineering & Construction,10k-50k Employees,Conglomerate,204,Mumbai
+729,Nilkamal Furniture,4.1,Furniture & Furnishing,1k-5k Employees,Public,34,Mumbai
+730,Becton Dickinson,4.1,Medical Equipment,201-500 Employees,Forbes Global 2000,23,Mumbai
+731,BrowserStack,3.6,IT Services & Consulting,201-500 Employees,Indian Unicorn,13,Mumbai
+732,Times Internet,3.6,Internet,10k-50k Employees,Public,25,Chennai
+733,Radius Developers,3.6,Engineering & Construction,201-500 Employees,Startup,10,Mumbai
+734,Aarti Drugs,3.8,Pharma,201-500 Employees,Public,40,Boisar
+735,PayU Payments,3.8,FinTech,1k-5k Employees,Conglomerate,22,Chennai
+736,Novartis Healthcare,4.1,Pharma,51-200 Employees,Public,28,Chennai
+737,Nepa,3.5,Internet,501-1k Employees,Public,77,Mumbai
+738,RentoMojo,4.4,Internet,501-1k Employees,Startup,10,Chennai
+739,InsanelyGood,4.1,Internet,11-50 Employees,Startup,9,Chennai
+740,Bosch,4.3,Auto Components,5k-10k Employees,Public,138,Chennai
+741,Aarti Drugs,3.8,Pharma,201-500 Employees,Public,40,Mumbai
+742,Radius Developers,3.6,Engineering & Construction,201-500 Employees,Startup,10,Mumbai
+743,Miko,3.5,Emerging Technologies,51-200 Employees,Startup,9,Mumbai
+744,Planetcast,3.8,Media & Entertainment,1k-5k Employees,Public,28,Mumbai
+745,CenturyPly,4.0,Furniture & Furnishing,1k-5k Employees,Public,38,Mumbai
+746,ElasticRun,3.4,Logistics,1k-5k Employees,Indian Unicorn,8,Mumbai
+747,Carnival Group,4.0,Media & Entertainment,51-200 Employees,Conglomerate,17,Mumbai
+748,The New India Assurance Co.,4.6,Insurance,10k-50k Employees,Public,105,Mumbai
+749,Shinhan Bank,3.5,Banking,51-200 Employees,Public,42,Mumbai
+750,Texport Syndicate India,3.6,Fashion & Textile,501-1k Employees,Public,46,Mumbai
+751,Airpay Payment Services,3.5,FinTech,51-200 Employees,Startup,12,Mumbai
+752,Reserve Bank of India,4.6,Banking,10k-50k Employees,Central,89,Mumbai
+753,Intas Pharmaceuticals,4.2,Pharma,10k-50k Employees,Fortune India 500,47,Mumbai
+754,LogiNext Solutions,2.5,Software Product,51-200 Employees,Startup,10,Mumbai
+755,Air India Engineering Services,3.9,Industrial Machinery,501-1k Employees,Public,20,Mumbai
+756,Shinhan Bank,3.5,Banking,51-200 Employees,Public,42,Mumbai
+757,Airpay Payment Services,3.5,FinTech,51-200 Employees,Startup,12,Mumbai
+758,MCaffeine,3.7,Beauty & Personal Care,501-1k Employees,Startup,8,Mumbai
+759,Innovcare Lifesciences,4.7,Internet,201-500 Employees,Startup,10,Mumbai
+760,Intas Pharmaceuticals,4.2,Pharma,10k-50k Employees,Fortune India 500,47,Mumbai
+761,Pepper Content,2.5,Internet,11-50 Employees,Startup,7,Mumbai
+762,Zicom Electronic Security Systems,3.4,Consumer Electronics & Appliances,201-500 Employees,Public,30,Mumbai
+763,Healthysure,4.8,Insurance,11-50 Employees,Startup,3,Mumbai
+764,Weatherford,4.1,Oil & Gas,1k-5k Employees,Forbes Global 2000,83,Mumbai
+765,Godrej Tyson Food,4.3,Food Processing,201-500 Employees,Public,16,Mumbai
+766,Panasonic,4.1,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,106,Mumbai
+767,Sapat International,3.6,FMCG,51-200 Employees,Conglomerate,127,Mumbai
+768,Savita Oil Technologies,4.3,Chemicals / Agri Inputs,1k-5k Employees,Public,63,Mumbai
+769,Citizen Co-operative Bank,3.5,Banking,51-200 Employees,Public,27,Mumbai
+770,Kuhoo Technology Services,4.3,Financial Services,51-200 Employees,Startup,3,Mumbai
+771,Panasonic,4.1,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,106,Mumbai
+772,Visen Industries,4.5,Chemicals,1k-5k Employees,Public,39,Mumbai
+773,Savita Oil Technologies,4.3,Chemicals / Agri Inputs,1k-5k Employees,Public,63,Mumbai
+774,Sapat International,3.6,FMCG,51-200 Employees,Conglomerate,127,Mumbai
+775,Aditya Birla Insurance Brokers,4.4,Insurance,201-500 Employees,Public,21,Mumbai
+776,Hitachi,4.1,Industrial Machinery,10k-50k Employees,Forbes Global 2000,114,Mumbai
+777,HCC Infrastructure,4.2,Engineering & Construction,501-1k Employees,Public,98,Mumbai
+778,AYM Syntex,3.9,Fashion & Textile,1k-5k Employees,Public,39,Mumbai
+779,GlaxoSmithKline Consumer Healthcare,4.5,Pharma,1k-5k Employees,Public,24,Mumbai
+780,Visen Industries,4.5,Chemicals,1k-5k Employees,Public,39,Mumbai
+781,ShopSe,3.6,Internet,51-200 Employees,Startup,5,Mumbai
+782,Shop101,3.8,Internet,201-500 Employees,Startup,9,Mumbai
+783,Aon,3.9,Financial Services,5k-10k Employees,Forbes Global 2000,84,Mumbai
+784,Future Consumer,4.3,FMCG,1k-5k Employees,Public,28,Mumbai
+785,ePayLater,3.8,FinTech,51-200 Employees,Startup,9,Mumbai
+786,Government of India,4.3,Government,1 Lakh+ Employees,Central,74,Mumbai
+787,Experian,3.7,IT Services & Consulting,201-500 Employees,Forbes Global 2000,18,Mumbai
+788,Vascon Engineers,3.6,Real Estate,501-1k Employees,Public,38,Mumbai
+789,Easy Home Finance,4.2,FinTech,501-1k Employees,Public,6,Mumbai
+790,South Indian Bank,3.6,Banking,1k-5k Employees,Public,95,Mumbai
+791,Paytm Payments Bank,4.0,FinTech,1k-5k Employees,Public,8,Mumbai
+792,ANI INTEGRATED SERVICES,3.8,Engineering & Construction,1k-5k Employees,Public,36,Mumbai
+793,Gartner,4.2,Management Consulting,1k-5k Employees,Public,45,Mumbai
+794,Bulk MRO Industrial Supply,3.2,Medical Equipment,51-200 Employees,Startup,10,Mumbai
+795,Technocraft Industries,3.8,Industrial Machinery,1k-5k Employees,Public,52,Mumbai
+796,Marksans Pharma,3.4,Pharma,501-1k Employees,Public,32,Mumbai
+797,HDIL,4.2,Real Estate,1k-5k Employees,Public,28,Mumbai
+798,Faasos Food Services,4.0,Internet,1k-5k Employees,Indian Unicorn,14,Mumbai
+799,Zee Media Corporation,3.6,Media & Entertainment,1k-5k Employees,Public,25,Noida
+800,Yethi Consulting,3.4,IT Services & Consulting,501-1k Employees,Startup,11,Bangalore
+801,Goldmine Advertising,3.3,Marketing & Advertising,51-200 Employees,Public,36,Mumbai
+802,TCL,4.1,Consumer Electronics & Appliances,51-200 Employees,Forbes Global 2000,43,Tirupati
+803,Railtel Corporation Of India,3.9,Hardware & Networking,1k-5k Employees,Public,24,New
+804,1point1 Solutions,3.4,BPO,5k-10k Employees,Public,16,Mumbai
+805,Goldmine Advertising,3.3,Marketing & Advertising,51-200 Employees,Public,36,Mumbai
+806,TCL,4.1,Consumer Electronics & Appliances,51-200 Employees,Forbes Global 2000,43,Mumbai
+807,Railtel Corporation Of India,3.9,Hardware & Networking,1k-5k Employees,Public,24,Mumbai
+808,Yethi Consulting,3.4,IT Services & Consulting,501-1k Employees,Startup,11,Mumbai
+809,Zee Media Corporation,3.6,Media & Entertainment,1k-5k Employees,Public,25,Mumbai
+810,Praj Hipurity Systems,4.2,Industrial Machinery,51-200 Employees,Public,17,Mumbai
+811,Emmbi Industries,3.9,Packaging,201-500 Employees,Public,30,Mumbai
+812,Kalyan Jewellers,4.7,Jewellery,5k-10k Employees,Fortune India 500,31,Mumbai
+813,Kyndryl,4.1,IT Services & Consulting,10k-50k Employees,Public,2,Mumbai
+814,Republic TV,2.8,Media & Entertainment,201-500 Employees,Startup,8,Mumbai
+815,91Squarefeet,3.3,Internet,51-200 Employees,Startup,6,Mumbai
+816,Groww,3.9,Financial Services,1k-5k Employees,Indian Unicorn,7,Mumbai
+817,Evonik,4.3,Chemicals,51-200 Employees,Public,17,Mumbai
+818,QX Global Group,3.4,IT Services & Consulting,1k-5k Employees,Public,21,Mumbai
+819,Inspirisys Solution,3.9,IT Services & Consulting,1k-5k Employees,Public,33,Mumbai
+820,Jubilant Pharmova,4.0,Pharma,1k-5k Employees,Public,46,Mumbai
+821,Eris Lifesciences,3.8,Pharma,1k-5k Employees,Public,17,Mumbai
+822,KOHINOOR TELEVIDEO,3.1,Internet,501-1k Employees,Public,57,Mumbai
+823,Monedo,5.0,Financial Services,11-50 Employees,Startup,7,Mumbai
+824,Adani Power,3.9,Power,1k-5k Employees,Public,18,Mumbai
+825,Carlsberg,4.3,Beverage,1k-5k Employees,Forbes Global 2000,177,Mumbai
+826,Airtel Payments Bank,4.2,FinTech,501-1k Employees,Public,8,Mumbai
+827,Page Industries,4.2,Fashion & Textile,10k-50k Employees,Public,30,Mumbai
+828,Bhansali Engineering Polymers,3.2,Petrochemicals,501-1k Employees,Public,40,Mumbai
+829,Hill International,4.1,Engineering & Construction,201-500 Employees,Public,48,Mumbai
+830,Bajaj Healthcare,3.5,Pharma,51-200 Employees,Public,31,Mumbai
+831,Bridge & Roof Co,3.6,Engineering & Construction,1k-5k Employees,Central,104,Mumbai
+832,Carlsberg,4.3,Beverage,1k-5k Employees,Forbes Global 2000,177,Mumbai
+833,HomeLane,3.5,Architecture & Interior Design,1k-5k Employees,Startup,10,Mumbai
+834,Page Industries,4.2,Fashion & Textile,10k-50k Employees,Public,30,Mumbai
+835,Airtel Payments Bank,4.2,FinTech,501-1k Employees,Public,8,Mumbai
+836,Bhansali Engineering Polymers,3.2,Petrochemicals,501-1k Employees,Public,40,Mumbai
+837,Hill International,4.1,Engineering & Construction,201-500 Employees,Public,48,Mumbai
+838,Paysense Services India,3.6,FinTech,51-200 Employees,Startup,9,Mumbai
+839,V-Guard Industries,4.4,Consumer Electronics & Appliances,1k-5k Employees,Public,47,Mumbai
+840,Dhanvarsha Finvest,3.4,Financial Services,51-200 Employees,Public,30,Mumbai
+841,Infra.Market,4.2,Building Material,1k-5k Employees,Indian Unicorn,8,Thane
+842,Securens System,4.2,Law Enforcement & Security,201-500 Employees,Startup,12,Mumbai
+843,Weizmann Forex,3.7,Financial Services,201-500 Employees,Public,31,Mumbai
+844,Care24,4.3,Healthcare,51-200 Employees,Startup,10,Mumbai
+845,DISH TV,3.6,Broadcasting,201-500 Employees,Public,21,Mumbai
+846,TVS Electronics,3.9,Consumer Electronics & Appliances,501-1k Employees,Public,38,Mumbai
+847,Cornerstone OnDemand,3.8,Software Product,501-1k Employees,Conglomerate,25,Mumbai
+848,SafexPay,3.6,FinTech,201-500 Employees,Startup,10,Mumbai
+849,GRP,4.0,Auto Components,1k-5k Employees,Public,50,Mumbai
+850,Zensar Technologies,3.8,IT Services & Consulting,5k-10k Employees,Public,23,Chennai
+851,Kopran,3.5,Pharma,501-1k Employees,Public,66,Khopoli
+852,Linde India,4.1,Oil & Gas,201-500 Employees,Public,145,Chennai
+853,DISH TV,3.6,Broadcasting,201-500 Employees,Public,21,Chennai
+854,Man Industries,3.8,Building Material,1k-5k Employees,Public,36,Mumbai
+855,GoComet,4.3,IT Services & Consulting,51-200 Employees,Startup,6,Mumbai
+856,Bajaj Capital,3.9,Financial Services,1k-5k Employees,Public,60,Mumbai
+857,United Breweries,3.9,Beverage,1k-5k Employees,Public,167,Mumbai
+858,FabHotels,3.1,Hospitality,501-1k Employees,Startup,10,Mumbai
+859,MINTIFI,3.6,Internet,51-200 Employees,Startup,7,Mumbai
+860,Digit Insurance,4.0,Insurance,1k-5k Employees,Fortune India 500,8,New
+861,Gitanjali Gems,4.0,Jewellery,501-1k Employees,Public,58,New
+862,Unity Infraprojects,3.6,Engineering & Construction,501-1k Employees,Public,45,Mumbai
+863,Supreme Infrastructure,3.1,Engineering & Construction,1k-5k Employees,Public,41,Mumbai
+864,Agarwal Packers and Movers Limited,3.6,Logistics,5k-10k Employees,Public,37,Mumbai
+865,Jetking Infotrain,3.7,Education & Training,51-200 Employees,Public,77,Mumbai
+866,SKF,4.0,Auto Components,1k-5k Employees,Public,101,Mumbai
+867,Transport Corporation Of India,4.1,Logistics,1k-5k Employees,Public,66,Mumbai
+868,Ascent Health And Wellness Solutions,3.8,Healthcare,51-200 Employees,Startup,12,Mumbai
+869,Haier Appliances India,4.1,Consumer Electronics & Appliances,1k-5k Employees,Conglomerate,20,Mumbai
+870,Coca-Cola Company,4.3,Beverage,5k-10k Employees,Forbes Global 2000,138,Mumbai
+871,AGIO Pharmaceuticals,2.4,Pharma,201-500 Employees,Public,33,Mumbai
+872,Viswaat Chemicals,3.9,Chemicals,201-500 Employees,Public,26,Mumbai
+873,Control Print,3.9,Consumer Electronics & Appliances,501-1k Employees,Public,33,Mumbai
+874,Viswaat Chemicals,3.9,Chemicals,201-500 Employees,Public,26,Mumbai
+875,Coca-Cola Company,4.3,Beverage,5k-10k Employees,Forbes Global 2000,138,Mumbai
+876,Foodhall Future Group,4.2,Retail,201-500 Employees (Global),Public,13,Mumbai
+877,Control Print,3.9,Consumer Electronics & Appliances,501-1k Employees,Public,33,Mumbai
+878,Inditrade Capital,4.1,NBFC,201-500 Employees,Public,30,Mumbai
+879,Amazon Web Services,4.0,Software Product,10k-50k Employees,Public,18,Mumbai
+880,AGIO Pharmaceuticals,2.4,Pharma,201-500 Employees,Public,33,Mumbai
+881,Jyoti Structures,3.5,Power,11-50 Employees,Public,50,Mumbai
+882,Ruloans,3.8,Financial Services,51-200 Employees (Global),Public,28,Mumbai
+883,Manba Finance,3.9,NBFC,501-1k Employees,Public,28,Mumbai
+884,Astec LifeSciences,3.7,Agro Chemicals,201-500 Employees,Public,30,Mumbai
+885,Greenlam Industries,4.2,Building Material,1k-5k Employees,Public,11,Mumbai
+886,Narayana Health,4.2,Healthcare,10k-50k Employees,Fortune India 500,24,Bangalore/Bengaluru
+887,Jyoti Structures,3.5,Power,11-50 Employees,Public,50,Mumbai
+888,Viatris,4.2,Pharma,10k-50k Employees,Forbes Global 2000,4,Canonsburg
+889,Hinduja Group,4.0,Automobile,1 Lakh+ Employees,Public,15,Mumbai
+890,MahaOnline,4.5,IT Services & Consulting,501-1k Employees (Global),Public,14,Mumbai
+891,Walchand Peoplefirst,4.2,Education & Training,11-50 Employees,Public,41,Mumbai
+892,Reliance Group,4.3,Other,1 Lakh+ Employees,Conglomerate,58,Mumbai
+893,Cadila Pharmaceuticals,3.6,Pharma,5k-10k Employees,Public,73,Mumbai
+894,Netmeds.com,3.6,Internet,501-1k Employees,Startup,9,Mumbai
+895,Fermenta Biotech,4.2,Pharma,501-1k Employees,Public,73,Mumbai
+896,BlackBuck,3.9,Internet,1k-5k Employees,Indian Unicorn,9,Mumbai
+897,Prabhat Dairy,3.8,FMCG,201-500 Employees,Public,26,Mumbai
+898,SeQuent Scientific,3.7,Pharma,501-1k Employees,Public,39,Mumbai
+899,LKP Securities,3.9,Financial Services,501-1k Employees,Public,76,Mumbai
+900,Lemon Tree Hotels,4.2,Hospitality,5k-10k Employees,Public,22,Mumbai
+901,Fermenta Biotech,4.2,Pharma,501-1k Employees,Public,73,Mumbai
+902,Skill Lync,3.1,EdTech,1k-5k Employees,Startup,9,Mumbai
+903,BlackBuck,3.9,Internet,1k-5k Employees,Indian Unicorn,9,Mumbai
+904,BookEventz,3.1,Internet,11-50 Employees,Startup,12,Mumbai
+905,Prabhat Dairy,3.8,FMCG,201-500 Employees,Public,26,Mumbai
+906,SeQuent Scientific,3.7,Pharma,501-1k Employees,Public,39,Mumbai
+907,Netmeds.com,3.6,Internet,501-1k Employees,Startup,9,Mumbai
+908,Tech Data,4.0,IT Services & Consulting,501-1k Employees,Public,50,Mumbai
+909,Hike Education Private Limited,3.3,EdTech,201-500 Employees,Startup,10,Mumbai
+910,PI Industries,4.2,Agro Chemicals,1k-5k Employees,Public,77,Udaipur
+911,Emeritus Institute of Management,4.0,EdTech,501-1k Employees,Startup,9,Mumbai
+912,Apollo Tyres,4.1,Auto Components,5k-10k Employees,Public,52,Warangal
+913,GrayQuest,4.0,Internet,51-200 Employees,Startup,7,Mumbai
+914,DFM Foods,4.0,FMCG,501-1k Employees,Public,41,Mumbai
+915,Intelligence Node,3.7,IT Services & Consulting,51-200 Employees,Startup,12,Mumbai
+916,AGC Networks,3.7,IT Services & Consulting,501-1k Employees,Public,38,Mumbai
+917,OZiva,4.0,Internet,51-200 Employees,Startup,8,Mumbai
+918,Vedanta Resources,3.9,Metals & Mining,1k-5k Employees,Public,48,Mumbai
+919,Alembic,3.6,Pharma,5k-10k Employees (Global),Public,117,Mumbai
+920,Awfis,4.0,Real Estate,501-1k Employees,Startup,9,Mumbai
+921,Cashify,3.8,Other,501-1k Employees,Startup,11,Mumbai
+922,JL Morison India,4.4,FMCG,201-500 Employees,Public,90,Mumbai
+923,Supreme Petrochem,4.0,Chemicals,201-500 Employees,Public,31,Chennai
+924,DB Realty,4.0,Engineering & Construction,51-200 Employees,Public,17,Mumbai
+925,Zoetis,4.6,Pharma,201-500 Employees,Forbes Global 2000,12,Mumbai
+926,Kamat Hotels India,3.3,Hospitality,1k-5k Employees,Public,38,Mumbai
+927,Excel Industries,4.3,Agro Chemicals,1k-5k Employees,Public,83,Mumbai
+928,Waah Jobs,4.2,Internet,1-10 Employees,Startup,9,Chennai
+929,CIEL HR,4.1,Recruitment,1k-5k Employees,Startup,9,Chennai
+930,Yubi,2.7,Financial Services,501-1k Employees,Indian Unicorn,7,Mumbai
+931,Nikhil Adhesives,4.0,Chemicals,51-200 Employees,Public,38,Mumbai
+932,TCNS Clothing Company,4.1,Fashion & Textile,501-1k Employees,Public,23,Mumbai
+933,Dai Ichi,3.7,Chemicals,501-1k Employees,Public,64,Mumbai
+934,Pharmarack Technologies,3.8,IT Services & Consulting,51-200 Employees,Startup,9,Mumbai
+935,Elchemy,3.9,Chemicals,11-50 Employees,Startup,3,Mumbai
+936,Jindal Saw,4.1,Building Material,5k-10k Employees,Public,40,Mumbai
+937,Antarctica Global,4.4,Software Product,11-50 Employees,Startup,5,Mumbai
+938,PivotRoots,3.8,Media & Entertainment,51-200 Employees,Startup,8,Mumbai
+939,DATAMARK BPO SERVICE (P) LTD,3.7,BPO,1k-5k Employees,MNC,35,Mumbai
+940,Mutual Industries,3.3,Petrochemicals,201-500 Employees,Public,45,Mumbai
+941,IL&FS Transportation Networks,3.6,Engineering & Construction,51-200 Employees,Public,24,Mumbai
+942,TCI Express,3.9,Logistics,1k-5k Employees,Public,28,Mumbai
+943,Empire Industries,3.6,Packaging,501-1k Employees (Global),Public,61,Mumbai
+944,Kuwait National Petroleum Company,4.6,Oil & Gas,51-200 Employees,Public,64,Mumbai
+945,Sterling Holiday Resort,3.9,Hospitality,1k-5k Employees,Public,38,Mumbai
+946,Avenues India,4.3,FinTech,51-200 Employees,Conglomerate,23,Mumbai
+947,Diageo,4.0,Beverage,1k-5k Employees,Public,27,Mumbai
+948,Mutual Industries,3.3,Petrochemicals,201-500 Employees,Public,45,Mumbai
+949,PivotRoots,3.8,Media & Entertainment,51-200 Employees,Startup,8,Mumbai
+950,Planet Spark,3.7,EdTech,51-200 Employees,Startup,7,Mumbai
+951,DATAMARK BPO SERVICE (P) LTD,3.7,BPO,1k-5k Employees,MNC,35,Mumbai
+952,Kuwait National Petroleum Company,4.6,Oil & Gas,51-200 Employees,Public,64,Mumbai
+953,IL&FS Transportation Networks,3.6,Engineering & Construction,51-200 Employees,Public,24,Mumbai
+954,Sika,3.9,Chemicals,201-500 Employees,Public,114,Mumbai
+955,Bell Finvest,2.7,NBFC,51-200 Employees,Public,30,Mumbai
+956,Punch,4.5,Financial Services,51-200 Employees,Startup,8,Mumbai
+957,Wellthy Therapeutics,3.8,Healthcare,51-200 Employees,Startup,9,Mumbai
+958,Bank of Maharashtra,3.7,Banking,10k-50k Employees,Fortune India 500,89,Mumbai
+959,Gp Petroleums,3.6,Chemicals / Agri Inputs,201-500 Employees,Public,41,Mumbai
+960,Apollo Munich Health Insurance,3.9,Financial Services,1k-5k Employees,Public,17,Mumbai
+961,Vendiman,3.2,Internet,51-200 Employees,Startup,11,Mumbai
+962,IndiGrid,3.9,Real Estate,51-200 Employees,Public,8,Mumbai
+963,Uttam Value Steels,4.1,Iron & Steel,1k-5k Employees,Public,50,Mumbai
+964,Škoda Auto Volkswagen,4.3,Automobile,5k-10k Employees,Fortune India 500,23,Mumbai
+965,Open Secret,2.7,Internet,11-50 Employees (Global),Startup,5,Mumbai
+966,Mahanagar Telephone Nigam,3.7,Telecom,10k-50k Employees,Public,38,Mumbai
+967,Apollo Munich Health Insurance,3.9,Financial Services,1k-5k Employees,Public,17,Mumbai
+968,Vendiman,3.2,Internet,51-200 Employees,Startup,11,Mumbai
+969,Uttam Value Steels,4.1,Iron & Steel,1k-5k Employees,Public,50,Mumbai
+970,Securities and Exchange Board of India,4.3,Financial Services,1k-5k Employees,Public,32,Mumbai
+971,SRF,4.3,Chemicals,5k-10k Employees,Public,54,Gurgaon/Gurugram
+972,Cargill,4.2,Food Processing,1k-5k Employees,Conglomerate,159,Wayzata
+973,Adidas,4.0,Fashion & Textile,5k-10k Employees,Public,75,Mumbai
+974,TVS Motor,4.1,Automobile,5k-10k Employees,Public,45,Mumbai
+975,Air India Express,3.5,Aviation,501-1k Employees,Central,19,Mumbai
+976,Amcor Flexibles India,3.6,Packaging,201-500 Employees,Forbes Global 2000,160,Mumbai
+977,Alstom Transportation,3.9,Urban Transport,5k-10k Employees,Forbes Global 2000,96,Mumbai
+978,Sanghvi Brands,3.8,Fitness & Wellness,51-200 Employees,Public,14,Mumbai
+979,Society Applied Microwave Electronics Engineering Research,3.9,Analytics & KPO,51-200 Employees,Public,47,Mumbai
+980,Fisdom,3.8,Financial Services,501-1k Employees,Startup,9,Mumbai
+981,Megha Engineering & Infrastructures,4.0,Engineering & Construction,5k-10k Employees,Conglomerate,35,Mumbai
+982,Lyka Labs,3.0,Pharma,201-500 Employees,Public,48,Mumbai
+983,Lykis,3.8,FMCG,51-200 Employees,Public,40,Mumbai
+984,Lykis,3.8,FMCG,51-200 Employees,Public,40,Mumbai
+985,AccorHotels,4.3,Hospitality,5k-10k Employees,Forbes Global 2000,57,Mumbai
+986,Kendriya Vidyalaya Sangathan,4.4,Education & Training,10k-50k Employees,Public,61,Mumbai
+987,Ongc Petro Additions,4.0,Petrochemicals,1k-5k Employees,Public,18,Mumbai
+988,Chandan Steel,3.6,Metals & Mining,11-50 Employees,Public,55,Mumbai
+989,Certification Engineers International,3.9,Oil & Gas,51-200 Employees,Central,30,Mumbai
+990,Sun Pharma Advanced Research Company,4.1,Pharma,201-500 Employees,Public,18,Mumbai
+991,Mangalam Organics,4.0,Agro Chemicals,201-500 Employees,Public,28,Mumbai
+992,Truebil,3.9,Internet,51-200 Employees,Startup,9,Mumbai
+993,Aries Agro,4.1,Agro Chemicals,501-1k Employees,Public,55,Mumbai
+994,GTL Infrastructure,4.6,Hardware & Networking,1k-5k Employees,Public,20,Mumbai
+995,G R Infraprojects,4.2,Engineering & Construction,10k-50k Employees,Public,29,Mumbai
+996,Aries Agro,4.1,Agro Chemicals,501-1k Employees,Public,55,Mumbai
+997,GTL Infrastructure,4.6,Hardware & Networking,1k-5k Employees,Public,20,Mumbai
+998,Muthoot Group,3.6,Financial Services,10k-50k Employees,Public,137,Mumbai
+999,Truebil,3.9,Internet,51-200 Employees,Startup,9,Mumbai
+1000,Airports Authority of India,4.4,Aviation,10k-50k Employees,Central,29,Mumbai
+1001,Indo Count Industries,4.2,Fashion & Textile,1k-5k Employees,Public,36,Mumbai
+1002,L&T Power,3.9,Power,1k-5k Employees,Public,18,Mumbai
+1003,Bahwan Engineering,4.2,Engineering & Construction,201-500 Employees,Conglomerate,47,Mumbai
+1004,Vedantu,3.4,EdTech,1k-5k Employees,Indian Unicorn,13,Mumbai
+1005,Kamadgiri Fashion,3.8,Fashion & Textile,201-500 Employees,Public,37,Mumbai
+1006,MRF Tyres,3.8,Auto Components,10k-50k Employees,Public,78,Mumbai
+1007,Eternis Fine Chemicals,3.8,Chemicals,201-500 Employees,Public,36,Mumbai
+1008,Heritage Foods,4.1,Food Processing,1k-5k Employees,Public,32,Mumbai
+1009,Merino Industries,2.7,Furniture & Furnishing,1k-5k Employees,Public,56,Mumbai
+1010,Vadilal Dairy International,3.0,Agriculture,201-500 Employees,Public,117,Mumbai
+1011,S&P Global,4.2,Analytics & KPO,10k-50k Employees,Public,164,Mumbai
+1012,Vipul Organics,3.0,Chemicals,11-50 Employees,Public,50,Mumbai
+1013,Inditex,3.8,Fashion & Textile,1k-5k Employees,Forbes Global 2000,61,Mumbai
+1014,Corvi Led,3.3,Electrical Equipment,11-50 Employees,Startup,12,Mumbai
+1015,Everest Kanto Cylinder,3.7,Oil & Gas,1k-5k Employees,Public,46,Mumbai
+1016,Nippon Express,4.2,Logistics,501-1k Employees,Public,77,Mumbai
+1017,Jindal Steel and Power,4.0,Iron & Steel,5k-10k Employees,Fortune India 500,45,Mumbai
+1018,Parker Hannifin,4.0,Defence & Aerospace,1k-5k Employees,Forbes Global 2000,107,Mumbai
+1019,PCS Technology,4.5,IT Services & Consulting,1k-5k Employees,Public,43,Mumbai
+1020,Crystal Solutions,4.3,Recruitment,11-50 Employees,Public,30,Mumbai
+1021,Privi Organics,3.9,Chemicals,201-500 Employees,Public,42,Mumbai
+1022,Shree Renuka Sugars,4.2,Food Processing,1k-5k Employees,Public,26,Mumbai
+1023,Shree Shubham Logistics,4.4,Logistics,51-200 Employees,Public,17,Mumbai
+1024,Linc,3.8,FMCG,1k-5k Employees,Public,48,Mumbai
+1025,VMware Software,4.5,Software Product,5k-10k Employees,Forbes Global 2000,26,Mumbai
+1026,Electronics Bazaar,3.9,Internet,51-200 Employees (Global),Startup,11,Mumbai
+1027,Crystal Solutions,4.3,Recruitment,11-50 Employees,Public,30,Mumbai
+1028,Kraft Heinz Company,4.2,Food Processing,501-1k Employees,Forbes Global 2000,30,Mumbai
+1029,Navin Fluorine International,4.0,Chemicals,1k-5k Employees,Public,57,Mumbai
+1030,PCS Technology,4.5,IT Services & Consulting,1k-5k Employees,Public,43,Mumbai
+1031,Jindal Steel and Power,4.0,Iron & Steel,5k-10k Employees,Fortune India 500,45,Mumbai
+1032,OmniActive Health Technologies,3.7,Fitness & Wellness,501-1k Employees,Public,20,Mumbai
+1033,Licious,3.8,Internet,1k-5k Employees,Indian Unicorn,9,Mumbai
+1034,SaffronStays,3.5,Internet,51-200 Employees,Startup,10,Mumbai
+1035,Wadia Techno-Engineering Services,3.6,Engineering & Construction,51-200 Employees,Public,64,Mumbai
+1036,Mahindra CIE Automotive,3.8,Auto Components,1k-5k Employees,Public,25,Mumbai
+1037,SaffronStays,3.5,Internet,51-200 Employees,Startup,10,Mumbai
+1038,Licious,3.8,Internet,1k-5k Employees,Indian Unicorn,9,Mumbai
+1039,Wadia Techno-Engineering Services,3.6,Engineering & Construction,51-200 Employees,Public,64,Mumbai
+1040,Hindustan Composites,3.6,Auto Components,501-1k Employees,Public,60,Mumbai
+1041,Orbit Exports,3.8,Fashion & Textile,201-500 Employees,Public,41,Mumbai
+1042,Bonito Designs,2.5,Architecture & Interior Design,501-1k Employees,Startup,5,Mumbai
+1043,PropTiger.com,4.2,Internet,1k-5k Employees,Startup,13,Mumbai
+1044,Tricom,2.4,IT Services & Consulting,1k-5k Employees (Global),Public,32,Mumbai
+1045,Atlanta (Mumbai),3.5,Engineering & Construction,51-200 Employees,Public,40,Mumbai
+1046,Atlanta (Mumbai),3.5,Engineering & Construction,51-200 Employees,Public,40,Mumbai
+1047,Exclusífe Technosoft,3.0,Retail,11-50 Employees,Startup,11,Mumbai
+1048,Bombay Shirt Company,4.4,Internet,11-50 Employees,Startup,12,Mumbai
+1049,ODeX India Solutions,3.8,Internet,51-200 Employees,Startup,9,Mumbai
+1050,KapitalTech,4.1,Financial Services,201-500 Employees,Public,10,Mumbai
+1051,Swabhav Techlabs,4.7,Recruitment,11-50 Employees,Startup,12,Mumbai
+1052,ArcelorMittal,4.0,Iron & Steel,501-1k Employees,Forbes Global 2000,18,Mumbai
+1053,TTK Prestige,4.0,Consumer Electronics & Appliances,1k-5k Employees,Public,69,Mumbai
+1054,Ventura Securities,4.0,Financial Services,1k-5k Employees,Public,30,Mumbai
+1055,Novozymes South Asia,4.2,Biotechnology,501-1k Employees,Forbes Global 2000,24,Mumbai
+1056,Ola Electric Mobility,3.3,Automobile,5k-10k Employees,Indian Unicorn,7,Mumbai
+1057,Darwinbox,3.5,Software Product,501-1k Employees,Indian Unicorn,9,Mumbai
+1058,Bank Muscat,4.2,Banking,51-200 Employees,Forbes Global 2000,42,Mumbai
+1059,Sudarshan Chemical Industries,3.8,Chemicals,1k-5k Employees,Public,72,Mumbai
+1060,Adani Ports and SEZ,3.9,Ports & Shipping,1k-5k Employees,Public,26,Mumbai
+1061,United Spirits,4.0,Beverage,1k-5k Employees,Public,27,Mumbai
+1062,Bank Muscat,4.2,Banking,51-200 Employees,Forbes Global 2000,42,Mumbai
+1063,Rubix,3.4,Internet,11-50 Employees,Startup,7,Mumbai
+1064,Entertainment Network India,3.5,Media & Entertainment,501-1k Employees,Public,25,Mumbai
+1065,Jenburkt Pharmaceuticals,4.3,Pharma,501-1k Employees,Public,39,Mumbai
+1066,Hemani Industries,3.8,Agro Chemicals,1k-5k Employees,Public,32,Mumbai
+1067,Ebix Software India,3.3,IT Services & Consulting,1k-5k Employees,Public,48,Mumbai
+1068,NGL Fine Chem,4.3,Pharma,201-500 Employees,Public,43,Mumbai
+1069,Central Depository Services (I),3.2,Financial Services,51-200 Employees,Public,25,Mumbai
+1070,Niyogin Fintech,3.7,Financial Services,51-200 Employees,Public,7,Mumbai
+1071,Club Oxygen,4.2,Hospitality,201-500 Employees,Public,6,Mumbai
+1072,Mandhana Industries,4.5,Fashion & Textile,5k-10k Employees,Public,40,Mumbai
+1073,Chalet Hotels,3.4,Hospitality,1k-5k Employees,Public,38,Mumbai
+1074,abCoffee,4.3,Beverage,51-200 Employees,Startup,2,Mumbai
+1075,Pernod Ricard,3.9,Beverage,1k-5k Employees,Forbes Global 2000,49,Mumbai
+1076,Kolte Patil Developers,4.1,Real Estate,1k-5k Employees,Public,33,Mumbai
+1077,Lloyds Metals And Energy,3.9,Iron & Steel,1k-5k Employees,Public,38,Mumbai
+1078,Hero MotoCorp,4.2,Automobile,5k-10k Employees,Public,40,Mumbai
+1079,Meesho,3.7,Internet,5k-10k Employees,Indian Unicorn,9,Mumbai
+1080,Arihant Capital Markets,3.4,Financial Services,201-500 Employees,Public,32,Mumbai
+1081,Elder Pharmaceuticals,3.9,Pharma,11-50 Employees,Public,35,Mumbai
+1082,Tara Jewels,4.5,Jewellery,1k-5k Employees (Global),Public,24,Mumbai
+1083,Provogue India,4.0,Fashion & Textile,201-500 Employees,Public,27,Mumbai
+1084,Eduisfun,2.6,Education & Training,201-500 Employees,Startup,10,Mumbai
+1085,Tara Jewels,4.5,Jewellery,1k-5k Employees (Global),Public,24,Mumbai
+1086,QuickSell Inc (care of Apport Technologies Private Limited),2.8,Internet,51-200 Employees,Startup,8,Mumbai
+1087,Arshiya International,3.9,Logistics,201-500 Employees,Public,43,Mumbai
+1088,Alcon,3.7,Medical Equipment,1k-5k Employees,Public,79,Mumbai
+1089,Reliance Smart,4.2,Retail,5k-10k Employees,Public,18,Mumbai
+1090,JoulestoWatts Business Solutions,2.9,IT Services & Consulting,201-500 Employees,Startup,9,Mumbai
+1091,Tide Water Oil,3.8,Chemicals / Agri Inputs,501-1k Employees,Public,96,Mumbai
+1092,Consolidated Construction Consortium,4.3,Engineering & Construction,501-1k Employees,Public,27,Noida
+1093,Nestaway,4.0,Internet,201-500 Employees,Startup,9,Noida
+1094,British Petroleum,3.8,Oil & Gas,1k-5k Employees,Forbes Global 2000,115,Pune
+1095,Sterlite Power,4.0,Power,1k-5k Employees,Fortune India 500,14,Noida
+1096,Homesfy Realty,3.9,Real Estate,201-500 Employees,Public,11,Mumbai
+1097,Furlenco,3.2,Internet,201-500 Employees,Startup,12,Mumbai
+1098,Chembond Chemicals,3.8,Agro Chemicals,51-200 Employees,Public,51,Mumbai
+1099,International Travel House,4.1,Hospitality,501-1k Employees,Public,43,Mumbai
+1100,Treebo Hotels,3.5,Internet,51-200 Employees,Startup,9,Mumbai
+1101,EdCast,3.9,IT Services & Consulting,51-200 Employees (Global),Startup,11,Mumbai
+1102,Tide Water Oil,3.8,Chemicals / Agri Inputs,501-1k Employees,Public,96,Mumbai
+1103,JoulestoWatts Business Solutions,2.9,IT Services & Consulting,201-500 Employees,Startup,9,Mumbai
+1104,Puranik Builders,3.8,Real Estate,201-500 Employees,Public,56,Mumbai
+1105,Sterlite Power,4.0,Power,1k-5k Employees,Fortune India 500,14,Mumbai
+1106,British Petroleum,3.8,Oil & Gas,1k-5k Employees,Forbes Global 2000,115,Mumbai
+1107,N R Agarwal Industries,3.6,Pulp & Paper,1k-5k Employees,Public,31,Mumbai
+1108,DKSH,4.1,Financial Services,51-200 Employees,Public,159,Mumbai
+1109,Voyaah.com,4.1,Travel & Tourism,51-200 Employees,Startup,4,Mumbai
+1110,TerraCIS Technologies,3.8,IT Services & Consulting,1k-5k Employees,Public,31,Mumbai
+1111,Tejas Networks,4.2,Hardware & Networking,1k-5k Employees,Public,24,Mumbai
+1112,DKSH,4.1,Financial Services,51-200 Employees,Public,159,Mumbai
+1113,Dainik Bhaskar Group,4.4,Printing & Publishing,5k-10k Employees,Public,66,Mumbai
+1114,Yasho Industries Limited,3.3,Chemicals,501-1k Employees,Public,39,Mumbai
+1115,Olympus,4.1,Healthcare,201-500 Employees,Forbes Global 2000,14,Mumbai
+1116,Netflix,4.2,Internet,201-500 Employees,Forbes Global 2000,27,Mumbai
+1117,Voyaah.com,4.1,Travel & Tourism,51-200 Employees,Startup,4,Mumbai
+1118,Hindustan Foods,3.8,FMCG,1k-5k Employees,Public,36,Mumbai
+1119,N R Agarwal Industries,3.6,Pulp & Paper,1k-5k Employees,Public,31,Mumbai
+1120,TerraCIS Technologies,3.8,IT Services & Consulting,1k-5k Employees,Public,31,Mumbai
+1121,Purple Style Labs,3.4,Internet,51-200 Employees,Startup,9,Mumbai
+1122,Yasho Industries Limited,3.3,Chemicals,501-1k Employees,Public,39,Mumbai
+1123,Dainik Bhaskar Group,4.4,Printing & Publishing,5k-10k Employees,Public,66,Mumbai
+1124,Tejas Networks,4.2,Hardware & Networking,1k-5k Employees,Public,24,Mumbai
+1125,India Post,3.9,Government,1 Lakh+ Employees,Public,170,Mumbai
+1126,Jayant Agro Organics,3.7,Chemicals,1k-5k Employees,Public,32,Mumbai
+1127,Auxilo Finserve,4.2,Financial Services,51-200 Employees,Startup,7,Mumbai
+1128,Garware Hi-Tech Films,4.1,Chemicals / Agri Inputs,1k-5k Employees,Public,91,Mumbai
+1129,Razorpay,3.7,FinTech,1k-5k Employees,Indian Unicorn,10,Mumbai
+1130,Fitternity,3.7,Fitness & Wellness,51-200 Employees (Global),Startup,11,Mumbai
+1131,IMP POWERS,2.8,Electrical Equipment,201-500 Employees,Public,63,Mumbai
+1132,Brand Factory,4.5,Retail,10k-50k Employees,Public,18,Mumbai
+1133,Brand Factory,4.5,Retail,10k-50k Employees,Public,18,Mumbai
+1134,Symbo Insurance,3.9,Internet,51-200 Employees,Startup,7,Mumbai
+1135,Freightwalla,4.3,Logistics,51-200 Employees,Startup,8,Mumbai
+1136,Metawallah,4.9,Internet,51-200 Employees,Startup,3,Chennai
+1137,Symbo Insurance,3.9,Internet,51-200 Employees,Startup,7,Mumbai
+1138,Euro Panel Products Limited,4.4,Building Material,201-500 Employees,Public,21,Mumbai
+1139,Jindal Stainless,4.3,Iron & Steel,1k-5k Employees,Public,54,Mumbai
+1140,Bacardi,3.9,Beverage,201-500 Employees,Conglomerate,162,Mumbai
+1141,UnitedHealth,4.1,Healthcare,10k-50k Employees,Forbes Global 2000,47,Mumbai
+1142,Antelec,4.4,Electrical Equipment,51-200 Employees,Public,55,Mumbai
+1143,Kingfisher Airlines,4.7,Aviation,1k-5k Employees,Public,21,Mumbai
+1144,Atlas Copco,4.3,Industrial Machinery,1k-5k Employees,Public,151,Mumbai
+1145,GVPR Engineers,4.0,Engineering & Construction,501-1k Employees,Public,27,Mumbai
+1146,Star Agriwarehousing and Collateral Management,4.5,Agriculture,201-500 Employees,Public,18,Mumbai
+1147,HAZEL MERCANTILE,3.7,Financial Services,201-500 Employees,Public,28,Mumbai
+1148,Albert David,4.0,Pharma,1k-5k Employees,Public,86,Mumbai
+1149,Spark Minda,3.9,Auto Components,1k-5k Employees,Public,66,Mumbai
+1150,Somany Ceramics,4.3,Building Material,1k-5k Employees,Public,56,Mumbai
+1151,Sandu Pharmaceuticals,3.0,FMCG,51-200 Employees,Public,125,Mumbai
+1152,Cuemath,3.8,EdTech,1k-5k Employees,Startup,11,Bangalore
+1153,Radio City,3.8,Broadcasting,201-500 Employees (Global),Public,23,Mumbai
+1154,GVPR Engineers,4.0,Engineering & Construction,501-1k Employees,Public,27,Hyderabad/Secunderabad
+1155,Educomp Solutions,3.7,EdTech,11-50 Employees,Public,30,Mumbai
+1156,Sandu Pharmaceuticals,3.0,FMCG,51-200 Employees,Public,125,Mumbai
+1157,Somany Ceramics,4.3,Building Material,1k-5k Employees,Public,56,Mumbai
+1158,Euro Panel Products Limited,4.4,Building Material,201-500 Employees,Public,21,Mumbai
+1159,Jindal Stainless,4.3,Iron & Steel,1k-5k Employees,Public,54,Mumbai
+1160,UnitedHealth,4.1,Healthcare,10k-50k Employees,Forbes Global 2000,47,Mumbai
+1161,HAZEL MERCANTILE,3.7,Financial Services,201-500 Employees,Public,28,Mumbai
+1162,Albert David,4.0,Pharma,1k-5k Employees,Public,86,Mumbai
+1163,Star Agriwarehousing and Collateral Management,4.5,Agriculture,201-500 Employees,Public,18,Mumbai
+1164,Zeta,3.4,Emerging Technologies,501-1k Employees,Indian Unicorn,9,Mumbai
+1165,Alivira Animal Health,3.6,Pharma,201-500 Employees,Public,10,Mumbai
+1166,Avantor,3.7,Biotechnology,1k-5k Employees,Public,120,Mumbai
+1167,Radio City,3.8,Broadcasting,201-500 Employees (Global),Public,23,Mumbai
+1168,Cuemath,3.8,EdTech,1k-5k Employees,Startup,11,Mumbai
+1169,Tata Power Solar,4.3,Power,1k-5k Employees,Public,35,Mumbai
+1170,Honeywell International India,4.0,Defence & Aerospace,10k-50k Employees,Forbes Global 2000,118,Mumbai
+1171,DealShare,3.5,Internet,1k-5k Employees,Indian Unicorn,6,Mumbai
+1172,Walsons Facility Solutions,4.0,Recruitment,5k-10k Employees,Conglomerate,28,Mumbai
+1173,Stanza Living,3.1,Internet,501-1k Employees,Startup,7,Mumbai
+1174,Credit Sudhaar,2.0,Financial Services,51-200 Employees,Startup,11,Mumbai
+1175,Credit Sudhaar,2.0,Financial Services,51-200 Employees,Startup,11,Mumbai
+1176,Pentation Analytics,3.7,Financial Services,51-200 Employees,Startup,9,Mumbai
+1177,Pentation Analytics,3.7,Financial Services,51-200 Employees,Startup,9,Mumbai
+1178,RAMADA PLAZA,4.2,Hospitality,201-500 Employees (Global),Public,71,Mumbai
+1179,EIH,4.2,Hospitality,5k-10k Employees,Public,75,Mumbai
+1180,Wolters Kluwer,3.9,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,188,Mumbai
+1181,Kabra Extrusion Technik,4.0,Industrial Machinery,501-1k Employees,Public,62,Mumbai
+1182,Orient Abrasives,4.1,Metals & Mining,51-200 Employees,Public,50,Mumbai
+1183,Baroda Global Shared Services,4.0,Banking,10k-50k Employees,Public,7,Mumbai
+1184,SMEcorner,3.8,Financial Services,501-1k Employees,Startup,10,Mumbai
+1185,The Byke Hotels & Resorts,3.5,Hospitality,501-1k Employees,Public,18,Mumbai
+1186,Bristol-Myers Squibb,4.4,Pharma,201-500 Employees,Forbes Global 2000,137,Mumbai
+1187,Bharat Electronics,4.2,Electronics Manufacturing,5k-10k Employees,Fortune India 500,70,Mumbai
+1188,Freight Systems,3.9,Ports & Shipping,501-1k Employees,Public,36,Mumbai
+1189,Walmart,4.0,Retail,5k-10k Employees,Forbes Global 2000,15,Mumbai
+1190,Chetak Enterprises,3.8,Engineering & Construction,51-200 Employees,Public,24,Mumbai
+1191,GAIL,4.5,Oil & Gas,1k-5k Employees,Fortune India 500,40,Mumbai
+1192,HARMAN,3.9,Consumer Electronics & Appliances,5k-10k Employees,Public,15,Mumbai
+1193,Snapdeal,4.0,Internet,1k-5k Employees,Indian Unicorn,14,Mumbai
+1194,eBay,4.1,Internet,1k-5k Employees,Forbes Global 2000,29,Mumbai
+1195,Honda,4.2,Automobile,10k-50k Employees,Forbes Global 2000,39,Mumbai
+1196,Ginza Industries,3.9,Fashion & Textile,1k-5k Employees,Public,38,Mumbai
+1197,OnePlus,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,11,Mumbai
+1198,Moglix,3.6,Internet,501-1k Employees,Indian Unicorn,9,Mumbai
+1199,The Byke Hotels & Resorts,3.5,Hospitality,501-1k Employees,Public,18,Mumbai
+1200,OnePlus,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,11,Mumbai
+1201,Ginza Industries,3.9,Fashion & Textile,1k-5k Employees,Public,38,Mumbai
+1202,Moglix,3.6,Internet,501-1k Employees,Indian Unicorn,9,Mumbai
+1203,Chalo,3.9,Internet,201-500 Employees,Startup,10,Mumbai
+1204,Cure foods,3.9,Fitness & Wellness,501-1k Employees,Startup,8,Mumbai
+1205,Agro Tech Foods,4.2,FMCG,501-1k Employees,Public,38,Mumbai
+1206,Chalo,3.9,Internet,201-500 Employees,Startup,10,Mumbai
+1207,Tv18 Broadcast,4.1,Media & Entertainment,1k-5k Employees,Public,28,Mumbai
+1208,National Bank Agriculture Rural Development,4.5,Financial Services,1k-5k Employees,Fortune India 500,42,Mumbai
+1209,Worldwide Media,2.8,Marketing & Advertising,11-50 Employees,Public,73,Mumbai
+1210,White Rivers Media,3.7,Internet,51-200 Employees,Startup,12,Mumbai
+1211,Holachef,3.9,Food Processing,51-200 Employees (Global),Startup,10,Mumbai
+1212,Emirates Flight Catering,4.3,Hospitality,201-500 Employees,Public,42,Mumbai
+1213,Syncom Healthcare,3.5,Pharma,51-200 Employees,Public,22,Mumbai
+1214,Hush Puppies,3.9,Internet,51-200 Employees,Startup,6,Mumbai
+1215,Uflex,3.8,Packaging,5k-10k Employees,Public,39,Mumbai
+1216,Max Healthcare,4.1,Healthcare,1k-5k Employees,Fortune India 500,23,Mumbai
+1217,Kajaria Ceramics,4.2,Building Material,1k-5k Employees,Public,39,Mumbai
+1218,Religare Finvest,4.4,Financial Services,1k-5k Employees,Public,18,Mumbai
+1219,Ramky Infrastructure,4.2,Engineering & Construction,501-1k Employees,Public,30,Mumbai
+1220,Reliance Broadcast Network,4.2,Broadcasting,501-1k Employees,Public,19,Mumbai
+1221,Axio,3.7,Financial Services,501-1k Employees,Startup,11,Mumbai
+1222,GMM Pfaudler,4.0,Industrial Machinery,501-1k Employees,Public,62,Mumbai
+1223,DesignCafe,3.4,Architecture & Interior Design,501-1k Employees,Startup,8,Mumbai
+1224,HungerBox,3.8,Internet,501-1k Employees,Startup,8,Bangalore
+1225,Nelco,3.7,Telecom,201-500 Employees,Public,84,Mumbai
+1226,Ricoh,3.9,IT Services & Consulting,1-10 Employees,Public,88,Mumbai
+1227,Fresenius Medical Care,3.9,Healthcare,201-500 Employees,Public,28,Mumbai
+1228,Amrutanjan Health Care,3.8,Pharma,1k-5k Employees,Public,131,Mumbai
+1229,Resonance Eduventures,4.1,EdTech,51-200 Employees,Public,23,Mumbai
+1230,Music Broadcast,4.5,Media & Entertainment,501-1k Employees,Public,25,Mumbai
+1231,RITES,4.0,Engineering & Construction,1k-5k Employees,Central,50,Mumbai
+1232,Facebook,4.3,Internet,1k-5k Employees,Forbes Global 2000,20,Mumbai
+1233,Zebpay,3.3,FinTech,51-200 Employees (Global),Startup,10,Mumbai
+1234,Country Delight,4.1,Food Processing,1k-5k Employees,Startup,9,Mumbai
+1235,Cravatex,4.5,Financial Services,501-1k Employees (Global),Public,73,Mumbai
+1236,Precision Wires,4.0,Electrical Equipment,1k-5k Employees,Public,35,Mumbai
+1237,TTK Healthcare,4.2,Healthcare,1k-5k Employees,Public,96,Mumbai
+1238,Adonmo,3.9,Marketing & Advertising,501-1k Employees,Startup,8,Mumbai
+1239,Spencer's Retail,3.9,Retail,1k-5k Employees,Public,161,Mumbai
+1240,Greenply,4.0,Furniture & Furnishing,1k-5k Employees,Public,40,Mumbai
+1241,UNO Minda,4.1,Auto Components,201-500 Employees,Fortune India 500,66,Mumbai
+1242,Expeditors International,3.9,Logistics,1k-5k Employees,Forbes Global 2000,45,Mumbai
+1243,Csc E Governance Services,3.9,Government,1k-5k Employees,Public,15,Mumbai
+1244,Genext Students,3.2,EdTech,11-50 Employees,Startup,13,Mumbai
+1245,Captain Fresh,3.8,Food Processing,501-1k Employees,Startup,5,Mumbai
+1246,Williams Lea,4.1,BPO,1k-5k Employees,Public,204,Mumbai
+1247,QUICK HEAL TECHNOLOGIES,3.9,Software Product,1k-5k Employees,Public,29,Mumbai
+1248,Alkyl Amines,4.3,Chemicals,501-1k Employees,Public,45,Mumbai
+1249,Welspun Flooring,3.8,Building Material,51-200 Employees,Public,8,Mumbai
+1250,Jsw Infrastructure,4.1,Engineering & Construction,1k-5k Employees,Public,25,Mumbai
+1251,Remsons Industries,3.8,Auto Components,51-200 Employees,Public,65,Mumbai
+1252,Devyani International,3.9,Hospitality,10k-50k Employees,Public,33,Mumbai
+1253,Excel Crop Care,3.9,Agro Chemicals,1k-5k Employees,Public,60,Mumbai
+1254,Pin Click,2.5,Real Estate,51-200 Employees,Startup,10,Mumbai
+1255,Premco Global,4.4,Fashion & Textile,51-200 Employees,Public,58,Mumbai
+1256,Excel Crop Care,3.9,Agro Chemicals,1k-5k Employees,Public,60,Mumbai
+1257,Aplab,4.2,Consumer Electronics & Appliances,501-1k Employees,Public,62,Thane
+1258,City Union Bank,3.4,Banking,5k-10k Employees,Public,120,Mumbai
+1259,Carborundum Universal,4.0,Metals & Mining,1k-5k Employees,Public,70,Mumbai
+1260,Aplab,4.2,Consumer Electronics & Appliances,501-1k Employees,Public,62,Mumbai
+1261,Spoton Logistics,4.5,Logistics,1k-5k Employees,Startup,12,Mumbai
+1262,Syncom Formulations India,3.4,Pharma,201-500 Employees,Public,18,Mumbai
+1263,Shubhalakshmi Polyesters,3.7,Fashion & Textile,501-1k Employees,Public,45,Mumbai
+1264,Melstar Information Technologies,3.4,IT Services & Consulting,11-50 Employees,Public,38,Mumbai
+1265,Carborundum Universal,4.0,Metals & Mining,1k-5k Employees,Public,70,Mumbai
+1266,NIKE,4.4,Fashion & Textile,1k-5k Employees,Public,60,Mumbai
+1267,Sany Heavy Industry,4.0,Industrial Machinery,1k-5k Employees,Forbes Global 2000,35,Mumbai
+1268,LeadSquared,2.9,Software Product,1k-5k Employees,Indian Unicorn,13,Mumbai
+1269,BOB Capital Markets,3.4,Financial Services,51-200 Employees,Central,28,Mumbai
+1270,Allergan,3.8,Healthcare,1k-5k Employees,Forbes Global 2000,11,Mumbai
+1271,Blue Tokai Coffee Roasters,3.6,Beverage,201-500 Employees,Startup,12,Mumbai
+1272,Plastiblends India,3.7,Chemicals,201-500 Employees,Public,33,Mumbai
+1273,Nabard Consultancy Services,4.3,Management Consulting,201-500 Employees,Central,21,Mumbai
+1274,NIKE,4.4,Fashion & Textile,1k-5k Employees,Public,60,Mumbai
+1275,Sany Heavy Industry,4.0,Industrial Machinery,1k-5k Employees,Forbes Global 2000,35,Mumbai
+1276,LeadSquared,2.9,Software Product,1k-5k Employees,Indian Unicorn,13,Mumbai
+1277,Melstar Information Technologies,3.4,IT Services & Consulting,11-50 Employees,Public,38,Mumbai
+1278,Vistaprint,3.7,Internet,1k-5k Employees,Startup,12,Mumbai
+1279,Hindustan Sanitaryware & Industries,4.1,Furniture & Furnishing,1k-5k Employees,Public,64,Mumbai
+1280,The Institute Of Chartered Accountants,4.2,Education & Training,51-200 Employees,Central,75,Mumbai
+1281,Assurekit Technology and Services,4.8,Insurance,51-200 Employees,Startup,5,Mumbai
+1282,Portea Medical,4.4,Healthcare,1k-5k Employees,Startup,11,Mumbai
+1283,Focus Lighting and Fixtures Limited,4.5,Electronics Manufacturing,51-200 Employees,Public,19,Mumbai
+1284,FoodPanda,3.9,Internet,501-1k Employees,Startup,12,Mumbai
+1285,Urban Ladder,3.8,Furniture & Furnishing,501-1k Employees,Startup,12,Mumbai
+1286,Kapiva Ayurveda,3.7,Internet,51-200 Employees,Startup,8,Mumbai
+1287,Ingersoll Rand,4.3,Industrial Machinery,501-1k Employees,Public,52,Mumbai
+1288,Sunday Mobility (DoPoints Marketing Services Pvt. Ltd.),3.7,Internet,51-200 Employees,Startup,12,Mumbai
+1289,Ford Motor,4.5,Automobile,5k-10k Employees,Public,121,Mumbai
+1290,Spoton Logistics,4.5,Logistics,1k-5k Employees,Startup,12,Mumbai
+1291,Essar Power,4.4,Power,5k-10k Employees,Public,27,Mumbai
+1292,Plastiblends India,3.7,Chemicals,201-500 Employees,Public,33,Mumbai
+1293,SHARON BIO MEDICINE,4.2,Pharma,501-1k Employees,Public,35,Mumbai
+1294,Ford Motor,4.5,Automobile,5k-10k Employees,Public,121,Mumbai
+1295,Sunday Mobility (DoPoints Marketing Services Pvt. Ltd.),3.7,Internet,51-200 Employees,Startup,12,Mumbai
+1296,Maharashtra State Power Generation Company,4.1,Power,10k-50k Employees (Global),State,19,Mumbai
+1297,Agrim Housing Finance,3.7,Financial Services,201-500 Employees,Startup,6,Mumbai
+1298,Emami Agrotech,3.9,Food Processing,1k-5k Employees,Public,22,Mumbai
+1299,Blue Tokai Coffee Roasters,3.6,Beverage,201-500 Employees,Startup,12,Mumbai
+1300,HLL Lifecare,3.7,Healthcare,1k-5k Employees,Central,58,Mumbai
+1301,Power Mech Projects,3.9,Engineering & Construction,1k-5k Employees,Public,17,Chennai
+1302,Essar Shipping,4.2,Logistics,1k-5k Employees,Public,79,Mumbai
+1303,FitterFly,3.8,Healthcare,201-500 Employees,Startup,4,Mumbai
+1304,Schwing Stetter,4.1,Industrial Machinery,1k-5k Employees,Fortune India 500,26,Mumbai
+1305,Etg Agro,4.1,Food Processing,501-1k Employees (Global),Conglomerate,57,Mumbai
+1306,Guiltfree Industries,3.7,FMCG,201-500 Employees,Public,8,Mumbai
+1307,Svenska Design Hotels,2.6,Internet,201-500 Employees (Global),Startup,12,Mumbai
+1308,Indian Bank,3.5,Banking,10k-50k Employees,Fortune India 500,117,Mumbai
+1309,Aurobindo Pharma,4.0,Pharma,10k-50k Employees,Public,38,Mumbai
+1310,Skillmatics,4.6,Internet,11-50 Employees,Startup,8,Mumbai
+1311,Logo Infosoft,4.3,Internet,201-500 Employees,Startup,8,Mumbai
+1312,Karnataka Bank,3.8,Banking,5k-10k Employees,Public,100,Mumbai
+1313,Securitas,4.0,Law Enforcement & Security,10k-50k Employees,Forbes Global 2000,90,Mumbai
+1314,Aurobindo Pharma,4.0,Pharma,10k-50k Employees,Public,38,Mumbai
+1315,Acer India,4.2,IT Services & Consulting,51-200 Employees,Public,48,Mumbai
+1316,Jindal Poly Films,3.7,Packaging,1k-5k Employees,Public,50,Mumbai
+1317,Confederation of Indian Industry,3.5,Law Enforcement & Security,5k-10k Employees,Central,129,Mumbai
+1318,VRL Logistics,4.0,Logistics,10k-50k Employees,Public,41,Mumbai
+1319,Cointab,4.1,FinTech,11-50 Employees,Startup,9,Mumbai
+1320,Maharashtra State Electricity Transmission Company,4.1,Government,1k-5k Employees,State,19,Mumbai
+1321,20 Microns,4.1,Chemicals,201-500 Employees,Public,37,Mumbai
+1322,Marwadi Shares & Finance,4.3,Financial Services,501-1k Employees,Public,32,Mumbai
+1323,Wellknown Polyesters,4.0,Fashion & Textile,1k-5k Employees,Public,28,Mumbai
+1324,DCW,4.0,Chemicals,1k-5k Employees,Public,99,Mumbai
+1325,RSWM,3.9,Fashion & Textile,10k-50k Employees,Public,63,Mumbai
+1326,HFCL,4.2,Hardware & Networking,1k-5k Employees,Public,37,Mumbai
+1327,Mukand Engineers,4.5,Engineering & Construction,51-200 Employees,Public,37,Mumbai
+1328,Karnataka Bank,3.8,Banking,5k-10k Employees,Public,100,Mumbai
+1329,Corteva Agriscience,4.3,Agro Chemicals,1k-5k Employees,Public,5,Mumbai
+1330,Stryker,4.1,Medical Equipment,1k-5k Employees,Public,83,Mumbai
+1331,Confederation of Indian Industry,3.5,Law Enforcement & Security,5k-10k Employees,Central,129,Chennai
+1332,Jindal Poly Films,3.7,Packaging,1k-5k Employees,Public,50,Nashik
+1333,Qure.ai,3.3,Healthcare,11-50 Employees (Global),Startup,8,Mumbai
+1334,Mukand Engineers,4.5,Engineering & Construction,51-200 Employees,Public,37,Mumbai
+1335,Wellknown Polyesters,4.0,Fashion & Textile,1k-5k Employees,Public,28,Daman
+1336,Marwadi Shares & Finance,4.3,Financial Services,501-1k Employees,Public,32,Rajkot
+1337,Acer India,4.2,IT Services & Consulting,51-200 Employees,Public,48,Chennai
+1338,Corteva Agriscience,4.3,Agro Chemicals,1k-5k Employees,Public,5,Hyderabad
+1339,HFCL,4.2,Hardware & Networking,1k-5k Employees,Public,37,Chennai
+1340,Sukkhi Fashion Jewellery,3.2,Fashion & Textile,51-200 Employees (Global),Startup,8,Mumbai
+1341,BharatPe,3.7,FinTech,201-500 Employees,Indian Unicorn,6,Mumbai
+1342,Modison Metals,3.8,Electrical Equipment,51-200 Employees,Public,59,Mumbai
+1343,Logo Infosoft,4.3,Internet,201-500 Employees,Startup,8,Mumbai
+1344,Securitas,4.0,Law Enforcement & Security,10k-50k Employees,Forbes Global 2000,90,Mumbai
+1345,Maharashtra State Electricity Transmission Company,4.1,Government,1k-5k Employees,State,19,Mumbai
+1346,Third wave Coffee Roasters,3.5,Internet,1-10 Employees (Global),Startup,8,Mumbai
+1347,Vardhman Fabrics,4.1,Fashion & Textile,10k-50k Employees,Fortune India 500,59,Mumbai
+1348,RenewBuy,3.8,Insurance,1k-5k Employees,Startup,10,Mumbai
+1349,Vishvaraj Infrastructure,4.1,Waste Management,201-500 Employees,Public,25,Mumbai
+1350,Indostar Home Finance,4.3,Financial Services,51-200 Employees,Public,8,Coimbatore
+1351,Mercedes-Benz Research & Development India,4.0,IT Services & Consulting,5k-10k Employees,Public,28,Coimbatore
+1352,Coral Laboratories,3.6,Pharma,51-200 Employees,Public,30,Dehradun
+1353,Gabriel India,4.2,Auto Components,1k-5k Employees,Public,63,Mumbai
+1354,Allsec Technologies,4.0,BPO,1k-5k Employees,Public,24,Mumbai
+1355,Škoda Auto India,4.4,Automobile,1k-5k Employees,Conglomerate,23,Mumbai
+1356,Valiant Organics,3.8,Chemicals / Agri Inputs,501-1k Employees,Public,40,Mumbai
+1357,Credilio,2.6,Internet,11-50 Employees (Global),Startup,4,Mumbai
+1358,Northern Arc Capital,3.8,Financial Services,201-500 Employees,Public,35,Mumbai
+1359,FreshVnF,3.4,Logistics,11-50 Employees,Startup,6,Mumbai
+1360,Strides Pharma,3.9,Pharma,201-500 Employees,Public,34,Mumbai
+1361,Alankit,3.3,Financial Services,1k-5k Employees,Public,33,Mumbai
+1362,Keva Flavours,3.4,Chemicals,501-1k Employees,Public,32,Mumbai
+1363,ZTE Corporation,4.0,Telecom,201-500 Employees,Forbes Global 2000,21,Mumbai
+1364,Zeco Aircon,4.0,Industrial Machinery,501-1k Employees,Public,35,Mumbai
+1365,Salesforce,4.1,Software Product,5k-10k Employees,Public,25,Mumbai
+1366,Zeco Aircon,4.0,Industrial Machinery,501-1k Employees,Public,35,Mumbai
+1367,Biocon Limited,3.9,Biotechnology,5k-10k Employees,Public,46,Mumbai
+1368,Abengoa,4.2,Engineering & Construction,51-200 Employees,Forbes Global 2000,83,Mumbai
+1369,Poddar Developers,3.6,Real Estate,201-500 Employees,Public,42,Mumbai
+1370,TGL,3.2,Internet,51-200 Employees (Global),Startup,8,Mumbai
+1371,Morarjee Textiles,3.9,Fashion & Textile,201-500 Employees,Public,153,Mumbai
+1372,Bafna Motors,3.6,Automobile,201-500 Employees,Conglomerate,68,Mumbai
+1373,Nahar Builders Developers,2.6,Real Estate,201-500 Employees,Public,51,Mumbai
+1374,Eros International Media,4.1,Media & Entertainment,1k-5k Employees,Public,47,Mumbai
+1375,Poddar Developers,3.6,Real Estate,201-500 Employees,Public,42,Mumbai
+1376,Masmedi,3.2,Healthcare,11-50 Employees,Startup,4,Mumbai
+1377,Oil India,4.3,Oil & Gas,5k-10k Employees,Fortune India 500,65,Mumbai
+1378,Learning Links Foundation,3.9,Non-Profit,501-1k Employees,Public,22,Mumbai
+1379,EMCO,3.9,Power,51-200 Employees,Public,60,Mumbai
+1380,FreshMenu,2.9,Internet,201-500 Employees,Startup,10,Mumbai
+1381,Sysmex,4.0,Internet,51-200 Employees,Forbes Global 2000,55,Mumbai
+1382,LendingKart,3.2,NBFC,1k-5k Employees,Public,10,Mumbai
+1383,Avery Dennison,4.0,Packaging,1k-5k Employees,Forbes Global 2000,29,Mumbai
+1384,SEED Infotech,3.8,IT Services & Consulting,1k-5k Employees,Public,30,Mumbai
+1385,EMCO,3.9,Power,51-200 Employees,Public,60,Mumbai
+1386,Learning Links Foundation,3.9,Non-Profit,501-1k Employees,Public,22,Mumbai
+1387,Pay1,4.3,FinTech,51-200 Employees (Global),Startup,10,Mumbai
+1388,Healthians,3.5,Healthcare,1k-5k Employees,Startup,11,Mumbai
+1389,Ircon International,4.0,Engineering & Construction,1k-5k Employees,Fortune India 500,48,Mumbai
+1390,Hi-tech Corporation,4.1,Packaging,201-500 Employees,Public,12,Mumbai
+1391,Indorama,4.1,Fashion & Textile,51-200 Employees,Forbes Global 2000,49,Mumbai
+1392,ABC Bearings,4.1,Auto Components,201-500 Employees,Public,63,Mumbai
+1393,A2Z Infraservices,4.0,Facility Management Services,201-500 Employees,Public,22,Mumbai
+1394,Shriram Life Insurance,3.8,Insurance,1k-5k Employees,Conglomerate,19,Mumbai
+1395,Hero Housing Finance,3.9,Financial Services,501-1k Employees,Startup,7,Chennai
+1396,AstraZeneca,4.2,Pharma,501-1k Employees,Public,25,Chennai
+1397,BNY Mellon,4.0,Investment Banking / Venture Capital / Private Equity,10k-50k Employees,Forbes Global 2000,20,Chennai
+1398,Lotte India Corporation,3.9,FMCG,501-1k Employees,Public,20,Chennai
+1399,Ivrcl Infrastructures & Projects,4.3,Engineering & Construction,1k-5k Employees,Public,37,Chennai
+1400,Arvind Fashions,3.9,Fashion & Textile,1k-5k Employees,Public,31,Chennai
+1401,Pay1,4.3,FinTech,51-200 Employees (Global),Startup,10,Mumbai
+1402,AstraZeneca,4.2,Pharma,501-1k Employees,Public,25,Mumbai
+1403,ELGI Equipments,4.1,Industrial Machinery,1k-5k Employees,Public,64,Mumbai
+1404,UCO Bank,3.6,Banking,10k-50k Employees,Public,81,Mumbai
+1405,Delhi Metro Rail Corporation,4.1,Logistics,10k-50k Employees,Public,29,Mumbai
+1406,Dalmia Bharat Cement,4.1,Building Material,5k-10k Employees,Public,89,Mumbai
+1407,KEI Industries,4.2,Electrical Equipment,1k-5k Employees,Public,56,Mumbai
+1408,LendingKart,3.2,NBFC,1k-5k Employees,Public,10,Mumbai
+1409,Sysmex,4.0,Internet,51-200 Employees,Forbes Global 2000,55,Mumbai
+1410,Hi-tech Corporation,4.1,Packaging,201-500 Employees,Public,12,Mumbai
+1411,Praj Industries,4.3,Biotechnology,1k-5k Employees,Public,41,Mumbai
+1412,Bhilai Engineering Corporation,3.8,Industrial Machinery,501-1k Employees,Public,64,Mumbai
+1413,BNY Mellon,4.0,Investment Banking / Venture Capital / Private Equity,10k-50k Employees,Forbes Global 2000,20,Chennai
+1414,Shott Amusement Limited,4.4,Media & Entertainment,201-500 Employees,Public,9,Mumbai
+1415,Jet Freight Logistics,2.9,Logistics,201-500 Employees,Public,38,Mumbai
+1416,Relaxo Footwear,4.3,Fashion & Textile,5k-10k Employees,Public,40,Mumbai
+1417,Shott Amusement Limited,4.4,Media & Entertainment,201-500 Employees,Public,9,Mumbai
+1418,CashFlo,3.0,Internet,51-200 Employees,Startup,7,Mumbai
+1419,Collegedunia,3.1,EdTech,1k-5k Employees,Startup,10,Mumbai
+1420,Fineotex Chemical,4.2,Chemicals,51-200 Employees,Public,30,Mumbai
+1421,CoutLoot,3.0,Internet,51-200 Employees,Startup,8,Mumbai
+1422,Fineotex Chemical,4.2,Chemicals,51-200 Employees,Public,30,Mumbai
+1423,Collegedunia,3.1,EdTech,1k-5k Employees,Startup,10,Mumbai
+1424,CashFlo,3.0,Internet,51-200 Employees,Startup,7,Mumbai
+1425,ANZ Banking Group,4.2,Financial Services,5k-10k Employees,Forbes Global 2000,17,Mumbai
+1426,GVK Group,3.9,Engineering & Construction,50k-1 Lakh Employees,Public,32,Mumbai
+1427,MENSA,3.2,Investment Banking / Venture Capital / Private Equity,51-200 Employees,Indian Unicorn,3,Mumbai
+1428,The Hindu Group,4.0,Printing & Publishing,1k-5k Employees,Public,146,Mumbai
+1429,Eli Lilly and Company,4.1,Pharma,1k-5k Employees,Public,31,Mumbai
+1430,Pocket FM,3.5,Media & Entertainment,201-500 Employees,Startup,6,Mumbai
+1431,JAI,4.0,Fashion & Textile,1k-5k Employees,Public,39,Mumbai
+1432,Plancess EduSolutions,2.8,EdTech,11-50 Employees (Global),Startup,12,Mumbai
+1433,Plancess EduSolutions,2.8,EdTech,11-50 Employees (Global),Startup,12,Mumbai
+1434,JAI,4.0,Fashion & Textile,1k-5k Employees,Public,39,Mumbai
+1435,Soril Infra Resources,3.9,Engineering & Construction,1k-5k Employees,Public,19,Gurgaon/Gurugram
+1436,Just Buy Live Enterprise,4.2,Retail,51-200 Employees,Startup,9,Mumbai
+1437,Just Buy Live Enterprise,4.2,Retail,51-200 Employees,Startup,9,Mumbai
+1438,Invisalign India,2.7,Healthcare,51-200 Employees,Startup,9,Mumbai
+1439,Help Now,4.5,Healthcare,1-10 Employees (Global),Startup,5,Mumbai
+1440,Oorjan Cleantech,4.5,Power,51-200 Employees,Startup,10,Mumbai
+1441,Urban Platter,3.3,Internet,51-200 Employees (Global),Startup,9,Mumbai
+1442,hBits Proptech,3.3,Internet,11-50 Employees,Startup,6,Mumbai
+1443,Cochin Shipyard,4.3,Ports & Shipping,1k-5k Employees,Fortune India 500,52,Mumbai
+1444,Sanghi Industries,3.7,Building Material,501-1k Employees,Public,39,Mumbai
+1445,JSW Ispat Steel,4.3,Iron & Steel,501-1k Employees,Public,40,Mumbai
+1446,WSFx Global Pay,4.0,FinTech,51-200 Employees,Public,38,Mumbai
+1447,Alp Consulting,3.3,Recruitment,201-500 Employees,Public,28,Mumbai
+1448,Amdocs,4.0,Software Product,10k-50k Employees,Forbes Global 2000,42,Mumbai
+1449,InMobi,3.7,Marketing & Advertising,501-1k Employees,Indian Unicorn,17,Mumbai
+1450,IRIS Business Services,3.7,IT Services & Consulting,201-500 Employees,Public,24,Mumbai
+1451,Secure Meters,4.1,Electronics Manufacturing,1k-5k Employees,Public,37,Mumbai
+1452,JSW Ispat Steel,4.3,Iron & Steel,501-1k Employees,Public,40,Mumbai
+1453,Vijaya Bank,4.5,Banking,10k-50k Employees,Public,93,Mumbai
+1454,The Whole Truth,4.3,Internet,11-50 Employees (Global),Startup,5,Mumbai
+1455,AmBoxDemo-MumbaiHQ,3.7,Iron & Steel,51-200 Employees,Public,30,Mumbai
+1456,Western Union,4.0,FinTech,1k-5k Employees,Forbes Global 2000,173,Mumbai
+1457,DEN Networks,3.6,Broadcasting,201-500 Employees,Public,17,Mumbai
+1458,Accord Synergy,4.2,Hardware & Networking,51-200 Employees,Public,10,Mumbai
+1459,ShopX,4.4,Internet,201-500 Employees,Startup,9,Mumbai
+1460,PDS,3.5,Fashion & Textile,11-50 Employees,Fortune India 500,35,Mumbai
+1461,Electrolux,3.8,Consumer Electronics & Appliances,51-200 Employees,Public,105,Mumbai
+1462,Synopsys,4.0,Software Product,1k-5k Employees,Public,38,Mumbai
+1463,Shalimar Paints,3.9,Chemicals,1k-5k Employees,Public,122,Mumbai
+1464,AmBoxDemo-MumbaiHQ,3.7,Iron & Steel,51-200 Employees,Public,30,Mumbai
+1465,DEN Networks,3.6,Broadcasting,201-500 Employees,Public,17,Mumbai
+1466,Western Union,4.0,FinTech,1k-5k Employees,Forbes Global 2000,173,Mumbai
+1467,The Whole Truth,4.3,Internet,11-50 Employees (Global),Startup,5,Mumbai
+1468,Apcotex Industries,4.0,Chemicals,201-500 Employees,Public,44,Mumbai
+1469,Allen Solly,3.9,Fashion & Textile,10k-50k Employees,Public,280,Mumbai
+1470,Gopal Namkeen,4.2,FMCG,1k-5k Employees,Public,25,Mumbai
+1471,Confidence Petroleum India,3.5,Oil & Gas,501-1k Employees,Public,27,Mumbai
+1472,Hatsun Agro Product,4.0,Food Processing,5k-10k Employees,Public,54,Mumbai
+1473,WSFx Global Pay,4.0,FinTech,51-200 Employees,Public,38,Mumbai
+1474,DotPe,3.0,IT Services & Consulting,201-500 Employees,Startup,5,Mumbai
+1475,Amdocs,4.0,Software Product,10k-50k Employees,Forbes Global 2000,42,Mumbai
+1476,IRIS Business Services,3.7,IT Services & Consulting,201-500 Employees,Public,24,Mumbai
+1477,InMobi,3.7,Marketing & Advertising,501-1k Employees,Indian Unicorn,17,Mumbai
+1478,Housejoy,4.2,Facility Management Services,201-500 Employees,Startup,10,Mumbai
+1479,Alp Consulting,3.3,Recruitment,201-500 Employees,Public,28,Mumbai
+1480,ARCADIS,4.2,IT Services & Consulting,1k-5k Employees,Public,15,Mumbai
+1481,Reliance Petroleum,4.1,Oil & Gas,201-500 Employees,Public,16,Mumbai
+1482,Ofbusiness,3.1,Internet,1k-5k Employees,Indian Unicorn,9,Mumbai
+1483,Eros International,2.6,Media & Entertainment,51-200 Employees,Public,47,Mumbai
+1484,Munters India Humidity Control,3.7,Emerging Technologies,11-50 Employees,Public,69,Mumbai
+1485,Catalyst Media Integrated,4.5,IT Services & Consulting,11-50 Employees,Startup,5,Mumbai
+1486,Intermiles,2.8,Travel & Tourism,51-200 Employees,Startup,12,Mumbai
+1487,Electrolux,3.8,Consumer Electronics & Appliances,51-200 Employees,Public,105,Mumbai
+1488,PDS,3.5,Fashion & Textile,11-50 Employees,Fortune India 500,35,Mumbai
+1489,Synopsys,4.0,Software Product,1k-5k Employees,Public,38,Mumbai
+1490,Rupeek,3.7,FinTech,1k-5k Employees,Startup,9,Chennai
+1491,ShopX,4.4,Internet,201-500 Employees,Startup,9,Mumbai
+1492,Coromandel International,4.2,Agro Chemicals,5k-10k Employees,Public,63,Mumbai
+1493,Haldyn Glass,4.1,Packaging,501-1k Employees,Public,33,Mumbai
+1494,Karkhana.io,3.4,Industrial Automation,11-50 Employees,Startup,6,Mumbai
+1495,Indian Rare Earths,3.9,Oil & Gas,1k-5k Employees (Global),State,74,Mumbai
+1496,Omron Automation,4.2,Consumer Electronics & Appliances,201-500 Employees,Forbes Global 2000,91,Mumbai
+1497,Permanent Magnets,4.1,Metals & Mining,51-200 Employees,Public,64,Mumbai
+1498,Azuro,2.7,Internet,201-500 Employees,Startup,9,Mumbai
+1499,Everest Fleet,3.8,Internet,501-1k Employees,Startup,8,Mumbai
+1500,Disprz,3.5,Internet,201-500 Employees,Startup,9,Mumbai
+1501,Zetwerk Manufacturing Businesses,4.1,Industrial Machinery,1k-5k Employees,Indian Unicorn,6,Mumbai
+1502,Konkan Railway Corporation,3.9,Railways,5k-10k Employees (Global),Central,53,Mumbai
+1503,Flyrobe,4.6,Internet,51-200 Employees (Global),Startup,9,Mumbai
+1504,Greenpanel Industries,4.1,Furniture & Furnishing,1k-5k Employees,Public,7,Mumbai
+1505,Nxtgen Datacenter Cloud Technologies,3.4,IT Services & Consulting,201-500 Employees,Startup,12,Mumbai
+1506,Akums Drugs & Pharmaceuticals Limited,4.2,Pharma,10k-50k Employees,Public,20,Mumbai
+1507,Cummins,4.4,Industrial Machinery,1k-5k Employees,Fortune India 500,105,Mumbai
+1508,Blackrose Industries,3.9,Chemicals,51-200 Employees,Public,34,Mumbai
+1509,ING Vysya Bank,4.4,Banking,5k-10k Employees,Public,22,Mumbai
+1510,Culture Machine,3.8,Internet,201-500 Employees,Startup,11,Mumbai
+1511,Carnival,4.2,Urban Transport,10k-50k Employees,Forbes Global 2000,52,Mumbai
+1512,Centre For Electronic Governance,4.4,Government,51-200 Employees (Global),Public,18,Mumbai
+1513,Culture Machine,3.8,Internet,201-500 Employees,Startup,11,Mumbai
+1514,Oriental Veneer Products,1.8,Furniture & Furnishing,11-50 Employees,Public,33,Mumbai
+1515,Centre For Electronic Governance,4.4,Government,51-200 Employees (Global),Public,18,Mumbai
+1516,Expo Gas Containers,4.0,Engineering & Construction,51-200 Employees,Public,39,Mumbai
+1517,The Dharamsi Morarji Chemical Co.,3.4,Chemicals,51-200 Employees,Public,105,Mumbai
+1518,Oriental Veneer Products,1.8,Furniture & Furnishing,11-50 Employees,Public,33,Mumbai
+1519,Poddar Diamond,3.9,Jewellery,1k-5k Employees,Public,29,Mumbai
+1520,91Streets Media Technologies,4.0,Internet,11-50 Employees (Global),Startup,10,Mumbai
+1521,Poddar Diamond,3.9,Jewellery,1k-5k Employees,Public,29,Mumbai
+1522,Snackible,4.5,Internet,5k-10k Employees,Startup,9,Mumbai
+1523,Boat LifeStyle,4.0,Internet,51-200 Employees,Startup,8,Mumbai
+1524,GetSetHome,1.7,Retail,11-50 Employees,Startup,10,Mumbai
+1525,TagMango,4.2,Internet,11-50 Employees,Startup,5,Mumbai
+1526,Veera,1.6,Healthcare,11-50 Employees,Startup,5,Mumbai
+1527,Tata Hitachi Construction Machinery,4.1,Industrial Machinery,1k-5k Employees,Fortune India 500,25,Mumbai
+1528,Macquarie Group,3.5,Financial Services,1k-5k Employees,Forbes Global 2000,55,Mumbai
+1529,CCI Logistics,3.1,Logistics,201-500 Employees,Public,47,Mumbai
+1530,Kirloskar Pneumatic,4.2,Industrial Machinery,501-1k Employees,Public,66,Mumbai
+1531,D-Link,4.2,Hardware & Networking,201-500 Employees,Public,38,Mumbai
+1532,JK Paper,4.1,Pulp & Paper,1k-5k Employees,Public,62,Mumbai
+1533,Indian Overseas Bank,3.4,Banking,10k-50k Employees,Fortune India 500,87,Mumbai
+1534,MTR Foods,4.2,FMCG,1k-5k Employees,Forbes Global 2000,100,Mumbai
+1535,ESL Steel,4.1,Iron & Steel,5k-10k Employees,Public,18,Mumbai
+1536,Aptronix - Apple Premium Reseller,3.9,Electrical Equipment,201-500 Employees,Public,13,Mumbai
+1537,LogisticsNow,2.9,Software Product,11-50 Employees,Startup,8,Mumbai
+1538,Snapmint Credit Advisory,4.0,Financial Services,51-200 Employees,Startup,9,Mumbai
+1539,Arthan Finance,4.4,NBFC,201-500 Employees,Startup,6,Mumbai
+1540,MagicPin,3.2,Internet,201-500 Employees,Startup,9,Mumbai
+1541,Arihant Superstructures,2.8,Real Estate,51-200 Employees,Public,41,Mumbai
+1542,Indian Energy Exchange,3.4,Power,51-200 Employees,Public,16,Mumbai
+1543,Groyyo,3.6,Internet,11-50 Employees,Startup,3,Mumbai
+1544,Can Fin Homes,3.4,NBFC,501-1k Employees,Public,37,Mumbai
+1545,Bygging India,4.2,Engineering & Construction,201-500 Employees,Public,41,Mumbai
+1546,Acrysil,4.0,Building Material,201-500 Employees,Public,37,Mumbai
+1547,JK Paper,4.1,Pulp & Paper,1k-5k Employees,Public,62,Mumbai
+1548,Black Box Corporation,3.4,IT Services & Consulting,1k-5k Employees,Fortune India 500,48,Mumbai
+1549,Indian Overseas Bank,3.4,Banking,10k-50k Employees,Fortune India 500,87,Mumbai
+1550,MTR Foods,4.2,FMCG,1k-5k Employees,Forbes Global 2000,100,Mumbai
+1551,Proteon Pharmaceuticals,2.8,Internet,1-10 Employees,Startup,7,Mumbai
+1552,ESL Steel,4.1,Iron & Steel,5k-10k Employees,Public,18,Mumbai
+1553,Telesonic Networks,3.7,Telecom,5k-10k Employees,Public,15,Mumbai
+1554,Bygging India,4.2,Engineering & Construction,201-500 Employees,Public,41,Mumbai
+1555,Acrysil,4.0,Building Material,201-500 Employees,Public,37,Mumbai
+1556,Srei Equipment Finance,4.5,Financial Services,1k-5k Employees,Public,35,Mumbai
+1557,Calyx Chemicals & Pharmaceuticals,3.8,Pharma,501-1k Employees,Public,45,Mumbai
+1558,HealthifyMe,3.0,Fitness & Wellness,1k-5k Employees,Startup,12,Mumbai
+1559,Jain Farm Fresh Foods,4.0,FMCG,201-500 Employees,Public,61,Mumbai
+1560,Veritas,4.2,Software Product,1k-5k Employees,Public,35,Mumbai
+1561,Emerald Jewel Industry India,3.9,Jewellery,51-200 Employees,Public,40,Mumbai
+1562,Almarai,4.3,Food Processing,1k-5k Employees,Forbes Global 2000,47,Mumbai
+1563,BabyChakra,3.1,IT Services & Consulting,11-50 Employees (Global),Startup,9,Mumbai
+1564,Recpdcl.ltd,4.0,Facility Management Services,1k-5k Employees,Central,17,Mumbai
+1565,Indiafilings,3.1,Financial Services,501-1k Employees (Global),Startup,11,Mumbai
+1566,Sangam India,3.7,Fashion & Textile,1k-5k Employees,Public,40,Mumbai
+1567,Nagreeka Exports,2.3,Fashion & Textile,201-500 Employees,Public,35,Mumbai
+1568,Amagi Media Labs,3.7,Software Product,201-500 Employees,Indian Unicorn,16,Bangalore
+1569,Wakefit,4.2,Furniture & Furnishing,1k-5k Employees,Startup,8,Mumbai
+1570,Eicher Motors,4.2,Automobile,5k-10k Employees,Public,42,Mumbai
+1571,TREJHARA SOLUTIONS,3.0,IT Services & Consulting,51-200 Employees,Public,7,Navi
+1572,Monte Carlo,4.2,Fashion & Textile,201-500 Employees,Public,40,Chennai
+1573,Reliance Lifestyle Holdings,3.8,Retail,51-200 Employees,Public,51,Mumbai
+1574,Thinq Pharma Cro,4.0,Pharma,51-200 Employees,Public,22,Mumbai
+1575,Thinq Pharma Cro,4.0,Pharma,51-200 Employees,Public,22,Pithampur
+1576,TREJHARA SOLUTIONS,3.0,IT Services & Consulting,51-200 Employees,Public,7,Navi
+1577,Monte Carlo,4.2,Fashion & Textile,201-500 Employees,Public,40,Chennai
+1578,Sayaji Hotels,4.3,Hospitality,1k-5k Employees,Public,37,Chennai
+1579,Punjab & Sind Bank,3.4,Banking,5k-10k Employees,Fortune India 500,116,Mumbai
+1580,The Ruby Mills,4.0,Fashion & Textile,501-1k Employees,Public,107,Mumbai
+1581,Ministry of Defence,4.4,Government,1 Lakh+ Employees,Central,77,Mumbai
+1582,Upwards Fintech,3.5,Internet,11-50 Employees,Startup,8,Mumbai
+1583,Prozone Intu Properties,3.9,Real Estate,51-200 Employees,Public,17,Mumbai
+1584,Puravankara,3.7,Real Estate,501-1k Employees,Public,49,Mumbai
+1585,Sunshield Chemicals,4.0,Chemicals,201-500 Employees,Public,38,Mumbai
+1586,GetVantage,2.8,Internet,11-50 Employees,Startup,5,Mumbai
+1587,Tosoh India,4.2,Chemicals,201-500 Employees,Forbes Global 2000,89,Mumbai
+1588,Mehta Group,4.2,Fashion & Textile,10k-50k Employees,Conglomerate,124,Mumbai
+1589,Hindustan Zinc,3.9,Metals & Mining,1k-5k Employees,Public,58,Mumbai
+1590,Vestas,4.3,Power,1k-5k Employees,Forbes Global 2000,27,Mumbai
+1591,Vestas,4.3,Power,1k-5k Employees,Forbes Global 2000,27,Mumbai
+1592,Muthoot Pappachan Group,3.1,Financial Services,10k-50k Employees,Conglomerate,137,Mumbai
+1593,Lalamove,3.8,Internet,201-500 Employees,Startup,11,Mumbai
+1594,M2P Fintech,3.8,FinTech,1k-5k Employees,Startup,9,Mumbai
+1595,Delta Electronics,4.0,Electronics Manufacturing,501-1k Employees,Forbes Global 2000,32,Mumbai
+1596,Shree Cement,4.0,Building Material,5k-10k Employees,Public,45,Mumbai
+1597,Jindal X,3.5,BPO,1k-5k Employees,Public,25,Mumbai
+1598,Fujitsu,3.9,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,89,Mumbai
+1599,Infibeam,3.1,FinTech,501-1k Employees,Public,17,Mumbai
+1600,The MobileStore,4.3,Internet,501-1k Employees,Public,18,Mumbai
+1601,Infibeam,3.1,FinTech,501-1k Employees,Public,17,Mumbai
+1602,Rubique,2.4,Financial Services,51-200 Employees (Global),Startup,10,Mumbai
+1603,Gojavas,3.7,Logistics,1k-5k Employees,Startup,11,Mumbai
+1604,Hotel Leela Venture,4.6,Hospitality,1k-5k Employees,Public,43,Mumbai
+1605,The Oriental Insurance Co.,4.5,Insurance,10k-50k Employees,Central,77,Mumbai
+1606,The MobileStore,4.3,Internet,501-1k Employees,Public,18,Mumbai
+1607,Shirdi Industries,3.9,Financial Services,501-1k Employees,Public,31,Mumbai
+1608,Mandhana Retail Ventures,4.2,Retail,501-1k Employees,Public,13,Mumbai
+1609,Sparsh BPO Services,3.9,BPO,10k-50k Employees,Public,46,Mumbai
+1610,Jaipan Industries,4.1,Consumer Electronics & Appliances,51-200 Employees,Public,43,Mumbai
+1611,Sunil Hitech Engineers,4.3,Engineering & Construction,501-1k Employees,Public,26,Chennai
+1612,Birla Shloka Edutech,4.0,EdTech,51-200 Employees,Public,16,Mumbai
+1613,Magma Housing Finance,4.3,Financial Services,5k-10k Employees,Public,35,Mumbai
+1614,Pocket Aces,4.0,Media & Entertainment,51-200 Employees,Startup,11,Mumbai
+1615,Kshitij Polyline,2.4,FMCG,11-50 Employees,Public,26,Mumbai
+1616,Pocket Aces,4.0,Media & Entertainment,51-200 Employees,Startup,11,Mumbai
+1617,ReDesyn,4.2,Internet,11-50 Employees,Startup,6,Mumbai
+1618,Raymond Realty Limited,4.8,Real Estate,201-500 Employees,Public,6,Mumbai
+1619,Eruditus Executive Education,3.3,EdTech,51-200 Employees,Indian Unicorn,14,Mumbai
+1620,ReDesyn,4.2,Internet,11-50 Employees,Startup,6,Mumbai
+1621,QuickXpert Infotech,3.5,IT Services & Consulting,11-50 Employees,Public,10,Mumbai
+1622,Eruditus Executive Education,3.3,EdTech,51-200 Employees,Indian Unicorn,14,Mumbai
+1623,Raymond Realty Limited,4.8,Real Estate,201-500 Employees,Public,6,Mumbai
+1624,Chingari,3.6,Internet,201-500 Employees,Startup,6,Mumbai
+1625,Cineline,3.3,Real Estate,51-200 Employees,Public,22,Mumbai
+1626,PropShop24.com,2.9,Retail,11-50 Employees,Startup,12,Mumbai
+1627,Etisalat,3.5,Telecom,1k-5k Employees,Public,48,Mumbai
+1628,Toshiba,4.0,Industrial Machinery,201-500 Employees,Forbes Global 2000,149,Mumbai
+1629,Intex Technologies,3.7,Consumer Electronics & Appliances,1k-5k Employees,Public,28,Mumbai
+1630,ICON Plc,4.2,Clinical Research,1k-5k Employees,Public,34,Mumbai
+1631,Hero Cycles,3.6,Automobile,5k-10k Employees,Public,68,Mumbai
+1632,IL&FS Engineering and Construction,4.4,Engineering & Construction,1k-5k Employees,Public,36,Mumbai
+1633,Government Polytechnic Nagpur,4.0,Education & Training,1k-5k Employees,State,110,Mumbai
+1634,Pudumjee Paper Products,4.1,Pulp & Paper,501-1k Employees,Public,9,Mumbai
+1635,Silver Touch Technologies,3.6,IT Services & Consulting,1k-5k Employees,Public,32,Mumbai
+1636,Gpt Infraprojects,4.0,Engineering & Construction,1k-5k Employees,Public,44,Mumbai
+1637,Idex,3.7,Non-Profit,201-500 Employees,Forbes Global 2000,37,Mumbai
+1638,Orient Bell,3.8,Building Material,501-1k Employees,Public,47,Mumbai
+1639,Cable Corporation Of India,3.5,Electronics Manufacturing,501-1k Employees,Public,67,Mumbai
+1640,Jawed Habib Hair & Beauty,4.1,Retail,1k-5k Employees,Public,18,Mumbai
+1641,Sadhana Nitro Chem,2.7,Chemicals / Agri Inputs,51-200 Employees,Public,51,Mumbai
+1642,Midc,4.4,Government,1k-5k Employees (Global),Public,60,Mumbai
+1643,Khaitan Electricals,3.2,Food Processing,201-500 Employees,Public,43,Mumbai
+1644,Cremica Food Industries,4.1,Food Processing,501-1k Employees,Public,46,Mumbai
+1645,Tlg India,3.8,Software Product,201-500 Employees,Public,52,Mumbai
+1646,Propstack Services,2.5,Internet,51-200 Employees,Startup,11,Mumbai
+1647,Flipkart Health+,3.7,Internet,501-1k Employees,Startup,11,Mumbai
+1648,CK Birla Group,4.2,Building Material,1k-5k Employees,Conglomerate,162,Mumbai
+1649,STYLAM Industries,3.7,Engineering & Construction,201-500 Employees,Public,33,Mumbai
+1650,Modern Insulators,4.1,Electrical Equipment,501-1k Employees,Public,39,Mumbai
+1651,Jindal Industries,3.5,Import & Export,1k-5k Employees (Global),Public,72,Mumbai
+1652,Samunnati Financial Intermediation and Services,4.5,Financial Services,201-500 Employees,Startup,10,Mumbai
+1653,McDermott International,4.3,Engineering & Construction,1k-5k Employees,Public,101,Mumbai
+1654,Transsion,4.2,Consumer Electronics & Appliances,501-1k Employees,Public,18,Mumbai
+1655,Naturedge Beverages,3.7,Beverage,51-200 Employees,Startup,6,Mumbai
+1656,Satin Creditcare Network,4.1,NBFC,5k-10k Employees,Public,34,Mumbai
+1657,Biotique,3.8,Biotechnology,501-1k Employees,Conglomerate,24,Mumbai
+1658,REPCO HOME FINANCE,3.9,NBFC,501-1k Employees,Public,24,Mumbai
+1659,Bharat Oman Refineries,3.8,Oil & Gas,501-1k Employees,Public,13,Bina
+1660,PSL,4.0,Industrial Machinery,501-1k Employees,Public,37,Mumbai
+1661,Garden Silk Mills,4.0,Fashion & Textile,1k-5k Employees,Public,45,Surat
+1662,Infinite Computer Solutions,3.5,IT Services & Consulting,1k-5k Employees,Public,23,Bangalore
+1663,Amadeus,4.0,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,37,Bangalore
+1664,CreditEnable,2.4,FinTech,51-200 Employees,Startup,8,Mumbai
+1665,Singhania Education Services,2.8,EdTech,51-200 Employees,Startup,4,Mumbai
+1666,Wheelseye Technology,3.7,Logistics,1k-5k Employees,Startup,7,Mumbai
+1667,Verizon,4.2,Telecom,5k-10k Employees,Forbes Global 2000,24,Mumbai
+1668,National Informatics Centre,4.2,Government,1k-5k Employees,Central,48,Mumbai
+1669,Gillette,4.5,FMCG,1k-5k Employees,Public,40,Mumbai
+1670,Satin Creditcare Network,4.1,NBFC,5k-10k Employees,Public,34,Mumbai
+1671,United India Insurance Company,4.3,Insurance,10k-50k Employees,Public,86,Mumbai
+1672,INSPIRE CLEAN ENERGY,3.2,Power,201-500 Employees,Startup,9,Mumbai
+1673,REPCO HOME FINANCE,3.9,NBFC,501-1k Employees,Public,24,Mumbai
+1674,Sintex Industries,4.1,Industrial Machinery,5k-10k Employees,Public,93,Mumbai
+1675,Midc,4.4,Government,1k-5k Employees (Global),Public,60,Mumbai
+1676,Idex,3.7,Non-Profit,201-500 Employees,Forbes Global 2000,37,Mumbai
+1677,Orient Bell,3.8,Building Material,501-1k Employees,Public,47,Mumbai
+1678,Gpt Infraprojects,4.0,Engineering & Construction,1k-5k Employees,Public,44,Mumbai
+1679,Jawed Habib Hair & Beauty,4.1,Retail,1k-5k Employees,Public,18,Mumbai
+1680,Cable Corporation Of India,3.5,Electronics Manufacturing,501-1k Employees,Public,67,Mumbai
+1681,Government Polytechnic Nagpur,4.0,Education & Training,1k-5k Employees,State,110,Mumbai
+1682,Pudumjee Paper Products,4.1,Pulp & Paper,501-1k Employees,Public,9,Mumbai
+1683,IL&FS Engineering and Construction,4.4,Engineering & Construction,1k-5k Employees,Public,36,Mumbai
+1684,Alcatel-Lucent,4.2,Telecom,201-500 Employees,Public,32,Mumbai
+1685,PayPal,3.9,FinTech,1k-5k Employees,Forbes Global 2000,26,Mumbai
+1686,Surya Roshni,4.1,Real Estate,1k-5k Employees,Public,51,Mumbai
+1687,Yalamanchili Software Exports,3.4,Software Product,51-200 Employees,Public,23,Mumbai
+1688,Morepen Laboratories,4.1,Pharma,1k-5k Employees,Public,40,Mumbai
+1689,GTL,4.2,Hardware & Networking,1k-5k Employees,Public,37,Mumbai
+1690,Timken,3.9,Industrial Machinery,1k-5k Employees,Public,26,Mumbai
+1691,Pradeep Metals,3.7,Industrial Machinery,51-200 Employees,Public,41,Mumbai
+1692,Schreiber Dynamix Dairies,4.4,Electronics Manufacturing,501-1k Employees,Public,31,Mumbai
+1693,Seya Industries,3.4,Chemicals,201-500 Employees (Global),Public,34,Mumbai
+1694,Honda Cars,4.4,Automobile,5k-10k Employees,Fortune India 500,29,Mumbai
+1695,Red FM 93.5,4.1,Broadcasting,501-1k Employees (Global),Public,22,Mumbai
+1696,Fredun Pharmaceuticals,3.7,Pharma,201-500 Employees,Public,37,Mumbai
+1697,Samunnati Financial Intermediation and Services,4.5,Financial Services,201-500 Employees,Startup,10,Mumbai
+1698,Pradeep Metals,3.7,Industrial Machinery,51-200 Employees,Public,41,Mumbai
+1699,Schreiber Dynamix Dairies,4.4,Electronics Manufacturing,501-1k Employees,Public,31,Mumbai
+1700,Seya Industries,3.4,Chemicals,201-500 Employees (Global),Public,34,Mumbai
+1701,JK Tech,3.8,IT Services & Consulting,501-1k Employees,Public,30,Mumbai
+1702,Fredun Pharmaceuticals,3.7,Pharma,201-500 Employees,Public,37,Mumbai
+1703,Shilpa Medicare,3.6,Pharma,1k-5k Employees,Public,37,Chennai
+1704,Cremica Food Industries,4.1,Food Processing,501-1k Employees,Public,46,Chennai
+1705,Tlg India,3.8,Software Product,201-500 Employees,Public,52,Gurgaon
+1706,Bhagwati Foam Limited,3.5,Furniture & Furnishing,51-200 Employees,Public,17,Mumbai
+1707,HSBC Global Banking and Markets,4.1,Banking,10k-50k Employees,Public,33,Mumbai
+1708,Emerson Electric Co.,4.2,IT Services & Consulting,5k-10k Employees,Public,134,Mumbai
+1709,Barclays Investment Bank,3.9,Banking,50k-1 Lakh Employees (Global),Public,27,Mumbai
+1710,Emerson Electric Co.,4.2,IT Services & Consulting,5k-10k Employees,Public,134,Mumbai
+1711,Jodo,3.6,FinTech,51-200 Employees,Startup,4,Mumbai
+1712,Jodo,3.6,FinTech,51-200 Employees,Startup,4,Mumbai
+1713,Baxter International,4.1,Healthcare,1k-5k Employees,Forbes Global 2000,93,Mumbai
+1714,Easiloan Techno Solutions,2.6,FinTech,11-50 Employees,Startup,4,Mumbai
+1715,Suez Water Technologies and Solutions,4.2,Waste Management,5k-10k Employees,Public,55,Mumbai
+1716,Globe Capital Market,3.6,Investment Banking / Venture Capital / Private Equity,1k-5k Employees,Public,40,Mumbai
+1717,Hindoostan Mills,3.5,Fashion & Textile,201-500 Employees,Public,151,Mumbai
+1718,Globe Capital Market,3.6,Investment Banking / Venture Capital / Private Equity,1k-5k Employees,Public,40,Mumbai
+1719,DLF,4.0,Real Estate,501-1k Employees,Public,78,Mumbai
+1720,Tulip Telecom,3.1,Telecom,1k-5k Employees,Public,32,Mumbai
+1721,Genesis Colors,4.6,Fashion & Textile,1k-5k Employees,Public,26,Mumbai
+1722,Bank of America Securities,4.4,Investment Banking / Venture Capital / Private Equity,51-200 Employees,Public,15,Mumbai
+1723,Zilingo,4.1,Financial Services,201-500 Employees,Startup,9,Mumbai
+1724,Tulip Telecom,3.1,Telecom,1k-5k Employees,Public,32,Mumbai
+1725,Vivimed Labs,3.6,Chemicals,501-1k Employees,Public,33,Mumbai
+1726,Dolphin Offshore Enterprises (I),3.2,Engineering & Construction,201-500 Employees (Global),Public,45,Mumbai
+1727,Sakuma Exports,4.6,Financial Services,501-1k Employees,Public,26,Mumbai
+1728,TVF Media Labs,2.5,Internet,51-200 Employees,Startup,9,Mumbai
+1729,Narnolia Securities,4.4,Financial Services,1k-5k Employees (Global),Public,27,Mumbai
+1730,Akshay Software Technologies,3.8,Recruitment,51-200 Employees,Public,37,Mumbai
+1731,Zilingo,4.1,Financial Services,201-500 Employees,Startup,9,Mumbai
+1732,Seniority,4.0,Retail,51-200 Employees,Startup,8,Mumbai
+1733,Carcrew Technology,2.9,Auto Components,11-50 Employees (Global),Startup,8,Mumbai
+1734,Advanced Enzyme Technologies,4.0,Chemicals,201-500 Employees,Public,35,Mumbai
+1735,Seniority,4.0,Retail,51-200 Employees,Startup,8,Mumbai
+1736,Carcrew Technology,2.9,Auto Components,11-50 Employees (Global),Startup,8,Mumbai
+1737,Wow Express,3.0,Internet,201-500 Employees,Startup,9,Mumbai
+1738,Wow Express,3.0,Internet,201-500 Employees,Startup,9,Mumbai
+1739,Beardsell,3.6,Building Material,501-1k Employees,Public,88,Mumbai
+1740,Peachmode,2.6,Internet,51-200 Employees (Global),Startup,11,Mumbai
+1741,ITC Wills Lifestyle,4.6,Fashion & Textile,201-500 Employees (Global),Public,114,Mumbai
+1742,6Degree,2.5,Fashion & Textile,11-50 Employees,Startup,9,Mumbai
+1743,6Degree,2.5,Fashion & Textile,11-50 Employees,Startup,9,Mumbai
+1744,Callido Learning,2.7,Education & Training,11-50 Employees,Startup,9,Mumbai
+1745,UNIVASTU,3.4,Engineering & Construction,51-200 Employees,Public,15,Mumbai
+1746,Courseplay,4.5,Software Product,11-50 Employees,Startup,12,Mumbai
+1747,Callido Learning,2.7,Education & Training,11-50 Employees,Startup,9,Mumbai
+1748,Gujarat Fluorochemicals,4.1,Chemicals,1k-5k Employees,Fortune India 500,37,Mumbai
+1749,Intense Technologies,4.1,IT Services & Consulting,501-1k Employees,Public,34,Mumbai
+1750,Sterlite Industries,4.4,Other,201-500 Employees,Public,49,Mumbai
+1751,Alfa Laval,3.8,Industrial Machinery,1k-5k Employees,Forbes Global 2000,141,Mumbai
+1752,Nissan,4.0,Automobile,10k-50k Employees,Forbes Global 2000,91,Mumbai
+1753,Roots Multiclean,4.0,Industrial Machinery,1k-5k Employees,Public,32,Mumbai
+1754,Goa Shipyard,3.7,Automobile,1k-5k Employees,Central,67,Mumbai
+1755,Finastra,3.9,Software Product,1k-5k Employees,Startup,7,Mumbai
+1756,Snowman Logistics,4.1,Logistics,201-500 Employees,Public,28,Mumbai
+1757,Sterlite Industries,4.4,Other,201-500 Employees,Public,49,Mumbai
+1758,Alfa Laval,3.8,Industrial Machinery,1k-5k Employees,Forbes Global 2000,141,Mumbai
+1759,Usha Martin,4.1,Iron & Steel,1k-5k Employees,Public,63,Mumbai
+1760,Oriano Clean Energy,4.6,Power,51-200 Employees,Startup,9,Mumbai
+1761,Toyota Kirloskar Motor,4.4,Automobile,5k-10k Employees,Fortune India 500,27,Mumbai
+1762,Electronica Finance,4.2,NBFC,1k-5k Employees,Public,34,Mumbai
+1763,APL Apollo Tubes,3.8,Building Material,1k-5k Employees,Public,38,Mumbai
+1764,Varroc Group,3.8,Auto Components,1k-5k Employees,Public,36,Mumbai
+1765,Edgistify,4.5,Internet,11-50 Employees,Startup,7,Mumbai
+1766,Healthplix Technologies,3.3,Fitness & Wellness,51-200 Employees,Startup,10,Mumbai
+1767,Medgenome Labs,3.5,Biotechnology,201-500 Employees,Startup,11,Mumbai
+1768,Niveus Solution,3.7,IT Services & Consulting,501-1k Employees,Startup,11,Mumbai
+1769,Aditya Birla Chemicals,3.9,Chemicals,201-500 Employees,Public,40,Mumbai
+1770,Deepak Nitrite,3.9,Chemicals,1k-5k Employees,Public,54,Mumbai
+1771,Zerodha,3.9,FinTech,1k-5k Employees,Public,14,Mumbai
+1772,DeHaat,3.7,Agriculture,1k-5k Employees,Startup,5,Mumbai
+1773,GMR Group,4.1,Engineering & Construction,10k-50k Employees,Public,46,Mumbai
+1774,Meghmani Organics,3.9,Chemicals,501-1k Employees,Public,38,Mumbai
+1775,Barclays Global Service Centre,4.0,IT Services & Consulting,201-500 Employees,Fortune India 500,17,Mumbai
+1776,BPL,4.3,Consumer Electronics & Appliances,201-500 Employees,Public,61,Mumbai
+1777,Oriano Clean Energy,4.6,Power,51-200 Employees,Startup,9,Mumbai
+1778,Dover India,3.9,Industrial Machinery,501-1k Employees,Forbes Global 2000,21,Mumbai
+1779,Action Construction Equipment,3.8,Industrial Machinery,1k-5k Employees,Public,29,Mumbai
+1780,Usha Martin,4.1,Iron & Steel,1k-5k Employees,Public,63,Mumbai
+1781,International Flavors & Fragrances,3.8,Chemicals,1k-5k Employees,Forbes Global 2000,191,Mumbai
+1782,Toyota Kirloskar Motor,4.4,Automobile,5k-10k Employees,Fortune India 500,27,Mumbai
+1783,Engineering Projects,3.9,Engineering & Construction,1k-5k Employees,Central,54,Mumbai
+1784,Palo Alto Networks,3.8,IT Services & Consulting,1k-5k Employees,Public,19,Mumbai
+1785,Modicare,4.4,Beauty & Personal Care,51-200 Employees,Public,28,Mumbai
+1786,Electronica Finance,4.2,NBFC,1k-5k Employees,Public,34,Mumbai
+1787,Meghmani Organics,3.9,Chemicals,501-1k Employees,Public,38,Mumbai
+1788,Palo Alto Networks,3.8,IT Services & Consulting,1k-5k Employees,Public,19,Mumbai
+1789,Engineering Projects,3.9,Engineering & Construction,1k-5k Employees,Central,54,Mumbai
+1790,Artson Engineering,4.0,Engineering & Construction,201-500 Employees,Public,46,Mumbai
+1791,Snowman Logistics,4.1,Logistics,201-500 Employees,Public,28,Mumbai
+1792,Goa Shipyard,3.7,Automobile,1k-5k Employees,Central,67,Mumbai
+1793,ESAB,4.2,Industrial Machinery,501-1k Employees,Public,37,Mumbai
+1794,Dev Information Technology,3.9,IT Services & Consulting,501-1k Employees,Public,27,Mumbai
+1795,Barclays Global Service Centre,4.0,IT Services & Consulting,201-500 Employees,Fortune India 500,17,Chennai
+1796,GMR Group,4.1,Engineering & Construction,10k-50k Employees,Public,46,Chennai
+1797,TALENTEDGE,3.4,EdTech,201-500 Employees,Startup,12,Pune
+1798,Wells Fargo,4.0,Financial Services,10k-50k Employees,Public,172,Chennai
+1799,Aditya Birla Chemicals,3.9,Chemicals,201-500 Employees,Public,40,Chennai
+1800,Deepak Nitrite,3.9,Chemicals,1k-5k Employees,Public,54,Vadodara
+1801,Broadridge Financial Solutions,4.0,FinTech,5k-10k Employees,Forbes Global 2000,17,Mumbai
+1802,Vivriti Capital,4.0,Financial Services,201-500 Employees,Startup,7,Mumbai
+1803,Gujarat Heavy Chemicals,4.0,Chemicals,1k-5k Employees,Public,41,Mumbai
+1804,Clarivate,3.9,Analytics & KPO,1k-5k Employees,Public,8,Mumbai
+1805,Sinch,4.1,Internet,501-1k Employees,Startup,11,Mumbai
+1806,Bhageria Industries,3.6,Chemicals,201-500 Employees,Public,35,Mumbai
+1807,Saudi Electricity Company,4.4,Power,201-500 Employees,Forbes Global 2000,24,Mumbai
+1808,Venky's,3.7,FMCG,5k-10k Employees,Public,48,Mumbai
+1809,Vivriti Capital,4.0,Financial Services,201-500 Employees,Startup,7,Mumbai
+1810,Gujarat Heavy Chemicals,4.0,Chemicals,1k-5k Employees,Public,41,Mumbai
+1811,Clarivate,3.9,Analytics & KPO,1k-5k Employees,Public,8,Mumbai
+1812,Broadridge Financial Solutions,4.0,FinTech,5k-10k Employees,Forbes Global 2000,17,Mumbai
+1813,Yaantra,3.7,Internet,501-1k Employees,Startup,11,Mumbai
+1814,NOVA,3.4,Chemicals,11-50 Employees,Public,25,Mumbai
+1815,Amara Raja Energy & Mobility,4.3,Auto Components,5k-10k Employees,Fortune India 500,39,Mumbai
+1816,Amara Raja Group,4.2,Auto Components,5k-10k Employees,Public,39,Mumbai
+1817,Paras Dairy,3.6,FMCG,501-1k Employees,Public,37,Mumbai
+1818,Modicare,4.4,Beauty & Personal Care,51-200 Employees,Public,28,Mumbai
+1819,SMARTe,3.6,IT Services & Consulting,201-500 Employees,Startup,10,Mumbai
+1820,Edgistify,4.5,Internet,11-50 Employees,Startup,7,Mumbai
+1821,Risland India,3.4,Real Estate,201-500 Employees,Forbes Global 2000,7,Mumbai
+1822,BizzSetu,4.3,Software Product,11-50 Employees,Startup,2,Mumbai
+1823,Lactose,3.4,Pharma,11-50 Employees,Public,33,Mumbai
+1824,BT Group,4.1,Telecom,10k-50k Employees,Forbes Global 2000,178,Mumbai
+1825,Employees State Insurance Corporation,3.6,Insurance,1-10 Employees,Public,72,Mumbai
+1826,NOVA,3.4,Chemicals,11-50 Employees,Public,25,Mumbai
+1827,AgriBazaar,3.2,Internet,51-200 Employees,Public,7,Mumbai
+1828,Northern Trust Operating Services,4.1,Financial Services,5k-10k Employees,Forbes Global 2000,135,Mumbai
+1829,3F Industries,3.9,Food Processing,1k-5k Employees,Public,64,Mumbai
+1830,Abu Dhabi Commercial Bank,3.8,Banking,201-500 Employees,Forbes Global 2000,39,Mumbai
+1831,Sepio Products,4.1,Internet,51-200 Employees,Startup,8,Mumbai
+1832,Physicswallah,3.8,EdTech,10k-50k Employees,Indian Unicorn,5,Mumbai
+1833,Siti Networks,4.0,Media & Entertainment,201-500 Employees,Public,30,Mumbai
+1834,Allengers Medical Systems,3.2,Medical Equipment,1k-5k Employees,Public,37,Mumbai
+1835,Rotork Controls,3.6,Industrial Machinery,201-500 Employees,Public,67,Mumbai
+1836,AURO LABORATORIES,3.6,Pharma,51-200 Employees,Public,32,Mumbai
+1837,Test Yantra Software Solutions,3.4,IT Services & Consulting,1k-5k Employees,Public,17,Mumbai
+1838,Oxyzo Financial Services,3.9,Financial Services,201-500 Employees,Indian Unicorn,8,Mumbai
+1839,Finolex Cables,3.9,Electrical Equipment,1k-5k Employees,Public,68,Mumbai
+1840,Zoomcar,3.7,Internet,1k-5k Employees,Startup,12,Mumbai
+1841,TinyOwl,4.1,Internet,501-1k Employees (Global),Startup,10,Mumbai
+1842,Panoramic Universal,1.8,IT Services & Consulting,201-500 Employees,Public,27,Mumbai
+1843,Century Textiles and Industries,4.4,Pulp & Paper,1k-5k Employees,Fortune India 500,127,Mumbai
+1844,Wyeth,4.0,Pharma,10k-50k Employees (Global),Public,77,Mumbai
+1845,Wyeth,4.0,Pharma,10k-50k Employees (Global),Public,77,Mumbai
+1846,Diligent Media Corporation,2.5,Printing & Publishing,201-500 Employees,Public,23,Mumbai
+1847,AEON,4.7,Printing & Publishing,1 Lakh+ Employees (Global),Forbes Global 2000,37,Mumbai
+1848,TRANZACT,1.6,Internet,11-50 Employees,Startup,8,Mumbai
+1849,My Mobile Payments,4.0,FinTech,1k-5k Employees,Public,14,Mumbai
+1850,Eurotex Industries & Exports,4.4,Fashion & Textile,201-500 Employees,Public,37,Mumbai
+1851,Orbit Corporation,4.9,Gaming,51-200 Employees (Global),Public,24,Mumbai
+1852,AEON,4.7,Printing & Publishing,1 Lakh+ Employees (Global),Forbes Global 2000,37,Mumbai
+1853,TRANZACT,1.6,Internet,11-50 Employees,Startup,8,Mumbai
+1854,Diligent Media Corporation,2.5,Printing & Publishing,201-500 Employees,Public,23,Mumbai
+1855,Orbit Corporation,4.9,Gaming,51-200 Employees (Global),Public,24,Mumbai
+1856,My Mobile Payments,4.0,FinTech,1k-5k Employees,Public,14,Mumbai
+1857,A.G. Enterprises,4.3,Electrical Equipment,11-50 Employees,Startup,3,Mumbai
+1858,MultiLiving Technologies,3.1,Internet,51-200 Employees,Startup,5,Mumbai
+1859,Orbo.ai,1.6,Internet,11-50 Employees,Startup,7,Mumbai
+1860,Tamilnad Mercantile Bank,3.0,Banking,1k-5k Employees,Fortune India 500,103,Mumbai
+1861,LT Foods,4.1,Food Processing,1k-5k Employees,Public,34,Mumbai
+1862,Dainik Jagran,3.7,Printing & Publishing,1k-5k Employees,Public,82,Mumbai
+1863,SNL Bearings,4.0,Industrial Machinery,51-200 Employees,Public,41,Mumbai
+1864,Jaypee Hotels,3.7,Hospitality,501-1k Employees,Public,44,Agra
+1865,TTEC India,3.8,BPO,1k-5k Employees,Public,40,Ahmedabad
+1866,Affordplan,3.2,FinTech,201-500 Employees,Startup,8,Gurgaon
+1867,Wep Solutions India,3.6,IT Services & Consulting,201-500 Employees,Public,29,Bangalore
+1868,Telenor,4.5,Telecom,501-1k Employees,Forbes Global 2000,15,Lucknow
+1869,Emirates NBD,3.9,Banking,201-500 Employees,Public,61,Dubai
+1870,Applied Materials,4.0,Semiconductors,5k-10k Employees,Forbes Global 2000,22,Bangalore
+1871,ITI,3.7,Hardware & Networking,1k-5k Employees,Central,76,Mumbai
+1872,National Insurance Company,4.2,Insurance,5k-10k Employees,Central,118,Mumbai
+1873,Samvardhana Motherson Group,3.8,Auto Components,1k-5k Employees,Public,38,Mumbai
+1874,Sun TV Network,3.8,Media & Entertainment,1k-5k Employees,Public,31,Mumbai
+1875,Henkel,4.1,Chemicals,501-1k Employees,Forbes Global 2000,59,Mumbai
+1876,Jain Irrigation Systems,4.0,Agriculture,5k-10k Employees,Public,61,Mumbai
+1877,Rockwell Automation,4.1,Industrial Automation,1k-5k Employees,Forbes Global 2000,121,Mumbai
+1878,Invesco,4.0,Financial Services,1k-5k Employees,Forbes Global 2000,89,Mumbai
+1879,Xylem Water Solutions,4.0,Waste Management,501-1k Employees,Forbes Global 2000,13,Chennai
+1880,Sical Logistics,3.8,Logistics,201-500 Employees,Public,69,Mumbai
+1881,Tube Investments of India,4.0,Engineering & Construction,1k-5k Employees,Public,75,Mumbai
+1882,Adobe,4.2,Software Product,5k-10k Employees,Public,27,Mumbai
+1883,AT&T,4.2,Telecom,5k-10k Employees,Forbes Global 2000,41,Mumbai
+1884,Visaka Industries,4.1,Building Material,1k-5k Employees,Public,43,Mumbai
+1885,Goodyear,4.0,Auto Components,501-1k Employees,Public,126,Mumbai
+1886,ABIL Group,4.2,Real Estate,1k-5k Employees,Conglomerate,45,Mumbai
+1887,Mitsubishi Electric,4.2,Electronics Manufacturing,501-1k Employees,Forbes Global 2000,103,Mumbai
+1888,UNI Klinger,4.0,Industrial Machinery,51-200 Employees,Public,41,Mumbai
+1889,Karza Technologies,4.4,IT Services & Consulting,201-500 Employees,Startup,9,Mumbai
+1890,GigIndia,3.7,Internet,201-500 Employees,Startup,8,Mumbai
+1891,Paisalo Digital,3.9,NBFC,51-200 Employees,Public,32,Mumbai
+1892,Hercules Hoists,3.5,Industrial Machinery,51-200 Employees,Public,62,Mumbai
+1893,Nxtra Data,4.1,IT Services & Consulting,51-200 Employees,Public,11,Mumbai
+1894,CENTRUM HOUSING FINANCE,3.5,Financial Services,51-200 Employees,Public,8,Mumbai
+1895,Jupiter Money,3.5,FinTech,501-1k Employees,Startup,5,Mumbai
+1896,Nirma,4.3,FMCG,10k-50k Employees,Fortune India 500,34,Mumbai
+1897,Indian Terrain Fashions,4.1,Fashion & Textile,201-500 Employees,Public,24,Mumbai
+1898,Pharmed,3.9,Pharma,1k-5k Employees,Public,78,Mumbai
+1899,Accel Limited,3.9,IT Services & Consulting,1k-5k Employees,Public,33,Mumbai
+1900,Military Engineer Services,4.5,Engineering & Construction,51-200 Employees,Public,101,Mumbai
+1901,Tonetag,3.5,Internet,51-200 Employees,Startup,10,Mumbai
+1902,Vogo Automotive,4.0,Internet,51-200 Employees,Startup,8,Mumbai
+1903,Tube Investments of India,4.0,Engineering & Construction,1k-5k Employees,Public,75,Mumbai
+1904,ABIL Group,4.2,Real Estate,1k-5k Employees,Conglomerate,45,Mumbai
+1905,Mitsubishi Electric,4.2,Electronics Manufacturing,501-1k Employees,Forbes Global 2000,103,Mumbai
+1906,Credit Fair,3.5,Financial Services,11-50 Employees,Startup,6,Mumbai
+1907,Sical Logistics,3.8,Logistics,201-500 Employees,Public,69,Mumbai
+1908,LIXIL,4.0,Building Material,501-1k Employees,Public,17,Chennai
+1909,Utkal Alumina International,4.0,Chemicals,11-50 Employees,Public,31,Rayagada
+1910,Mahindra Two Wheelers,4.0,Automobile,501-1k Employees,Public,16,Pithampur
+1911,AAFT Online,4.4,EdTech,51-200 Employees,Startup,4,Gurgaon
+1912,AeonX Digital,4.2,IT Services & Consulting,51-200 Employees,Startup,4,Bhuj
+1913,Loop Health,3.0,Software Product,201-500 Employees,Startup,6,Mumbai
+1914,SNL Bearings,4.0,Industrial Machinery,51-200 Employees,Public,41,Mumbai
+1915,Tonetag,3.5,Internet,51-200 Employees,Startup,10,Mumbai
+1916,Vogo Automotive,4.0,Internet,51-200 Employees,Startup,8,Mumbai
+1917,Accel Limited,3.9,IT Services & Consulting,1k-5k Employees,Public,33,Mumbai
+1918,Haldia Petrochemicals,3.8,Petrochemicals,1k-5k Employees,State,39,Mumbai
+1919,Yum!,4.1,Hospitality,501-1k Employees,Forbes Global 2000,27,Mumbai
+1920,Dainik Jagran,3.7,Printing & Publishing,1k-5k Employees,Public,82,Mumbai
+1921,Pharmed,3.9,Pharma,1k-5k Employees,Public,78,Mumbai
+1922,Boston Scientific,4.1,Healthcare,201-500 Employees,Forbes Global 2000,45,Mumbai
+1923,Jupiter Money,3.5,FinTech,501-1k Employees,Startup,5,Mumbai
+1924,Jaypee Hotels,3.7,Hospitality,501-1k Employees,Public,44,Mumbai
+1925,Cowrks,3.8,Real Estate,51-200 Employees,Startup,8,Mumbai
+1926,AirAsia,3.6,Aviation,1k-5k Employees,Public,11,Mumbai
+1927,JetSynthesys,2.7,IT Services & Consulting,201-500 Employees,Startup,12,Mumbai
+1928,Zee News,3.8,Broadcasting,10k-50k Employees,Public,25,Mumbai

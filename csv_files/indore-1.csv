@@ -1,0 +1,1159 @@
+,company_name,company_rating,industry,size,type,years_old,location
+0,Teleperformance,3.8,BPO,50k-1 Lakh Employees,Forbes Global 2000,46,Indore
+1,TCS,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,56,Indore
+2,Cipla,4.1,Pharma,10k-50k Employees,Public,89,Indore
+3,ICICI Bank,4.0,Banking,1 Lakh+ Employees,Public,30,Indore
+4,HDFC Bank,4.0,Banking,1 Lakh+ Employees,Public,30,Indore
+5,Lupin,4.1,Pharma,1k-5k Employees,Public,56,Indore
+6,Swastika Investmart,4.4,Investment Banking / Venture Capital / Private Equity,501-1k Employees,Public,32,Indore
+7,Jio,4.0,Telecom,50k-1 Lakh Employees,Public,6,Indore
+8,Axis Bank,3.9,Banking,50k-1 Lakh Employees,Public,31,Indore
+9,Vodafone Idea,4.2,Telecom,5k-10k Employees,Public,6,Indore
+10,BYJU'S,3.1,EdTech,10k-50k Employees,Indian Unicorn,13,Indore
+11,DXC Technology,3.8,IT Services & Consulting,10k-50k Employees,Public,7,Indore
+12,Infosys,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,43,Indore
+13,Viatris,4.2,Pharma,10k-50k Employees,Forbes Global 2000,4,Indore
+14,InfoBeans,3.6,IT Services & Consulting,1k-5k Employees,Public,24,Indore
+15,Hinduja Global Solutions,4.0,IT Services & Consulting,10k-50k Employees,Public,24,Indore
+16,Bharti Airtel,4.1,Telecom,10k-50k Employees,Public,29,Indore
+17,AU Small Finance Bank,4.4,Banking,10k-50k Employees,Fortune India 500,28,Indore
+18,Glenmark Pharmaceuticals,4.0,Pharma,10k-50k Employees,Public,47,Indore
+19,Kotak Mahindra Bank,3.9,Banking,50k-1 Lakh Employees,Public,21,Indore
+20,Ipca Laboratories,4.0,Pharma,10k-50k Employees,Public,75,Indore
+21,IDFC FIRST Bank,4.0,Banking,10k-50k Employees,Public,6,Indore
+22,IndusInd Bank,3.7,Banking,10k-50k Employees,Public,30,Indore
+23,Sayaji Hotels,4.3,Hospitality,1k-5k Employees,Public,37,Indore
+24,Amazon,4.1,Internet,1 Lakh+ Employees,Public,30,Indore
+25,Bandhan Bank,3.8,Banking,50k-1 Lakh Employees,Public,23,Indore
+26,Force Motors,3.6,Automobile,1k-5k Employees,Public,66,Indore
+27,ShopKirana,3.8,Software Product,501-1k Employees,Startup,10,Indore
+28,Jana Small Finance Bank,3.9,Banking,10k-50k Employees,Public,18,Indore
+29,Waste Management Holdings,3.9,Waste Management,51-200 Employees,Forbes Global 2000,56,Indore
+30,Macleods Pharmaceuticals,3.8,Pharma,10k-50k Employees,Public,38,Indore
+31,Kogta Financial India Limited,4.8,NBFC,1k-5k Employees,Public,28,Indore
+32,Jash Engineering,4.2,Engineering & Construction,51-200 Employees,Public,76,Indore
+33,SRF,4.3,Chemicals,5k-10k Employees,Public,54,Indore
+34,Uniinfo Telecom Services,4.0,Telecom,201-500 Employees,Public,14,Indore
+35,Asian Paints,4.1,Chemicals,5k-10k Employees,Public,82,Indore
+36,Shalby Hospitals,4.6,Healthcare,1k-5k Employees,Public,30,Indore
+37,HDFC Life,4.1,Insurance,10k-50k Employees,Public,24,Indore
+38,Patanjali Foods,4.0,FMCG,5k-10k Employees,Public,38,Indore
+39,Ujaas Energy,3.6,Power,201-500 Employees,Public,45,Indore
+40,Larsen & Toubro Limited,4.1,Engineering & Construction,10k-50k Employees,Public,86,Indore
+41,Flipkart,4.0,Internet,10k-50k Employees,Public,17,Indore
+42,ITL Industries,3.6,Industrial Machinery,51-200 Employees,Public,39,Indore
+43,Accenture,4.0,IT Services & Consulting,1 Lakh+ Employees,Public,35,Indore
+44,Paytm,3.5,FinTech,10k-50k Employees,Public,14,Indore
+45,Yes Bank,3.9,Banking,10k-50k Employees,Public,20,Indore
+46,Dilip Buildcon,4.1,Engineering & Construction,10k-50k Employees,Public,37,Indore
+47,IIFL Finance,4.0,NBFC,10k-50k Employees,Public,29,Indore
+48,Gramophone,4.1,Agriculture,201-500 Employees,Startup,8,Indore
+49,Mahindra & Mahindra,4.2,Automobile,1 Lakh+ Employees,Public,79,Indore
+50,Reliance Industries,4.1,Oil & Gas,1 Lakh+ Employees,Public,47,Indore
+51,Yellow Diamond,4.2,FMCG,1k-5k Employees,Public,15,Indore
+52,DMart,4.0,Retail,10k-50k Employees,Fortune India 500,22,Indore
+53,Hindustan Unilever,4.3,FMCG,10k-50k Employees,Public,152,Indore
+54,ICICI Prudential Life Insurance,4.1,Insurance,10k-50k Employees,Public,24,Indore
+55,Samvardhana Motherson Group,3.8,Auto Components,1k-5k Employees,Public,38,Indore
+56,Apollo Hospitals,4.2,Healthcare,10k-50k Employees,Public,41,Indore
+57,Samsung,4.1,Consumer Electronics & Appliances,50k-1 Lakh Employees,Public,55,Indore
+58,JK Cement,4.2,Building Material,1k-5k Employees,Public,49,Indore
+59,Shakti Pumps,3.9,Industrial Machinery,501-1k Employees,Public,42,Indore
+60,Bridgestone,4.2,Auto Components,1k-5k Employees,Forbes Global 2000,28,Indore
+61,CreativeFuel,4.4,Marketing & Advertising,51-200 Employees,Startup,4,Indore
+62,Bajaj Finserv,4.1,Financial Services,50k-1 Lakh Employees,Public,17,Indore
+63,ICICI Lombard General Insurance Company,3.8,Insurance,10k-50k Employees,Public,23,Indore
+64,OPPO,4.0,Consumer Electronics & Appliances,10k-50k Employees,Public,20,Indore
+65,Vivo,4.1,Consumer Electronics & Appliances,5k-10k Employees,Conglomerate,15,Indore
+66,First Source,3.8,BPO,10k-50k Employees,Public,23,Indore
+67,Shriram Finance,4.1,NBFC,50k-1 Lakh Employees,Public,45,Indore
+68,Reliance Communications,4.0,Telecom,201-500 Employees,Public,22,Indore
+69,Unichem Laboratories,3.9,Pharma,1k-5k Employees,Public,80,Indore
+70,Oyo Rooms,3.4,Hospitality,1k-5k Employees,Indian Unicorn,11,Indore
+71,Tata Capital,4.2,NBFC,5k-10k Employees,Fortune India 500,17,Indore
+72,UltraTech Cement,4.2,Building Material,10k-50k Employees,Public,41,Indore
+73,Eicher Motors,4.2,Automobile,5k-10k Employees,Public,42,Indore
+74,Dainik Bhaskar Group,4.4,Printing & Publishing,5k-10k Employees,Public,66,Indore
+75,CARS24,3.7,Internet,5k-10k Employees,Indian Unicorn,9,Indore
+76,Alkem Laboratories,4.0,Pharma,10k-50k Employees,Public,51,Indore
+77,JBM Group,4.0,Auto Components,1k-5k Employees,Public,41,Indore
+78,Delhivery,4.0,Logistics,10k-50k Employees,Fortune India 500,13,Indore
+79,L&T Construction,4.1,Engineering & Construction,5k-10k Employees,Public,80,Indore
+80,BigBasket,4.0,Internet,10k-50k Employees,Indian Unicorn,13,Indore
+81,Vacmet India,4.4,Packaging,501-1k Employees,Public,31,Indore
+82,Ralson India,3.8,Auto Components,501-1k Employees,Public,50,Indore
+83,Equitas Small Finance Bank,4.4,Banking,10k-50k Employees,Fortune India 500,17,Indore
+84,Bharti Infratel,4.3,Telecom,1k-5k Employees,Public,18,Indore
+85,SpeedLabs,3.5,EdTech,201-500 Employees,Startup,9,Indore
+86,Aavas Financiers,4.0,Financial Services,5k-10k Employees,Public,13,Indore
+87,Havells,4.1,Electrical Equipment,5k-10k Employees,Public,41,Indore
+88,TVS Credit,4.5,NBFC,10k-50k Employees,Public,16,Indore
+89,1point1 Solutions,3.4,BPO,5k-10k Employees,Public,16,Indore
+90,Dabur,3.8,FMCG,5k-10k Employees,Public,140,Indore
+91,Stanza Living,3.1,Internet,501-1k Employees,Startup,7,Indore
+92,Poonawalla Fincorp,3.9,NBFC,1k-5k Employees,Public,36,Indore
+93,Mphasis,3.5,IT Services & Consulting,10k-50k Employees,Public,26,Indore
+94,Manappuram Finance,4.0,NBFC,10k-50k Employees,Public,75,Indore
+95,Piramal Group,4.0,Financial Services,10k-50k Employees,Fortune India 500,44,Indore
+96,Ujjivan Small Finance Bank,4.1,Banking,10k-50k Employees,Public,7,Indore
+97,Indiabulls Home Loans,3.9,NBFC,5k-10k Employees,Public,19,Indore
+98,Pidilite Industries,4.4,Chemicals,5k-10k Employees,Public,65,Indore
+99,Walmart,4.0,Retail,5k-10k Employees,Forbes Global 2000,15,Indore
+100,Cholamandalam Investment & Finance,4.1,NBFC,10k-50k Employees,Fortune India 500,46,Indore
+101,Quess,4.0,BPO,1k-5k Employees,Public,17,Indore
+102,Tata Motors,4.2,Automobile,10k-50k Employees,Public,79,Indore
+103,Indian Steel Corporation,4.2,Iron & Steel,1k-5k Employees,Public,20,Indore
+104,PolicyX.com,3.5,FinTech,51-200 Employees,Startup,11,Indore
+105,USHA International,4.2,Consumer Electronics & Appliances,1k-5k Employees,Public,90,Indore
+106,AVTEC,3.8,Auto Components,1k-5k Employees,Conglomerate,19,Indore
+107,Rivigo,3.9,Internet,1k-5k Employees,Indian Unicorn,10,Indore
+108,Cummins,4.4,Industrial Machinery,1k-5k Employees,Fortune India 500,105,Indore
+109,Arihant Capital Markets,3.4,Financial Services,201-500 Employees,Public,32,Indore
+110,Metro Cash & Carry,4.3,Retail,1k-5k Employees,Forbes Global 2000,21,Indore
+111,Sun Pharmaceutical Industries,4.1,Pharma,10k-50k Employees,Public,41,Indore
+112,Inox Leisure,4.1,Media & Entertainment,1k-5k Employees,Public,25,Indore
+113,VSN International,3.7,IT Services & Consulting,51-200 Employees,Public,24,Indore
+114,Aditya Birla Fashion and Retail,4.2,Fashion & Textile,10k-50k Employees,Fortune India 500,36,Indore
+115,Abbott,4.2,Pharma,10k-50k Employees,Public,136,Indore
+116,Capri Global Capital,3.7,NBFC,1k-5k Employees,Public,27,Indore
+117,Muthoot Finance,3.6,NBFC,10k-50k Employees,Public,85,Indore
+118,Rakuten,3.7,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,27,Indore
+119,RBL Bank,3.8,Banking,10k-50k Employees,Public,81,Indore
+120,Syncom Formulations India,3.4,Pharma,201-500 Employees,Public,18,Indore
+121,XpressBees,3.8,Logistics,5k-10k Employees,Indian Unicorn,9,Indore
+122,Berger Paints,3.8,Chemicals,1k-5k Employees,Public,101,Indore
+123,Flexituff Ventures International,3.9,Packaging,51-200 Employees,Public,58,Indore
+124,Blue Star,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,81,Indore
+125,Maral Overseas,3.6,Fashion & Textile,1k-5k Employees,Public,33,Indore
+126,PVR Cinemas,4.1,Media & Entertainment,1k-5k Employees,Public,27,Indore
+127,Tech Mahindra,3.7,IT Services & Consulting,1 Lakh+ Employees,Public,38,Indore
+128,Torrent Pharmaceuticals,4.0,Pharma,10k-50k Employees,Public,53,Indore
+129,Adani Wilmar,4.2,FMCG,1k-5k Employees,Public,25,Indore
+130,Persistent Systems,3.8,IT Services & Consulting,10k-50k Employees,Public,34,Indore
+131,Lotus Electronics,4.7,Consumer Electronics & Appliances,201-500 Employees (Global),Public,24,Indore
+132,Indus Towers,4.0,Telecom,1k-5k Employees,Fortune India 500,17,Indore
+133,Shoppers Stop,4.1,Retail,5k-10k Employees,Public,33,Indore
+134,LG Electronics,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,66,Indore
+135,Future Group,4.3,Retail,10k-50k Employees,Conglomerate,11,Indore
+136,Star Health & Allied Insurance,3.9,Insurance,10k-50k Employees,Fortune India 500,18,Indore
+137,Safexpress,4.1,Logistics,1k-5k Employees,Conglomerate,27,Indore
+138,Kriti Nutrients,4.4,Agro Chemicals,501-1k Employees,Public,28,Indore
+139,Safexpress,4.1,Logistics,1k-5k Employees,Conglomerate,27,Indore
+140,Kriti Nutrients,4.4,Agro Chemicals,501-1k Employees,Public,28,Indore
+141,ClassMonitor,3.5,Internet,51-200 Employees,Startup,8,Indore
+142,SYSKA LED Lights,2.9,Consumer Electronics & Appliances,1k-5k Employees (Global),Startup,12,Indore
+143,Lifestyle,4.4,Retail,10k-50k Employees,Fortune India 500,25,Indore
+144,John Deere,4.3,Industrial Machinery,5k-10k Employees,Fortune India 500,23,Indore
+145,Marriott International,4.3,Hospitality,10k-50k Employees,Forbes Global 2000,97,Indore
+146,Swiggy,3.9,Internet,5k-10k Employees,Indian Unicorn,10,Indore
+147,Mahindra Finance,4.3,NBFC,10k-50k Employees,Public,33,Indore
+148,Kotak Mahindara Life Insurance,3.9,Insurance,10k-50k Employees,Public,23,Indore
+149,Wipro,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,79,Indore
+150,Ericsson,4.3,Telecom,10k-50k Employees,Forbes Global 2000,148,Indore
+151,Bajaj Electricals,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,86,Indore
+152,Piramal Pharma,4.0,Pharma,1k-5k Employees,Public,36,Indore
+153,Reliance SMSL,4.0,BPO,1k-5k Employees,Public,17,Indore
+154,Ajanta Pharma,4.1,Pharma,5k-10k Employees,Public,51,Indore
+155,Voltas,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,70,Indore
+156,SK Finance Limited,4.1,NBFC,10k-50k Employees,Public,30,Indore
+157,DISH TV,3.6,Broadcasting,201-500 Employees,Public,21,Indore
+158,Tata Play,4.0,Broadcasting,5k-10k Employees,Public,18,Indore
+159,Kotak Securities,3.7,Financial Services,5k-10k Employees,Conglomerate,30,Indore
+160,Maruti Suzuki,4.2,Automobile,10k-50k Employees,Public,43,Indore
+161,L&T Finance,4.0,NBFC,10k-50k Employees,Public,30,Indore
+162,JustDial,3.6,Internet,10k-50k Employees,Public,28,Indore
+163,Pantaloons,4.2,Fashion & Textile,5k-10k Employees,Public,27,Indore
+164,ZF Steering Gear,3.8,Auto Components,501-1k Employees,Public,109,Indore
+165,State Bank of India,3.9,Banking,1 Lakh+ Employees,Fortune India 500,218,Indore
+166,PharmEasy,3.7,Internet,1k-5k Employees,Indian Unicorn,9,Indore
+167,PharmEasy,3.7,Internet,1k-5k Employees,Indian Unicorn,9,Indore
+168,HDFC Ergo General Insurance,4.0,Insurance,10k-50k Employees,Public,22,Indore
+169,PNB MetLife,3.5,Insurance,5k-10k Employees,Conglomerate,23,Indore
+170,ElasticRun,3.4,Logistics,1k-5k Employees,Indian Unicorn,8,Indore
+171,Randstad,3.9,Recruitment,5k-10k Employees,Conglomerate,32,Indore
+172,Eagle Seeds & Biotech,4.3,Biotechnology,51-200 Employees,Public,42,Indore
+173,Indian Army,4.7,Defence & Aerospace,1 Lakh+ Employees,Public,129,Indore
+174,Ashok Leyland,4.1,Automobile,5k-10k Employees,Public,76,Indore
+175,Polycab Wires,4.1,Electrical Equipment,1k-5k Employees,Fortune India 500,28,Indore
+176,Dhanuka Agritech,3.9,Agro Chemicals,1k-5k Employees,Public,42,Indore
+177,Bharat Petroleum,4.2,Oil & Gas,5k-10k Employees,Fortune India 500,72,Indore
+178,ICICI Securities,3.8,Financial Services,1k-5k Employees,Public,29,Indore
+179,Tata Motors Finance,4.2,NBFC,1k-5k Employees,Conglomerate,67,Indore
+180,Tata Teleservices,4.1,Telecom,201-500 Employees,Public,28,Indore
+181,Exide Industries,3.6,Auto Components,5k-10k Employees,Public,77,Indore
+182,JMC Projects,4.2,Engineering & Construction,1k-5k Employees,Public,42,Indore
+183,Shriram Life Insurance,3.8,Insurance,1k-5k Employees,Conglomerate,19,Indore
+184,Aditya Birla Group,4.1,Building Material,1 Lakh+ Employees,Conglomerate,167,Indore
+185,Aditya Birla Capital,4.0,Financial Services,10k-50k Employees,Public,7,Indore
+186,Kansai Nerolac Paints,3.9,Chemicals,1k-5k Employees,Public,104,Indore
+187,Mahindra Rural Housing Finance,4.1,NBFC,10k-50k Employees,Public,17,Indore
+188,MAS Financial Services,3.7,Financial Services,1k-5k Employees,Public,29,Indore
+189,Tata Group,4.3,IT Services & Consulting,1 Lakh+ Employees,Conglomerate,156,Indore
+190,Wonder Cement,4.2,Building Material,1k-5k Employees,Fortune India 500,14,Indore
+191,Ksolves India Limited,2.8,IT Services & Consulting,201-500 Employees,Public,12,Indore
+192,DCB Bank,3.9,Banking,5k-10k Employees,Fortune India 500,94,Indore
+193,PNB Housing Finance,3.9,Financial Services,1k-5k Employees,Public,36,Indore
+194,Akzo Nobel India,4.2,Chemicals,1k-5k Employees,Public,85,Indore
+195,TVS Motor,4.1,Automobile,5k-10k Employees,Public,45,Indore
+196,Vakrangee,3.7,BPO,1k-5k Employees,Public,34,Indore
+197,HDFC Securities,3.7,Financial Services,1k-5k Employees,Public,24,Indore
+198,CenturyPly,4.0,Furniture & Furnishing,1k-5k Employees,Public,38,Indore
+199,Sony,4.3,Consumer Electronics & Appliances,1k-5k Employees,Public,30,Indore
+200,Ondoor Concepts,4.0,Internet,51-200 Employees,Startup,10,Indore
+201,Ola Cabs,3.5,Internet,1k-5k Employees,Indian Unicorn,14,Indore
+202,Blue Dart Express,4.1,Logistics,10k-50k Employees,Public,41,Indore
+203,Sagar Cements,4.3,Building Material,1k-5k Employees,Public,39,Indore
+204,Zydus Lifesciences,4.2,Pharma,10k-50k Employees,Public,72,Indore
+205,Motilal Oswal Financial Services,3.8,Financial Services,10k-50k Employees,Public,37,Indore
+206,Trent,4.1,Retail,10k-50k Employees,Public,26,Indore
+207,Care Health Insurance,3.8,Internet,5k-10k Employees,Public,12,Indore
+208,PhonePe,4.1,FinTech,5k-10k Employees,Indian Unicorn,9,Indore
+209,Ivrcl Infrastructures & Projects,4.3,Engineering & Construction,1k-5k Employees,Public,37,Indore
+210,Medlife,3.7,Internet,1k-5k Employees,Startup,10,Indore
+211,Standard Chartered,3.9,Banking,10k-50k Employees,Fortune India 500,171,Indore
+212,Toppr,3.4,EdTech,1k-5k Employees,Startup,11,Indore
+213,Nuvoco Vistas,4.2,Building Material,1k-5k Employees,Fortune India 500,25,Indore
+214,Dr. Reddy's,4.2,Pharma,10k-50k Employees,Public,40,Indore
+215,Domino's Pizza,4.0,Hospitality,1k-5k Employees,Public,64,Indore
+216,Lenskart,3.3,Internet,5k-10k Employees,Indian Unicorn,14,Indore
+217,IIT Indore,4.4,Education & Training,501-1k Employees,Public,15,Indore
+218,Eveready Industries,4.0,Consumer Electronics & Appliances,1k-5k Employees,Public,90,Indore
+219,Patanjali Ayurved,3.2,FMCG,1k-5k Employees,Fortune India 500,18,Indore
+220,Panasonic,4.1,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,106,Indore
+221,Utkarsh Small Finance Bank,3.9,Banking,10k-50k Employees,Public,15,Indore
+222,Orient Electric,4.0,Consumer Electronics & Appliances,501-1k Employees,Public,70,Indore
+223,Apollo Tyres,4.1,Auto Components,5k-10k Employees,Public,52,Indore
+224,Bajaj Consumer Care,3.9,FMCG,201-500 Employees,Public,94,Indore
+225,Coromandel International,4.2,Agro Chemicals,5k-10k Employees,Public,63,Indore
+226,Megha Engineering & Infrastructures,4.0,Engineering & Construction,5k-10k Employees,Conglomerate,35,Indore
+227,Meesho,3.7,Internet,5k-10k Employees,Indian Unicorn,9,Indore
+228,Ola Electric Mobility,3.3,Automobile,5k-10k Employees,Indian Unicorn,7,Indore
+229,Tata Steel,4.2,Iron & Steel,1 Lakh+ Employees,Public,117,Indore
+230,Vedantu,3.4,EdTech,1k-5k Employees,Indian Unicorn,13,Indore
+231,Ion Exchange India,3.9,Waste Management,1k-5k Employees,Public,60,Indore
+232,Bureau Veritas,4.0,Other,1k-5k Employees,Forbes Global 2000,196,Indore
+233,Alpa Laboratories,4.1,Pharma,201-500 Employees,Public,57,Indore
+234,Bank of Baroda,3.6,Banking,50k-1 Lakh Employees,Fortune India 500,116,Indore
+235,Dr Lal PathLabs,4.2,Healthcare,1k-5k Employees,Public,75,Indore
+236,Greenlam Industries,4.2,Building Material,1k-5k Employees,Public,11,Indore
+237,Infra.Market,4.2,Building Material,1k-5k Employees,Indian Unicorn,8,Indore
+238,KEC International,4.1,Engineering & Construction,5k-10k Employees,Public,79,Indore
+239,Pernod Ricard,3.9,Beverage,1k-5k Employees,Forbes Global 2000,49,Indore
+240,FirstCry,3.8,Retail,1k-5k Employees,Indian Unicorn,14,Indore
+241,MRF Tyres,3.8,Auto Components,10k-50k Employees,Public,78,Indore
+242,Varun Beverages,4.1,Beverage,5k-10k Employees,Public,29,Indore
+243,Spinny,3.9,Internet,1k-5k Employees,Indian Unicorn,9,Indore
+244,Amara Raja Energy & Mobility,4.3,Auto Components,5k-10k Employees,Fortune India 500,39,Indore
+245,TradingBells,3.2,Investment Banking / Venture Capital / Private Equity,51-200 Employees (Global),Startup,8,Indore
+246,Plethico Pharmaceuticals,3.9,Pharma,51-200 Employees,Public,61,Indore
+247,TTK Prestige,4.0,Consumer Electronics & Appliances,1k-5k Employees,Public,69,Indore
+248,Haier Appliances India,4.1,Consumer Electronics & Appliances,1k-5k Employees,Conglomerate,20,Indore
+249,Tata Consumer Products,3.9,FMCG,1k-5k Employees,Public,62,Mumbai
+250,ACC,4.0,Building Material,5k-10k Employees,Public,88,Mumbai
+251,DeHaat,3.7,Agriculture,1k-5k Employees,Startup,5,Patna
+252,Thinq Pharma Cro,4.0,Pharma,51-200 Employees,Public,22,Mumbai
+253,Bharat Financial Inclusion,4.0,NBFC,10k-50k Employees,Public,26,Hyderabad
+254,Prakash Asphaltings Toll Highways,4.4,Engineering & Construction,501-1k Employees,Public,28,Indore
+255,Zomato,3.8,Internet,1k-5k Employees,Public,16,Indore
+256,McDonald's,4.2,Hospitality,1k-5k Employees,Forbes Global 2000,69,Indore
+257,Vyapaar Vistaar Tech Private Limited,4.7,Other,201-500 Employees,Startup,4,Indore
+258,Cipla Health,4.2,Pharma,10k-50k Employees,Public,11,Indore
+259,Physicswallah,3.8,EdTech,10k-50k Employees,Indian Unicorn,5,Indore
+260,Alembic Pharmaceuticals,4.1,Pharma,10k-50k Employees,Public,117,Indore
+261,American Express,4.2,Financial Services,10k-50k Employees,Forbes Global 2000,174,Indore
+262,Panjon,3.3,Pharma,11-50 Employees,Public,60,Indore
+263,NumeroEins Software,3.5,IT Services & Consulting,11-50 Employees,Startup,7,Indore
+264,CG Power and Industrial Solutions,3.9,Electrical Equipment,1k-5k Employees,Public,87,Indore
+265,Whirlpool,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,113,Indore
+266,Hindustan Petroleum,4.3,Oil & Gas,5k-10k Employees,Central,50,Indore
+267,Future Retail,4.3,Retail,10k-50k Employees,Public,37,Indore
+268,Supersourcing,3.2,Internet,51-200 Employees,Startup,5,Indore
+269,Unacademy,3.3,EdTech,1k-5k Employees,Indian Unicorn,9,Indore
+270,Aditya Birla Housing Finance,4.0,Financial Services,1k-5k Employees,Public,15,Indore
+271,VIP Industries,4.0,Retail,1k-5k Employees,Public,53,Indore
+272,Spoton Logistics,4.5,Logistics,1k-5k Employees,Startup,12,Indore
+273,Ramky Infrastructure,4.2,Engineering & Construction,501-1k Employees,Public,30,Indore
+274,Veritas Finance,4.7,NBFC,1k-5k Employees,Startup,9,Indore
+275,JK Tyres,3.8,Auto Components,1k-5k Employees,Fortune India 500,73,Indore
+276,V-Guard Industries,4.4,Consumer Electronics & Appliances,1k-5k Employees,Public,47,Indore
+277,Jubilant Foods Works,3.9,Hospitality,10k-50k Employees,Public,29,Indore
+278,JK Tyres,3.8,Auto Components,1k-5k Employees,Fortune India 500,73,Indore
+279,CNH,4.2,Automobile,1k-5k Employees,Public,11,Indore
+280,Vibencode,4.8,IT Services & Consulting,11-50 Employees,Startup,3,Indore
+281,Emaar India Limited,3.7,Real Estate,501-1k Employees,Public,19,Indore
+282,KEI Industries,4.2,Electrical Equipment,1k-5k Employees,Public,56,Ahmedabad
+283,BASF,4.5,Chemicals,1k-5k Employees,Fortune India 500,81,Ahmedabad
+284,Edelweiss,3.8,Financial Services,1k-5k Employees,Public,7,Ahmedabad
+285,Kirloskar Brothers,4.1,Industrial Machinery,1k-5k Employees,Public,136,Ahmedabad
+286,Videocon d2h,3.9,Internet,501-1k Employees,Public,15,Ahmedabad
+287,Kalpataru Power Transmission,4.2,Engineering & Construction,1k-5k Employees,Public,43,Ahmedabad
+288,Erawat Pharma,4.0,Pharma,51-200 Employees,Public,31,Indore
+289,Landmark Group,4.1,Retail,1k-5k Employees,Conglomerate,51,Ahmedabad
+290,Nippon Paint India,4.1,Chemicals,1k-5k Employees,Forbes Global 2000,143,Ahmedabad
+291,IDBI Bank,3.7,Banking,10k-50k Employees,Public,60,Ahmedabad
+292,Aviva Life Insurance India,3.6,Insurance,1k-5k Employees,Forbes Global 2000,328,Ahmedabad
+293,Nippon Paint India,4.1,Chemicals,1k-5k Employees,Forbes Global 2000,143,Indore
+294,Lemon Tree Hotels,4.2,Hospitality,5k-10k Employees,Public,22,Indore
+295,BASF,4.5,Chemicals,1k-5k Employees,Fortune India 500,81,Indore
+296,Edelweiss,3.8,Financial Services,1k-5k Employees,Public,7,Indore
+297,Kirloskar Brothers,4.1,Industrial Machinery,1k-5k Employees,Public,136,Indore
+298,Emaar India Limited,3.7,Real Estate,501-1k Employees,Public,19,Indore
+299,KEI Industries,4.2,Electrical Equipment,1k-5k Employees,Public,56,Indore
+300,Nayara Energy,4.3,Petrochemicals,1k-5k Employees,Fortune India 500,35,Indore
+301,CreditAccess Grameen,4.3,NBFC,10k-50k Employees,Public,25,Indore
+302,Kotak Mahindra Prime,4.0,NBFC,5k-10k Employees,Public,28,Indore
+303,NSE.IT,3.6,IT Services & Consulting,1k-5k Employees,Public,25,Indore
+304,Greenply,4.0,Furniture & Furnishing,1k-5k Employees,Public,40,Indore
+305,Titan Company,4.4,Retail,5k-10k Employees,Public,40,Indore
+306,Pine Labs,3.7,FinTech,1k-5k Employees,Indian Unicorn,26,Indore
+307,Kotak Mahindra Prime,4.0,NBFC,5k-10k Employees,Public,28,Indore
+308,UPL,4.2,Agro Chemicals,5k-10k Employees,Public,55,Indore
+309,Finolex Cables,3.9,Electrical Equipment,1k-5k Employees,Public,68,Indore
+310,Nokia,4.2,Telecom,10k-50k Employees,Forbes Global 2000,159,Indore
+311,Procter & Gamble,4.2,FMCG,1k-5k Employees,Public,187,Indore
+312,Sodexo,4.1,Facility Management Services,10k-50k Employees,Forbes Global 2000,16,Indore
+313,Parenteral Drugs,3.7,Pharma,1k-5k Employees,Public,41,Indore
+314,Tirupati Starch Chemicals,4.5,Chemicals / Agri Inputs,51-200 Employees,Public,39,Indore
+315,EM3 Agri Services,3.7,IT Services & Consulting,51-200 Employees,Startup,11,Indore
+316,Jain Irrigation Systems,4.0,Agriculture,5k-10k Employees,Public,61,Indore
+317,CRYSTAL CROP PROTECTION,3.9,Agro Chemicals,1k-5k Employees,Public,44,Indore
+318,Reliance Capital,4.0,Financial Services,1k-5k Employees,Public,19,Indore
+319,Spandana Sphoorty Financial,3.8,NBFC,10k-50k Employees,Public,26,Indore
+320,Paytm Payments Bank,4.0,FinTech,1k-5k Employees,Public,8,Indore
+321,VRL Logistics,4.0,Logistics,10k-50k Employees,Public,41,Indore
+322,FedEx Express,4.2,Logistics,5k-10k Employees,Forbes Global 2000,53,Indore
+323,Bosch,4.3,Auto Components,5k-10k Employees,Public,138,Indore
+324,Nowfloats Technologies,3.3,Software Product,201-500 Employees,Startup,12,Indore
+325,Indoco Remedies,3.7,Pharma,5k-10k Employees,Public,77,Indore
+326,The Phoenix Mills,3.8,Real Estate,501-1k Employees,Public,119,Indore
+327,Safari Industries India,4.2,Fashion & Textile,501-1k Employees,Public,50,Indore
+328,Satin Creditcare Network,4.1,NBFC,5k-10k Employees,Public,34,Indore
+329,Agrostar,4.0,Internet,1k-5k Employees,Startup,11,Indore
+330,Schneider Electric,4.2,Industrial Automation,10k-50k Employees,Forbes Global 2000,25,Indore
+331,Kalyan Jewellers,4.7,Jewellery,5k-10k Employees,Fortune India 500,31,Indore
+332,Ess Kay Fincorp,4.1,NBFC,5k-10k Employees,Public,30,Indore
+333,PI Industries,4.2,Agro Chemicals,1k-5k Employees,Public,77,Indore
+334,Kalyan Jewellers,4.7,Jewellery,5k-10k Employees,Fortune India 500,31,Indore
+335,Greenpanel Industries,4.1,Furniture & Furnishing,1k-5k Employees,Public,7,Indore
+336,PI Industries,4.2,Agro Chemicals,1k-5k Employees,Public,77,Indore
+337,Mahindra Logistics,4.1,Logistics,1k-5k Employees,Public,24,Indore
+338,PepsiCo,4.2,Food Processing,1 Lakh+ Employees,Public,59,Indore
+339,Alankit,3.3,Financial Services,1k-5k Employees,Public,33,Indore
+340,VLCC,3.7,Beauty & Personal Care,1k-5k Employees,Conglomerate,35,Indore
+341,Escorts Kubota Limited,4.1,Automobile,1k-5k Employees,Public,80,Indore
+342,Jindal Saw,4.1,Building Material,5k-10k Employees,Public,40,Indore
+343,Future Consumer,4.3,FMCG,1k-5k Employees,Public,28,Indore
+344,Nilkamal,3.9,Furniture & Furnishing,1k-5k Employees,Public,43,Indore
+345,Kalpataru Group,3.9,Real Estate,1k-5k Employees,Conglomerate,55,Indore
+346,Ventura Securities,4.0,Financial Services,1k-5k Employees,Public,30,Thane
+347,Emami,4.1,Beauty & Personal Care,1k-5k Employees,Public,50,Kolkata
+348,LIC Housing Finance,4.0,NBFC,1k-5k Employees,Public,35,Mumbai
+349,LUX Industries,3.7,Fashion & Textile,1k-5k Employees,Public,67,Indore
+350,Portea Medical,4.4,Healthcare,1k-5k Employees,Startup,11,Indore
+351,UNO Minda,4.1,Auto Components,201-500 Employees,Fortune India 500,66,Indore
+352,Aye Finance,4.2,NBFC,5k-10k Employees,Startup,11,Indore
+353,Mahindra Two Wheelers,4.0,Automobile,501-1k Employees,Public,16,Indore
+354,LIC Housing Finance,4.0,NBFC,1k-5k Employees,Public,35,Indore
+355,Emami,4.1,Beauty & Personal Care,1k-5k Employees,Public,50,Indore
+356,Bata,3.9,Fashion & Textile,1k-5k Employees,Public,93,Indore
+357,Techdome,4.4,IT Services & Consulting,11-50 Employees,Startup,4,Indore
+358,Adecco Group,3.8,Recruitment,1k-5k Employees,Forbes Global 2000,25,Indore
+359,Turtlemint,3.6,Internet,1k-5k Employees,Startup,9,Indore
+360,Adecco Group,3.8,Recruitment,1k-5k Employees,Forbes Global 2000,25,Indore
+361,GlaxoSmithKline Pharmaceuticals,4.2,Pharma,1k-5k Employees,Fortune India 500,194,Indore
+362,Techdome,4.4,IT Services & Consulting,11-50 Employees,Startup,4,Indore
+363,Aarti Industries,4.2,Agro Chemicals,5k-10k Employees,Public,49,Indore
+364,Indian Oil Corporation,4.4,Oil & Gas,10k-50k Employees,Fortune India 500,65,Indore
+365,Oak Tree Software,3.1,IT Services & Consulting,51-200 Employees,Startup,8,Indore
+366,Britannia,4.1,FMCG,1k-5k Employees,Public,132,Indore
+367,Porter,4.2,Internet,1k-5k Employees,Startup,10,Indore
+368,RR kabel,4.2,Electrical Equipment,1k-5k Employees,Public,29,Indore
+369,Nestle,4.1,Food Processing,5k-10k Employees,Public,65,Indore
+370,ITC,4.0,FMCG,10k-50k Employees,Public,114,Indore
+371,upGrad,3.8,EdTech,5k-10k Employees,Indian Unicorn,9,Indore
+372,Gufic Biosciences,3.2,Pharma,501-1k Employees,Public,54,Indore
+373,The Modern Data Company,4.2,Software Product,51-200 Employees,Startup,6,Indore
+374,The Modern Data Company,4.2,Software Product,51-200 Employees,Startup,6,Indore
+375,Supreme Industries,4.2,Petrochemicals,5k-10k Employees,Public,82,Indore
+376,LT Foods,4.1,Food Processing,1k-5k Employees,Public,34,Indore
+377,Bank of India,4.0,Banking,50k-1 Lakh Employees,Fortune India 500,118,Indore
+378,Inox Wind,3.7,Power,501-1k Employees,Public,15,Indore
+379,JM Financial,3.8,Financial Services,1k-5k Employees,Public,40,Indore
+380,Kajaria Ceramics,4.2,Building Material,1k-5k Employees,Public,39,Indore
+381,Kirloskar Oil Engines,4.2,Industrial Machinery,1k-5k Employees,Public,78,Indore
+382,Telesonic Networks,3.7,Telecom,5k-10k Employees,Public,15,Indore
+383,Wockhardt,3.9,Pharma,5k-10k Employees,Public,25,Indore
+384,Sahara India Pariwar,3.8,Broadcasting,5k-10k Employees,Conglomerate,46,Indore
+385,Intas Pharmaceuticals,4.2,Pharma,10k-50k Employees,Fortune India 500,47,Indore
+386,Gayatri Projects,4.0,Engineering & Construction,1k-5k Employees,Public,61,Indore
+387,TCI Express,3.9,Logistics,1k-5k Employees,Public,28,Indore
+388,LT Foods,4.1,Food Processing,1k-5k Employees,Public,34,Indore
+389,Sahara India Pariwar,3.8,Broadcasting,5k-10k Employees,Conglomerate,46,Indore
+390,Wockhardt,3.9,Pharma,5k-10k Employees,Public,25,Indore
+391,Telesonic Networks,3.7,Telecom,5k-10k Employees,Public,15,Indore
+392,Gayatri Projects,4.0,Engineering & Construction,1k-5k Employees,Public,61,Indore
+393,TCI Express,3.9,Logistics,1k-5k Employees,Public,28,Indore
+394,Lava International,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,15,Indore
+395,Easy Home Finance,4.2,FinTech,501-1k Employees,Public,6,Indore
+396,Kirloskar Oil Engines,4.2,Industrial Machinery,1k-5k Employees,Public,78,Indore
+397,Goodricke Group,4.2,Food Processing,201-500 Employees,Public,47,Indore
+398,InterGlobe Aviation,3.6,Aviation,10k-50k Employees,Fortune India 500,19,Indore
+399,Bank of India,4.0,Banking,50k-1 Lakh Employees,Fortune India 500,118,Indore
+400,Inox Wind,3.7,Power,501-1k Employees,Public,15,Indore
+401,Skipper,3.8,Power,1k-5k Employees,Public,43,Indore
+402,TGB Banquets and Hotels,4.2,Hospitality,201-500 Employees,Public,35,Indore
+403,FMC,4.2,Agro Chemicals,1k-5k Employees,Forbes Global 2000,15,Indore
+404,Mercedes-Benz Research & Development India,4.0,IT Services & Consulting,5k-10k Employees,Public,28,Indore
+405,Skipper,3.8,Power,1k-5k Employees,Public,43,Indore
+406,L&T Power,3.9,Power,1k-5k Employees,Public,18,Indore
+407,Wipro Infotech,4.0,IT Services & Consulting,1 Lakh+ Employees (Global),MNC,79,Indore
+408,EICHER TRUCKS AND BUSES,4.4,Automobile,1k-5k Employees,Public,16,Indore
+409,TVS Mobility,4.2,Automobile,5k-10k Employees,Public,113,Indore
+410,L&T Power,3.9,Power,1k-5k Employees,Public,18,Indore
+411,AVIOM,4.1,NBFC,201-500 Employees,Startup,8,Indore
+412,Siti Networks,4.0,Media & Entertainment,201-500 Employees,Public,30,Indore
+413,Hero MotoCorp,4.2,Automobile,5k-10k Employees,Public,40,Indore
+414,KONE,4.3,Industrial Machinery,5k-10k Employees,Forbes Global 2000,114,Indore
+415,PolicyBazaar,3.5,Internet,10k-50k Employees,Public,16,Indore
+416,HCLTech,3.7,IT Services & Consulting,1 Lakh+ Employees,Public,33,Indore
+417,Varroc Group,3.8,Auto Components,1k-5k Employees,Public,36,Indore
+418,Wittyfeed,3.0,Internet,51-200 Employees,Startup,10,Indore
+419,1ne Click Online,3.1,Internet,51-200 Employees,Startup,10,Indore
+420,Dave's Brother Technology,3.9,IT Services & Consulting,11-50 Employees,Startup,6,Indore
+421,Mondelez International,4.4,Food Processing,1k-5k Employees,Forbes Global 2000,12,Ahmedabad
+422,Intex Technologies,3.7,Consumer Electronics & Appliances,1k-5k Employees,Public,28,Ahmedabad
+423,Simplex Infrastructures,3.3,Engineering & Construction,1k-5k Employees,Public,100,Indore
+424,Life Insurance Corporation of India,4.4,Insurance,1 Lakh+ Employees,Fortune India 500,68,Indore
+425,Indian Railways,4.2,Railways,1 Lakh+ Employees,Central,171,Indore
+426,Mankind Pharma,4.1,Pharma,10k-50k Employees,Fortune India 500,29,Indore
+427,Pfizer,4.1,Pharma,1k-5k Employees,Public,20,Indore
+428,Honda,4.2,Automobile,10k-50k Employees,Forbes Global 2000,39,Indore
+429,Volvo,4.1,Automobile,1k-5k Employees,Forbes Global 2000,97,Indore
+430,Cadila Pharmaceuticals,3.6,Pharma,5k-10k Employees,Public,73,Indore
+431,TVS Electronics,3.9,Consumer Electronics & Appliances,501-1k Employees,Public,38,Indore
+432,Kendriya Vidyalaya Sangathan,4.4,Education & Training,10k-50k Employees,Public,61,Indore
+433,Wapcos,3.6,Engineering & Construction,1k-5k Employees,State,55,Indore
+434,Intex Technologies,3.7,Consumer Electronics & Appliances,1k-5k Employees,Public,28,Indore
+435,Onicra Credit Rating Agency,2.6,FinTech,501-1k Employees,Public,31,Indore
+436,Mondelez International,4.4,Food Processing,1k-5k Employees,Forbes Global 2000,12,Indore
+437,Transport Corporation Of India,4.1,Logistics,1k-5k Employees,Public,66,Indore
+438,Panacea Biotec,3.9,Biotechnology,1k-5k Employees,Public,40,Indore
+439,FDC,4.1,Pharma,5k-10k Employees,Public,84,Indore
+440,India Cements,3.8,Building Material,1k-5k Employees,Public,78,Indore
+441,Rapido,3.8,Internet,1k-5k Employees,Startup,9,Ahmedabad
+442,Urban Company,3.6,Internet,1k-5k Employees,Indian Unicorn,9,Ahmedabad
+443,Daikin,4.2,Consumer Electronics & Appliances,1k-5k Employees,Fortune India 500,24,Ahmedabad
+444,Levi Strauss & Co.,4.5,Fashion & Textile,1k-5k Employees,Public,171,Indore
+445,Shalimar Paints,3.9,Chemicals,1k-5k Employees,Public,122,Indore
+446,Can Fin Homes,3.4,NBFC,501-1k Employees,Public,37,Indore
+447,Shriram Pistons & Rings,4.1,Auto Components,1k-5k Employees,Public,61,Indore
+448,Somany Ceramics,4.3,Building Material,1k-5k Employees,Public,56,Indore
+449,Tenneco,3.8,Auto Components,1k-5k Employees,Forbes Global 2000,84,Indore
+450,Muthoot Fincorp,4.1,NBFC,10k-50k Employees,Conglomerate,137,Indore
+451,Asian Granito India,3.8,Building Material,1k-5k Employees,Public,24,Indore
+452,Zydus Wellness,3.9,FMCG,501-1k Employees,Public,36,Indore
+453,Redington,4.0,Hardware & Networking,1k-5k Employees,Public,25,Indore
+454,Electronica Finance,4.2,NBFC,1k-5k Employees,Public,34,Indore
+455,GVPR Engineers,4.0,Engineering & Construction,501-1k Employees,Public,27,Indore
+456,IKF Finance,3.9,NBFC,1k-5k Employees,Public,33,Indore
+457,Woodenstreet.com,3.5,Furniture & Furnishing,51-200 Employees,Startup,9,Indore
+458,Pariksha.Co,4.7,Internet,51-200 Employees,Startup,9,Indore
+459,Panasonic Energy India Co,3.7,Auto Components,501-1k Employees,Public,52,Indore
+460,CMS IT Services,3.2,IT Services & Consulting,5k-10k Employees,Startup,10,Indore
+461,Ambuja Cements,4.0,Building Material,5k-10k Employees,Public,41,Indore
+462,MasterCard,4.1,FinTech,5k-10k Employees,Forbes Global 2000,58,Indore
+463,Airtel Payments Bank,4.2,FinTech,501-1k Employees,Public,8,Indore
+464,Capital Trust,4.0,NBFC,1k-5k Employees,Public,38,Indore
+465,Samunnati Financial Intermediation and Services,4.5,Financial Services,201-500 Employees,Startup,10,Indore
+466,Nippon Life India Asset Management,4.7,Financial Services,1k-5k Employees,Public,29,Indore
+467,Amazon Web Services,4.0,Software Product,10k-50k Employees,Public,18,Indore
+468,Club Oxygen,4.2,Hospitality,201-500 Employees,Public,6,Indore
+469,Redington,4.0,Hardware & Networking,1k-5k Employees,Public,25,Indore
+470,Rapido,3.8,Internet,1k-5k Employees,Startup,9,Indore
+471,KhataBook,3.6,FinTech,501-1k Employees,Startup,6,Indore
+472,Ceat Tyres,4.1,Auto Components,5k-10k Employees,Public,66,Nagpur
+473,Fiserv,3.6,FinTech,5k-10k Employees,Forbes Global 2000,40,Indore
+474,JK Lakshmi Cement,3.9,Building Material,1k-5k Employees,Public,42,Indore
+475,LTIMindtree,3.6,IT Services & Consulting,50k-1 Lakh Employees,Public,27,Indore
+476,Shadowfax Technologies,3.7,Logistics,1k-5k Employees,Public,9,Indore
+477,FabHotels,3.1,Hospitality,501-1k Employees,Startup,10,Indore
+478,LOREAL,4.1,Beauty & Personal Care,1k-5k Employees,Forbes Global 2000,33,Indore
+479,Carnival Group,4.0,Media & Entertainment,51-200 Employees,Conglomerate,17,Indore
+480,Gruh Finance,4.3,Financial Services,501-1k Employees,Public,36,Indore
+481,Birla Corporation,4.2,Building Material,5k-10k Employees,Public,105,Indore
+482,Government of Madhya Pradesh,4.1,Government,1 Lakh+ Employees,State,68,Indore
+483,Thyrocare Technologies,3.6,Healthcare,1k-5k Employees,Public,28,Indore
+484,Surya Roshni,4.1,Real Estate,1k-5k Employees,Public,51,Indore
+485,ABM Knowledgeware,3.8,IT Services & Consulting,201-500 Employees,Public,31,Indore
+486,Aurobindo Pharma,4.0,Pharma,10k-50k Employees,Public,38,Indore
+487,Karur Vysya Bank,3.7,Banking,5k-10k Employees,Public,108,Indore
+488,Saint-Gobain,4.0,Building Material,10k-50k Employees,Forbes Global 2000,359,Indore
+489,Muthoot Group,3.6,Financial Services,10k-50k Employees,Public,137,Indore
+490,Jagran Prakashan,4.0,Printing & Publishing,501-1k Employees,Public,49,Indore
+491,Godrej Group,4.0,Chemicals,10k-50k Employees,Public,127,Indore
+492,Western Union,4.0,FinTech,1k-5k Employees,Forbes Global 2000,173,Indore
+493,MakeMyTrip,3.7,Internet,5k-10k Employees,Public,24,Indore
+494,Canara Bank,3.5,Banking,50k-1 Lakh Employees,Public,118,Indore
+495,Ofbusiness,3.1,Internet,1k-5k Employees,Indian Unicorn,9,Indore
+496,RenewBuy,3.8,Insurance,1k-5k Employees,Startup,10,Indore
+497,Lakme,4.3,Beauty & Personal Care,201-500 Employees,Public,44,Indore
+498,Him Teknoforge,3.5,Auto Components,1k-5k Employees,Public,43,Indore
+499,Amrutanjan Health Care,3.8,Pharma,1k-5k Employees,Public,131,Indore
+500,Ninjacart,4.1,Internet,1k-5k Employees,Startup,9,Indore
+501,Cera Sanitaryware,4.3,Building Material,1k-5k Employees,Public,44,Indore
+502,Srei Equipment Finance,4.5,Financial Services,1k-5k Employees,Public,35,Kolkata
+503,HFCL,4.2,Hardware & Networking,1k-5k Employees,Public,37,Indore
+504,Gulf Oil Lubricants,4.1,Chemicals / Agri Inputs,501-1k Employees,Public,31,Indore
+505,DS Group,4.1,FMCG,1k-5k Employees,Conglomerate,95,Indore
+506,BlackBuck,3.9,Internet,1k-5k Employees,Indian Unicorn,9,Indore
+507,Nuziveedu Seeds,4.2,Agriculture,1k-5k Employees,Public,51,Indore
+508,Imperial Auto Industries,3.8,Auto Components,1k-5k Employees,Public,55,Indore
+509,Vadilal Industries,4.1,FMCG,501-1k Employees,Public,117,Indore
+510,Sterling Holiday Resort,3.9,Hospitality,1k-5k Employees,Public,38,Indore
+511,Themis Medicare,3.7,Pharma,201-500 Employees,Public,55,Indore
+512,Parag Milk Foods,4.3,FMCG,1k-5k Employees,Public,32,Indore
+513,Bharat Sanchar Nigam,4.0,Telecom,50k-1 Lakh Employees,Central,24,Indore
+514,Ansal Housing & Construction,3.7,Real Estate,201-500 Employees,Public,41,Indore
+515,AirAsia,3.6,Aviation,1k-5k Employees,Public,11,Indore
+516,Rallis India,4.3,Agro Chemicals,1k-5k Employees,Public,76,Indore
+517,Legrand,3.7,Electrical Equipment,1k-5k Employees,Forbes Global 2000,164,Indore
+518,RenewBuy,3.8,Insurance,1k-5k Employees,Startup,10,Indore
+519,Ofbusiness,3.1,Internet,1k-5k Employees,Indian Unicorn,9,Indore
+520,Colgate Palmolive,4.2,FMCG,1k-5k Employees,Public,87,Indore
+521,Ceinsys Tech,3.9,IT Services & Consulting,501-1k Employees,Public,26,Indore
+522,Sirca Paints India,4.3,Chemicals,51-200 Employees,Public,18,Indore
+523,Wardwizard Innovations & Mobility,4.1,Automobile,51-200 Employees,Public,8,Indore
+524,Sterlite Technologies,3.8,Hardware & Networking,1k-5k Employees,Public,36,Indore
+525,Tata International,3.7,Import & Export,1k-5k Employees,Public,62,Indore
+526,Amara Raja Group,4.2,Auto Components,5k-10k Employees,Public,39,Indore
+527,DS Group,4.1,FMCG,1k-5k Employees,Conglomerate,95,Indore
+528,Jai Kisan,3.7,Internet,51-200 Employees,Startup,7,Indore
+529,The Saraswat Co-operative Bank,3.4,Banking,1k-5k Employees,Public,106,Indore
+530,Biocon Biologics,3.8,Biotechnology,1k-5k Employees,Public,46,Indore
+531,Nilkamal Furniture,4.1,Furniture & Furnishing,1k-5k Employees,Public,34,Indore
+532,Wardwizard Innovations & Mobility,4.1,Automobile,51-200 Employees,Public,8,Indore
+533,Sanofi,4.4,Pharma,1k-5k Employees,Public,20,Indore
+534,Avanse Financial Services,4.0,Financial Services,501-1k Employees,Startup,12,Indore
+535,Johnson & Johnson,4.2,Pharma,1k-5k Employees,Forbes Global 2000,67,Indore
+536,Sanofi,4.4,Pharma,1k-5k Employees,Public,20,Indore
+537,Simran Farms,4.8,FMCG,501-1k Employees,Public,40,Indore
+538,Merino Industries,2.7,Furniture & Furnishing,1k-5k Employees,Public,56,Indore
+539,Allengers Medical Systems,3.2,Medical Equipment,1k-5k Employees,Public,37,Indore
+540,IQVIA,4.0,Clinical Research,10k-50k Employees,Forbes Global 2000,42,Indore
+541,Bajaj Auto,3.9,Automobile,5k-10k Employees,Public,79,Indore
+542,Eris Lifesciences,3.8,Pharma,1k-5k Employees,Public,17,Indore
+543,Uber eats,4.5,Internet,1k-5k Employees (Global),Startup,10,Indore
+544,Grasim Industries,4.1,Building Material,10k-50k Employees,Public,77,Indore
+545,KFintech,3.7,FinTech,5k-10k Employees,Startup,7,Indore
+546,Hyundai Motor India Limited,4.4,Automobile,10k-50k Employees,Fortune India 500,57,Indore
+547,Zee Entertainment Enterprises,3.6,Media & Entertainment,1k-5k Employees,Public,32,Indore
+548,Eris Lifesciences,3.8,Pharma,1k-5k Employees,Public,17,Indore
+549,Godrej & Boyce Manufacturing,4.0,Consumer Electronics & Appliances,10k-50k Employees,Fortune India 500,127,Indore
+550,Vertiv,4.0,IT Services & Consulting,51-200 Employees (Global),Startup,8,Indore
+551,Zee Entertainment Enterprises,3.6,Media & Entertainment,1k-5k Employees,Public,32,Indore
+552,Hyundai Motor India Limited,4.4,Automobile,10k-50k Employees,Fortune India 500,57,Indore
+553,Bandhan Financial Services,3.8,Financial Services,10k-50k Employees (Global),Public,23,Indore
+554,Talwalkars Better value Fitness,4.1,Fitness & Wellness,201-500 Employees,Public,92,Indore
+555,Cool Aid,3.1,Electrical Equipment,501-1k Employees (Global),Public,31,Indore
+556,Cool Aid,3.1,Electrical Equipment,501-1k Employees (Global),Public,31,Indore
+557,Excel Crop Care,3.9,Agro Chemicals,1k-5k Employees,Public,60,Indore
+558,Panchsheel Organics,3.3,Pharma,51-200 Employees,Public,35,Indore
+559,Panchsheel Organics,3.3,Pharma,51-200 Employees,Public,35,Indore
+560,ZipLoan,2.9,Internet,201-500 Employees,Startup,9,Indore
+561,Talwalkars Better value Fitness,4.1,Fitness & Wellness,201-500 Employees,Public,92,Indore
+562,ZipLoan,2.9,Internet,201-500 Employees,Startup,9,Indore
+563,Mohini Health & Hygiene,3.6,Medical Equipment,201-500 Employees,Public,15,Indore
+564,NecLife,3.7,Pharma,1k-5k Employees,Public,29,Indore
+565,Kissht Finance,4.1,FinTech,201-500 Employees,Startup,9,Indore
+566,Paytm Money,3.5,FinTech,501-1k Employees,Public,7,Indore
+567,Union Bank of India,4.1,Banking,50k-1 Lakh Employees,Public,105,Indore
+568,Globus Infocom,4.8,EdTech,201-500 Employees,Conglomerate,23,Indore
+569,United Spirits,4.0,Beverage,1k-5k Employees,Public,27,Indore
+570,Airports Authority of India,4.4,Aviation,10k-50k Employees,Central,29,Indore
+571,Tata Hitachi Construction Machinery,4.1,Industrial Machinery,1k-5k Employees,Fortune India 500,25,Indore
+572,Royal Orchid Hotels,4.0,Hospitality,1k-5k Employees,Public,38,Indore
+573,Nissan,4.0,Automobile,10k-50k Employees,Forbes Global 2000,91,Indore
+574,Hyundai Mobis,3.9,Auto Components,1k-5k Employees,Forbes Global 2000,7,Indore
+575,Novo Nordisk,4.1,Pharma,1k-5k Employees,Forbes Global 2000,101,Indore
+576,Omaxe,4.1,Real Estate,201-500 Employees,Public,35,Indore
+577,UFO Moviez,3.7,Media & Entertainment,201-500 Employees,Public,19,Indore
+578,USV,4.1,Pharma,1k-5k Employees,Fortune India 500,63,Indore
+579,Sany Heavy Industry,4.0,Industrial Machinery,1k-5k Employees,Forbes Global 2000,35,Indore
+580,Wheelseye Technology,3.7,Logistics,1k-5k Employees,Startup,7,Indore
+581,3M,4.3,Electronics Manufacturing,1k-5k Employees,Public,37,Indore
+582,Coca-Cola Company,4.3,Beverage,5k-10k Employees,Forbes Global 2000,138,Indore
+583,Microland,3.6,IT Services & Consulting,1k-5k Employees,Public,35,Indore
+584,Ingram Micro,3.9,IT Services & Consulting,1k-5k Employees,Conglomerate,45,Indore
+585,Nykaa,3.5,Internet,1k-5k Employees,Public,12,Ahmedabad
+586,CENTRUM HOUSING FINANCE,3.5,Financial Services,51-200 Employees,Public,8,Ahmedabad
+587,Man Industries,3.8,Building Material,1k-5k Employees,Public,36,Anjar
+588,The Hershey Company,4.2,Food Processing,201-500 Employees,Forbes Global 2000,130,Indore
+589,Marico,4.1,FMCG,1k-5k Employees,Public,36,Indore
+590,UFO Moviez,3.7,Media & Entertainment,201-500 Employees,Public,19,Indore
+591,USV,4.1,Pharma,1k-5k Employees,Fortune India 500,63,Indore
+592,Sany Heavy Industry,4.0,Industrial Machinery,1k-5k Employees,Forbes Global 2000,35,Indore
+593,3M,4.3,Electronics Manufacturing,1k-5k Employees,Public,37,Indore
+594,The Hershey Company,4.2,Food Processing,201-500 Employees,Forbes Global 2000,130,Indore
+595,Coca-Cola Company,4.3,Beverage,5k-10k Employees,Forbes Global 2000,138,Indore
+596,Canon,4.2,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,87,Indore
+597,Wheelseye Technology,3.7,Logistics,1k-5k Employees,Startup,7,Indore
+598,Microland,3.6,IT Services & Consulting,1k-5k Employees,Public,35,Indore
+599,Ingram Micro,3.9,IT Services & Consulting,1k-5k Employees,Conglomerate,45,Indore
+600,Navin Fluorine International,4.0,Chemicals,1k-5k Employees,Public,57,Indore
+601,Castrol,4.3,Petrochemicals,501-1k Employees,Public,125,Indore
+602,Omaxe,4.1,Real Estate,201-500 Employees,Public,35,Indore
+603,Sheela Foam,4.2,Furniture & Furnishing,1k-5k Employees,Public,53,Indore
+604,Atul,4.0,Chemicals,1k-5k Employees,Public,77,Indore
+605,V-Trans,4.1,Logistics,1k-5k Employees,Public,66,Indore
+606,Ramco Industries,4.2,Building Material,1k-5k Employees,Public,32,Chennai
+607,GAIL,4.5,Oil & Gas,1k-5k Employees,Fortune India 500,40,Delhi/NCR
+608,STAR,4.2,Broadcasting,1k-5k Employees,Conglomerate,30,Mumbai
+609,Srg Housing Finance,4.0,NBFC,201-500 Employees,Public,25,Indore
+610,Punjab National Bank,4.1,Banking,1 Lakh+ Employees,Fortune India 500,130,Indore
+611,Kotak Mahindra General Insurance,3.8,Insurance,501-1k Employees,Public,9,Indore
+612,Indiagold,3.9,FinTech,51-200 Employees,Startup,4,Indore
+613,V-Trans,4.1,Logistics,1k-5k Employees,Public,66,Indore
+614,Atul,4.0,Chemicals,1k-5k Employees,Public,77,Indore
+615,Tide Water Oil,3.8,Chemicals / Agri Inputs,501-1k Employees,Public,96,Indore
+616,Airports Authority of India,4.4,Aviation,10k-50k Employees,Central,29,Indore
+617,Luker Electric Technologies,3.0,Financial Services,51-200 Employees,Startup,10,Indore
+618,Licious,3.8,Internet,1k-5k Employees,Indian Unicorn,9,Indore
+619,OnePlus,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,11,Indore
+620,Sundaram Home Finance,4.2,NBFC,1k-5k Employees,Public,25,Indore
+621,Rupeek,3.7,FinTech,1k-5k Employees,Startup,9,Indore
+622,Five-Star Business Finance,4.3,NBFC,5k-10k Employees,Public,40,Indore
+623,House of Beauty,4.1,Internet,51-200 Employees,Startup,5,Indore
+624,Gabriel India,4.2,Auto Components,1k-5k Employees,Public,63,Indore
+625,Shreem Electrics,3.9,Electrical Equipment,501-1k Employees,Public,48,Indore
+626,Reliance Lifestyle Holdings,3.8,Retail,51-200 Employees,Public,51,Indore
+627,OnePlus,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,11,Indore
+628,Licious,3.8,Internet,1k-5k Employees,Indian Unicorn,9,Indore
+629,Luker Electric Technologies,3.0,Financial Services,51-200 Employees,Startup,10,Indore
+630,Rupeek,3.7,FinTech,1k-5k Employees,Startup,9,Indore
+631,Five-Star Business Finance,4.3,NBFC,5k-10k Employees,Public,40,Indore
+632,Gabriel India,4.2,Auto Components,1k-5k Employees,Public,63,Indore
+633,Shell,4.3,Oil & Gas,10k-50k Employees,Public,117,Indore
+634,Weddingz.in,4.1,Internet,501-1k Employees,Startup,9,Indore
+635,OTO Capital,3.0,Internet,501-1k Employees,Startup,6,Mumbai
+636,Reckitt Benckiser,4.0,FMCG,1k-5k Employees,Conglomerate,25,Slough
+637,Onward Technologies Inc,3.2,Software Product,1k-5k Employees,Public,33,Indore
+638,AceMicromatic Group,4.4,Industrial Machinery,501-1k Employees,Public,45,Indore
+639,Marks & Spencer,4.0,Retail,1k-5k Employees,Forbes Global 2000,140,Indore
+640,Omron Automation,4.2,Consumer Electronics & Appliances,201-500 Employees,Forbes Global 2000,91,Indore
+641,Schwing Stetter,4.1,Industrial Machinery,1k-5k Employees,Fortune India 500,26,Indore
+642,Akums Drugs & Pharmaceuticals Limited,4.2,Pharma,10k-50k Employees,Public,20,Indore
+643,India Post,3.9,Government,1 Lakh+ Employees,Public,170,Indore
+644,Commercial Syn Bags,4.0,Packaging,501-1k Employees,Public,38,Indore
+645,QUICK HEAL TECHNOLOGIES,3.9,Software Product,1k-5k Employees,Public,29,Indore
+646,IBM,4.1,IT Services & Consulting,1 Lakh+ Employees,Public,113,Indore
+647,Incuspaze Solutions,4.4,Real Estate,51-200 Employees,Startup,8,Indore
+648,Sintex-bapl,3.8,Petrochemicals,501-1k Employees,Public,17,Indore
+649,NeoGrowth Credit,3.7,NBFC,501-1k Employees,Startup,11,Indore
+650,NCR Corporation,4.1,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,140,Indore
+651,NIIT,3.7,Education & Training,1k-5k Employees,Public,43,Indore
+652,Tata Projects,4.3,Engineering & Construction,5k-10k Employees,Public,45,Indore
+653,Hinduja Group,4.0,Automobile,1 Lakh+ Employees,Public,15,Indore
+654,V-Mart,4.2,Retail,5k-10k Employees,Public,22,Indore
+655,Corteva Agriscience,4.3,Agro Chemicals,1k-5k Employees,Public,5,Indore
+656,Dell,4.2,Consumer Electronics & Appliances,10k-50k Employees,Forbes Global 2000,40,Indore
+657,Adidas,4.0,Fashion & Textile,5k-10k Employees,Public,75,Indore
+658,JSW Steel,4.0,Iron & Steel,10k-50k Employees,Public,42,Indore
+659,Renault,4.3,Automobile,10k-50k Employees,Forbes Global 2000,126,Indore
+660,Tata Communications,4.1,Telecom,5k-10k Employees,Public,38,Indore
+661,Religare,3.9,Financial Services,1k-5k Employees,Public,40,Indore
+662,CBRE,4.2,Real Estate,10k-50k Employees,Forbes Global 2000,118,Indore
+663,Shree Pacetronix,3.8,Medical Equipment,51-200 Employees,Public,36,Indore
+664,MPMKVVCL,3.8,Government,10k-50k Employees (Global),Public,22,Indore
+665,Kundan Care Products,3.2,Beauty & Personal Care,1k-5k Employees,Public,20,Indore
+666,MPMKVVCL,3.8,Government,10k-50k Employees (Global),Public,22,Indore
+667,Remi Sales & Engineering,3.2,Medical Equipment,201-500 Employees (Global),Public,64,Ahmedabad
+668,Shirdi Industries,3.9,Financial Services,501-1k Employees,Public,31,Indore
+669,Indian Motor Parts & Accessories,4.1,Auto Components,51-200 Employees,Public,70,Indore
+670,EMKAY AUTOMOBILE INDUSTRIES,3.7,Auto Components,1k-5k Employees,Public,46,Indore
+671,Gorani Industries,2.4,Consumer Electronics & Appliances,51-200 Employees,Public,28,Indore
+672,Gatepe Solutions India,5.0,Internet,11-50 Employees,Startup,8,Indore
+673,Winds E World,4.0,Retail,51-200 Employees,Public,6,Indore
+674,Harita Seating Systems,3.9,Auto Components,201-500 Employees,Public,14,Indore
+675,Gorani Industries,2.4,Consumer Electronics & Appliances,51-200 Employees,Public,28,Indore
+676,Winds E World,4.0,Retail,51-200 Employees,Public,6,Indore
+677,Advisorymandi.com,2.4,Internet,1-10 Employees,Startup,9,Indore
+678,Indian Motor Parts & Accessories,4.1,Auto Components,51-200 Employees,Public,70,Indore
+679,Gatepe Solutions India,5.0,Internet,11-50 Employees,Startup,8,Indore
+680,Reliance Smart,4.2,Retail,5k-10k Employees,Public,18,Indore
+681,Agarwal Packers and Movers Limited,3.6,Logistics,5k-10k Employees,Public,37,Indore
+682,National Insurance Company,4.2,Insurance,5k-10k Employees,Central,118,Indore
+683,Reliance Group,4.3,Other,1 Lakh+ Employees,Conglomerate,58,Indore
+684,Cavinkare,4.0,FMCG,1k-5k Employees,Conglomerate,41,Indore
+685,Smith & Nephew Healthcare,3.9,Medical Equipment,1k-5k Employees,Public,168,Indore
+686,Religare Finvest,4.4,Financial Services,1k-5k Employees,Public,18,Indore
+687,Kellogg,4.3,FMCG,1k-5k Employees,Forbes Global 2000,118,Indore
+688,Vimta Labs,3.6,Other,1k-5k Employees,Public,40,Indore
+689,Everest Industries,4.1,Building Material,1k-5k Employees,Public,90,Indore
+690,Hero Cycles,3.6,Automobile,5k-10k Employees,Public,68,Indore
+691,Netmeds.com,3.6,Internet,501-1k Employees,Startup,9,Chennai
+692,MMTC-PAMP,3.5,Metals & Mining,1k-5k Employees,Fortune India 500,16,Indore
+693,Ador Welding,4.0,Industrial Machinery,501-1k Employees,Public,73,Indore
+694,Bharat IT Services,3.2,IT Services & Consulting,501-1k Employees,Public,28,Indore
+695,Paul Merchants,4.3,NBFC,1k-5k Employees,Public,40,Indore
+696,Archies,3.4,Retail,1k-5k Employees,Public,45,Indore
+697,Berar Finance,4.1,NBFC,1k-5k Employees,Public,34,Indore
+698,Reliance Broadcast Network,4.2,Broadcasting,501-1k Employees,Public,19,Indore
+699,Karvy Financial Services,3.7,Financial Services,51-200 Employees,Conglomerate,43,Indore
+700,Indag Rubber,4.2,Auto Components,201-500 Employees,Public,46,Indore
+701,Ang India,4.0,Consumer Electronics & Appliances,201-500 Employees,Public,46,Indore
+702,LivSpace,3.5,Architecture & Interior Design,1k-5k Employees,Indian Unicorn,9,Indore
+703,Orient Bell,3.8,Building Material,501-1k Employees,Public,47,Indore
+704,Lotte India Corporation,3.9,FMCG,501-1k Employees,Public,20,Indore
+705,Apollo Munich Health Insurance,3.9,Financial Services,1k-5k Employees,Public,17,Indore
+706,Resideo,3.8,Internet,10k-50k Employees,Startup,6,Indore
+707,Modi Naturals,4.0,Agro Chemicals,501-1k Employees,Public,50,Indore
+708,APL Apollo Tubes,3.8,Building Material,1k-5k Employees,Public,38,Indore
+709,Timken,3.9,Industrial Machinery,1k-5k Employees,Public,26,Indore
+710,Smith & Nephew Healthcare,3.9,Medical Equipment,1k-5k Employees,Public,168,Indore
+711,Ind-Swift Laboratories,3.9,Pharma,1k-5k Employees,Public,29,Indore
+712,Spicejet,3.5,Aviation,5k-10k Employees,Public,20,Indore
+713,Aarvi Encon,4.1,Recruitment,5k-10k Employees,Public,37,Indore
+714,Reliance Smart,4.2,Retail,5k-10k Employees,Public,18,Indore
+715,Your Space,3.4,Internet,51-200 Employees,Startup,8,Indore
+716,Thomas Cook,3.9,Travel & Tourism,1k-5k Employees,Public,143,Indore
+717,Cotton Corporation of India,4.5,Fashion & Textile,1k-5k Employees,Public,54,Indore
+718,Allen Solly,3.9,Fashion & Textile,10k-50k Employees,Public,280,Indore
+719,Arvind Fashions,3.9,Fashion & Textile,1k-5k Employees,Public,31,Indore
+720,Tata ClassEdge,3.5,EdTech,501-1k Employees,Public,13,Indore
+721,uFaber,2.8,Education & Training,1k-5k Employees,Startup,11,Indore
+722,Nkgsb CO-OP Bank,4.2,Banking,1k-5k Employees,Public,107,Indore
+723,Animall,3.8,Internet,51-200 Employees,Startup,5,Indore
+724,CIEL HR,4.1,Recruitment,1k-5k Employees,Startup,9,Indore
+725,Compuage Infocom,3.9,Hardware & Networking,501-1k Employees,Public,37,Indore
+726,Bal Pharma,3.5,Pharma,1k-5k Employees,Public,37,Indore
+727,Pradhan Mantri Kaushal Vikas Yojana,4.0,Education & Training,1-10 Employees,Public,9,Indore
+728,Page Industries,4.2,Fashion & Textile,10k-50k Employees,Public,30,Indore
+729,Paisabazaar.com,3.6,Internet,1k-5k Employees,Startup,10,Indore
+730,Vardhman Fabrics,4.1,Fashion & Textile,10k-50k Employees,Fortune India 500,59,Indore
+731,STYLAM Industries,3.7,Engineering & Construction,201-500 Employees,Public,33,Indore
+732,GlaxoSmithKline Consumer Healthcare,4.5,Pharma,1k-5k Employees,Public,24,Indore
+733,Jaya Hind Industries,3.8,Auto Components,1k-5k Employees,Public,77,Indore
+734,Waters Corporation,4.4,Clinical Research,501-1k Employees,Forbes Global 2000,66,Indore
+735,Shilpa Medicare,3.6,Pharma,1k-5k Employees,Public,37,Indore
+736,Starbucks,4.3,Hospitality,1k-5k Employees,Public,53,Indore
+737,Signify,3.6,Consumer Electronics & Appliances,1k-5k Employees,Conglomerate,8,Indore
+738,NCL BUILDTEK,4.0,Building Material,501-1k Employees,Public,35,Indore
+739,Agro Phos (India),3.6,Agro Chemicals,51-200 Employees,Public,22,Indore
+740,SOLAR INDUSTRIES INDIA,3.8,Chemicals,1k-5k Employees,Public,29,Indore
+741,Genus Power Infrastructures,4.0,Consumer Electronics & Appliances,1k-5k Employees,Public,32,Indore
+742,Porwal Auto Components,4.1,Auto Components,201-500 Employees,Public,32,Indore
+743,Ninebit Computing,4.5,IT Services & Consulting,1-10 Employees,Startup,1,Indore
+744,Future Supply Chain Solutions,4.4,Logistics,1k-5k Employees,Public,18,Indore
+745,Adani Ports and SEZ,3.9,Ports & Shipping,1k-5k Employees,Public,26,Indore
+746,Gap,3.7,Fashion & Textile,1k-5k Employees,Forbes Global 2000,28,Indore
+747,CMC,4.2,Education & Training,10k-50k Employees,Public,56,Indore
+748,Your Space,3.4,Internet,51-200 Employees,Startup,8,Indore
+749,Toyota Kirloskar Motor,4.4,Automobile,5k-10k Employees,Fortune India 500,27,Indore
+750,Godfrey Phillips India,4.1,FMCG,501-1k Employees,Public,91,Indore
+751,Lakshmi Machine Works,4.0,Industrial Machinery,1k-5k Employees,Public,62,Indore
+752,Jindal Poly Films,3.7,Packaging,1k-5k Employees,Public,50,Indore
+753,Essar Group,4.0,Engineering & Construction,10k-50k Employees,Public,55,Indore
+754,ITC Hotels,4.2,Hospitality,5k-10k Employees,Public,49,Indore
+755,Treebo Hotels,3.5,Internet,51-200 Employees,Startup,9,Indore
+756,Ziqitza Health Care,4.0,Healthcare,5k-10k Employees,Public,19,Indore
+757,AstraZeneca,4.2,Pharma,501-1k Employees,Public,25,Indore
+758,Ruloans,3.8,Financial Services,51-200 Employees (Global),Public,28,Indore
+759,Isuzu Motors,4.0,Automobile,1k-5k Employees,Forbes Global 2000,12,Indore
+760,Ambrane India,4.6,Consumer Electronics & Appliances,201-500 Employees,Startup,12,Indore
+761,SOLAR INDUSTRIES INDIA,3.8,Chemicals,1k-5k Employees,Public,29,Indore
+762,Genus Power Infrastructures,4.0,Consumer Electronics & Appliances,1k-5k Employees,Public,32,Indore
+763,Pratibha Industries,4.7,Engineering & Construction,501-1k Employees,Public,42,Indore
+764,Ind-Swift Laboratories,3.9,Pharma,1k-5k Employees,Public,29,Indore
+765,Nitco,4.3,Building Material,1k-5k Employees,Public,71,Indore
+766,Treebo Hotels,3.5,Internet,51-200 Employees,Startup,9,Indore
+767,Worth Peripherals,2.2,Packaging,201-500 Employees,Public,28,Indore
+768,Hindustan Sanitaryware & Industries,4.1,Furniture & Furnishing,1k-5k Employees,Public,64,Indore
+769,Utkarsh India,3.3,Industrial Machinery,501-1k Employees,Public,37,Indore
+770,Welspun Enterprises,4.2,Engineering & Construction,1k-5k Employees,Public,48,Indore
+771,Xpo Logistics,3.8,Logistics,51-200 Employees,Public,13,Indore
+772,Aarvi Encon,4.1,Recruitment,5k-10k Employees,Public,37,Indore
+773,Dainik Jagran,3.7,Printing & Publishing,1k-5k Employees,Public,82,Indore
+774,Shriram Group,4.1,Financial Services,50k-1 Lakh Employees,Conglomerate,50,Indore
+775,Zerodha,3.9,FinTech,1k-5k Employees,Public,14,Indore
+776,Healthcare At Home,3.6,Healthcare,1k-5k Employees,Startup,12,Indore
+777,Ziqitza Health Care,4.0,Healthcare,5k-10k Employees,Public,19,Indore
+778,Cashify,3.8,Other,501-1k Employees,Startup,11,Indore
+779,AstraZeneca,4.2,Pharma,501-1k Employees,Public,25,Indore
+780,ELGI Equipments,4.1,Industrial Machinery,1k-5k Employees,Public,64,Indore
+781,Sigma Infosolutions,3.4,IT Services & Consulting,201-500 Employees,Public,20,Indore
+782,Swaraj Tractors,4.2,Automobile,1k-5k Employees,Conglomerate,62,Indore
+783,MMTC-PAMP,3.5,Metals & Mining,1k-5k Employees,Fortune India 500,16,Indore
+784,Berar Finance,4.1,NBFC,1k-5k Employees,Public,34,Indore
+785,Karvy Financial Services,3.7,Financial Services,51-200 Employees,Conglomerate,43,Indore
+786,Indag Rubber,4.2,Auto Components,201-500 Employees,Public,46,Indore
+787,Paul Merchants,4.3,NBFC,1k-5k Employees,Public,40,Indore
+788,Archies,3.4,Retail,1k-5k Employees,Public,45,Indore
+789,Reliance Broadcast Network,4.2,Broadcasting,501-1k Employees,Public,19,Indore
+790,Gland Pharma,3.7,Pharma,1k-5k Employees,Fortune India 500,46,Indore
+791,ManpowerGroup,3.9,Recruitment,50k-1 Lakh Employees,Forbes Global 2000,29,Indore
+792,Tata Chemicals,4.2,Chemicals,1k-5k Employees,Public,85,Indore
+793,Orient Technologies,3.9,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,32,Indore
+794,Secure Meters,4.1,Electronics Manufacturing,1k-5k Employees,Public,37,Indore
+795,GTL,4.2,Hardware & Networking,1k-5k Employees,Public,37,Indore
+796,Timken,3.9,Industrial Machinery,1k-5k Employees,Public,26,Indore
+797,Food Corporation of India,4.2,Government,10k-50k Employees (Global),Central,59,Indore
+798,The Souled Store,3.5,Fashion & Textile,201-500 Employees,Startup,11,Indore
+799,STYLAM Industries,3.7,Engineering & Construction,201-500 Employees,Public,33,Indore
+800,IFB,3.7,Consumer Electronics & Appliances,201-500 Employees,Public,50,Indore
+801,Billabong High International School,3.8,Education & Training,51-200 Employees,Public,15,Indore
+802,Paisabazaar.com,3.6,Internet,1k-5k Employees,Startup,10,Indore
+803,Metro Tyres,3.8,Auto Components,201-500 Employees,Public,56,Indore
+804,Entertainment Network India,3.5,Media & Entertainment,501-1k Employees,Public,25,Indore
+805,Wakefit,4.2,Furniture & Furnishing,1k-5k Employees,Startup,8,Indore
+806,Agrim Housing Finance,3.7,Financial Services,201-500 Employees,Startup,6,Indore
+807,NCL BUILDTEK,4.0,Building Material,501-1k Employees,Public,35,Indore
+808,Waters Corporation,4.4,Clinical Research,501-1k Employees,Forbes Global 2000,66,Indore
+809,Jaya Hind Industries,3.8,Auto Components,1k-5k Employees,Public,77,Indore
+810,Endurance Technologies,3.9,Auto Components,1k-5k Employees,Public,39,Indore
+811,Shreeyam Power And Steel Industries,4.2,Power,1k-5k Employees,Public,19,Indore
+812,Eaton Corporation,4.0,Power,5k-10k Employees,Public,113,Indore
+813,The Souled Store,3.5,Fashion & Textile,201-500 Employees,Startup,11,Indore
+814,Bajaj Capital,3.9,Financial Services,1k-5k Employees,Public,60,Indore
+815,Ford Motor,4.5,Automobile,5k-10k Employees,Public,121,Indore
+816,Metro Tyres,3.8,Auto Components,201-500 Employees,Public,56,Indore
+817,Entertainment Network India,3.5,Media & Entertainment,501-1k Employees,Public,25,Indore
+818,Wakefit,4.2,Furniture & Furnishing,1k-5k Employees,Startup,8,Indore
+819,National Highways Authority of India,4.1,Engineering & Construction,5k-10k Employees (Global),Public,36,Indore
+820,ZIM Laboratories,3.6,Pharma,1k-5k Employees,Public,40,Hyderabad
+821,Signify,3.6,Consumer Electronics & Appliances,1k-5k Employees,Conglomerate,8,Indore
+822,GlaxoSmithKline Consumer Healthcare,4.5,Pharma,1k-5k Employees,Public,24,Indore
+823,Ambrane India,4.6,Consumer Electronics & Appliances,201-500 Employees,Startup,12,Indore
+824,Isuzu Motors,4.0,Automobile,1k-5k Employees,Forbes Global 2000,12,Indore
+825,Ruloans,3.8,Financial Services,51-200 Employees (Global),Public,28,Indore
+826,Vyapar,3.7,Software Product,501-1k Employees,Startup,7,Indore
+827,Jyoti Resins And Adhesives,4.1,Chemicals / Agri Inputs,51-200 Employees,Public,31,Indore
+828,Arvind Group,4.1,Fashion & Textile,10k-50k Employees,Public,93,Indore
+829,Nabard Financial Services,4.3,NBFC,1k-5k Employees,Public,15,Indore
+830,CFS,3.9,Internet,11-50 Employees,Startup,6,Indore
+831,Propelld,4.2,Internet,1-10 Employees,Startup,8,Indore
+832,ANI INTEGRATED SERVICES,3.8,Engineering & Construction,1k-5k Employees,Public,36,Indore
+833,Niyogin Fintech,3.7,Financial Services,51-200 Employees,Public,7,Mumbai
+834,CANTABIL RETAIL INDIA,4.3,Fashion & Textile,1k-5k Employees,Public,24,New
+835,Mitcon Consultancy and Engineering Services,3.7,Education & Training,201-500 Employees,Public,42,Indore
+836,Swelect Energy Systems,4.2,Electrical Equipment,201-500 Employees,Public,40,Indore
+837,National Highways Authority of India,4.1,Engineering & Construction,5k-10k Employees (Global),Public,36,Indore
+838,ZIM Laboratories,3.6,Pharma,1k-5k Employees,Public,40,Indore
+839,Whitehat jr,3.5,EdTech,5k-10k Employees,Startup,6,Indore
+840,Pristyn Care,3.7,Healthcare,1k-5k Employees,Indian Unicorn,6,Indore
+841,Air India,4.0,Aviation,10k-50k Employees,Central,94,Indore
+842,Technoplast Packaging,3.9,Petrochemicals,501-1k Employees,Startup,5,Indore
+843,Thermo Fisher Scientific,3.9,Pharma,1k-5k Employees,Forbes Global 2000,68,Indore
+844,Ryan International School,3.7,Education & Training,10k-50k Employees,Public,32,Indore
+845,Vyapar,3.7,Software Product,501-1k Employees,Startup,7,Indore
+846,Ryan International School,3.7,Education & Training,10k-50k Employees,Public,32,Indore
+847,Cholamandalam Securities,4.0,Investment Banking / Venture Capital / Private Equity,201-500 Employees,Public,46,Indore
+848,GoMechanic,3.8,Internet,501-1k Employees,Startup,8,Indore
+849,Bluestone.com,3.8,Jewellery,501-1k Employees,Startup,13,Indore
+850,Tech Mahindra Business Services,3.5,BPO,5k-10k Employees,Public,21,Indore
+851,Nestor Pharmaceuticals,2.9,Pharma,51-200 Employees,Public,107,Indore
+852,KIA MOTORS,3.9,Automobile,1k-5k Employees,Forbes Global 2000,80,Indore
+853,Agro Tech Foods,4.2,FMCG,501-1k Employees,Public,38,Indore
+854,Concord Biotech,3.7,Pharma,501-1k Employees,Public,24,Indore
+855,Hewlett Packard Enterprise,4.3,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,9,Indore
+856,Crisil,3.7,Financial Services,1k-5k Employees,Public,37,Indore
+857,Zoomcar,3.7,Internet,1k-5k Employees,Startup,12,Indore
+858,Delta Electronics,4.0,Electronics Manufacturing,501-1k Employees,Forbes Global 2000,32,Indore
+859,Hitachi,4.1,Industrial Machinery,10k-50k Employees,Forbes Global 2000,114,Indore
+860,Philips,3.9,Consumer Electronics & Appliances,5k-10k Employees,Forbes Global 2000,94,Indore
+861,Digit Insurance,4.0,Insurance,1k-5k Employees,Fortune India 500,8,Indore
+862,Cognizant,3.9,IT Services & Consulting,1 Lakh+ Employees,Forbes Global 2000,30,Indore
+863,Biocon Limited,3.9,Biotechnology,5k-10k Employees,Public,46,Indore
+864,Welspun,4.1,Fashion & Textile,10k-50k Employees,Fortune India 500,39,Indore
+865,Info Edge,4.0,Internet,5k-10k Employees,Public,29,Indore
+866,Poly Medicure,3.7,Medical Equipment,1k-5k Employees,Public,27,Indore
+867,Suzlon Group,4.2,Power,5k-10k Employees,Public,29,Indore
+868,Bijak,3.6,Internet,51-200 Employees,Startup,5,Indore
+869,Atlas Copco,4.3,Industrial Machinery,1k-5k Employees,Public,151,Indore
+870,Alcon,3.7,Medical Equipment,1k-5k Employees,Public,79,Indore
+871,Alfa Laval,3.8,Industrial Machinery,1k-5k Employees,Forbes Global 2000,141,Indore
+872,Capgemini,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,57,Indore
+873,Genpact,3.9,IT Services & Consulting,1 Lakh+ Employees,Public,27,Indore
+874,SAP,4.3,Software Product,10k-50k Employees,Forbes Global 2000,52,Indore
+875,Blue Star Infotech,4.2,IT Services & Consulting,5k-10k Employees,Public,41,Indore
+876,Tulip Telecom,3.1,Telecom,1k-5k Employees,Public,32,Indore
+877,Family Dental Clinic,5.0,Healthcare,1-10 Employees,Startup,22,Indore
+878,Oxfam,4.9,Non-Profit,51-200 Employees,Public,20,Indore
+879,Faircent.com,3.2,Investment Banking / Venture Capital / Private Equity,51-200 Employees,Startup,11,Indore
+880,Gojavas,3.7,Logistics,1k-5k Employees,Startup,11,Indore
+881,Brand Factory,4.5,Retail,10k-50k Employees,Public,18,Indore
+882,Birla Shloka Edutech,4.0,EdTech,51-200 Employees,Public,16,Indore
+883,T Stanes,4.4,Agriculture,51-200 Employees,Public,163,Indore
+884,Bloom Dekor,2.9,Furniture & Furnishing,51-200 Employees,Public,30,Indore
+885,Faircent.com,3.2,Investment Banking / Venture Capital / Private Equity,51-200 Employees,Startup,11,Indore
+886,Tinystep,4.8,Financial Services,1-10 Employees,Startup,9,Indore
+887,Docland,3.4,Insurance,51-200 Employees,Public,27,Indore
+888,The MobileStore,4.3,Internet,501-1k Employees,Public,18,Indore
+889,Surevin Bpo Services,3.1,BPO,501-1k Employees (Global),Public,17,Indore
+890,Brand Factory,4.5,Retail,10k-50k Employees,Public,18,Indore
+891,Viaan Industries,3.9,Financial Services,51-200 Employees,Public,42,Indore
+892,Kisan Network,3.4,Internet,11-50 Employees,Startup,9,Indore
+893,Zilingo,4.1,Financial Services,201-500 Employees,Startup,9,Indore
+894,PKF Finance,2.5,Financial Services,201-500 Employees,Public,66,Indore
+895,Ion Exchange Services,3.6,Waste Management,1k-5k Employees (Global),Public,60,Indore
+896,Mandhana Retail Ventures,4.2,Retail,501-1k Employees,Public,13,Indore
+897,Mandhana Retail Ventures,4.2,Retail,501-1k Employees,Public,13,Indore
+898,Frshly,3.2,Internet,11-50 Employees (Global),Startup,11,Indore
+899,Symbo Insurance,3.9,Internet,51-200 Employees,Startup,7,Indore
+900,Calvin Klein Jeans,4.8,Fashion & Textile,10k-50k Employees (Global),Public,56,Bangalore
+901,Trendy Texts,5.0,Printing & Publishing,1-10 Employees,Startup,2,Indore
+902,Wellfounded,5.0,Software Product,1-10 Employees,Startup,1,Indore
+903,Invisalign India,2.7,Healthcare,51-200 Employees,Startup,9,Indore
+904,Frshly,3.2,Internet,11-50 Employees (Global),Startup,11,Indore
+905,ITC Wills Lifestyle,4.6,Fashion & Textile,201-500 Employees (Global),Public,114,Indore
+906,Bounce,4.0,Automobile,501-1k Employees,Startup,10,Indore
+907,Natureland Organic Foods,4.3,Internet,51-200 Employees,Startup,10,Indore
+908,Invisalign India,2.7,Healthcare,51-200 Employees,Startup,9,Indore
+909,90+ My Tuition App,4.1,Internet,201-500 Employees,Startup,6,Indore
+910,MoneyTap,3.6,Financial Services,51-200 Employees,Startup,9,Indore
+911,MoneyTap,3.6,Financial Services,51-200 Employees,Startup,9,Indore
+912,goDutch,4.3,Internet,1-10 Employees (Global),Startup,5,Indore
+913,myHQ,2.8,Internet,11-50 Employees,Startup,8,Delhi
+914,WudStay,5.0,Internet,11-50 Employees,Startup,9,Gurgaon
+915,Symbo Insurance,3.9,Internet,51-200 Employees,Startup,7,Indore
+916,Kafqa Academy,3.8,Internet,51-200 Employees,Startup,3,Indore
+917,Sun TV Network,3.8,Media & Entertainment,1k-5k Employees,Public,31,Indore
+918,Sanghi Industries,3.7,Building Material,501-1k Employees,Public,39,Indore
+919,Central Institute of Plastics Engineering & Technology,3.9,Education & Training,51-200 Employees,Public,56,Indore
+920,Neebal Technologies,3.6,IT Services & Consulting,51-200 Employees,Startup,12,Indore
+921,Yamaha Motor,4.2,Automobile,1k-5k Employees,Fortune India 500,69,Indore
+922,Zee Learn,3.8,Education & Training,201-500 Employees,Public,8,Indore
+923,ePayLater,3.8,FinTech,51-200 Employees,Startup,9,Indore
+924,Carborundum Universal,4.0,Metals & Mining,1k-5k Employees,Public,70,Indore
+925,Liberty Shoes,3.8,Fashion & Textile,51-200 Employees,Public,70,Indore
+926,Sapiens,3.6,IT Services & Consulting,1k-5k Employees,Conglomerate,42,Indore
+927,Mitsubishi Heavy Industries,4.1,Industrial Machinery,51-200 Employees,Forbes Global 2000,140,Indore
+928,Gtpl Hathway,4.1,Broadcasting,501-1k Employees,Public,18,Indore
+929,Trimble,4.2,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,46,Indore
+930,DCM Infotech,3.7,IT Services & Consulting,51-200 Employees,Public,31,Indore
+931,NoBroker,3.2,Internet,1k-5k Employees,Indian Unicorn,10,Indore
+932,Archidply Industries,4.0,Furniture & Furnishing,501-1k Employees,Public,48,Indore
+933,Lumax Industries,4.0,Auto Components,1k-5k Employees,Public,79,Indore
+934,Dedicated Freight Corridor Corporation Of India,4.1,Government,501-1k Employees,Public,18,Indore
+935,Welspun Global Brands,3.8,Fashion & Textile,10k-50k Employees (Global),Public,24,Indore
+936,Mrs Bector's Food Specialities,4.0,FMCG,1k-5k Employees,Public,46,Indore
+937,Unitech Power Transmission,4.0,Power,201-500 Employees,Public,29,Indore
+938,Sv Creditline,3.6,NBFC,1k-5k Employees,Public,14,Indore
+939,Automobile Products Of India,4.3,Auto Components,1k-5k Employees,Public,75,Indore
+940,NU Vista,4.2,Building Material,1k-5k Employees,Public,50,Ahmedabad
+941,Kewal Kiran Clothing,4.1,Fashion & Textile,1k-5k Employees,Public,43,Ahmedabad
+942,Baroda Global Shared Services,4.0,Banking,10k-50k Employees,Public,7,Indore
+943,InCred Finance,4.0,NBFC,1k-5k Employees,Indian Unicorn,8,Indore
+944,Sanghi Industries,3.7,Building Material,501-1k Employees,Public,39,Indore
+945,Go First,3.7,Aviation,1k-5k Employees,Public,19,Indore
+946,Roots Multiclean,4.0,Industrial Machinery,1k-5k Employees,Public,32,Indore
+947,Upwork,4.6,Internet,501-1k Employees,Public,9,Indore
+948,Artivatic,3.3,Internet,1-10 Employees,Startup,7,Indore
+949,Religare Housing Development Finance Corporation,4.5,Financial Services,51-200 Employees,Public,31,Indore
+950,Transpek-silox Industry,4.4,Chemicals,201-500 Employees,Public,23,Indore
+951,Fingpay,1.5,Internet,51-200 Employees,Startup,8,Mumbai
+952,Venture Supply Chain,4.3,Internet,201-500 Employees,Startup,10,Delhi
+953,Star Agriwarehousing and Collateral Management,4.5,Agriculture,201-500 Employees,Public,18,Indore
+954,Continuum Global,2.8,BPO,10k-50k Employees (Global),Conglomerate,6,Indore
+955,Apar Industries,4.1,Electrical Equipment,1k-5k Employees,Public,66,Indore
+956,Lido Learning,2.3,EdTech,201-500 Employees,Startup,5,Indore
+957,Saregama India,4.1,Media & Entertainment,201-500 Employees,Public,123,Indore
+958,Philip Morris International,3.7,FMCG,51-200 Employees,Forbes Global 2000,37,Indore
+959,Bacardi,3.9,Beverage,201-500 Employees,Conglomerate,162,Indore
+960,Thermax Limited,4.2,Industrial Machinery,1k-5k Employees,Public,58,Indore
+961,Housing.com,3.8,Internet,1k-5k Employees,Startup,12,Gurgaon
+962,Apple,4.3,Consumer Electronics & Appliances,10k-50k Employees,Forbes Global 2000,48,Cupertino
+963,UnitedHealth,4.1,Healthcare,10k-50k Employees,Forbes Global 2000,47,Minnetonka
+964,Facebook,4.3,Internet,1k-5k Employees,Forbes Global 2000,20,Menlo
+965,Urban Ladder,3.8,Furniture & Furnishing,501-1k Employees,Startup,12,Bangalore
+966,Shapoorji Pallonji Group,4.2,Engineering & Construction,5k-10k Employees,Conglomerate,159,Mumbai
+967,Indian Navy,4.6,Defence & Aerospace,50k-1 Lakh Employees,Central,74,Delhi/NCR
+968,Bharat Bijlee,4.3,Electrical Equipment,501-1k Employees,Public,78,Mumbai
+969,Nureca Limited,4.5,Medical Equipment,51-200 Employees,Public,8,Indore
+970,CK Birla Group,4.2,Building Material,1k-5k Employees,Conglomerate,162,Indore
+971,India Infrastructure Finance Company,5.0,Financial Services,201-500 Employees,Central,12,Indore
+972,Net Access India,4.0,IT Services & Consulting,201-500 Employees,Public,27,Indore
+973,Jindal Industries,3.5,Import & Export,1k-5k Employees (Global),Public,72,Indore
+974,IDBI Intech Limited,3.7,IT Services & Consulting,1k-5k Employees,Public,24,Indore
+975,Aptech,3.7,Education & Training,201-500 Employees,Public,38,Indore
+976,Murugappa Group,4.0,Agro Chemicals,50k-1 Lakh Employees,Conglomerate,124,Indore
+977,Indian Immunologicals,4.1,Biotechnology,1k-5k Employees,Public,42,Indore
+978,RPG Life Sciences,4.1,Pharma,1k-5k Employees,Public,31,Indore
+979,Liberty Shoes,3.8,Fashion & Textile,51-200 Employees,Public,70,Indore
+980,Yum!,4.1,Hospitality,501-1k Employees,Forbes Global 2000,27,Indore
+981,ASSA ABLOY,3.7,Real Estate,51-200 Employees,Public,19,Indore
+982,ABB Group,4.1,Electrical Equipment,1k-5k Employees,Public,36,Indore
+983,Venky's,3.7,FMCG,5k-10k Employees,Public,48,Indore
+984,Digamber Capfin,4.3,Financial Services,51-200 Employees,Public,29,Indore
+985,Freshworks,3.7,Software Product,1k-5k Employees,Public,14,Indore
+986,LEAP India Private Limited,4.4,Packaging,501-1k Employees,Startup,11,Chennai
+987,63 Moons Technologies,3.8,IT Services & Consulting,501-1k Employees,Public,36,Chennai
+988,Cashkaro.com,3.5,Internet,51-200 Employees,Startup,12,Indore
+989,Upcurve Consumer Technologies Private Limited,3.0,IT Services & Consulting,201-500 Employees,Startup,12,Indore
+990,Zodiac Clothing Company,3.6,Fashion & Textile,1k-5k Employees,Public,40,Indore
+991,Psychotropics India,4.2,Pharma,201-500 Employees,Public,37,Indore
+992,Prism Johnson Limited - RMC (India) Division,4.1,Building Material,501-1k Employees,Public,28,Indore
+993,Adani Green Energy,4.2,Power,1k-5k Employees,Fortune India 500,9,Indore
+994,Medikabazaar,4.7,Medical Equipment,501-1k Employees,Startup,10,Indore
+995,Aegis Logistics,4.0,Oil & Gas,1k-5k Employees,Public,68,Indore
+996,Wellfounded,5.0,Software Product,1-10 Employees,Startup,1,Indore
+997,Delphic,5.0,IT Services & Consulting,51-200 Employees,Startup,2,Dehradun
+998,Tlg India,3.8,Software Product,201-500 Employees,Public,52,Indore
+999,Dharmaj Crop Guard,4.4,Agro Chemicals,501-1k Employees,Public,9,Indore
+1000,Grab (India),4.1,Internet,5k-10k Employees,Startup,12,Indore
+1001,KreditBee,3.6,Internet,501-1k Employees,Startup,6,Indore
+1002,ShopX,4.4,Internet,201-500 Employees,Startup,9,Indore
+1003,Securities and Exchange Board of India,4.3,Financial Services,1k-5k Employees,Public,32,Indore
+1004,Sobha,4.0,Real Estate,1k-5k Employees,Public,29,Ahmedabad
+1005,Sterlite Power,4.0,Power,1k-5k Employees,Fortune India 500,14,Indore
+1006,GigIndia,3.7,Internet,201-500 Employees,Startup,8,Indore
+1007,Zodiac Clothing Company,3.6,Fashion & Textile,1k-5k Employees,Public,40,Indore
+1008,63 Moons Technologies,3.8,IT Services & Consulting,501-1k Employees,Public,36,Indore
+1009,Doubtnut,3.4,EdTech,201-500 Employees,Startup,8,Indore
+1010,SMC,3.9,Medical Equipment,201-500 Employees,Forbes Global 2000,36,Indore
+1011,SKS POWER GENERATION,3.2,Power,201-500 Employees,Public,16,Indore
+1012,Consulting Engineers Group,4.2,Engineering & Construction,1k-5k Employees,Public,40,Indore
+1013,Psychotropics India,4.2,Pharma,201-500 Employees,Public,37,Indore
+1014,HCL Infosystems,4.1,IT Services & Consulting,51-200 Employees,Public,48,Indore
+1015,DotPe,3.0,IT Services & Consulting,201-500 Employees,Startup,5,Indore
+1016,Mahindra Lifespace Developers,4.1,Real Estate,201-500 Employees,Public,30,Indore
+1017,India Pistons,3.5,Auto Components,1k-5k Employees,Public,75,Indore
+1018,Teachmint,3.4,EdTech,501-1k Employees,Startup,4,Indore
+1019,V2 Retail,3.6,Retail,1k-5k Employees,Public,23,Indore
+1020,Orient Cement,4.3,Building Material,1k-5k Employees,Public,45,Indore
+1021,Trident Group,3.5,Fashion & Textile,10k-50k Employees,Public,34,Indore
+1022,Furlenco,3.2,Internet,201-500 Employees,Startup,12,Indore
+1023,Ather Energy,4.1,Automobile,1k-5k Employees,Startup,11,Indore
+1024,Citibank,4.0,Banking,10k-50k Employees (Global),Fortune India 500,212,Indore
+1025,Atos,3.8,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,27,Indore
+1026,Fitelo,3.9,Fitness & Wellness,1k-5k Employees,Startup,5,Indore
+1027,Nitin Spinners,4.1,Fashion & Textile,1k-5k Employees,Public,32,Indore
+1028,Aries Agro,4.1,Agro Chemicals,501-1k Employees,Public,55,Indore
+1029,Varrsana Ispat,3.6,Engineering & Construction,501-1k Employees,Public,24,Indore
+1030,Exicom,4.0,Semiconductors,1k-5k Employees,Public,30,Indore
+1031,Anmol Industries,4.0,Food Processing,501-1k Employees,Public,30,Indore
+1032,Resonance Eduventures,4.1,EdTech,51-200 Employees,Public,23,Indore
+1033,Prism Johnson Limited - RMC (India) Division,4.1,Building Material,501-1k Employees,Public,28,Indore
+1034,Adani Green Energy,4.2,Power,1k-5k Employees,Fortune India 500,9,Indore
+1035,Medikabazaar,4.7,Medical Equipment,501-1k Employees,Startup,10,Indore
+1036,Aegis Logistics,4.0,Oil & Gas,1k-5k Employees,Public,68,Indore
+1037,Valecha Engineering,4.3,Engineering & Construction,201-500 Employees,Public,67,Indore
+1038,Suprajit Engineering,3.8,Auto Components,501-1k Employees,Public,39,Indore
+1039,Otsuka Pharmaceutical India Private Limited,4.2,Pharma,501-1k Employees,Forbes Global 2000,8,Indore
+1040,Hyundai Steel,3.9,Iron & Steel,501-1k Employees,Forbes Global 2000,14,Indore
+1041,Crop Life Science,3.2,Agro Chemicals,51-200 Employees,Public,18,Indore
+1042,Gtpl Hathway,4.1,Broadcasting,501-1k Employees,Public,18,Indore
+1043,PayU Payments,3.8,FinTech,1k-5k Employees,Conglomerate,22,Indore
+1044,Hindustan Copper,4.4,Metals & Mining,1k-5k Employees,Public,57,Indore
+1045,REPCO HOME FINANCE,3.9,NBFC,501-1k Employees,Public,24,Indore
+1046,Exicom,4.0,Semiconductors,1k-5k Employees,Public,30,Indore
+1047,Anmol Industries,4.0,Food Processing,501-1k Employees,Public,30,Indore
+1048,Indiabulls Real Estate,4.6,Real Estate,501-1k Employees,Public,18,Indore
+1049,Bridge & Roof Co,3.6,Engineering & Construction,1k-5k Employees,Central,104,Indore
+1050,Vijaya Bank,4.5,Banking,10k-50k Employees,Public,93,Indore
+1051,Indian Immunologicals,4.1,Biotechnology,1k-5k Employees,Public,42,Indore
+1052,INSPIRE CLEAN ENERGY,3.2,Power,201-500 Employees,Startup,9,Indore
+1053,JL Morison India,4.4,FMCG,201-500 Employees,Public,90,Indore
+1054,REPCO HOME FINANCE,3.9,NBFC,501-1k Employees,Public,24,Indore
+1055,Otsuka Pharmaceutical India Private Limited,4.2,Pharma,501-1k Employees,Forbes Global 2000,8,Indore
+1056,Hyundai Steel,3.9,Iron & Steel,501-1k Employees,Forbes Global 2000,14,Indore
+1057,Sintex Industries,4.1,Industrial Machinery,5k-10k Employees,Public,93,Indore
+1058,Rail Vikas Nigam,3.3,FMCG,501-1k Employees,Fortune India 500,21,Indore
+1059,MAPIT,4.2,IT Services & Consulting,51-200 Employees,Public,25,Indore
+1060,Yum!,4.1,Hospitality,501-1k Employees,Forbes Global 2000,27,Indore
+1061,SEED Infotech,3.8,IT Services & Consulting,1k-5k Employees,Public,30,Indore
+1062,Fleetx.io,3.7,Computer Software,201-500 Employees,Startup,7,Indore
+1063,Schaeffler India,4.2,Auto Components,1k-5k Employees,Public,78,Indore
+1064,Oracle Financial Services Software,3.7,IT Services & Consulting,10k-50k Employees,Public,34,Indore
+1065,Xanadu,3.4,Real Estate,501-1k Employees,Startup,9,Indore
+1066,Marino Food Products,4.1,Food Processing,51-200 Employees,Startup,9,Indore
+1067,Barbrik Project Limited (PRA Group),4.4,Engineering & Construction,201-500 Employees,Public,16,Indore
+1068,Adani Solar,4.0,Power,1k-5k Employees,Public,9,Indore
+1069,Upstox,3.8,FinTech,1k-5k Employees,Indian Unicorn,13,Indore
+1070,Confidence Petroleum India,3.5,Oil & Gas,501-1k Employees,Public,27,Indore
+1071,Dollar Industries,3.5,Fashion & Textile,501-1k Employees,Public,28,Indore
+1072,International Travel House,4.1,Hospitality,501-1k Employees,Public,43,Indore
+1073,Leuze Electronic,4.8,Electronics Manufacturing,11-50 Employees,MNC,12,Indore
+1074,Crop Life Science,3.2,Agro Chemicals,51-200 Employees,Public,18,Indore
+1075,Baroda Global Shared Services,4.0,Banking,10k-50k Employees,Public,7,Indore
+1076,Kewal Kiran Clothing,4.1,Fashion & Textile,1k-5k Employees,Public,43,Indore
+1077,InCred Finance,4.0,NBFC,1k-5k Employees,Indian Unicorn,8,Ahmedabad
+1078,Religare Housing Development Finance Corporation,4.5,Financial Services,51-200 Employees,Public,31,Ahmedabad
+1079,Euro Panel Products Limited,4.4,Building Material,201-500 Employees,Public,21,Indore
+1080,Bharat Bijlee,4.3,Electrical Equipment,501-1k Employees,Public,78,Indore
+1081,Trident Group,3.5,Fashion & Textile,10k-50k Employees,Public,34,Indore
+1082,Jindal Stainless,4.3,Iron & Steel,1k-5k Employees,Public,54,Indore
+1083,Paytm Mall,3.6,Internet,501-1k Employees,Indian Unicorn,14,Indore
+1084,Furlenco,3.2,Internet,201-500 Employees,Startup,12,Indore
+1085,Housing.com,3.8,Internet,1k-5k Employees,Startup,12,Indore
+1086,NU Vista,4.2,Building Material,1k-5k Employees,Public,50,Indore
+1087,Gpt Infraprojects,4.0,Engineering & Construction,1k-5k Employees,Public,44,Indore
+1088,DCM Infotech,3.7,IT Services & Consulting,51-200 Employees,Public,31,Indore
+1089,IDBI Capital,3.5,Financial Services,51-200 Employees,Public,31,Indore
+1090,India Pistons,3.5,Auto Components,1k-5k Employees,Public,75,Indore
+1091,Teachmint,3.4,EdTech,501-1k Employees,Startup,4,Indore
+1092,V2 Retail,3.6,Retail,1k-5k Employees,Public,23,Indore
+1093,Orient Cement,4.3,Building Material,1k-5k Employees,Public,45,Indore
+1094,Saregama India,4.1,Media & Entertainment,201-500 Employees,Public,123,Indore
+1095,Apar Industries,4.1,Electrical Equipment,1k-5k Employees,Public,66,Indore
+1096,NoBroker,3.2,Internet,1k-5k Employees,Indian Unicorn,10,Indore
+1097,Sapat International,3.6,FMCG,51-200 Employees,Conglomerate,127,Indore
+1098,Condor Footwear,4.2,Fashion & Textile,51-200 Employees,Public,29,Indore
+1099,Dedicated Freight Corridor Corporation Of India,4.1,Government,501-1k Employees,Public,18,Indore
+1100,Gujarat Ambuja Exports,3.7,Agro Chemicals,1k-5k Employees,Public,33,Indore
+1101,Lumax Industries,4.0,Auto Components,1k-5k Employees,Public,79,Indore
+1102,Aglowmed,3.2,Pharma,51-200 Employees,Public,40,Indore
+1103,Mrs Bector's Food Specialities,4.0,FMCG,1k-5k Employees,Public,46,Indore
+1104,21North,3.0,Internet,501-1k Employees,Startup,9,Indore
+1105,Lido Learning,2.3,EdTech,201-500 Employees,Startup,5,Indore
+1106,Sheenlac Paints,4.6,Chemicals,501-1k Employees,Public,62,Indore
+1107,Mitsubishi Heavy Industries,4.1,Industrial Machinery,51-200 Employees,Forbes Global 2000,140,Indore
+1108,Archidply Industries,4.0,Furniture & Furnishing,501-1k Employees,Public,48,Indore
+1109,Blubirch,3.1,Internet,51-200 Employees,Startup,10,Indore
+1110,LendingKart,3.2,NBFC,1k-5k Employees,Public,10,Indore
+1111,Securitas,4.0,Law Enforcement & Security,10k-50k Employees,Forbes Global 2000,90,Indore
+1112,Godrej Tyson Food,4.3,Food Processing,201-500 Employees,Public,16,Indore
+1113,Trimble,4.2,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,46,Indore
+1114,Ginni Filaments,3.7,Fashion & Textile,1k-5k Employees,Public,34,Indore
+1115,Allcargo Logistics,3.9,Logistics,501-1k Employees,Public,31,Indore
+1116,Bpo Convergence,3.6,BPO,1k-5k Employees,Conglomerate,10,Indore
+1117,KMC Constructions,3.6,Engineering & Construction,201-500 Employees,Public,27,Indore
+1118,Rudrabhishek Enterprises,4.9,Urban Transport,201-500 Employees,Public,32,Indore
+1119,Sapiens,3.6,IT Services & Consulting,1k-5k Employees,Conglomerate,42,Indore
+1120,GIVA Jewellery,3.7,Internet,51-200 Employees,Startup,5,Indore
+1121,Aleor Dermaceuticals,3.7,Pharma,51-200 Employees,Public,8,Vadodara
+1122,Mayur Uniquoters,4.2,Leather,501-1k Employees,Public,32,Jaipur
+1123,Avadh Utopia,4.3,Hospitality,501-1k Employees (Global),Public,11,Ahmedabad
+1124,Meghmani Dyes and Intermediates,3.9,Financial Services,1k-5k Employees,Public,45,Ahmedabad
+1125,Hindustan Wellness,3.9,Healthcare,501-1k Employees,Startup,10,Indore
+1126,Testbook.com,3.7,EdTech,501-1k Employees,Startup,10,Indore
+1127,Nureca Limited,4.5,Medical Equipment,51-200 Employees,Public,8,Indore
+1128,India Infrastructure Finance Company,5.0,Financial Services,201-500 Employees,Central,12,Indore
+1129,Jenburkt Pharmaceuticals,4.3,Pharma,501-1k Employees,Public,39,Ahmedabad
+1130,IndiGrid,3.9,Real Estate,51-200 Employees,Public,8,Indore
+1131,Venture Supply Chain,4.3,Internet,201-500 Employees,Startup,10,Indore
+1132,IVP (India),4.0,Chemicals / Agri Inputs,51-200 Employees,Public,95,Indore
+1133,Aditya Birla Insurance Brokers,4.4,Insurance,201-500 Employees,Public,21,Indore
+1134,Sterlite Power,4.0,Power,1k-5k Employees,Fortune India 500,14,Indore
+1135,Securities and Exchange Board of India,4.3,Financial Services,1k-5k Employees,Public,32,Indore
+1136,Allergan,3.8,Healthcare,1k-5k Employees,Forbes Global 2000,11,Indore
+1137,MARG ERP,3.7,Accounting & Auditing,5k-10k Employees,Public,24,Indore
+1138,DCM Shriram,4.3,Chemicals,5k-10k Employees,Public,34,Indore
+1139,Unicorn DenMart,3.3,Medical Equipment,201-500 Employees,Public,30,Indore
+1140,MediBuddy,3.2,Healthcare,1k-5k Employees,Startup,11,Indore
+1141,AMD Industries,4.0,Packaging,201-500 Employees,Public,66,Indore
+1142,Red FM 93.5,4.1,Broadcasting,501-1k Employees (Global),Public,22,Indore
+1143,V.S.T Tillers Tractors,3.6,Industrial Machinery,201-500 Employees,Public,57,Indore
+1144,Ugro Capital,3.8,NBFC,1k-5k Employees,Public,31,Ahmedabad
+1145,LEAP India Private Limited,4.4,Packaging,501-1k Employees,Startup,11,Mumbai
+1146,Freshworks,3.7,Software Product,1k-5k Employees,Public,14,Indore
+1147,Nandan Petrochem,3.7,Petrochemicals,201-500 Employees,Public,32,Indore
+1148,Meghmani Dyes and Intermediates,3.9,Financial Services,1k-5k Employees,Public,45,Indore
+1149,Salesforce,4.1,Software Product,5k-10k Employees,Public,25,Indore
+1150,MINTIFI,3.6,Internet,51-200 Employees,Startup,7,Indore
+1151,Dynamic Engineering,3.5,Industrial Machinery,51-200 Employees,Public,42,Indore
+1152,Mayur Uniquoters,4.2,Leather,501-1k Employees,Public,32,Indore
+1153,Ok Play,3.6,Industrial Machinery,51-200 Employees,Public,31,Indore
+1154,Vaasist Business Solutions Limited,4.1,Accounting & Auditing,51-200 Employees,Public,8,Indore
+1155,BeatO,3.5,Fitness & Wellness,201-500 Employees,Startup,9,Indore
+1156,Jenburkt Pharmaceuticals,4.3,Pharma,501-1k Employees,Public,39,Indore
+1157,Honda Cars,4.4,Automobile,5k-10k Employees,Fortune India 500,29,Indore

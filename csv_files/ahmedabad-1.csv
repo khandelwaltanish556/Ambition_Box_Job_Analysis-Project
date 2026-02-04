@@ -1,0 +1,1236 @@
+,company_name,company_rating,industry,size,type,years_old,location
+0,Zydus Lifesciences,4.2,Pharma,10k-50k Employees,Public,72,Ahmedabad
+1,Intas Pharmaceuticals,4.2,Pharma,10k-50k Employees,Fortune India 500,47,Ahmedabad
+2,Vodafone Idea,4.2,Telecom,5k-10k Employees,Public,6,Ahmedabad
+3,TTEC India,3.8,BPO,1k-5k Employees,Public,40,Ahmedabad
+4,Cadila Pharmaceuticals,3.6,Pharma,5k-10k Employees,Public,73,Ahmedabad
+5,Torrent Pharmaceuticals,4.0,Pharma,10k-50k Employees,Public,53,Ahmedabad
+6,TCS,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,56,Ahmedabad
+7,S&P Global,4.2,Analytics & KPO,10k-50k Employees,Public,164,Ahmedabad
+8,Arvind Group,4.1,Fashion & Textile,10k-50k Employees,Public,93,Ahmedabad
+9,HDFC Bank,4.0,Banking,1 Lakh+ Employees,Public,30,Ahmedabad
+10,ICICI Bank,4.0,Banking,1 Lakh+ Employees,Public,30,Ahmedabad
+11,Torrent Power,3.8,Power,5k-10k Employees,Public,28,Ahmedabad
+12,Tech Mahindra,3.7,IT Services & Consulting,1 Lakh+ Employees,Public,38,Ahmedabad
+13,Kotak Mahindra Bank,3.9,Banking,50k-1 Lakh Employees,Public,21,Ahmedabad
+14,Adani Group,4.0,Power,10k-50k Employees,Public,36,Ahmedabad
+15,JBM Group,4.0,Auto Components,1k-5k Employees,Public,41,Ahmedabad
+16,Larsen & Toubro Limited,4.1,Engineering & Construction,10k-50k Employees,Public,86,Ahmedabad
+17,Axis Bank,3.9,Banking,50k-1 Lakh Employees,Public,31,Ahmedabad
+18,Shalby Hospitals,4.6,Healthcare,1k-5k Employees,Public,30,Ahmedabad
+19,Otsuka Pharmaceutical India Private Limited,4.2,Pharma,501-1k Employees,Forbes Global 2000,8,Ahmedabad
+20,Tata Motors,4.2,Automobile,10k-50k Employees,Public,79,Ahmedabad
+21,Electrotherm,4.2,Iron & Steel,1k-5k Employees,Public,41,Ahmedabad
+22,Jio,4.0,Telecom,50k-1 Lakh Employees,Public,6,Ahmedabad
+23,Ford Motor,4.5,Automobile,5k-10k Employees,Public,121,Ahmedabad
+24,Eris Lifesciences,3.8,Pharma,1k-5k Employees,Public,17,Ahmedabad
+25,Adani Wilmar,4.2,FMCG,1k-5k Employees,Public,25,Ahmedabad
+26,Bharti Airtel,4.1,Telecom,10k-50k Employees,Public,29,Indore
+27,Baxter International,4.1,Healthcare,1k-5k Employees,Forbes Global 2000,93,Ahmedabad
+28,Reliance Industries,4.1,Oil & Gas,1 Lakh+ Employees,Public,47,Indore
+29,Adani Green Energy,4.2,Power,1k-5k Employees,Fortune India 500,9,Indore
+30,Adani Power,3.9,Power,1k-5k Employees,Public,18,Mundra
+31,Mastek,3.7,IT Services & Consulting,1k-5k Employees,Public,42,Ahmedabad
+32,BYJU'S,3.1,EdTech,10k-50k Employees,Indian Unicorn,13,Indore
+33,IndusInd Bank,3.7,Banking,10k-50k Employees,Public,30,Indore
+34,IDFC FIRST Bank,4.0,Banking,10k-50k Employees,Public,6,Indore
+35,Nirma,4.3,FMCG,10k-50k Employees,Fortune India 500,34,Ahmedabad
+36,LendingKart,3.2,NBFC,1k-5k Employees,Public,10,Ahmedabad
+37,MAS Financial Services,3.7,Financial Services,1k-5k Employees,Public,29,Ahmedabad
+38,QX Global Group,3.4,IT Services & Consulting,1k-5k Employees,Public,21,Ahmedabad
+39,Vadilal Industries,4.1,FMCG,501-1k Employees,Public,117,Ahmedabad
+40,Sterlite Technologies,3.8,Hardware & Networking,1k-5k Employees,Public,36,Ahmedabad
+41,Cliantha Research,4.0,Clinical Research,501-1k Employees,Public,20,Ahmedabad
+42,Zydus Hospital,4.3,Healthcare,1k-5k Employees,Public,9,Ahmedabad
+43,Yes Bank,3.9,Banking,10k-50k Employees,Public,20,Ahmedabad
+44,Gtpl Hathway,4.1,Broadcasting,501-1k Employees,Public,18,Ahmedabad
+45,Zydus Wellness,3.9,FMCG,501-1k Employees,Public,36,Ahmedabad
+46,Adani Ports and SEZ,3.9,Ports & Shipping,1k-5k Employees,Public,26,Ahmedabad
+47,AU Small Finance Bank,4.4,Banking,10k-50k Employees,Fortune India 500,28,Ahmedabad
+48,Vestas,4.3,Power,1k-5k Employees,Forbes Global 2000,27,Ahmedabad
+49,Jindal Worldwide,3.5,Fashion & Textile,1k-5k Employees,Public,38,Ahmedabad
+50,CARS24,3.7,Internet,5k-10k Employees,Indian Unicorn,9,Ahmedabad
+51,DMart,4.0,Retail,10k-50k Employees,Fortune India 500,22,Ahmedabad
+52,Subros,4.0,Auto Components,1k-5k Employees,Public,39,Ahmedabad
+53,Claris Lifesciences Ahmedabad,3.1,Healthcare,1k-5k Employees,Public,25,Ahmedabad
+54,Lincoln Pharmaceuticals,3.8,Pharma,1k-5k Employees,Public,45,Ahmedabad
+55,JustDial,3.6,Internet,10k-50k Employees,Public,28,Ahmedabad
+56,L&T Construction,4.1,Engineering & Construction,5k-10k Employees,Public,80,Ahmedabad
+57,Viatris,4.2,Pharma,10k-50k Employees,Forbes Global 2000,4,Ahmedabad
+58,Concord Biotech,3.7,Pharma,501-1k Employees,Public,24,Ahmedabad
+59,Sanghi Industries,3.7,Building Material,501-1k Employees,Public,39,Ahmedabad
+60,Piramal Pharma,4.0,Pharma,1k-5k Employees,Public,36,Ahmedabad
+61,Health Care Global Enterprises,4.2,Healthcare,5k-10k Employees,Public,35,Ahmedabad
+62,Sadbhav Engineering,4.4,Engineering & Construction,1k-5k Employees,Public,36,Ahmedabad
+63,Startek,3.3,BPO,10k-50k Employees,Public,7,Ahmedabad
+64,Jana Small Finance Bank,3.9,Banking,10k-50k Employees,Public,18,Ahmedabad
+65,Aia Engineering,4.2,Industrial Machinery,1k-5k Employees,Public,45,Ahmedabad
+66,Emcure Pharmaceuticals,3.8,Pharma,5k-10k Employees,Fortune India 500,43,Ahmedabad
+67,Monte Carlo,4.2,Fashion & Textile,201-500 Employees,Public,40,Ahmedabad
+68,Asian Granito India,3.8,Building Material,1k-5k Employees,Public,24,Ahmedabad
+69,Kogta Financial India Limited,4.8,NBFC,1k-5k Employees,Public,28,Ahmedabad
+70,ICICI Prudential Life Insurance,4.1,Insurance,10k-50k Employees,Public,24,Ahmedabad
+71,Chiripal Industries,3.6,Fashion & Textile,1k-5k Employees,Public,52,Ahmedabad
+72,IIFL Finance,4.0,NBFC,10k-50k Employees,Public,29,Ahmedabad
+73,Apollo Hospitals,4.2,Healthcare,10k-50k Employees,Public,41,Ahmedabad
+74,Piramal Group,4.0,Financial Services,10k-50k Employees,Fortune India 500,44,Ahmedabad
+75,Sodexo,4.1,Facility Management Services,10k-50k Employees,Forbes Global 2000,16,Ahmedabad
+76,Abellon Clean Energy,3.7,Other,501-1k Employees,Public,16,Ahmedabad
+77,Adani Solar,4.0,Power,1k-5k Employees,Public,9,Ahmedabad
+78,Ingersoll Rand,4.3,Industrial Machinery,501-1k Employees,Public,52,Ahmedabad
+79,Sintex Industries,4.1,Industrial Machinery,5k-10k Employees,Public,93,Ahmedabad
+80,Adani Gas,3.5,Oil & Gas,501-1k Employees,Public,20,Ahmedabad
+81,HDFC Life,4.1,Insurance,10k-50k Employees,Public,24,Ahmedabad
+82,Silver Touch Technologies,3.6,IT Services & Consulting,1k-5k Employees,Public,32,Ahmedabad
+83,Indus Towers,4.0,Telecom,1k-5k Employees,Fortune India 500,17,Ahmedabad
+84,Amazon,4.1,Internet,1 Lakh+ Employees,Public,30,Ahmedabad
+85,Asian Paints,4.1,Chemicals,5k-10k Employees,Public,82,Ahmedabad
+86,Dev Information Technology,3.9,IT Services & Consulting,501-1k Employees,Public,27,Ahmedabad
+87,Samsung,4.1,Consumer Electronics & Appliances,50k-1 Lakh Employees,Public,55,Ahmedabad
+88,ICICI Lombard General Insurance Company,3.8,Insurance,10k-50k Employees,Public,23,Ahmedabad
+89,Paytm,3.5,FinTech,10k-50k Employees,Public,14,Ahmedabad
+90,Symphony,4.1,Consumer Electronics & Appliances,201-500 Employees,Public,36,Ahmedabad
+91,Delhivery,4.0,Logistics,10k-50k Employees,Fortune India 500,13,Ahmedabad
+92,Sterling Hospitals,4.0,Healthcare,1k-5k Employees,Public,23,Ahmedabad
+93,BigBasket,4.0,Internet,10k-50k Employees,Indian Unicorn,13,Ahmedabad
+94,Flipkart,4.0,Internet,10k-50k Employees,Public,17,Ahmedabad
+95,Deep Industries,3.5,Oil & Gas,1k-5k Employees,Public,33,Ahmedabad
+96,Bajaj Finserv,4.1,Financial Services,50k-1 Lakh Employees,Public,17,Ahmedabad
+97,upGrad,3.8,EdTech,5k-10k Employees,Indian Unicorn,9,Ahmedabad
+98,Wipro,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,79,Ahmedabad
+99,UltraTech Cement,4.2,Building Material,10k-50k Employees,Public,41,Ahmedabad
+100,Quess,4.0,BPO,1k-5k Employees,Public,17,Ahmedabad
+101,Meghmani Organics,3.9,Chemicals,501-1k Employees,Public,38,Ahmedabad
+102,Voltas,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,70,Ahmedabad
+103,Oil And Natural Gas Corporation,4.3,Oil & Gas,10k-50k Employees,Public,68,Ahmedabad
+104,Oyo Rooms,3.4,Hospitality,1k-5k Employees,Indian Unicorn,11,Ahmedabad
+105,Kotak Securities,3.7,Financial Services,5k-10k Employees,Conglomerate,30,Ahmedabad
+106,IBM,4.1,IT Services & Consulting,1 Lakh+ Employees,Public,113,Ahmedabad
+107,Maruti Suzuki,4.2,Automobile,10k-50k Employees,Public,43,Ahmedabad
+108,Indian Space Research Organisation,4.5,Defence & Aerospace,10k-50k Employees,Public,55,Ahmedabad
+109,Future Group,4.3,Retail,10k-50k Employees,Conglomerate,11,Ahmedabad
+110,Samvardhana Motherson Group,3.8,Auto Components,1k-5k Employees,Public,38,Ahmedabad
+111,Shapoorji Pallonji Group,4.2,Engineering & Construction,5k-10k Employees,Conglomerate,159,Ahmedabad
+112,Nandan Denim,3.3,Fashion & Textile,1k-5k Employees,Public,30,Ahmedabad
+113,JLL,4.2,Real Estate,10k-50k Employees,Forbes Global 2000,25,Ahmedabad
+114,Ratnamani Metals and Tubes,4.3,Iron & Steel,1k-5k Employees,Public,41,Ahmedabad
+115,Tata Projects,4.3,Engineering & Construction,5k-10k Employees,Public,45,Ahmedabad
+116,Teleperformance,3.8,BPO,50k-1 Lakh Employees,Forbes Global 2000,46,Ahmedabad
+117,Hyatt Regency,4.2,Hospitality,1k-5k Employees,Forbes Global 2000,44,Ahmedabad
+118,Megha Engineering & Infrastructures,4.0,Engineering & Construction,5k-10k Employees,Conglomerate,35,Ahmedabad
+119,DCB Bank,3.9,Banking,5k-10k Employees,Fortune India 500,94,Ahmedabad
+120,Dainik Bhaskar Group,4.4,Printing & Publishing,5k-10k Employees,Public,66,Ahmedabad
+121,Anup Engineering,3.3,Fashion & Textile,51-200 Employees,Public,62,Ahmedabad
+122,Indiabulls Home Loans,3.9,NBFC,5k-10k Employees,Public,19,Ahmedabad
+123,Pidilite Industries,4.4,Chemicals,5k-10k Employees,Public,65,Ahmedabad
+124,ITC,4.0,FMCG,10k-50k Employees,Public,114,Ahmedabad
+125,Gujarat Ambuja Exports,3.7,Agro Chemicals,1k-5k Employees,Public,33,Ahmedabad
+126,Equitas Small Finance Bank,4.4,Banking,10k-50k Employees,Fortune India 500,17,Ahmedabad
+127,Ashima Group,3.6,Fashion & Textile,501-1k Employees,Public,42,Ahmedabad
+128,Bank of Baroda,3.6,Banking,50k-1 Lakh Employees,Fortune India 500,116,Ahmedabad
+129,Rivigo,3.9,Internet,1k-5k Employees,Indian Unicorn,10,Ahmedabad
+130,ICICI Securities,3.8,Financial Services,1k-5k Employees,Public,29,Ahmedabad
+131,Gensol Engineering,4.3,Power,51-200 Employees,Public,17,Ahmedabad
+132,Sayaji Industries,3.7,Agro Chemicals,1k-5k Employees,Public,83,Ahmedabad
+133,Blue Dart Express,4.1,Logistics,10k-50k Employees,Public,41,Ahmedabad
+134,Finecure Pharmaceuticals,3.7,Pharma,201-500 Employees,Public,19,Ahmedabad
+135,Adani Transmission,3.9,Real Estate,501-1k Employees,Public,11,Ahmedabad
+136,Shah Alloys,3.0,Iron & Steel,1k-5k Employees,Public,34,Ahmedabad
+137,Cholamandalam Investment & Finance,4.1,NBFC,10k-50k Employees,Fortune India 500,46,Ahmedabad
+138,Ujjivan Small Finance Bank,4.1,Banking,10k-50k Employees,Public,7,Ahmedabad
+139,Stelmec,3.5,Electronics Manufacturing,501-1k Employees,Public,40,Ahmedabad
+140,LG Electronics,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,66,Ahmedabad
+141,Nestle,4.1,Food Processing,5k-10k Employees,Public,65,Ahmedabad
+142,SKF,4.0,Auto Components,1k-5k Employees,Public,101,Ahmedabad
+143,Tata Capital,4.2,NBFC,5k-10k Employees,Fortune India 500,17,Ahmedabad
+144,Cera Sanitaryware,4.3,Building Material,1k-5k Employees,Public,44,Ahmedabad
+145,Osia Hypermart,3.3,Retail,51-200 Employees,Public,10,Ahmedabad
+146,Windsor Machines,3.7,Industrial Machinery,501-1k Employees,Public,61,Ahmedabad
+147,Vistaprint,3.7,Internet,1k-5k Employees,Startup,12,Ahmedabad
+148,Bandhan Bank,3.8,Banking,50k-1 Lakh Employees,Public,23,Ahmedabad
+149,Manappuram Finance,4.0,NBFC,10k-50k Employees,Public,75,Ahmedabad
+150,State Bank of India,3.9,Banking,1 Lakh+ Employees,Fortune India 500,218,Ahmedabad
+151,Mahindra & Mahindra,4.2,Automobile,1 Lakh+ Employees,Public,79,Ahmedabad
+152,Motilal Oswal Financial Services,3.8,Financial Services,10k-50k Employees,Public,37,Ahmedabad
+153,Havells,4.1,Electrical Equipment,5k-10k Employees,Public,41,Ahmedabad
+154,Bureau Veritas,4.0,Other,1k-5k Employees,Forbes Global 2000,196,Ahmedabad
+155,Scanpoint Geomatics,3.8,IT Services & Consulting,51-200 Employees,Public,32,Ahmedabad
+156,PwC,3.6,Management Consulting,10k-50k Employees,Conglomerate,144,Ahmedabad
+157,Indian Army,4.7,Defence & Aerospace,1 Lakh+ Employees,Public,129,Ahmedabad
+158,Thermax Limited,4.2,Industrial Machinery,1k-5k Employees,Public,58,Ahmedabad
+159,InterGlobe Aviation,3.6,Aviation,10k-50k Employees,Fortune India 500,19,Ahmedabad
+160,CMS IT Services,3.2,IT Services & Consulting,5k-10k Employees,Startup,10,Ahmedabad
+161,Reliance Communications,4.0,Telecom,201-500 Employees,Public,22,Ahmedabad
+162,Procter & Gamble,4.2,FMCG,1k-5k Employees,Public,187,Ahmedabad
+163,CareEdge Ratings,2.9,Financial Services,501-1k Employees,Public,31,Ahmedabad
+164,UNO Minda,4.1,Auto Components,201-500 Employees,Fortune India 500,66,Ahmedabad
+165,Sakar Healthcare,3.6,Pharma,51-200 Employees,Public,20,Ahmedabad
+166,McDonald's,4.2,Hospitality,1k-5k Employees,Forbes Global 2000,69,Ahmedabad
+167,Tata Teleservices,4.1,Telecom,201-500 Employees,Public,28,Ahmedabad
+168,Godrej & Boyce Manufacturing,4.0,Consumer Electronics & Appliances,10k-50k Employees,Fortune India 500,127,Ahmedabad
+169,Muthoot Finance,3.6,NBFC,10k-50k Employees,Public,85,Ahmedabad
+170,V-Trans,4.1,Logistics,1k-5k Employees,Public,66,Ahmedabad
+171,Narayana Health,4.2,Healthcare,10k-50k Employees,Fortune India 500,24,Ahmedabad
+172,Brilworks,4.6,Software Product,51-200 Employees,Startup,5,Ahmedabad
+173,Blue Star,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,81,Ahmedabad
+174,Exide Industries,3.6,Auto Components,5k-10k Employees,Public,77,Ahmedabad
+175,Rushil Decor,4.2,Building Material,501-1k Employees,Public,30,Ahmedabad
+176,Secure Meters,4.1,Electronics Manufacturing,1k-5k Employees,Public,37,Ahmedabad
+177,Thomson Reuters,4.2,Software Product,5k-10k Employees,Forbes Global 2000,16,Ahmedabad
+178,Yudiz Solutions,3.7,Software Product,201-500 Employees,Public,13,Ahmedabad
+179,5Paisa Capital Limited,4.0,Financial Services,501-1k Employees,Public,9,Ahmedabad
+180,Lumax Industries,4.0,Auto Components,1k-5k Employees,Public,79,Ahmedabad
+181,Meghmani Industries,3.7,Agro Chemicals,1-10 Employees,Public,38,Ahmedabad
+182,Courtyard by Marriott,4.2,Hospitality,1k-5k Employees,Public,97,Ahmedabad
+183,Cipla,4.1,Pharma,10k-50k Employees,Public,89,Ahmedabad
+184,PVR Cinemas,4.1,Media & Entertainment,1k-5k Employees,Public,27,Ahmedabad
+185,Trent,4.1,Retail,10k-50k Employees,Public,26,Ahmedabad
+186,L&T Finance,4.0,NBFC,10k-50k Employees,Public,30,Ahmedabad
+187,Abbott,4.2,Pharma,10k-50k Employees,Public,136,Ahmedabad
+188,Kotak Mahindara Life Insurance,3.9,Insurance,10k-50k Employees,Public,23,Ahmedabad
+189,Spinny,3.9,Internet,1k-5k Employees,Indian Unicorn,9,Ahmedabad
+190,Accenture,4.0,IT Services & Consulting,1 Lakh+ Employees,Public,35,Ahmedabad
+191,Ambuja Cements,4.0,Building Material,5k-10k Employees,Public,41,Ahmedabad
+192,Atul Auto,3.9,Automobile,501-1k Employees,Public,38,Ahmedabad
+193,Kotak Mahindra Prime,4.0,NBFC,5k-10k Employees,Public,28,Ahmedabad
+194,SYSTRA,4.1,Engineering & Construction,501-1k Employees,Public,67,Ahmedabad
+195,Jubilant Foods Works,3.9,Hospitality,10k-50k Employees,Public,29,Ahmedabad
+196,USHA International,4.2,Consumer Electronics & Appliances,1k-5k Employees,Public,90,Ahmedabad
+197,Tata AutoComp Systems,3.9,Auto Components,1k-5k Employees,Public,29,Ahmedabad
+198,Bodal Chemicals,3.8,Chemicals / Agri Inputs,201-500 Employees,Public,38,Ahmedabad
+199,Sintex-bapl,3.8,Petrochemicals,501-1k Employees,Public,17,Ahmedabad
+200,Sintex-bapl,3.8,Petrochemicals,501-1k Employees,Public,17,Ahmedabad
+201,XpressBees,3.8,Logistics,5k-10k Employees,Indian Unicorn,9,Ahmedabad
+202,CBRE,4.2,Real Estate,10k-50k Employees,Forbes Global 2000,118,Ahmedabad
+203,Berger Paints,3.8,Chemicals,1k-5k Employees,Public,101,Ahmedabad
+204,Landmark Group,4.1,Retail,1k-5k Employees,Conglomerate,51,Ahmedabad
+205,Stovec Industries,3.5,Industrial Machinery,51-200 Employees,Public,51,Ahmedabad
+206,Suzuki,4.1,Automobile,10k-50k Employees,Forbes Global 2000,10,Ahmedabad
+207,Hester Biosciences,4.2,Biotechnology,201-500 Employees,Public,41,Ahmedabad
+208,Gujarat Gas,4.1,Oil & Gas,1k-5k Employees,Public,44,Ahmedabad
+209,Team Lease,4.0,Recruitment,1k-5k Employees,Public,8,Ahmedabad
+210,Riddhi Corporate Services,3.9,IT Services & Consulting,11-50 Employees,Public,14,Ahmedabad
+211,Gujarat Heavy Chemicals,4.0,Chemicals,1k-5k Employees,Public,41,Ahmedabad
+212,Crowne Plaza,4.1,Hospitality,501-1k Employees,Public,41,Ahmedabad
+213,Domino's Pizza,4.0,Hospitality,1k-5k Employees,Public,64,Ahmedabad
+214,Poonawalla Fincorp,3.9,NBFC,1k-5k Employees,Public,36,Ahmedabad
+215,Inox Wind,3.7,Power,501-1k Employees,Public,15,Ahmedabad
+216,JK Cement,4.2,Building Material,1k-5k Employees,Public,49,Ahmedabad
+217,Spicejet,3.5,Aviation,5k-10k Employees,Public,20,Ahmedabad
+218,IDBI Bank,3.7,Banking,10k-50k Employees,Public,60,Ahmedabad
+219,Godfrey Phillips India,4.1,FMCG,501-1k Employees,Public,91,Ahmedabad
+220,Titan Company,4.4,Retail,5k-10k Employees,Public,40,Ahmedabad
+221,Godfrey Phillips India,4.1,FMCG,501-1k Employees,Public,91,Ahmedabad
+222,IDBI Bank,3.7,Banking,10k-50k Employees,Public,60,Ahmedabad
+223,Inox Wind,3.7,Power,501-1k Employees,Public,15,Ahmedabad
+224,Titan Company,4.4,Retail,5k-10k Employees,Public,40,Ahmedabad
+225,Wipro Infotech,4.0,IT Services & Consulting,1 Lakh+ Employees (Global),MNC,79,Ahmedabad
+226,RBL Bank,3.8,Banking,10k-50k Employees,Public,81,Ahmedabad
+227,Airan Consultant,4.1,IT Services & Consulting,51-200 Employees,Public,29,Ahmedabad
+228,Kalpataru Power Transmission,4.2,Engineering & Construction,1k-5k Employees,Public,43,Ahmedabad
+229,R for Rabbit Baby Products,4.5,Internet,11-50 Employees,Startup,10,Ahmedabad
+230,CenturyPly,4.0,Furniture & Furnishing,1k-5k Employees,Public,38,Ahmedabad
+231,Varun Beverages,4.1,Beverage,5k-10k Employees,Public,29,Ahmedabad
+232,Dangee Dums,3.6,FMCG,51-200 Employees,Public,13,Ahmedabad
+233,Fiem Industries,3.8,Auto Components,501-1k Employees,Public,35,Ahmedabad
+234,Aavas Financiers,4.0,Financial Services,5k-10k Employees,Public,13,Ahmedabad
+235,JK Lakshmi Cement,3.9,Building Material,1k-5k Employees,Public,42,Ahmedabad
+236,Lenskart,3.3,Internet,5k-10k Employees,Indian Unicorn,14,Ahmedabad
+237,Ashok Leyland,4.1,Automobile,5k-10k Employees,Public,76,Ahmedabad
+238,Somany Ceramics,4.3,Building Material,1k-5k Employees,Public,56,Ahmedabad
+239,Electronica Finance,4.2,NBFC,1k-5k Employees,Public,34,Ahmedabad
+240,Ice Make Refrigeration,4.2,Electrical Equipment,501-1k Employees,Public,31,Ahmedabad
+241,Bank of America,4.4,Banking,10k-50k Employees,Fortune India 500,26,Ahmedabad
+242,ElasticRun,3.4,Logistics,1k-5k Employees,Indian Unicorn,8,Ahmedabad
+243,SYSKA LED Lights,2.9,Consumer Electronics & Appliances,1k-5k Employees (Global),Startup,12,Ahmedabad
+244,ITC Hotels,4.2,Hospitality,5k-10k Employees,Public,49,Ahmedabad
+245,Agrostar,4.0,Internet,1k-5k Employees,Startup,11,Ahmedabad
+246,Gabriel India,4.2,Auto Components,1k-5k Employees,Public,63,Ahmedabad
+247,Dharmaj Crop Guard,4.4,Agro Chemicals,501-1k Employees,Public,9,Ahmedabad
+248,Swiggy,3.9,Internet,5k-10k Employees,Indian Unicorn,10,Ahmedabad
+249,Shriram Finance,4.1,NBFC,50k-1 Lakh Employees,Public,45,Ahmedabad
+250,Toyota Tsusho,4.0,Metals & Mining,501-1k Employees,Public,25,Ahmedabad
+251,Capri Global Capital,3.7,NBFC,1k-5k Employees,Public,27,Ahmedabad
+252,Uflex,3.8,Packaging,5k-10k Employees,Public,39,Ahmedabad
+253,LivSpace,3.5,Architecture & Interior Design,1k-5k Employees,Indian Unicorn,9,Ahmedabad
+254,Hindustan Unilever,4.3,FMCG,10k-50k Employees,Public,152,Ahmedabad
+255,Reliance SMSL,4.0,BPO,1k-5k Employees,Public,17,Ahmedabad
+256,Sharekhan,4.0,Financial Services,1k-5k Employees,Public,24,Ahmedabad
+257,Blinkit,3.9,Internet,1k-5k Employees,Indian Unicorn,11,Ahmedabad
+258,Metro Cash & Carry,4.3,Retail,1k-5k Employees,Forbes Global 2000,21,Ahmedabad
+259,Aarvee Denims & Exports,3.9,Fashion & Textile,1k-5k Employees,Public,36,Ahmedabad
+260,Life Insurance Corporation of India,4.4,Insurance,1 Lakh+ Employees,Fortune India 500,68,Ahmedabad
+261,Meghmani Dyes and Intermediates,3.9,Financial Services,1k-5k Employees,Public,45,Ahmedabad
+262,Moglix,3.6,Internet,501-1k Employees,Indian Unicorn,9,Ahmedabad
+263,Future Retail,4.3,Retail,10k-50k Employees,Public,37,Ahmedabad
+264,Tech Mahindra Business Services,3.5,BPO,5k-10k Employees,Public,21,Ahmedabad
+265,Aditya Birla Fashion and Retail,4.2,Fashion & Textile,10k-50k Employees,Fortune India 500,36,Indore
+266,Ppap Automotive,3.7,Auto Components,1k-5k Employees,Public,46,Noida
+267,Pantaloons,4.2,Fashion & Textile,5k-10k Employees,Public,27,Indore
+268,Bosch,4.3,Auto Components,5k-10k Employees,Public,138,Ahmedabad
+269,Simplex Infrastructures,3.3,Engineering & Construction,1k-5k Employees,Public,100,Ahmedabad
+270,Tata Chemicals,4.2,Chemicals,1k-5k Employees,Public,85,Ahmedabad
+271,V-Guard Industries,4.4,Consumer Electronics & Appliances,1k-5k Employees,Public,47,Ahmedabad
+272,Beardo,4.6,Beauty & Personal Care,51-200 Employees,Startup,9,Ahmedabad
+273,HDFC Ergo General Insurance,4.0,Insurance,10k-50k Employees,Public,22,Ahmedabad
+274,Indian Oil Corporation,4.4,Oil & Gas,10k-50k Employees,Fortune India 500,65,Ahmedabad
+275,Shoppers Stop,4.1,Retail,5k-10k Employees,Public,33,Ahmedabad
+276,Bajaj Electricals,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,86,Ahmedabad
+277,TVS Credit,4.5,NBFC,10k-50k Employees,Public,16,Ahmedabad
+278,Baroda Global Shared Services,4.0,Banking,10k-50k Employees,Public,7,Ahmedabad
+279,You Broadband,3.7,Telecom,1k-5k Employees,Public,23,Ahmedabad
+280,IFB,3.7,Consumer Electronics & Appliances,201-500 Employees,Public,50,Ahmedabad
+281,Marico,4.1,FMCG,1k-5k Employees,Public,36,Ahmedabad
+282,IFB,3.7,Consumer Electronics & Appliances,201-500 Employees,Public,50,Ahmedabad
+283,You Broadband,3.7,Telecom,1k-5k Employees,Public,23,Ahmedabad
+284,Endurance Technologies,3.9,Auto Components,1k-5k Employees,Public,39,Ahmedabad
+285,Adjavis Venture,3.4,Beauty & Personal Care,501-1k Employees,Public,11,Ahmedabad
+286,Standard Chartered,3.9,Banking,10k-50k Employees,Fortune India 500,171,Ahmedabad
+287,Honda,4.2,Automobile,10k-50k Employees,Forbes Global 2000,39,Ahmedabad
+288,Colgate Palmolive,4.2,FMCG,1k-5k Employees,Public,87,Ahmedabad
+289,TVS Motor,4.1,Automobile,5k-10k Employees,Public,45,Ahmedabad
+290,Dabur,3.8,FMCG,5k-10k Employees,Public,140,Ahmedabad
+291,Arman Financial Services,3.9,NBFC,51-200 Employees,Public,32,Ahmedabad
+292,Physicswallah,3.8,EdTech,10k-50k Employees,Indian Unicorn,5,Ahmedabad
+293,Sun Pharmaceutical Industries,4.1,Pharma,10k-50k Employees,Public,41,Ahmedabad
+294,Ensight Business Solutions,4.6,IT Services & Consulting,201-500 Employees,Startup,12,Ahmedabad
+295,SSTECH SYSTEM PVT.LTD,4.4,Software Product,11-50 Employees,MNC,13,Ahmedabad
+296,Telenor,4.5,Telecom,501-1k Employees,Forbes Global 2000,15,Ahmedabad
+297,3M,4.3,Electronics Manufacturing,1k-5k Employees,Public,37,Ahmedabad
+298,Nayara Energy,4.3,Petrochemicals,1k-5k Employees,Fortune India 500,35,Ahmedabad
+299,Vivo,4.1,Consumer Electronics & Appliances,5k-10k Employees,Conglomerate,15,Ahmedabad
+300,OPPO,4.0,Consumer Electronics & Appliances,10k-50k Employees,Public,20,Ahmedabad
+301,SMC,3.9,Medical Equipment,201-500 Employees,Forbes Global 2000,36,Ahmedabad
+302,Magna International,4.0,Auto Components,501-1k Employees,Public,67,Ahmedabad
+303,GMM Pfaudler,4.0,Industrial Machinery,501-1k Employees,Public,62,Ahmedabad
+304,Laxcon Steels,3.5,Metals & Mining,501-1k Employees,Public,46,Ahmedabad
+305,Tractors and Farm Equipment,4.1,Industrial Machinery,10k-50k Employees,Public,64,Ahmedabad
+306,Online PSB Loans,3.8,Internet,11-50 Employees,Startup,6,Ahmedabad
+307,TGB Banquets and Hotels,4.2,Hospitality,201-500 Employees,Public,35,Ahmedabad
+308,Godrej Properties,3.7,Real Estate,1k-5k Employees,Public,34,Ahmedabad
+309,KONE,4.3,Industrial Machinery,5k-10k Employees,Forbes Global 2000,114,Ahmedabad
+310,Unicharm,4.2,Beauty & Personal Care,1k-5k Employees,Forbes Global 2000,63,Ahmedabad
+311,Hyundai Motor India Limited,4.4,Automobile,10k-50k Employees,Fortune India 500,57,Ahmedabad
+312,Hitachi,4.1,Industrial Machinery,10k-50k Employees,Forbes Global 2000,114,Ahmedabad
+313,Kraft Heinz Company,4.2,Food Processing,501-1k Employees,Forbes Global 2000,30,Ahmedabad
+314,Johnson Controls,3.7,Industrial Automation,5k-10k Employees,Public,139,Ahmedabad
+315,Mankind Pharma,4.1,Pharma,10k-50k Employees,Fortune India 500,29,Ahmedabad
+316,Edelweiss,3.8,Financial Services,1k-5k Employees,Public,7,Ahmedabad
+317,Alkem Laboratories,4.0,Pharma,10k-50k Employees,Public,51,Ahmedabad
+318,Lupin,4.1,Pharma,1k-5k Employees,Public,56,Ahmedabad
+319,Daikin,4.2,Consumer Electronics & Appliances,1k-5k Employees,Fortune India 500,24,Ahmedabad
+320,ShopKirana,3.8,Software Product,501-1k Employees,Startup,10,Ahmedabad
+321,NoBroker,3.2,Internet,1k-5k Employees,Indian Unicorn,10,Ahmedabad
+322,Marriott International,4.3,Hospitality,10k-50k Employees,Forbes Global 2000,97,Ahmedabad
+323,Patels Airtemp (India),4.4,Industrial Machinery,501-1k Employees,Public,51,Ahmedabad
+324,Gokul Agro Resources,3.7,FMCG,1k-5k Employees,Public,10,Ahmedabad
+325,DealShare,3.5,Internet,1k-5k Employees,Indian Unicorn,6,Ahmedabad
+326,Siemens,4.2,Industrial Automation,5k-10k Employees,Public,177,Ahmedabad
+327,Ericsson,4.3,Telecom,10k-50k Employees,Forbes Global 2000,148,Ahmedabad
+328,PhonePe,4.1,FinTech,5k-10k Employees,Indian Unicorn,9,Ahmedabad
+329,Panasonic,4.1,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,106,Ahmedabad
+330,DHL Express,4.1,Logistics,1k-5k Employees,Conglomerate,45,Ahmedabad
+331,Saarthi Pedagogy,4.0,EdTech,11-50 Employees,Startup,6,Ahmedabad
+332,USV,4.1,Pharma,1k-5k Employees,Fortune India 500,63,Ahmedabad
+333,Muthoot Fincorp,4.1,NBFC,10k-50k Employees,Conglomerate,137,Ahmedabad
+334,HCL Infosystems,4.1,IT Services & Consulting,51-200 Employees,Public,48,Ahmedabad
+335,Steel Strips Wheels,3.8,Auto Components,1k-5k Employees,Public,33,Ahmedabad
+336,Safexpress,4.1,Logistics,1k-5k Employees,Conglomerate,27,Ahmedabad
+337,Kiri Industries,4.1,Chemicals,1k-5k Employees,Public,26,Ahmedabad
+338,FirstCry,3.8,Retail,1k-5k Employees,Indian Unicorn,14,Ahmedabad
+339,Lohia Group,3.7,Industrial Machinery,1k-5k Employees,Public,48,Ahmedabad
+340,Macleods Pharmaceuticals,3.8,Pharma,10k-50k Employees,Public,38,Ahmedabad
+341,Zomato,3.8,Internet,1k-5k Employees,Public,16,Ahmedabad
+342,GlaxoSmithKline Pharmaceuticals,4.2,Pharma,1k-5k Employees,Fortune India 500,194,Ahmedabad
+343,Escorts Kubota Limited,4.1,Automobile,1k-5k Employees,Public,80,Ahmedabad
+344,Alembic Pharmaceuticals,4.1,Pharma,10k-50k Employees,Public,117,Ahmedabad
+345,JMC Projects,4.2,Engineering & Construction,1k-5k Employees,Public,42,Ahmedabad
+346,Nilkamal,3.9,Furniture & Furnishing,1k-5k Employees,Public,43,Ahmedabad
+347,VRL Logistics,4.0,Logistics,10k-50k Employees,Public,41,Ahmedabad
+348,Coca-Cola Company,4.3,Beverage,5k-10k Employees,Forbes Global 2000,138,Ahmedabad
+349,Polycab Wires,4.1,Electrical Equipment,1k-5k Employees,Fortune India 500,28,Ahmedabad
+350,VRL Logistics,4.0,Logistics,10k-50k Employees,Public,41,Ahmedabad
+351,Adecco Group,3.8,Recruitment,1k-5k Employees,Forbes Global 2000,25,Ahmedabad
+352,Nuvoco Vistas,4.2,Building Material,1k-5k Employees,Fortune India 500,25,Ahmedabad
+353,Apollo Tyres,4.1,Auto Components,5k-10k Employees,Public,52,Ahmedabad
+354,NewsReach,3.7,Internet,11-50 Employees,Startup,6,Ahmedabad
+355,Cummins,4.4,Industrial Machinery,1k-5k Employees,Fortune India 500,105,Ahmedabad
+356,Dr. Reddy's,4.2,Pharma,10k-50k Employees,Public,40,Ahmedabad
+357,Suzlon Group,4.2,Power,5k-10k Employees,Public,29,Ahmedabad
+358,Tata Communications,4.1,Telecom,5k-10k Employees,Public,38,Ahmedabad
+359,myGate,3.3,Law Enforcement & Security,1k-5k Employees,Startup,8,Ahmedabad
+360,Karur Vysya Bank,3.7,Banking,5k-10k Employees,Public,108,Ahmedabad
+361,ABC,4.0,Broadcasting,1k-5k Employees (Global),Public,81,Ahmedabad
+362,ACC,4.0,Building Material,5k-10k Employees,Public,88,Ahmedabad
+363,Mitsubishi Electric,4.2,Electronics Manufacturing,501-1k Employees,Forbes Global 2000,103,Ahmedabad
+364,Tenneco,3.8,Auto Components,1k-5k Employees,Forbes Global 2000,84,Ahmedabad
+365,Sandesh,3.3,Printing & Publishing,1k-5k Employees,Public,101,Ahmedabad
+366,Ola Cabs,3.5,Internet,1k-5k Employees,Indian Unicorn,14,Ahmedabad
+367,Kirloskar Brothers,4.1,Industrial Machinery,1k-5k Employees,Public,136,Ahmedabad
+368,ManpowerGroup,3.9,Recruitment,50k-1 Lakh Employees,Forbes Global 2000,29,Ahmedabad
+369,Karur Vysya Bank,3.7,Banking,5k-10k Employees,Public,108,Ahmedabad
+370,Sahajanand Laser Technology,3.7,Industrial Machinery,501-1k Employees,Public,35,Ahmedabad
+371,Navneet Education,3.9,Printing & Publishing,501-1k Employees,Public,65,Ahmedabad
+372,PharmEasy,3.7,Internet,1k-5k Employees,Indian Unicorn,9,Ahmedabad
+373,PharmEasy,3.7,Internet,1k-5k Employees,Indian Unicorn,9,Ahmedabad
+374,Mahindra Logistics,4.1,Logistics,1k-5k Employees,Public,24,Ahmedabad
+375,HCLTech,3.7,IT Services & Consulting,1 Lakh+ Employees,Public,33,Ahmedabad
+376,Sony,4.3,Consumer Electronics & Appliances,1k-5k Employees,Public,30,Ahmedabad
+377,Aglowid IT Solutions,4.9,IT Services & Consulting,11-50 Employees,Startup,6,Ahmedabad
+378,Aglowid IT Solutions,4.9,IT Services & Consulting,11-50 Employees,Startup,6,Ahmedabad
+379,Aditya Birla Capital,4.0,Financial Services,10k-50k Employees,Public,7,Ahmedabad
+380,Adient,3.9,Auto Components,501-1k Employees,Forbes Global 2000,28,Ahmedabad
+381,Reliance Trends,4.4,Retail,1 Lakh+ Employees,Conglomerate,18,Ahmedabad
+382,Silicon Signals,5.0,Software Product,11-50 Employees,Startup,3,Ahmedabad
+383,Aavatto,4.9,Software Product,11-50 Employees,Startup,3,Ahmedabad
+384,Nippon Paint India,4.1,Chemicals,1k-5k Employees,Forbes Global 2000,143,Ahmedabad
+385,TCI Express,3.9,Logistics,1k-5k Employees,Public,28,Ahmedabad
+386,Schneider Electric,4.2,Industrial Automation,10k-50k Employees,Forbes Global 2000,25,Ahmedabad
+387,Infomatic Solutions,3.9,BPO,51-200 Employees,MNC,14,Ahmedabad
+388,Jade Blue Lifestyle,3.8,Retail,1k-5k Employees,Public,29,Ahmedabad
+389,PepsiCo,4.2,Food Processing,1 Lakh+ Employees,Public,59,Ahmedabad
+390,KEC International,4.1,Engineering & Construction,5k-10k Employees,Public,79,Ahmedabad
+391,Swan Energy,3.8,Fashion & Textile,201-500 Employees,Public,115,Ahmedabad
+392,Randstad,3.9,Recruitment,5k-10k Employees,Conglomerate,32,Ahmedabad
+393,Indian Railways,4.2,Railways,1 Lakh+ Employees,Central,171,Ahmedabad
+394,TTK Prestige,4.0,Consumer Electronics & Appliances,1k-5k Employees,Public,69,Ahmedabad
+395,Welspun World,3.8,Building Material,1k-5k Employees,Public,39,Ahmedabad
+396,Allied Digital Services,3.5,IT Services & Consulting,1k-5k Employees,Public,29,Ahmedabad
+397,Sobha,4.0,Real Estate,1k-5k Employees,Public,29,Ahmedabad
+398,JNS Instruments,3.9,Industrial Machinery,501-1k Employees,Public,23,Ahmedabad
+399,Lemon Tree Hotels,4.2,Hospitality,5k-10k Employees,Public,22,Ahmedabad
+400,Shree Rama Multi-Tech,3.5,Petrochemicals,501-1k Employees,Public,37,Ahmedabad
+401,Bharat Sanchar Nigam,4.0,Telecom,50k-1 Lakh Employees,Central,24,Ahmedabad
+402,Aditya Birla Group,4.1,Building Material,1 Lakh+ Employees,Conglomerate,167,Ahmedabad
+403,Control Print,3.9,Consumer Electronics & Appliances,501-1k Employees,Public,33,Ahmedabad
+404,Mahindra Rural Housing Finance,4.1,NBFC,10k-50k Employees,Public,17,Ahmedabad
+405,Mahindra Finance,4.3,NBFC,10k-50k Employees,Public,33,Mumbai
+406,Pine Labs,3.7,FinTech,1k-5k Employees,Indian Unicorn,26,Noida
+407,SAL STEEL,3.5,Iron & Steel,201-500 Employees,Public,21,Gurgaon/Gurugram
+408,Tata Group,4.3,IT Services & Consulting,1 Lakh+ Employees,Conglomerate,156,Mumbai
+409,IQVIA,4.0,Clinical Research,10k-50k Employees,Forbes Global 2000,42,Durham
+410,CMR Green Technologies,3.9,Metals & Mining,1k-5k Employees,Public,18,Ahmedabad
+411,Digit Insurance,4.0,Insurance,1k-5k Employees,Fortune India 500,8,Ahmedabad
+412,Welspun,4.1,Fashion & Textile,10k-50k Employees,Fortune India 500,39,Ahmedabad
+413,Astron Research,4.3,Clinical Research,1k-5k Employees,Public,23,Ahmedabad
+414,Central Institute of Plastics Engineering & Technology,3.9,Education & Training,51-200 Employees,Public,56,Ahmedabad
+415,Reliance Home Finance,4.5,NBFC,501-1k Employees,Public,16,Ahmedabad
+416,Government of Gujarat,3.4,Government,11-50 Employees,Public,64,Ahmedabad
+417,Plastene,4.0,Packaging,501-1k Employees,Public,26,Ahmedabad
+418,VIP Industries,4.0,Retail,1k-5k Employees,Public,53,Ahmedabad
+419,Big Bazaar,4.3,Retail,10k-50k Employees,Conglomerate,23,Ahmedabad
+420,Toppr,3.4,EdTech,1k-5k Employees,Startup,11,Ahmedabad
+421,Centre for Environment Education,4.1,Financial Services,201-500 Employees,Public,40,Ahmedabad
+422,Government of Gujarat,3.4,Government,11-50 Employees,Public,64,Ahmedabad
+423,Housing.com,3.8,Internet,1k-5k Employees,Startup,12,Ahmedabad
+424,Bank of India,4.0,Banking,50k-1 Lakh Employees,Fortune India 500,118,Ahmedabad
+425,Transport Corporation Of India,4.1,Logistics,1k-5k Employees,Public,66,Ahmedabad
+426,Gsrtc,4.4,Urban Transport,201-500 Employees,Public,64,Ahmedabad
+427,Club Oxygen,4.2,Hospitality,201-500 Employees,Public,6,Ahmedabad
+428,Big Bazaar,4.3,Retail,10k-50k Employees,Conglomerate,23,Ahmedabad
+429,Tata Power Solar,4.3,Power,1k-5k Employees,Public,35,Ahmedabad
+430,Valeo,4.1,Auto Components,5k-10k Employees,Forbes Global 2000,101,Ahmedabad
+431,Easy Pay,4.3,Internet,51-200 Employees,Startup,10,Ahmedabad
+432,Johnson & Johnson,4.2,Pharma,1k-5k Employees,Forbes Global 2000,67,Ahmedabad
+433,Thomas Cook,3.9,Travel & Tourism,1k-5k Employees,Public,143,Ahmedabad
+434,Federal Bank,3.9,Banking,10k-50k Employees,Public,93,Ahmedabad
+435,Marwadi Shares & Finance,4.3,Financial Services,501-1k Employees,Public,32,Ahmedabad
+436,G R Infraprojects,4.2,Engineering & Construction,10k-50k Employees,Public,29,Ahmedabad
+437,Embibe,3.7,EdTech,1k-5k Employees,Startup,12,Ahmedabad
+438,Lifestyle,4.4,Retail,10k-50k Employees,Fortune India 500,25,Ahmedabad
+439,G R Infraprojects,4.2,Engineering & Construction,10k-50k Employees,Public,29,Ahmedabad
+440,Thomas Cook,3.9,Travel & Tourism,1k-5k Employees,Public,143,Ahmedabad
+441,Marwadi Shares & Finance,4.3,Financial Services,501-1k Employees,Public,32,Ahmedabad
+442,Srei Equipment Finance,4.5,Financial Services,1k-5k Employees,Public,35,Ahmedabad
+443,Texel Industries,3.6,Agriculture,51-200 Employees,Public,35,Ahmedabad
+444,Federal Bank,3.9,Banking,10k-50k Employees,Public,93,Ahmedabad
+445,Chandresh Cables,3.1,Electrical Equipment,11-50 Employees,Public,38,Ahmedabad
+446,Tata Motors Finance,4.2,NBFC,1k-5k Employees,Conglomerate,67,Ahmedabad
+447,Avanse Financial Services,4.0,Financial Services,501-1k Employees,Startup,12,Mumbai
+448,Glenmark Pharmaceuticals,4.0,Pharma,10k-50k Employees,Public,47,Mumbai
+449,Meesho,3.7,Internet,5k-10k Employees,Indian Unicorn,9,Bangalore
+450,Nokia,4.2,Telecom,10k-50k Employees,Forbes Global 2000,159,Greater
+451,Tata Steel,4.2,Iron & Steel,1 Lakh+ Employees,Public,117,Greater
+452,Infibeam,3.1,FinTech,501-1k Employees,Public,17,Ahmedabad
+453,Aakash Exploration Services,4.6,Oil & Gas,11-50 Employees,Public,17,Ahmedabad
+454,Nila Infrastructures,4.3,Real Estate,51-200 Employees,Public,34,Ahmedabad
+455,SalesHandy,3.2,Software Product,51-200 Employees,Startup,9,Ahmedabad
+456,Simptel,5.0,Software Product,1-10 Employees,Startup,5,Ahmedabad
+457,CG Power and Industrial Solutions,3.9,Electrical Equipment,1k-5k Employees,Public,87,Ahmedabad
+458,JM Financial,3.8,Financial Services,1k-5k Employees,Public,40,Ahmedabad
+459,EPL Limited,4.0,Packaging,1k-5k Employees,Public,40,Ahmedabad
+460,Wapcos,3.6,Engineering & Construction,1k-5k Employees,State,55,Ahmedabad
+461,Ajanta Pharma,4.1,Pharma,5k-10k Employees,Public,51,Ahmedabad
+462,Xiaomi,3.9,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,14,Ahmedabad
+463,Railtel Corporation Of India,3.9,Hardware & Networking,1k-5k Employees,Public,24,Ahmedabad
+464,VOIS Call Center,3.9,Telecom,50k-1 Lakh Employees (Global),Public,42,Ahmedabad
+465,Sterling Holiday Resort,3.9,Hospitality,1k-5k Employees,Public,38,Ahmedabad
+466,Nykaa,3.5,Internet,1k-5k Employees,Public,12,Ahmedabad
+467,V.S.T Tillers Tractors,3.6,Industrial Machinery,201-500 Employees,Public,57,Ahmedabad
+468,Urban Company,3.6,Internet,1k-5k Employees,Indian Unicorn,9,Ahmedabad
+469,MakeMyTrip,3.7,Internet,5k-10k Employees,Public,24,Ahmedabad
+470,Satin Creditcare Network,4.1,NBFC,5k-10k Employees,Public,34,Ahmedabad
+471,ITD Cementation India,4.3,Engineering & Construction,1k-5k Employees,Public,93,Ahmedabad
+472,Nitco,4.3,Building Material,1k-5k Employees,Public,71,Ahmedabad
+473,Ajanta Pharma,4.1,Pharma,5k-10k Employees,Public,51,Ahmedabad
+474,EPL Limited,4.0,Packaging,1k-5k Employees,Public,40,Ahmedabad
+475,DIC India,4.2,Chemicals,501-1k Employees,Public,77,Ahmedabad
+476,DP World,4.1,Logistics,1k-5k Employees,Public,19,Ahmedabad
+477,Medlife,3.7,Internet,1k-5k Employees,Startup,10,Ahmedabad
+478,Railtel Corporation Of India,3.9,Hardware & Networking,1k-5k Employees,Public,24,Ahmedabad
+479,Nykaa,3.5,Internet,1k-5k Employees,Public,12,Ahmedabad
+480,V.S.T Tillers Tractors,3.6,Industrial Machinery,201-500 Employees,Public,57,Ahmedabad
+481,Asahi India Glass,3.9,Auto Components,1k-5k Employees,Public,40,Ahmedabad
+482,Greenlam Industries,4.2,Building Material,1k-5k Employees,Public,11,Ahmedabad
+483,Shott Amusement Limited,4.4,Media & Entertainment,201-500 Employees,Public,9,Ahmedabad
+484,Shott Amusement Limited,4.4,Media & Entertainment,201-500 Employees,Public,9,Ahmedabad
+485,Infra.Market,4.2,Building Material,1k-5k Employees,Indian Unicorn,8,Ahmedabad
+486,Schoolnet India,3.8,EdTech,51-200 Employees,Public,27,Ahmedabad
+487,Schoolnet India,3.8,EdTech,51-200 Employees,Public,27,Ahmedabad
+488,Crisil,3.7,Financial Services,1k-5k Employees,Public,37,Ahmedabad
+489,Info Edge,4.0,Internet,5k-10k Employees,Public,29,Ahmedabad
+490,CNH,4.2,Automobile,1k-5k Employees,Public,11,Ahmedabad
+491,Globe Capital Market,3.6,Investment Banking / Venture Capital / Private Equity,1k-5k Employees,Public,40,Ahmedabad
+492,Ashoka Buildcon,4.1,Engineering & Construction,1k-5k Employees,Public,48,Ahmedabad
+493,Sambhaav Media,3.6,Printing & Publishing,51-200 Employees,Public,34,Ahmedabad
+494,CarDekho,3.7,Internet,1k-5k Employees,Indian Unicorn,16,Ahmedabad
+495,RITES,4.0,Engineering & Construction,1k-5k Employees,Central,50,Ahmedabad
+496,Swaraj Tractors,4.2,Automobile,1k-5k Employees,Conglomerate,62,Ahmedabad
+497,Apple,4.3,Consumer Electronics & Appliances,10k-50k Employees,Forbes Global 2000,48,Ahmedabad
+498,Utkarsh Small Finance Bank,3.9,Banking,10k-50k Employees,Public,15,Ahmedabad
+499,Nuziveedu Seeds,4.2,Agriculture,1k-5k Employees,Public,51,Ahmedabad
+500,Elecon Engineering,4.2,Electrical Equipment,501-1k Employees,Public,73,Ahmedabad
+501,CIEL HR,4.1,Recruitment,1k-5k Employees,Startup,9,Ahmedabad
+502,Mercedes-Benz Research & Development India,4.0,IT Services & Consulting,5k-10k Employees,Public,28,Ahmedabad
+503,CarDekho,3.7,Internet,1k-5k Employees,Indian Unicorn,16,Ahmedabad
+504,FDC,4.1,Pharma,5k-10k Employees,Public,84,Ahmedabad
+505,Kirloskar Oil Engines,4.2,Industrial Machinery,1k-5k Employees,Public,78,Ahmedabad
+506,Kajima India,4.1,Engineering & Construction,51-200 Employees,Forbes Global 2000,13,Ahmedabad
+507,Dhanuka Agritech,3.9,Agro Chemicals,1k-5k Employees,Public,42,Ahmedabad
+508,Swaraj Tractors,4.2,Automobile,1k-5k Employees,Conglomerate,62,Ahmedabad
+509,Focus Lighting and Fixtures Limited,4.5,Electronics Manufacturing,51-200 Employees,Public,19,Ahmedabad
+510,RITES,4.0,Engineering & Construction,1k-5k Employees,Central,50,Ahmedabad
+511,Apple,4.3,Consumer Electronics & Appliances,10k-50k Employees,Forbes Global 2000,48,Ahmedabad
+512,Nippon Life India Asset Management,4.7,Financial Services,1k-5k Employees,Public,29,Ahmedabad
+513,Tata Technologies,3.8,Engineering & Construction,5k-10k Employees,Conglomerate,35,Ahmedabad
+514,Tata Power,4.0,Power,10k-50k Employees,Public,109,Ahmedabad
+515,Patanjali Foods,4.0,FMCG,5k-10k Employees,Public,38,Ahmedabad
+516,Amara Raja Group,4.2,Auto Components,5k-10k Employees,Public,39,Ahmedabad
+517,Security and Intelligence Services (India),4.1,Law Enforcement & Security,1 Lakh+ Employees,Public,39,Ahmedabad
+518,Onward Technologies Inc,3.2,Software Product,1k-5k Employees,Public,33,Ahmedabad
+519,Jyoti Resins And Adhesives,4.1,Chemicals / Agri Inputs,51-200 Employees,Public,31,Ahmedabad
+520,Schwing Stetter,4.1,Industrial Machinery,1k-5k Employees,Fortune India 500,26,Ahmedabad
+521,VLCC,3.7,Beauty & Personal Care,1k-5k Employees,Conglomerate,35,Ahmedabad
+522,SK Finance Limited,4.1,NBFC,10k-50k Employees,Public,30,Ahmedabad
+523,Nagarjuna Construction Company,4.2,Engineering & Construction,5k-10k Employees,Public,26,Ahmedabad
+524,Smytten,3.3,Internet,51-200 Employees,Startup,9,Gurgaon
+525,RR kabel,4.2,Electrical Equipment,1k-5k Employees,Public,29,Mumbai
+526,Stanza Living,3.1,Internet,501-1k Employees,Startup,7,Delhi
+527,PNB Housing Finance,3.9,Financial Services,1k-5k Employees,Public,36,Ahmedabad
+528,Deutsche Bank,4.0,Banking,10k-50k Employees,Fortune India 500,154,Ahmedabad
+529,Amara Raja Energy & Mobility,4.3,Auto Components,5k-10k Employees,Fortune India 500,39,Ahmedabad
+530,UPL,4.2,Agro Chemicals,5k-10k Employees,Public,55,Ahmedabad
+531,PropTiger.com,4.2,Internet,1k-5k Employees,Startup,13,Ahmedabad
+532,Denis Chem Lab,4.4,Pharma,51-200 Employees,Public,44,Ahmedabad
+533,Latteys Industries,3.9,Industrial Machinery,51-200 Employees,Public,20,Ahmedabad
+534,Bloom Dekor,2.9,Furniture & Furnishing,51-200 Employees,Public,30,Ahmedabad
+535,MEASUREONE SOLUTIONS,3.9,Software Product,51-200 Employees,Startup,8,Ahmedabad
+536,Latteys Industries,3.9,Industrial Machinery,51-200 Employees,Public,20,Ahmedabad
+537,Frendy,3.2,Internet,51-200 Employees,Startup,5,Ahmedabad
+538,Saint-Gobain,4.0,Building Material,10k-50k Employees,Forbes Global 2000,359,Ahmedabad
+539,Whirlpool,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,113,Ahmedabad
+540,Uber,4.2,Internet,1k-5k Employees,Public,15,Ahmedabad
+541,Hubtown,3.7,Engineering & Construction,1k-5k Employees,Public,35,Ahmedabad
+542,Kissht Finance,4.1,FinTech,201-500 Employees,Startup,9,Ahmedabad
+543,Patanjali Ayurved,3.2,FMCG,1k-5k Employees,Fortune India 500,18,Ahmedabad
+544,BlackBuck,3.9,Internet,1k-5k Employees,Indian Unicorn,9,Ahmedabad
+545,Emami,4.1,Beauty & Personal Care,1k-5k Employees,Public,50,Ahmedabad
+546,Uber,4.2,Internet,1k-5k Employees,Public,15,Ahmedabad
+547,Whirlpool,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,113,Ahmedabad
+548,Saint-Gobain,4.0,Building Material,10k-50k Employees,Forbes Global 2000,359,Ahmedabad
+549,Muthoot Group,3.6,Financial Services,10k-50k Employees,Public,137,Ahmedabad
+550,Hindustan Petroleum,4.3,Oil & Gas,5k-10k Employees,Central,50,Ahmedabad
+551,Canara Bank,3.5,Banking,50k-1 Lakh Employees,Public,118,Ahmedabad
+552,Central Bank of India,4.0,Banking,10k-50k Employees,Public,113,Ahmedabad
+553,Ricoh,3.9,IT Services & Consulting,1-10 Employees,Public,88,Ahmedabad
+554,Page Industries,4.2,Fashion & Textile,10k-50k Employees,Public,30,Ahmedabad
+555,J. Kumar Infraprojects,4.1,Engineering & Construction,5k-10k Employees,Public,44,Ahmedabad
+556,ABB Group,4.1,Electrical Equipment,1k-5k Employees,Public,36,Ahmedabad
+557,Nowfloats Technologies,3.3,Software Product,201-500 Employees,Startup,12,Ahmedabad
+558,Levi Strauss & Co.,4.5,Fashion & Textile,1k-5k Employees,Public,171,Ahmedabad
+559,Ugro Capital,3.8,NBFC,1k-5k Employees,Public,31,Ahmedabad
+560,Go First,3.7,Aviation,1k-5k Employees,Public,19,Ahmedabad
+561,LT Foods,4.1,Food Processing,1k-5k Employees,Public,34,Ahmedabad
+562,Ricoh,3.9,IT Services & Consulting,1-10 Employees,Public,88,Ahmedabad
+563,Canara Bank,3.5,Banking,50k-1 Lakh Employees,Public,118,Ahmedabad
+564,Central Bank of India,4.0,Banking,10k-50k Employees,Public,113,Ahmedabad
+565,Star Health & Allied Insurance,3.9,Insurance,10k-50k Employees,Fortune India 500,18,Ahmedabad
+566,Hindustan Petroleum,4.3,Oil & Gas,5k-10k Employees,Central,50,Ahmedabad
+567,Safari Industries India,4.2,Fashion & Textile,501-1k Employees,Public,50,Ahmedabad
+568,Lava International,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,15,Ahmedabad
+569,Emami,4.1,Beauty & Personal Care,1k-5k Employees,Public,50,Ahmedabad
+570,Orient Electric,4.0,Consumer Electronics & Appliances,501-1k Employees,Public,70,Ahmedabad
+571,Minda Kyoraku,4.1,Automobile,51-200 Employees,Public,16,Ahmedabad
+572,Rallis India,4.3,Agro Chemicals,1k-5k Employees,Public,76,Ahmedabad
+573,Page Industries,4.2,Fashion & Textile,10k-50k Employees,Public,30,Ahmedabad
+574,J. Kumar Infraprojects,4.1,Engineering & Construction,5k-10k Employees,Public,44,Ahmedabad
+575,ABB Group,4.1,Electrical Equipment,1k-5k Employees,Public,36,Ahmedabad
+576,Airtel Payments Bank,4.2,FinTech,501-1k Employees,Public,8,Ahmedabad
+577,Nowfloats Technologies,3.3,Software Product,201-500 Employees,Startup,12,Ahmedabad
+578,Ugro Capital,3.8,NBFC,1k-5k Employees,Public,31,Ahmedabad
+579,TTK Healthcare,4.2,Healthcare,1k-5k Employees,Public,96,Ahmedabad
+580,Zebpay,3.3,FinTech,51-200 Employees (Global),Startup,10,Ahmedabad
+581,Prince Pipes & Fittings,4.3,Building Material,1k-5k Employees,Public,37,Ahmedabad
+582,DS Group,4.1,FMCG,1k-5k Employees,Conglomerate,95,Ahmedabad
+583,Greenply,4.0,Furniture & Furnishing,1k-5k Employees,Public,40,Ahmedabad
+584,Sundaram Finance,4.2,NBFC,1k-5k Employees,Public,70,Ahmedabad
+585,Marks & Spencer,4.0,Retail,1k-5k Employees,Forbes Global 2000,140,Ahmedabad
+586,IRB Infrastructure,4.2,Engineering & Construction,5k-10k Employees,Public,26,Ahmedabad
+587,A Infrastructure,4.1,Industrial Machinery,201-500 Employees,Public,44,Ahmedabad
+588,A Infrastructure,4.1,Industrial Machinery,201-500 Employees,Public,44,Ahmedabad
+589,Globe Textiles (India),4.3,Fashion & Textile,51-200 Employees,Public,11,Ahmedabad
+590,NeoGrowth Credit,3.7,NBFC,501-1k Employees,Startup,11,Ahmedabad
+591,Bajaj Auto,3.9,Automobile,5k-10k Employees,Public,79,Ahmedabad
+592,Infibeam Avenues,3.4,IT Services & Consulting,501-1k Employees,Public,17,Ahmedabad
+593,Care Health Insurance,3.8,Internet,5k-10k Employees,Public,12,Ahmedabad
+594,Shadowfax Technologies,3.7,Logistics,1k-5k Employees,Public,9,Ahmedabad
+595,Philips,3.9,Consumer Electronics & Appliances,5k-10k Employees,Forbes Global 2000,94,Ahmedabad
+596,Religare,3.9,Financial Services,1k-5k Employees,Public,40,Ahmedabad
+597,Progressive Infotech,3.5,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,26,Ahmedabad
+598,Gruh Finance,4.3,Financial Services,501-1k Employees,Public,36,Ahmedabad
+599,Gokul Refoils & Solvent,3.8,FMCG,51-200 Employees,Public,32,Ahmedabad
+600,Cil Nova Petrochemicals,3.2,Fashion & Textile,501-1k Employees,Public,10,Ahmedabad
+601,Haier Appliances India,4.1,Consumer Electronics & Appliances,1k-5k Employees,Conglomerate,20,Ahmedabad
+602,Nippon Express,4.2,Logistics,501-1k Employees,Public,77,Ahmedabad
+603,Tata Housing Development Company,4.1,Real Estate,1k-5k Employees,Public,40,Ahmedabad
+604,Vimta Labs,3.6,Other,1k-5k Employees,Public,40,Ahmedabad
+605,Supreme Industries,4.2,Petrochemicals,5k-10k Employees,Public,82,Ahmedabad
+606,Legrand,3.7,Electrical Equipment,1k-5k Employees,Forbes Global 2000,164,Ahmedabad
+607,KDDI,4.4,Telecom,51-200 Employees,Forbes Global 2000,40,Ahmedabad
+608,InCred Finance,4.0,NBFC,1k-5k Employees,Indian Unicorn,8,Ahmedabad
+609,POSCO,4.2,Metals & Mining,51-200 Employees,Forbes Global 2000,56,Ahmedabad
+610,Arvind Fashions,3.9,Fashion & Textile,1k-5k Employees,Public,31,Ahmedabad
+611,Uniproducts,3.8,Auto Components,51-200 Employees,Public,42,Ahmedabad
+612,Raymond,4.1,Fashion & Textile,5k-10k Employees,Public,99,Ahmedabad
+613,Easy Home Finance,4.2,FinTech,501-1k Employees,Public,6,Ahmedabad
+614,SML Isuzu,4.2,Automobile,501-1k Employees,Public,39,Ahmedabad
+615,AstraZeneca,4.2,Pharma,501-1k Employees,Public,25,Ahmedabad
+616,Rebel Foods,3.8,Internet,5k-10k Employees,Indian Unicorn,12,Ahmedabad
+617,Redington,4.0,Hardware & Networking,1k-5k Employees,Public,25,Ahmedabad
+618,Uniproducts,3.8,Auto Components,51-200 Employees,Public,42,Ahmedabad
+619,AstraZeneca,4.2,Pharma,501-1k Employees,Public,25,Ahmedabad
+620,BASF,4.5,Chemicals,1k-5k Employees,Fortune India 500,81,Ahmedabad
+621,Quikr,3.9,Internet,1k-5k Employees,Indian Unicorn,16,Ahmedabad
+622,DISH TV,3.6,Broadcasting,201-500 Employees,Public,21,Ahmedabad
+623,Union Bank of India,4.1,Banking,50k-1 Lakh Employees,Public,105,Ahmedabad
+624,GTL,4.2,Hardware & Networking,1k-5k Employees,Public,37,Ahmedabad
+625,Gujarat Energy Transmission Corporation,4.4,Government,10k-50k Employees,State,25,Ahmedabad
+626,Legrand,3.7,Electrical Equipment,1k-5k Employees,Forbes Global 2000,164,Ahmedabad
+627,Raymond,4.1,Fashion & Textile,5k-10k Employees,Public,99,Ahmedabad
+628,Shell,4.3,Oil & Gas,10k-50k Employees,Public,117,Ahmedabad
+629,Greenpanel Industries,4.1,Furniture & Furnishing,1k-5k Employees,Public,7,Ahmedabad
+630,Arfin,3.7,Iron & Steel,51-200 Employees,Public,32,Ahmedabad
+631,Vakrangee,3.7,BPO,1k-5k Employees,Public,34,Ahmedabad
+632,Aarti Industries,4.2,Agro Chemicals,5k-10k Employees,Public,49,Ahmedabad
+633,Sanofi,4.4,Pharma,1k-5k Employees,Public,20,Ahmedabad
+634,Sanofi,4.4,Pharma,1k-5k Employees,Public,20,Ahmedabad
+635,Hewlett Packard Enterprise,4.3,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,9,Ahmedabad
+636,V-Mart,4.2,Retail,5k-10k Employees,Public,22,Ahmedabad
+637,American Express,4.2,Financial Services,10k-50k Employees,Forbes Global 2000,174,Ahmedabad
+638,Ola Electric Mobility,3.3,Automobile,5k-10k Employees,Indian Unicorn,7,Indore
+639,JSW Steel,4.0,Iron & Steel,10k-50k Employees,Public,42,Ahmedabad
+640,MRF Tyres,3.8,Auto Components,10k-50k Employees,Public,78,Ahmedabad
+641,Shah Investors Home,4.4,Financial Services,51-200 Employees,Public,30,Ahmedabad
+642,Urja Products,3.7,Internet,201-500 Employees,Startup,55,Ahmedabad
+643,Astron Paper Board Mill,4.6,Pulp & Paper,501-1k Employees,Public,14,Ahmedabad
+644,Exclusífe Technosoft,3.0,Retail,11-50 Employees,Startup,11,Ahmedabad
+645,Exclusífe Technosoft,3.0,Retail,11-50 Employees,Startup,11,Ahmedabad
+646,National Stock Exchange of India,3.7,Financial Services,1k-5k Employees,Fortune India 500,32,Ahmedabad
+647,Kajaria Ceramics,4.2,Building Material,1k-5k Employees,Public,39,Ahmedabad
+648,Yamaha Motor,4.2,Automobile,1k-5k Employees,Fortune India 500,69,Ahmedabad
+649,Jetking Infotrain,3.7,Education & Training,51-200 Employees,Public,77,Ahmedabad
+650,HBL Power Systems,4.0,Electrical Equipment,1k-5k Employees,Public,47,Ahmedabad
+651,IL&FS Engineering and Construction,4.4,Engineering & Construction,1k-5k Employees,Public,36,Ahmedabad
+652,HomeLane,3.5,Architecture & Interior Design,1k-5k Employees,Startup,10,Ahmedabad
+653,Snowman Logistics,4.1,Logistics,201-500 Employees,Public,28,Ahmedabad
+654,Paul Merchants,4.3,NBFC,1k-5k Employees,Public,40,Ahmedabad
+655,Ingram Micro,3.9,IT Services & Consulting,1k-5k Employees,Conglomerate,45,Ahmedabad
+656,Toothsi,2.8,Internet,501-1k Employees,Startup,6,Ahmedabad
+657,Metropolis Healthcare,4.1,Healthcare,1k-5k Employees,Conglomerate,44,Ahmedabad
+658,Global Garner Sales Services,3.8,Internet,51-200 Employees,Startup,8,Ahmedabad
+659,Tribhovandas Bhimji Zaveri,4.2,Metals & Mining,1k-5k Employees,Public,160,Ahmedabad
+660,Prism Johnson Limited - RMC (India) Division,4.1,Building Material,501-1k Employees,Public,28,Ahmedabad
+661,Hindustan Sanitaryware & Industries,4.1,Furniture & Furnishing,1k-5k Employees,Public,64,Ahmedabad
+662,NK Industries,4.1,FMCG,201-500 Employees (Global),Public,37,Ahmedabad
+663,Deepak Fertilisers and Petrochemicals,3.9,Agro Chemicals,1k-5k Employees,Public,45,Ahmedabad
+664,Amber Enterprises India,3.9,Consumer Electronics & Appliances,1k-5k Employees,Public,34,Ahmedabad
+665,CEEJAY FINANCE,4.3,NBFC,51-200 Employees,Public,31,Ahmedabad
+666,Naukri,4.0,Internet,1k-5k Employees,Public,28,Ahmedabad
+667,Jindal Stainless,4.3,Iron & Steel,1k-5k Employees,Public,54,Ahmedabad
+668,Shimizu,4.1,Engineering & Construction,51-200 Employees,Forbes Global 2000,220,Ahmedabad
+669,Surya Roshni,4.1,Real Estate,1k-5k Employees,Public,51,Ahmedabad
+670,LetsTransport,3.4,Logistics,501-1k Employees,Startup,9,Ahmedabad
+671,Skipper,3.8,Power,1k-5k Employees,Public,43,Ahmedabad
+672,Hilton,4.4,Hospitality,1k-5k Employees,Forbes Global 2000,105,Ahmedabad
+673,Bridgestone,4.2,Auto Components,1k-5k Employees,Forbes Global 2000,28,Ahmedabad
+674,PI Industries,4.2,Agro Chemicals,1k-5k Employees,Public,77,Ahmedabad
+675,BOB Financial Solutions,4.3,NBFC,501-1k Employees,Public,30,Ahmedabad
+676,NSE.IT,3.6,IT Services & Consulting,1k-5k Employees,Public,25,Ahmedabad
+677,Tribhovandas Bhimji Zaveri,4.2,Metals & Mining,1k-5k Employees,Public,160,Ahmedabad
+678,BOB Financial Solutions,4.3,NBFC,501-1k Employees,Public,30,Ahmedabad
+679,Incuspaze Solutions,4.4,Real Estate,51-200 Employees,Startup,8,Ahmedabad
+680,Ceat Tyres,4.1,Auto Components,5k-10k Employees,Public,66,Ahmedabad
+681,Bluestone.com,3.8,Jewellery,501-1k Employees,Startup,13,Ahmedabad
+682,3i Infotech,3.6,IT Services & Consulting,1k-5k Employees,Public,31,Ahmedabad
+683,Britannia,4.1,FMCG,1k-5k Employees,Public,132,Ahmedabad
+684,KIA MOTORS,3.9,Automobile,1k-5k Employees,Forbes Global 2000,80,Ahmedabad
+685,Hero MotoCorp,4.2,Automobile,5k-10k Employees,Public,40,Ahmedabad
+686,GBS,4.0,Internet,11-50 Employees (Global),Startup,8,Ahmedabad
+687,Finolex Cables,3.9,Electrical Equipment,1k-5k Employees,Public,68,Ahmedabad
+688,Vertiv,4.0,IT Services & Consulting,51-200 Employees (Global),Startup,8,Ahmedabad
+689,Alcon,3.7,Medical Equipment,1k-5k Employees,Public,79,Ahmedabad
+690,LOREAL,4.1,Beauty & Personal Care,1k-5k Employees,Forbes Global 2000,33,Ahmedabad
+691,Future Lifestyle Fashion,4.2,Retail,1k-5k Employees,Public,12,Ahmedabad
+692,The MobileStore,4.3,Internet,501-1k Employees,Public,18,Ahmedabad
+693,Shree Rama Newsprint,4.5,Pulp & Paper,501-1k Employees,Public,33,Ahmedabad
+694,Vikram Thermo,3.4,Pharma,11-50 Employees,Public,40,Ahmedabad
+695,Plutomen,2.4,Internet,51-200 Employees,Startup,8,Ahmedabad
+696,Amco Batteries,4.1,Auto Components,201-500 Employees,Public,69,Ahmedabad
+697,Gyscoal Alloys,1.6,Iron & Steel,51-200 Employees,Public,25,Ahmedabad
+698,Future Lifestyle Fashion,4.2,Retail,1k-5k Employees,Public,12,Ahmedabad
+699,Plutomen,2.4,Internet,51-200 Employees,Startup,8,Ahmedabad
+700,ShoutnHike,5.0,IT Services & Consulting,11-50 Employees,Startup,7,Ahmedabad
+701,PlexusMD,4.2,Internet,11-50 Employees,Startup,10,Ahmedabad
+702,Sygnius Realty,4.5,Real Estate,11-50 Employees,Startup,5,Ahmedabad
+703,DataSOS Technologies,4.6,IT Services & Consulting,11-50 Employees,Startup,14,Ahmedabad
+704,Ion Exchange India,3.9,Waste Management,1k-5k Employees,Public,60,Indore
+705,Tirupati Sarjan,3.8,Real Estate,51-200 Employees,Public,17,Goa
+706,Gujarat Fluorochemicals,4.1,Chemicals,1k-5k Employees,Fortune India 500,37,Dahej
+707,Syndell Technologies,1.8,IT Services & Consulting,11-50 Employees,Startup,3,Ahmedabad
+708,KEI Industries,4.2,Electrical Equipment,1k-5k Employees,Public,56,Indore
+709,SPML Infra,3.5,Engineering & Construction,201-500 Employees,Public,43,Kolkata
+710,Bharat Bijlee,4.3,Electrical Equipment,501-1k Employees,Public,78,Indore
+711,PCS Technology,4.5,IT Services & Consulting,1k-5k Employees,Public,43,Ahmedabad
+712,Royal Orchid Hotels,4.0,Hospitality,1k-5k Employees,Public,38,Ahmedabad
+713,Reliance Smart,4.2,Retail,5k-10k Employees,Public,18,Ahmedabad
+714,Sany Heavy Industry,4.0,Industrial Machinery,1k-5k Employees,Forbes Global 2000,35,Indore
+715,Ivrcl Infrastructures & Projects,4.3,Engineering & Construction,1k-5k Employees,Public,37,Ahmedabad
+716,Unitech Power Transmission,4.0,Power,201-500 Employees,Public,29,Ahmedabad
+717,Aditya Birla Housing Finance,4.0,Financial Services,1k-5k Employees,Public,15,Ahmedabad
+718,ROI NET Solution,4.4,FinTech,51-200 Employees,Startup,12,Ahmedabad
+719,Healthians,3.5,Healthcare,1k-5k Employees,Startup,11,Ahmedabad
+720,Shakti Pumps,3.9,Industrial Machinery,501-1k Employees,Public,42,Ahmedabad
+721,Cooper-Standard Automotive,4.2,Auto Components,201-500 Employees,Public,64,Ahmedabad
+722,Shalimar Paints,3.9,Chemicals,1k-5k Employees,Public,122,Ahmedabad
+723,Godrej Consumer Products,4.2,FMCG,1k-5k Employees,Public,23,Ahmedabad
+724,GTL Infrastructure,4.6,Hardware & Networking,1k-5k Employees,Public,20,Ahmedabad
+725,GAIL,4.5,Oil & Gas,1k-5k Employees,Fortune India 500,40,Ahmedabad
+726,Sheetal Cool Products,3.7,FMCG,51-200 Employees,Public,37,Ahmedabad
+727,HSBC Group,4.1,Banking,10k-50k Employees,Forbes Global 2000,159,Ahmedabad
+728,Chetak Enterprises,3.8,Engineering & Construction,51-200 Employees,Public,24,Ahmedabad
+729,HSBC Group,4.1,Banking,10k-50k Employees,Forbes Global 2000,159,Ahmedabad
+730,PCS Technology,4.5,IT Services & Consulting,1k-5k Employees,Public,43,Ahmedabad
+731,Syndell Technologies,1.8,IT Services & Consulting,11-50 Employees,Startup,3,Ahmedabad
+732,Sheetal Cool Products,3.7,FMCG,51-200 Employees,Public,37,Ahmedabad
+733,ROI NET Solution,4.4,FinTech,51-200 Employees,Startup,12,Ahmedabad
+734,Chetak Enterprises,3.8,Engineering & Construction,51-200 Employees,Public,24,Ahmedabad
+735,Machino Polymers,3.4,Petrochemicals,501-1k Employees,Public,29,Ahmedabad
+736,Kalyan Jewellers,4.7,Jewellery,5k-10k Employees,Fortune India 500,31,Ahmedabad
+737,Honda Cars,4.4,Automobile,5k-10k Employees,Fortune India 500,29,Ahmedabad
+738,Milkbasket,3.8,Internet,501-1k Employees,Startup,9,Ahmedabad
+739,J B Chemicals And Pharmaceuticals,3.9,Pharma,1k-5k Employees,Public,48,Ahmedabad
+740,Honda Cars,4.4,Automobile,5k-10k Employees,Fortune India 500,29,Ahmedabad
+741,Milkbasket,3.8,Internet,501-1k Employees,Startup,9,Ahmedabad
+742,J B Chemicals And Pharmaceuticals,3.9,Pharma,1k-5k Employees,Public,48,Ahmedabad
+743,ZTE Corporation,4.0,Telecom,201-500 Employees,Forbes Global 2000,21,Ahmedabad
+744,ZTE Corporation,4.0,Telecom,201-500 Employees,Forbes Global 2000,21,Ahmedabad
+745,PNB MetLife,3.5,Insurance,5k-10k Employees,Conglomerate,23,Ahmedabad
+746,Balkrishna Industries,4.1,Auto Components,1k-5k Employees,Public,37,Ahmedabad
+747,The Saraswat Co-operative Bank,3.4,Banking,1k-5k Employees,Public,106,Ahmedabad
+748,Aksharchem,4.1,Chemicals,51-200 Employees,Public,35,Ahmedabad
+749,H&M,4.0,Fashion & Textile,1k-5k Employees,Forbes Global 2000,77,Ahmedabad
+750,Balkrishna Industries,4.1,Auto Components,1k-5k Employees,Public,37,Ahmedabad
+751,NIIT,3.7,Education & Training,1k-5k Employees,Public,43,Ahmedabad
+752,NCR Corporation,4.1,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,140,Ahmedabad
+753,Isgec Heavy Engineering,3.9,Industrial Machinery,1k-5k Employees,Public,91,Ahmedabad
+754,Atlas Copco,4.3,Industrial Machinery,1k-5k Employees,Public,151,Ahmedabad
+755,Goodyear,4.0,Auto Components,501-1k Employees,Public,126,Ahmedabad
+756,Vedantu,3.4,EdTech,1k-5k Employees,Indian Unicorn,13,Ahmedabad
+757,Capgemini,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,57,Ahmedabad
+758,Infosys,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,43,Ahmedabad
+759,Bird Group,3.3,Aviation,1k-5k Employees,Conglomerate,53,Ahmedabad
+760,ING Vysya Bank,4.4,Banking,5k-10k Employees,Public,22,Ahmedabad
+761,Mahalaxmi Rubtech,3.8,Fashion & Textile,201-500 Employees,Public,33,Ahmedabad
+762,Royale Cheese,4.6,IT Services & Consulting,11-50 Employees,Startup,12,Ahmedabad
+763,Quick Furnish,4.6,Architecture & Interior Design,11-50 Employees,Startup,4,Ahmedabad
+764,Sintex Plastics Technology,3.1,Chemicals,1k-5k Employees,Public,93,Ahmedabad
+765,C D Integrated Services,3.2,Investment Banking / Venture Capital / Private Equity,11-50 Employees,Public,25,Ahmedabad
+766,Navigateglobal CFO Services Private Limited,4.6,Accounting & Auditing,11-50 Employees,Startup,4,Ahmedabad
+767,Royale Cheese,4.6,IT Services & Consulting,11-50 Employees,Startup,12,Ahmedabad
+768,Quick Furnish,4.6,Architecture & Interior Design,11-50 Employees,Startup,4,Ahmedabad
+769,Aurobindo Pharma,4.0,Pharma,10k-50k Employees,Public,38,Ahmedabad
+770,Agarwal Packers and Movers Limited,3.6,Logistics,5k-10k Employees,Public,37,Ahmedabad
+771,Kellogg,4.3,FMCG,1k-5k Employees,Forbes Global 2000,118,Indore
+772,Nissan,4.0,Automobile,10k-50k Employees,Forbes Global 2000,91,Indore
+773,Kotak Mahindra General Insurance,3.8,Insurance,501-1k Employees,Public,9,Ahmedabad
+774,Idex,3.7,Non-Profit,201-500 Employees,Forbes Global 2000,37,Ahmedabad
+775,Freshtrop Fruits,3.5,Agro Chemicals,51-200 Employees,Public,32,Ahmedabad
+776,Dedicated Freight Corridor Corporation Of India,4.1,Government,501-1k Employees,Public,18,Ahmedabad
+777,Ongc Petro Additions,4.0,Petrochemicals,1k-5k Employees,Public,18,Ahmedabad
+778,Welspun Global Brands,3.8,Fashion & Textile,10k-50k Employees (Global),Public,24,Ahmedabad
+779,Gujarat State Electricity Corporation,4.3,Government,5k-10k Employees,State,31,Ahmedabad
+780,Kaya Skin Clinic,4.1,Beauty & Personal Care,501-1k Employees,Public,21,Ahmedabad
+781,Aviva Life Insurance India,3.6,Insurance,1k-5k Employees,Forbes Global 2000,328,Ahmedabad
+782,Ups Logistics,4.0,Logistics,1k-5k Employees,Forbes Global 2000,117,Ahmedabad
+783,Bharat Petroleum,4.2,Oil & Gas,5k-10k Employees,Fortune India 500,72,Ahmedabad
+784,Sabarmati Gas,3.7,Oil & Gas,201-500 Employees,Public,18,Ahmedabad
+785,Bigbloc Construction,4.1,Building Material,51-200 Employees,Public,9,Ahmedabad
+786,FMC,4.2,Agro Chemicals,1k-5k Employees,Forbes Global 2000,15,Ahmedabad
+787,Lakme,4.3,Beauty & Personal Care,201-500 Employees,Public,44,Ahmedabad
+788,Kaya Skin Clinic,4.1,Beauty & Personal Care,501-1k Employees,Public,21,Ahmedabad
+789,Central Reserve Police Force,4.6,Government,1 Lakh+ Employees,Central,85,Ahmedabad
+790,Gujarat State Electricity Corporation,4.3,Government,5k-10k Employees,State,31,Ahmedabad
+791,Aviva Life Insurance India,3.6,Insurance,1k-5k Employees,Forbes Global 2000,328,Ahmedabad
+792,Neon Laboratories,3.9,Pharma,1k-5k Employees,Public,42,Ahmedabad
+793,Canon,4.2,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,87,Ahmedabad
+794,Crop Life Science,3.2,Agro Chemicals,51-200 Employees,Public,18,Ahmedabad
+795,DCW,4.0,Chemicals,1k-5k Employees,Public,99,Ahmedabad
+796,Tci Freight,4.3,Logistics,201-500 Employees,Public,66,Ahmedabad
+797,Sharp Business Systems India,3.5,Consumer Electronics & Appliances,51-200 Employees,Forbes Global 2000,112,Ahmedabad
+798,Shriram Group,4.1,Financial Services,50k-1 Lakh Employees,Conglomerate,50,Ahmedabad
+799,DCW,4.0,Chemicals,1k-5k Employees,Public,99,Ahmedabad
+800,Ramco Industries,4.2,Building Material,1k-5k Employees,Public,32,Ahmedabad
+801,Crop Life Science,3.2,Agro Chemicals,51-200 Employees,Public,18,Ahmedabad
+802,John Deere,4.3,Industrial Machinery,5k-10k Employees,Fortune India 500,23,Ahmedabad
+803,Paytm Payments Bank,4.0,FinTech,1k-5k Employees,Public,8,Ahmedabad
+804,Kotak Mahindra General Insurance,3.8,Insurance,501-1k Employees,Public,9,Ahmedabad
+805,Welspun Global Brands,3.8,Fashion & Textile,10k-50k Employees (Global),Public,24,Ahmedabad
+806,Idex,3.7,Non-Profit,201-500 Employees,Forbes Global 2000,37,Ahmedabad
+807,Ongc Petro Additions,4.0,Petrochemicals,1k-5k Employees,Public,18,Ahmedabad
+808,Orient Technologies,3.9,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,32,Ahmedabad
+809,Food Corporation of India,4.2,Government,10k-50k Employees (Global),Central,59,Ahmedabad
+810,Cogoport,3.0,Internet,51-200 Employees,Startup,8,Ahmedabad
+811,Ups Logistics,4.0,Logistics,1k-5k Employees,Forbes Global 2000,117,Ahmedabad
+812,Sabarmati Gas,3.7,Oil & Gas,201-500 Employees,Public,18,Ahmedabad
+813,Bigbloc Construction,4.1,Building Material,51-200 Employees,Public,9,Ahmedabad
+814,Mkc Infrastructure,3.7,Engineering & Construction,501-1k Employees,Public,61,Ahmedabad
+815,MARG ERP,3.7,Accounting & Auditing,5k-10k Employees,Public,24,Ahmedabad
+816,Rucha Group Of Industries,3.3,Industrial Machinery,1k-5k Employees,Public,30,Ahmedabad
+817,Pristyn Care,3.7,Healthcare,1k-5k Employees,Indian Unicorn,6,Ahmedabad
+818,MARG ERP,3.7,Accounting & Auditing,5k-10k Employees,Public,24,Ahmedabad
+819,Rucha Group Of Industries,3.3,Industrial Machinery,1k-5k Employees,Public,30,Ahmedabad
+820,Compass Group Support Services,4.1,Hospitality,10k-50k Employees,Public,83,Ahmedabad
+821,Luthra Group Company,3.8,Waste Management,51-200 Employees,Central,44,Ahmedabad
+822,Rapido,3.8,Internet,1k-5k Employees,Startup,9,Ahmedabad
+823,Danone Foods Beverages,3.5,Food Processing,501-1k Employees,Forbes Global 2000,105,Ahmedabad
+824,Mitcon Consultancy and Engineering Services,3.7,Education & Training,201-500 Employees,Public,42,Ahmedabad
+825,Suraj Limited,4.6,Industrial Machinery,1k-5k Employees,Public,30,Ahmedabad
+826,Pristyn Care,3.7,Healthcare,1k-5k Employees,Indian Unicorn,6,Ahmedabad
+827,Air India,4.0,Aviation,10k-50k Employees,Central,94,Ahmedabad
+828,Coforge,3.5,IT Services & Consulting,10k-50k Employees,Public,20,Ahmedabad
+829,Bajaj Consumer Care,3.9,FMCG,201-500 Employees,Public,94,Ahmedabad
+830,L&T Technology Services,3.4,IT Services & Consulting,10k-50k Employees,Public,12,Ahmedabad
+831,Akums Drugs & Pharmaceuticals Limited,4.2,Pharma,10k-50k Employees,Public,20,Ahmedabad
+832,Merino Industries,2.7,Furniture & Furnishing,1k-5k Employees,Public,56,Ahmedabad
+833,Allengers Medical Systems,3.2,Medical Equipment,1k-5k Employees,Public,37,Ahmedabad
+834,ByteDance,4.2,Internet,1k-5k Employees,Startup,12,Ahmedabad
+835,Oxyzo Financial Services,3.9,Financial Services,201-500 Employees,Indian Unicorn,8,Gurgaon
+836,Cube Construction Engineering,3.3,Engineering & Construction,1k-5k Employees,Public,30,Vadodara
+837,Medley Pharmaceuticals,4.1,Pharma,1k-5k Employees,Public,55,Varanasi
+838,Coldman Logistics,4.6,Logistics,51-200 Employees,Startup,8,Ahmedabad
+839,Uber eats,4.5,Internet,1k-5k Employees (Global),Startup,10,Ahmedabad
+840,Zoomcar,3.7,Internet,1k-5k Employees,Startup,12,Ahmedabad
+841,Poly Medicure,3.7,Medical Equipment,1k-5k Employees,Public,27,Ahmedabad
+842,Mphasis,3.5,IT Services & Consulting,10k-50k Employees,Public,26,Ahmedabad
+843,Tetra Pak,4.2,Packaging,1k-5k Employees,Fortune India 500,37,Ahmedabad
+844,Morepen Laboratories,4.1,Pharma,1k-5k Employees,Public,40,Ahmedabad
+845,MobileFirst Applications,4.0,IT Services & Consulting,51-200 Employees,Startup,10,Ahmedabad
+846,Tiger Logistics India,4.1,Logistics,501-1k Employees,Public,24,Ahmedabad
+847,Ushanti Colour Chem,2.5,Chemicals,51-200 Employees,Public,63,Ahmedabad
+848,Tiger Logistics India,4.1,Logistics,501-1k Employees,Public,24,Ahmedabad
+849,Ushanti Colour Chem,2.5,Chemicals,51-200 Employees,Public,63,Ahmedabad
+850,MyClassCampus,5.0,IT Services & Consulting,11-50 Employees,Startup,7,Ahmedabad
+851,Gamerji,3.7,Internet,11-50 Employees,Startup,6,Ahmedabad
+852,The New India Assurance Co.,4.6,Insurance,10k-50k Employees,Public,105,Ahmedabad
+853,Mondelez International,4.4,Food Processing,1k-5k Employees,Forbes Global 2000,12,Ahmedabad
+854,AccorHotels,4.3,Hospitality,5k-10k Employees,Forbes Global 2000,57,Ahmedabad
+855,National Insurance Company,4.2,Insurance,5k-10k Employees,Central,118,Ahmedabad
+856,City Union Bank,3.4,Banking,5k-10k Employees,Public,120,Ahmedabad
+857,Reserve Bank of India,4.6,Banking,10k-50k Employees,Central,89,Ahmedabad
+858,Cavinkare,4.0,FMCG,1k-5k Employees,Conglomerate,41,Ahmedabad
+859,Religare Finvest,4.4,Financial Services,1k-5k Employees,Public,18,Ahmedabad
+860,TVS Electronics,3.9,Consumer Electronics & Appliances,501-1k Employees,Public,38,Ahmedabad
+861,Novo Nordisk,4.1,Pharma,1k-5k Employees,Forbes Global 2000,101,Ahmedabad
+862,Ventura Securities,4.0,Financial Services,1k-5k Employees,Public,30,Ahmedabad
+863,Hero Cycles,3.6,Automobile,5k-10k Employees,Public,68,Ahmedabad
+864,Ramky Infrastructure,4.2,Engineering & Construction,501-1k Employees,Public,30,Ahmedabad
+865,Tcil,4.1,Telecom,1k-5k Employees,Public,46,Ahmedabad
+866,Textron,3.8,Engineering & Construction,201-500 Employees,Public,101,Ahmedabad
+867,GSPL,4.0,Oil & Gas,1k-5k Employees,Public,45,Ahmedabad
+868,21North,3.0,Internet,501-1k Employees,Startup,9,Ahmedabad
+869,Manali Petrochemicals,3.8,Chemicals,501-1k Employees,Public,38,Ahmedabad
+870,Lotte India Corporation,3.9,FMCG,501-1k Employees,Public,20,Ahmedabad
+871,Gujarat Alkalies & Chemicals,4.6,Chemicals,1k-5k Employees,Public,51,Ahmedabad
+872,Axio,3.7,Financial Services,501-1k Employees,Startup,11,Ahmedabad
+873,TVS Eurogrip,3.8,Auto Components,1k-5k Employees,Public,42,Ahmedabad
+874,Grauer & Weil (i),3.6,Chemicals,501-1k Employees,Public,67,Ahmedabad
+875,Rajoo Engineers,3.6,Industrial Machinery,201-500 Employees,Public,38,Ahmedabad
+876,Religare Housing Development Finance Corporation,4.5,Financial Services,51-200 Employees,Public,31,Ahmedabad
+877,Nkgsb CO-OP Bank,4.2,Banking,1k-5k Employees,Public,107,Ahmedabad
+878,Swastika Investmart,4.4,Investment Banking / Venture Capital / Private Equity,501-1k Employees,Public,32,Ahmedabad
+879,Kuwy Digital Lender,3.8,Internet,51-200 Employees,Startup,7,Ahmedabad
+880,Tork Motors,4.1,Internet,51-200 Employees,Startup,8,Ahmedabad
+881,ShopX,4.4,Internet,201-500 Employees,Startup,9,Ahmedabad
+882,BOB Capital Markets,3.4,Financial Services,51-200 Employees,Central,28,Ahmedabad
+883,Waters Corporation,4.4,Clinical Research,501-1k Employees,Forbes Global 2000,66,Ahmedabad
+884,ASSA ABLOY,3.7,Real Estate,51-200 Employees,Public,19,Ahmedabad
+885,Freshworks,3.7,Software Product,1k-5k Employees,Public,14,Ahmedabad
+886,Consulting Engineers Group,4.2,Engineering & Construction,1k-5k Employees,Public,40,Ahmedabad
+887,Consulting Engineers Group,4.2,Engineering & Construction,1k-5k Employees,Public,40,Jaipur
+888,SAVA Healthcare,4.0,Pharma,501-1k Employees,Public,21,Ahmedabad
+889,Orient Cement,4.3,Building Material,1k-5k Employees,Public,45,Ahmedabad
+890,Hubergroup,4.2,Chemicals,1k-5k Employees,Fortune India 500,38,Ahmedabad
+891,Music Broadcast,4.5,Media & Entertainment,501-1k Employees,Public,25,Ahmedabad
+892,Acrysil,4.0,Building Material,201-500 Employees,Public,37,Ahmedabad
+893,Exicom,4.0,Semiconductors,1k-5k Employees,Public,30,Ahmedabad
+894,The Indian Hotels Company,4.2,Hospitality,10k-50k Employees,Fortune India 500,125,Ahmedabad
+895,HIL,4.2,Building Material,1k-5k Employees,Public,78,Ahmedabad
+896,UFO Moviez,3.7,Media & Entertainment,201-500 Employees,Public,19,Ahmedabad
+897,Inox Leisure,4.1,Media & Entertainment,1k-5k Employees,Public,25,Ahmedabad
+898,Toyota Kirloskar Motor,4.4,Automobile,5k-10k Employees,Fortune India 500,27,Ahmedabad
+899,ICRA,3.1,Financial Services,201-500 Employees,Public,33,Ahmedabad
+900,Accel Limited,3.9,IT Services & Consulting,1k-5k Employees,Public,33,Ahmedabad
+901,South Indian Bank,3.6,Banking,1k-5k Employees,Public,95,Ahmedabad
+902,Kirloskar Electric Company,3.6,Electrical Equipment,1k-5k Employees,Public,78,Ahmedabad
+903,REPCO HOME FINANCE,3.9,NBFC,501-1k Employees,Public,24,Ahmedabad
+904,HFCL,4.2,Hardware & Networking,1k-5k Employees,Public,37,Ahmedabad
+905,Gulf Oil Lubricants,4.1,Chemicals / Agri Inputs,501-1k Employees,Public,31,Ahmedabad
+906,Confidence Petroleum India,3.5,Oil & Gas,501-1k Employees,Public,27,Ahmedabad
+907,Poddar Tyres,4.0,Auto Components,501-1k Employees,Public,43,Ahmedabad
+908,Hero Housing Finance,3.9,Financial Services,501-1k Employees,Startup,7,Ahmedabad
+909,Glenmark Life Sciences,3.8,Pharma,201-500 Employees,Public,47,Ahmedabad
+910,Lotte India Corporation,3.9,FMCG,501-1k Employees,Public,20,Ahmedabad
+911,Swastika Investmart,4.4,Investment Banking / Venture Capital / Private Equity,501-1k Employees,Public,32,Ahmedabad
+912,Gujarat Alkalies & Chemicals,4.6,Chemicals,1k-5k Employees,Public,51,Ahmedabad
+913,Rajoo Engineers,3.6,Industrial Machinery,201-500 Employees,Public,38,Ahmedabad
+914,Grauer & Weil (i),3.6,Chemicals,501-1k Employees,Public,67,Ahmedabad
+915,Hero Housing Finance,3.9,Financial Services,501-1k Employees,Startup,7,Ahmedabad
+916,Confidence Petroleum India,3.5,Oil & Gas,501-1k Employees,Public,27,Ahmedabad
+917,Poddar Tyres,4.0,Auto Components,501-1k Employees,Public,43,Ahmedabad
+918,Manali Petrochemicals,3.8,Chemicals,501-1k Employees,Public,38,Ahmedabad
+919,Axio,3.7,Financial Services,501-1k Employees,Startup,11,Ahmedabad
+920,21North,3.0,Internet,501-1k Employees,Startup,9,Ahmedabad
+921,Orient Cement,4.3,Building Material,1k-5k Employees,Public,45,Ahmedabad
+922,Thyrocare Technologies,3.6,Healthcare,1k-5k Employees,Public,28,Ahmedabad
+923,Bajaj Capital,3.9,Financial Services,1k-5k Employees,Public,60,Ahmedabad
+924,Accord Synergy,4.2,Hardware & Networking,51-200 Employees,Public,10,Ahmedabad
+925,Vishvaraj Infrastructure,4.1,Waste Management,201-500 Employees,Public,25,Ahmedabad
+926,Nkgsb CO-OP Bank,4.2,Banking,1k-5k Employees,Public,107,Ahmedabad
+927,ASSA ABLOY,3.7,Real Estate,51-200 Employees,Public,19,Ahmedabad
+928,Freshworks,3.7,Software Product,1k-5k Employees,Public,14,Ahmedabad
+929,Bajaj Capital,3.9,Financial Services,1k-5k Employees,Public,60,Ahmedabad
+930,Reckitt Benckiser,4.0,FMCG,1k-5k Employees,Conglomerate,25,Ahmedabad
+931,Valiant Organics,3.8,Chemicals / Agri Inputs,501-1k Employees,Public,40,Ahmedabad
+932,Turtlemint,3.6,Internet,1k-5k Employees,Startup,9,Ahmedabad
+933,SAATHII,3.8,Government,11-50 Employees,Startup,8,Ahmedabad
+934,ART Housing Finance (India),3.8,Financial Services,51-200 Employees,Public,11,Ahmedabad
+935,Ministry of Defence,4.4,Government,1 Lakh+ Employees,Central,77,Ahmedabad
+936,Melorra,3.6,Internet,201-500 Employees,Startup,9,Ahmedabad
+937,Glenmark Life Sciences,3.8,Pharma,201-500 Employees,Public,47,Ahmedabad
+938,Smartchem Technologies,3.6,Agro Chemicals,51-200 Employees,Public,37,Ahmedabad
+939,Starbucks,4.3,Hospitality,1k-5k Employees,Public,53,Ahmedabad
+940,Grindwell Norton,4.1,Industrial Machinery,1k-5k Employees,Public,83,Ahmedabad
+941,Jacobs Engineering Group,4.1,Engineering & Construction,1k-5k Employees,Forbes Global 2000,77,Ahmedabad
+942,First Source,3.8,BPO,10k-50k Employees,Public,23,Ahmedabad
+943,ART Housing Finance (India),3.8,Financial Services,51-200 Employees,Public,11,Ahmedabad
+944,Ministry of Defence,4.4,Government,1 Lakh+ Employees,Central,77,Ahmedabad
+945,Relaxo Footwear,4.3,Fashion & Textile,5k-10k Employees,Public,40,Ahmedabad
+946,Jumbotail Technologies,3.7,Retail,201-500 Employees,Startup,9,Ahmedabad
+947,Kamdhenu,4.1,Building Material,501-1k Employees,Public,29,Ahmedabad
+948,DB Schenker,4.3,Logistics,1k-5k Employees,Conglomerate,34,Ahmedabad
+949,S Chand Group,4.1,Education & Training,1k-5k Employees,Public,85,Ahmedabad
+950,Zetwerk Manufacturing Businesses,4.1,Industrial Machinery,1k-5k Employees,Indian Unicorn,6,Ahmedabad
+951,Cult.fit,3.8,Fitness & Wellness,1k-5k Employees,Indian Unicorn,8,Ahmedabad
+952,Digitas,3.6,Marketing & Advertising,201-500 Employees,Public,18,Ahmedabad
+953,QUICK HEAL TECHNOLOGIES,3.9,Software Product,1k-5k Employees,Public,29,Ahmedabad
+954,Fisdom,3.8,Financial Services,501-1k Employees,Startup,9,Ahmedabad
+955,Federal Mogul Goetze,4.2,Auto Components,1k-5k Employees,Public,70,Ahmedabad
+956,Hi Tech Pipes,3.7,Building Material,1k-5k Employees,Public,39,Ahmedabad
+957,Gujarat Narmada Valley Fertilizers & Chemicals,4.3,Agro Chemicals,1k-5k Employees,Fortune India 500,48,Ahmedabad
+958,Alankit,3.3,Financial Services,1k-5k Employees,Public,33,Ahmedabad
+959,Zetwerk Manufacturing Businesses,4.1,Industrial Machinery,1k-5k Employees,Indian Unicorn,6,Ahmedabad
+960,Cult.fit,3.8,Fitness & Wellness,1k-5k Employees,Indian Unicorn,8,Ahmedabad
+961,S Chand Group,4.1,Education & Training,1k-5k Employees,Public,85,Ahmedabad
+962,Digitas,3.6,Marketing & Advertising,201-500 Employees,Public,18,Ahmedabad
+963,Talent,3.0,Internet,11-50 Employees,Startup,9,Ahmedabad
+964,Apollo Pipes,4.0,Building Material,201-500 Employees,Public,24,Ahmedabad
+965,Muthoot Pappachan Group,3.1,Financial Services,10k-50k Employees,Conglomerate,137,Ahmedabad
+966,Talent,3.0,Internet,11-50 Employees,Startup,9,Ahmedabad
+967,Praxis home Retail,4.1,Retail,1k-5k Employees,Public,17,Ahmedabad
+968,GVK Group,3.9,Engineering & Construction,50k-1 Lakh Employees,Public,32,Ahmedabad
+969,Expeditors International,3.9,Logistics,1k-5k Employees,Forbes Global 2000,45,Ahmedabad
+970,Apollo Pipes,4.0,Building Material,201-500 Employees,Public,24,Ahmedabad
+971,Inspirisys Solution,3.9,IT Services & Consulting,1k-5k Employees,Public,33,Ahmedabad
+972,Machino Plastics,4.0,Auto Components,201-500 Employees,Public,37,Ahmedabad
+973,Honeywell Automation,3.8,Consumer Electronics & Appliances,10k-50k Employees,Public,118,Ahmedabad
+974,Muthoot Pappachan Group,3.1,Financial Services,10k-50k Employees,Conglomerate,137,Ahmedabad
+975,Matrimony.com,4.4,Internet,1k-5k Employees,Public,27,Ahmedabad
+976,Sakhiya Skin Clinic,4.3,Beauty & Personal Care,201-500 Employees,Public,26,Ahmedabad
+977,KFintech,3.7,FinTech,5k-10k Employees,Startup,7,Ahmedabad
+978,Shree Cement,4.0,Building Material,5k-10k Employees,Public,45,Indore
+979,Devyani International,3.9,Hospitality,10k-50k Employees,Public,33,Indore
+980,Biocon Limited,3.9,Biotechnology,5k-10k Employees,Public,46,Indore
+981,Biocon Limited,3.9,Biotechnology,5k-10k Employees,Public,46,Ahmedabad
+982,Wonder Cement,4.2,Building Material,1k-5k Employees,Fortune India 500,14,Ahmedabad
+983,Ajmera Realty & Infra India,3.5,Real Estate,51-200 Employees,Public,57,Ahmedabad
+984,Pagarbook,4.1,Software Product,51-200 Employees,Startup,5,Ahmedabad
+985,Medtronic,4.1,Medical Equipment,1k-5k Employees,Forbes Global 2000,45,Ahmedabad
+986,Expeditors International,3.9,Logistics,1k-5k Employees,Forbes Global 2000,45,Ahmedabad
+987,NEC,4.6,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,125,Ahmedabad
+988,Tube Investments of India,4.0,Engineering & Construction,1k-5k Employees,Public,75,Ahmedabad
+989,HT Media,3.4,Media & Entertainment,1k-5k Employees,Public,100,Ahmedabad
+990,Jindal Saw,4.1,Building Material,5k-10k Employees,Public,40,Ahmedabad
+991,CollegeBol,3.0,Internet,11-50 Employees,Startup,11,Ahmedabad
+992,Locanix,4.0,Internet,11-50 Employees,Startup,12,Ahmedabad
+993,Everest Kanto Cylinder,3.7,Oil & Gas,1k-5k Employees,Public,46,Ahmedabad
+994,Roselabs,4.1,Pharma,51-200 Employees,Public,32,Ahmedabad
+995,Remi Sales & Engineering,3.2,Medical Equipment,201-500 Employees (Global),Public,64,Hyderabad
+996,Archon Engicon,4.0,Telecom,51-200 Employees,Public,22,Ahmedabad
+997,Brand Factory,4.5,Retail,10k-50k Employees,Public,18,Ahmedabad
+998,Polylink Polymers India,4.2,Chemicals / Agri Inputs,51-200 Employees,Public,31,Ahmedabad
+999,Roselabs,4.1,Pharma,51-200 Employees,Public,32,Ahmedabad
+1000,CollegeBol,3.0,Internet,11-50 Employees,Startup,11,Ahmedabad
+1001,Shiva Industrial Security Agency,3.0,Law Enforcement & Security,201-500 Employees (Global),Public,27,Ahmedabad
+1002,Everest Kanto Cylinder,3.7,Oil & Gas,1k-5k Employees,Public,46,Ahmedabad
+1003,Archon Engicon,4.0,Telecom,51-200 Employees,Public,22,Ahmedabad
+1004,Locanix,4.0,Internet,11-50 Employees,Startup,12,Ahmedabad
+1005,Vivanza Bio Sciences,4.0,Pharma,51-200 Employees,Public,42,Ahmedabad
+1006,Axita Cotton,3.6,Fashion & Textile,51-200 Employees,Public,11,Ahmedabad
+1007,Africare Global Business Ventures (India) Private Limited,3.3,Management Consulting,11-50 Employees,Startup,4,Ahmedabad
+1008,CricHeroes,5.0,Internet,11-50 Employees,Startup,8,Ahmedabad
+1009,Ekasta Tech,2.2,Internet,11-50 Employees (Global),Startup,4,Ahmedabad
+1010,TechUp Labs,3.9,Software Product,11-50 Employees,Startup,8,Ahmedabad
+1011,Dizayn creative studio,5.0,IT Services & Consulting,11-50 Employees,Startup,3,Ahmedabad
+1012,Ekasta Tech,2.2,Internet,11-50 Employees (Global),Startup,4,Mumbai
+1013,Shipthis,4.8,Logistics,11-50 Employees,Startup,6,Ahmedabad
+1014,Infynno Solutions,4.6,IT Services & Consulting,11-50 Employees,Startup,7,Ahmedabad
+1015,BDO,3.5,Accounting & Auditing,5k-10k Employees,Public,61,Ahmedabad
+1016,Macquarie Group,3.5,Financial Services,1k-5k Employees,Forbes Global 2000,55,Ahmedabad
+1017,Toshiba,4.0,Industrial Machinery,201-500 Employees,Forbes Global 2000,149,Ahmedabad
+1018,Dizayn creative studio,5.0,IT Services & Consulting,11-50 Employees,Startup,3,Ahmedabad
+1019,Shri Jagdamba Polymers,3.1,Fashion & Textile,51-200 Employees,Public,39,Ahmedabad
+1020,Liberty Shoes,3.8,Fashion & Textile,51-200 Employees,Public,70,Ahmedabad
+1021,RPG Life Sciences,4.1,Pharma,1k-5k Employees,Public,31,Ahmedabad
+1022,Kendriya Vidyalaya Sangathan,4.4,Education & Training,10k-50k Employees,Public,61,Ahmedabad
+1023,Roots Multiclean,4.0,Industrial Machinery,1k-5k Employees,Public,32,Ahmedabad
+1024,MMTC-PAMP,3.5,Metals & Mining,1k-5k Employees,Fortune India 500,16,Ahmedabad
+1025,Jagsonpal Pharmaceuticals,3.6,Pharma,1k-5k Employees,Public,60,Ahmedabad
+1026,Ador Welding,4.0,Industrial Machinery,501-1k Employees,Public,73,Ahmedabad
+1027,Karnataka Bank,3.8,Banking,5k-10k Employees,Public,100,Ahmedabad
+1028,Securitas,4.0,Law Enforcement & Security,10k-50k Employees,Forbes Global 2000,90,Ahmedabad
+1029,Archies,3.4,Retail,1k-5k Employees,Public,45,Ahmedabad
+1030,Roots Multiclean,4.0,Industrial Machinery,1k-5k Employees,Public,32,Ahmedabad
+1031,UCO Bank,3.6,Banking,10k-50k Employees,Public,81,Ahmedabad
+1032,Reliance Infrastructure,4.1,Engineering & Construction,1k-5k Employees,Public,95,Indore
+1033,Aurionpro Solutions,3.7,Software Product,1k-5k Employees,Public,27,Indore
+1034,Saregama India,4.1,Media & Entertainment,201-500 Employees,Public,123,Indore
+1035,Forbes & Company,4.1,Engineering & Construction,501-1k Employees,Fortune India 500,259,Indore
+1036,Ang India,4.0,Consumer Electronics & Appliances,201-500 Employees,Public,46,Ahmedabad
+1037,Kellton,3.0,IT Services & Consulting,1k-5k Employees,Public,15,Gurgaon
+1038,CredR,2.3,Internet,51-200 Employees,Startup,10,Bangalore
+1039,Resideo,3.8,Internet,10k-50k Employees,Startup,6,Indore
+1040,Cogent E Services,3.3,BPO,10k-50k Employees,Conglomerate,20,Noida
+1041,Macquarie Group,3.5,Financial Services,1k-5k Employees,Forbes Global 2000,55,Gurgaon
+1042,Alembic,3.6,Pharma,5k-10k Employees (Global),Public,117,Vadodara
+1043,Samsung SDS,3.5,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,39,Gurgaon
+1044,Onicra Credit Rating Agency,2.6,FinTech,501-1k Employees,Public,31,Indore
+1045,RPG Life Sciences,4.1,Pharma,1k-5k Employees,Public,31,Ahmedabad
+1046,Liberty Shoes,3.8,Fashion & Textile,51-200 Employees,Public,70,Ahmedabad
+1047,Alok Industries,3.8,Fashion & Textile,10k-50k Employees,Public,38,Ahmedabad
+1048,Acer India,4.2,IT Services & Consulting,51-200 Employees,Public,48,Ahmedabad
+1049,Aarvi Encon,4.1,Recruitment,5k-10k Employees,Public,37,Indore
+1050,Gokaldas Exports,4.0,Fashion & Textile,10k-50k Employees,Public,45,Bangalore
+1051,Cotton Corporation of India,4.5,Fashion & Textile,1k-5k Employees,Public,54,Ahmedabad
+1052,Allen Solly,3.9,Fashion & Textile,10k-50k Employees,Public,280,Ahmedabad
+1053,AeonX Digital,4.2,IT Services & Consulting,51-200 Employees,Startup,4,Ahmedabad
+1054,Maersk Line,4.3,Logistics,1k-5k Employees,Public,120,Ahmedabad
+1055,Ministry of Labour & Employment,3.8,Government,501-1k Employees,Public,76,Ahmedabad
+1056,Essar Group,4.0,Engineering & Construction,10k-50k Employees,Public,55,Ahmedabad
+1057,MTR Foods,4.2,FMCG,1k-5k Employees,Forbes Global 2000,100,Ahmedabad
+1058,Indoco Remedies,3.7,Pharma,5k-10k Employees,Public,77,Ahmedabad
+1059,JSW Group,4.1,Iron & Steel,10k-50k Employees,Conglomerate,42,Ahmedabad
+1060,IKF Finance,3.9,NBFC,1k-5k Employees,Public,33,Ahmedabad
+1061,Varaha Infra,4.3,Engineering & Construction,1k-5k Employees,Public,44,Ahmedabad
+1062,Consolidated Construction Consortium,4.3,Engineering & Construction,501-1k Employees,Public,27,Ahmedabad
+1063,Aditya Birla Insurance Brokers,4.4,Insurance,201-500 Employees,Public,21,Ahmedabad
+1064,Edgistify,4.5,Internet,11-50 Employees,Startup,7,Ahmedabad
+1065,Automotive Stampings and Assemblies,3.5,Auto Components,501-1k Employees,Public,34,Pune
+1066,Navkar Corporation,3.5,Logistics,501-1k Employees,Public,16,Ahmedabad
+1067,Blowhorn,4.6,Logistics,501-1k Employees,Startup,10,Ahmedabad
+1068,Reliance Lifestyle Holdings,3.8,Retail,51-200 Employees,Public,51,Ahmedabad
+1069,ShareChat,3.6,Internet,1k-5k Employees,Indian Unicorn,9,Ahmedabad
+1070,Signify,3.6,Consumer Electronics & Appliances,1k-5k Employees,Conglomerate,8,Ahmedabad
+1071,EarlySalary.com,3.8,FinTech,501-1k Employees,Startup,9,Ahmedabad
+1072,Shanthi Gears,3.6,Auto Components,501-1k Employees,Public,55,Ahmedabad
+1073,Freight Systems,3.9,Ports & Shipping,501-1k Employees,Public,36,Ahmedabad
+1074,Gillette,4.5,FMCG,1k-5k Employees,Public,40,Ahmedabad
+1075,Motilal Oswal,3.9,Financial Services,5k-10k Employees,Public,37,Ahmedabad
+1076,SoCoMo Technologies,3.3,Internet,51-200 Employees,Startup,10,Ahmedabad
+1077,Ministry of Rural Development India,4.4,Government,51-200 Employees,Public,50,Ahmedabad
+1078,Zerodha,3.9,FinTech,1k-5k Employees,Public,14,Ahmedabad
+1079,Bigspoon,4.3,Internet,11-50 Employees,Startup,5,Ahmedabad
+1080,A2Z Infraservices,4.0,Facility Management Services,201-500 Employees,Public,22,Ahmedabad
+1081,Syngene International,3.9,Pharma,1k-5k Employees,Public,31,Ahmedabad
+1082,Tata Indicom,4.6,Telecom,5k-10k Employees,Public,28,New
+1083,Veritas,4.2,Software Product,1k-5k Employees,Public,35,Pune
+1084,Sheela Foam,4.2,Furniture & Furnishing,1k-5k Employees,Public,53,Indore
+1085,International Travel House,4.1,Hospitality,501-1k Employees,Public,43,Indore
+1086,PTC,4.2,Software Product,1k-5k Employees,Public,39,Pune
+1087,Portea Medical,4.4,Healthcare,1k-5k Employees,Startup,11,Indore
+1088,Vogo Automotive,4.0,Internet,51-200 Employees,Startup,8,Ahmedabad
+1089,Karnataka Bank,3.8,Banking,5k-10k Employees,Public,100,Ahmedabad
+1090,Ador Welding,4.0,Industrial Machinery,501-1k Employees,Public,73,Ahmedabad
+1091,MTR Foods,4.2,FMCG,1k-5k Employees,Forbes Global 2000,100,Ahmedabad
+1092,Shanthi Gears,3.6,Auto Components,501-1k Employees,Public,55,Ahmedabad
+1093,Essar Group,4.0,Engineering & Construction,10k-50k Employees,Public,55,Ahmedabad
+1094,Maersk Line,4.3,Logistics,1k-5k Employees,Public,120,Ahmedabad
+1095,EarlySalary.com,3.8,FinTech,501-1k Employees,Startup,9,Ahmedabad
+1096,Tci Finance,3.8,Financial Services,51-200 Employees,Public,51,Ahmedabad
+1097,Telesonic Networks,3.7,Telecom,5k-10k Employees,Public,15,Ahmedabad
+1098,Fleetx.io,3.7,Computer Software,201-500 Employees,Startup,7,Ahmedabad
+1099,Manba Finance,3.9,NBFC,501-1k Employees,Public,28,Ahmedabad
+1100,Bigspoon,4.3,Internet,11-50 Employees,Startup,5,Ahmedabad
+1101,Alok Industries,3.8,Fashion & Textile,10k-50k Employees,Public,38,Silvassa
+1102,Acer India,4.2,IT Services & Consulting,51-200 Employees,Public,48,Bangalore
+1103,Birla Corporation,4.2,Building Material,5k-10k Employees,Public,105,Indore
+1104,Treebo Hotels,3.5,Internet,51-200 Employees,Startup,9,Ahmedabad
+1105,Vogo Automotive,4.0,Internet,51-200 Employees,Startup,8,Ahmedabad
+1106,Samsung SDS,3.5,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,39,Ahmedabad
+1107,Aarvi Encon,4.1,Recruitment,5k-10k Employees,Public,37,Ahmedabad
+1108,Scott Edil Pharmacia,3.8,Pharma,51-200 Employees,Public,28,Ahmedabad
+1109,Dilip Buildcon,4.1,Engineering & Construction,10k-50k Employees,Public,37,Ahmedabad
+1110,Bharat Parenterals,3.1,Pharma,51-200 Employees,Public,32,Ahmedabad
+1111,Cotton Corporation of India,4.5,Fashion & Textile,1k-5k Employees,Public,54,Ahmedabad
+1112,Jtekt Sona Automotive India,4.0,Auto Components,51-200 Employees,Public,17,Ahmedabad
+1113,Shree Renuka Sugars,4.2,Food Processing,1k-5k Employees,Public,26,Ahmedabad
+1114,Filatex India,3.9,Fashion & Textile,1k-5k Employees,Public,34,Ahmedabad
+1115,MTS,4.1,Telecom,1k-5k Employees,Conglomerate,58,Ahmedabad
+1116,ShipRocket,3.4,Internet,201-500 Employees,Indian Unicorn,12,Ahmedabad
+1117,Timex Group India,3.9,Metals & Mining,201-500 Employees,Public,170,Ahmedabad
+1118,Cogent E Services,3.3,BPO,10k-50k Employees,Conglomerate,20,Ahmedabad
+1119,Prabhat Dairy,3.8,FMCG,201-500 Employees,Public,26,Ahmedabad
+1120,Bayer,4.2,Pharma,10k-50k Employees,Public,161,Ahmedabad
+1121,UCO Bank,3.6,Banking,10k-50k Employees,Public,81,Ahmedabad
+1122,BetterPlace Safety Solutions,3.2,IT Services & Consulting,201-500 Employees,Startup,9,Ahmedabad
+1123,Volvo,4.1,Automobile,1k-5k Employees,Forbes Global 2000,97,Ahmedabad
+1124,OneCard,3.8,FinTech,51-200 Employees,Indian Unicorn,5,Ahmedabad
+1125,eBay,4.1,Internet,1k-5k Employees,Forbes Global 2000,29,Ahmedabad
+1126,Agilent Technologies,4.3,Pharma,1k-5k Employees,Forbes Global 2000,25,Ahmedabad
+1127,Reliance Infrastructure,4.1,Engineering & Construction,1k-5k Employees,Public,95,Ahmedabad
+1128,Aurionpro Solutions,3.7,Software Product,1k-5k Employees,Public,27,Ahmedabad
+1129,Tesco,3.9,Retail,1k-5k Employees,Forbes Global 2000,105,Ahmedabad
+1130,Saregama India,4.1,Media & Entertainment,201-500 Employees,Public,123,Ahmedabad
+1131,Forbes & Company,4.1,Engineering & Construction,501-1k Employees,Fortune India 500,259,Ahmedabad
+1132,Archidply Industries,4.0,Furniture & Furnishing,501-1k Employees,Public,48,Ahmedabad
+1133,Securitas,4.0,Law Enforcement & Security,10k-50k Employees,Forbes Global 2000,90,Ahmedabad
+1134,JTEKT,4.2,Auto Components,1k-5k Employees,Public,18,Ahmedabad
+1135,Essel Group,4.1,Media & Entertainment,10k-50k Employees,Conglomerate,98,Ahmedabad
+1136,MyGlamm,3.5,Beauty & Personal Care,501-1k Employees,Indian Unicorn,9,Ahmedabad
+1137,MagicPin,3.2,Internet,201-500 Employees,Startup,9,Ahmedabad
+1138,Kitply Industries,3.6,Petrochemicals,201-500 Employees,Public,42,Ahmedabad
+1139,Smarter BIZ Technologies,3.1,IT Services & Consulting,51-200 Employees,Startup,10,Bangalore
+1140,MamaEarth,4.0,Beauty & Personal Care,501-1k Employees,Indian Unicorn,8,Indore
+1141,Entertainment Network India,3.5,Media & Entertainment,501-1k Employees,Public,25,Ahmedabad
+1142,Smart Joules,3.7,Power,51-200 Employees,Startup,10,Ahmedabad
+1143,Wakefit,4.2,Furniture & Furnishing,1k-5k Employees,Startup,8,Ahmedabad
+1144,Jenburkt Pharmaceuticals,4.3,Pharma,501-1k Employees,Public,39,Ahmedabad
+1145,Healthplix Technologies,3.3,Fitness & Wellness,51-200 Employees,Startup,10,Ahmedabad
+1146,Aditya Birla Insurance Brokers,4.4,Insurance,201-500 Employees,Public,21,Ahmedabad
+1147,DCM Shriram,4.3,Chemicals,5k-10k Employees,Public,34,Ahmedabad
+1148,MediBuddy,3.2,Healthcare,1k-5k Employees,Startup,11,Ahmedabad
+1149,Reliance Lifestyle Holdings,3.8,Retail,51-200 Employees,Public,51,Ahmedabad
+1150,Thinq Pharma Cro,4.0,Pharma,51-200 Employees,Public,22,Ahmedabad
+1151,American Tower Corporation,3.9,Telecom,501-1k Employees,Forbes Global 2000,29,Bhubaneswar
+1152,MamaEarth,4.0,Beauty & Personal Care,501-1k Employees,Indian Unicorn,8,Ahmedabad
+1153,Entertainment Network India,3.5,Media & Entertainment,501-1k Employees,Public,25,Ahmedabad
+1154,Wakefit,4.2,Furniture & Furnishing,1k-5k Employees,Startup,8,Ahmedabad
+1155,Thinq Pharma Cro,4.0,Pharma,51-200 Employees,Public,22,Indore
+1156,DCM Shriram,4.3,Chemicals,5k-10k Employees,Public,34,Indore
+1157,Allsec Technologies,4.0,BPO,1k-5k Employees,Public,24,Ahmedabad
+1158,L&T Power,3.9,Power,1k-5k Employees,Public,18,Ahmedabad
+1159,American Tower Corporation,3.9,Telecom,501-1k Employees,Forbes Global 2000,29,Ahmedabad
+1160,Cipla Health,4.2,Pharma,10k-50k Employees,Public,11,Ahmedabad
+1161,United Nations Development Programme,4.3,Non-Profit,201-500 Employees,Public,59,Ahmedabad
+1162,Bizlog,3.8,Logistics,51-200 Employees,Startup,8,Ahmedabad
+1163,RapiPay,4.0,FinTech,1k-5k Employees,Startup,6,Ahmedabad
+1164,Consolidated Construction Consortium,4.3,Engineering & Construction,501-1k Employees,Public,27,Ahmedabad
+1165,Manba Finance,3.9,NBFC,501-1k Employees,Public,28,Ahmedabad
+1166,ShareChat,3.6,Internet,1k-5k Employees,Indian Unicorn,9,Ahmedabad
+1167,Aye Finance,4.2,NBFC,5k-10k Employees,Startup,11,Ahmedabad
+1168,Olympus,4.1,Healthcare,201-500 Employees,Forbes Global 2000,14,Ahmedabad
+1169,Fleetx.io,3.7,Computer Software,201-500 Employees,Startup,7,Ahmedabad
+1170,Edgistify,4.5,Internet,11-50 Employees,Startup,7,Ahmedabad
+1171,Bharat Financial Inclusion,4.0,NBFC,10k-50k Employees,Public,26,Ahmedabad
+1172,Fleeca India,3.2,Logistics,51-200 Employees,Startup,8,Ahmedabad
+1173,Jk Industries,4.1,Auto Components,1k-5k Employees,Public,73,Ahmedabad
+1174,Persistent Systems,3.8,IT Services & Consulting,10k-50k Employees,Public,34,Ahmedabad
+1175,Addverb Technologies,4.0,Industrial Automation,501-1k Employees,Startup,8,Ahmedabad
+1176,Pharmarack Technologies,3.8,IT Services & Consulting,51-200 Employees,Startup,9,Ahmedabad
+1177,Container Corporation of India,4.2,Logistics,1k-5k Employees,Public,36,Ahmedabad
+1178,L&T Power,3.9,Power,1k-5k Employees,Public,18,Ahmedabad
+1179,Indostar Capital Finance,4.5,NBFC,1k-5k Employees,Public,13,Ahmedabad
+1180,Allsec Technologies,4.0,BPO,1k-5k Employees,Public,24,Ahmedabad
+1181,Cipla Health,4.2,Pharma,10k-50k Employees,Public,11,Ahmedabad
+1182,Securens System,4.2,Law Enforcement & Security,201-500 Employees,Startup,12,Ahmedabad
+1183,India Post,3.9,Government,1 Lakh+ Employees,Public,170,Ahmedabad
+1184,Usha Breco,4.0,Industrial Machinery,51-200 Employees,Public,55,Ahmedabad
+1185,Microsoft Corporation,4.1,Software Product,10k-50k Employees,Forbes Global 2000,49,Ahmedabad
+1186,Container Corporation of India,4.2,Logistics,1k-5k Employees,Public,36,Ahmedabad
+1187,Tata Marcopolo Motors,3.6,Auto Components,1k-5k Employees,Public,79,Ahmedabad
+1188,Vadilal Dairy International,3.0,Agriculture,201-500 Employees,Public,117,Ahmedabad
+1189,VOIZ,4.4,BPO,201-500 Employees,Startup,2,Bangalore
+1190,Bizlog,3.8,Logistics,51-200 Employees,Startup,8,Bangalore
+1191,VOIZ,4.4,BPO,201-500 Employees,Startup,2,Ahmedabad
+1192,Capacit'e Infraprojects,3.6,Engineering & Construction,1k-5k Employees,Public,12,Ahmedabad
+1193,Vadilal Dairy International,3.0,Agriculture,201-500 Employees,Public,117,Ahmedabad
+1194,Lyka Labs,3.0,Pharma,201-500 Employees,Public,48,Ahmedabad
+1195,PolicyBazaar,3.5,Internet,10k-50k Employees,Public,16,Ahmedabad
+1196,Lyka Labs,3.0,Pharma,201-500 Employees,Public,48,Ahmedabad
+1197,Delta Electronics,4.0,Electronics Manufacturing,501-1k Employees,Forbes Global 2000,32,Ahmedabad
+1198,Honeywell International India,4.0,Defence & Aerospace,10k-50k Employees,Forbes Global 2000,118,Ahmedabad
+1199,Zee Entertainment Enterprises,3.6,Media & Entertainment,1k-5k Employees,Public,32,Ahmedabad
+1200,Cyient,3.8,IT Services & Consulting,10k-50k Employees,Public,33,Ahmedabad
+1201,Cadence Design Systems,4.2,IT Services & Consulting,1k-5k Employees,Public,36,Ahmedabad
+1202,Gufic Biosciences,3.2,Pharma,501-1k Employees,Public,54,Ahmedabad
+1203,Varroc Group,3.8,Auto Components,1k-5k Employees,Public,36,Ahmedabad
+1204,FabHotels,3.1,Hospitality,501-1k Employees,Startup,10,Ahmedabad
+1205,ICON Plc,4.2,Clinical Research,1k-5k Employees,Public,34,Ahmedabad
+1206,Renault,4.3,Automobile,10k-50k Employees,Forbes Global 2000,126,Ahmedabad
+1207,Renault,4.3,Automobile,10k-50k Employees,Forbes Global 2000,126,Ahmedabad
+1208,Hinduja Global Solutions,4.0,IT Services & Consulting,10k-50k Employees,Public,24,Ahmedabad
+1209,SAP,4.3,Software Product,10k-50k Employees,Forbes Global 2000,52,Ahmedabad
+1210,Oracle,3.8,Software Product,50k-1 Lakh Employees,Public,47,Ahmedabad
+1211,Genpact,3.9,IT Services & Consulting,1 Lakh+ Employees,Public,27,Ahmedabad
+1212,Panoramic Universal,1.8,IT Services & Consulting,201-500 Employees,Public,27,Ahmedabad
+1213,Invixium,1.0,Internet,11-50 Employees,Startup,12,Ahmedabad
+1214,Maxim Integrated,4.3,Semiconductors,201-500 Employees,Public,41,Ahmedabad
+1215,Carnival Group,4.0,Media & Entertainment,51-200 Employees,Conglomerate,17,Ahmedabad
+1216,TUI India,4.2,Travel & Tourism,501-1k Employees,Forbes Global 2000,19,Ahmedabad
+1217,CR2 Technologies,2.0,IT Services & Consulting,11-50 Employees (Global),Public,17,Ahmedabad
+1218,Abellon Agrisciences,4.2,Agriculture,51-200 Employees,Public,18,Ahmedabad
+1219,Aegon Religare Life Insurance,3.9,Insurance,1k-5k Employees,Public,17,Ahmedabad
+1220,India Home Loans,4.3,NBFC,11-50 Employees,Public,34,Ahmedabad
+1221,Richa Industries,4.5,Engineering & Construction,501-1k Employees (Global),Public,31,Ahmedabad
+1222,Narnolia Securities,4.4,Financial Services,1k-5k Employees (Global),Public,27,Ahmedabad
+1223,Maxim Integrated,4.3,Semiconductors,201-500 Employees,Public,41,Ahmedabad
+1224,Valspar,4.1,Chemicals,51-200 Employees,Public,13,Ahmedabad
+1225,Binani Industries,4.6,Building Material,1k-5k Employees,Public,152,Ahmedabad
+1226,Gojavas,3.7,Logistics,1k-5k Employees,Startup,11,Gurgaon
+1227,Everonn Education,4.9,Education & Training,5k-10k Employees (Global),Public,37,Ahmedabad
+1228,Richa Industries,4.5,Engineering & Construction,501-1k Employees (Global),Public,31,Ahmedabad
+1229,RA Consultants,3.9,Engineering & Construction,11-50 Employees (Global),Public,20,Ahmedabad
+1230,One Way Cab,4.7,Internet,11-50 Employees (Global),Startup,11,Ahmedabad
+1231,Centre For Electronic Governance,4.4,Government,51-200 Employees (Global),Public,18,Ahmedabad
+1232,Kalupur Bank,,Banking,501-1k Employees (Global),Public,54,Ahmedabad
+1233,Fulford India,4.3,Pharma,501-1k Employees,Public,76,Ahmedabad
+1234,Department of Telecommunications,4.3,Telecom,1k-5k Employees (Global),Public,39,Ahmedabad

@@ -1,0 +1,1404 @@
+,company_name,company_rating,industry,size,type,years_old,location
+0,TCS,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,56,Chennai
+1,Cognizant,3.9,IT Services & Consulting,1 Lakh+ Employees,Forbes Global 2000,30,Chennai
+2,HCLTech,3.7,IT Services & Consulting,1 Lakh+ Employees,Public,33,Chennai
+3,Accenture,4.0,IT Services & Consulting,1 Lakh+ Employees,Public,35,Chennai
+4,Wipro,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,79,Chennai
+5,Infosys,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,43,Chennai
+6,Capgemini,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,57,Chennai
+7,Larsen & Toubro Limited,4.1,Engineering & Construction,10k-50k Employees,Public,86,Chennai
+8,Hexaware Technologies,3.7,IT Services & Consulting,10k-50k Employees,Fortune India 500,34,Chennai
+9,Tech Mahindra,3.7,IT Services & Consulting,1 Lakh+ Employees,Public,38,Chennai
+10,Amazon,4.1,Internet,1 Lakh+ Employees,Public,30,Chennai
+11,Standard Chartered,3.9,Banking,10k-50k Employees,Fortune India 500,171,Chennai
+12,Hyundai Motor India Limited,4.4,Automobile,10k-50k Employees,Fortune India 500,57,Chennai
+13,Ford Motor,4.5,Automobile,5k-10k Employees,Public,121,Chennai
+14,IBM,4.1,IT Services & Consulting,1 Lakh+ Employees,Public,113,Chennai
+15,Teleperformance,3.8,BPO,50k-1 Lakh Employees,Forbes Global 2000,46,Chennai
+16,HDFC Bank,4.0,Banking,1 Lakh+ Employees,Public,30,Chennai
+17,BNY Mellon,4.0,Investment Banking / Venture Capital / Private Equity,10k-50k Employees,Forbes Global 2000,20,Chennai
+18,Flex,4.1,Logistics,5k-10k Employees,Forbes Global 2000,55,Chennai
+19,ICICI Bank,4.0,Banking,1 Lakh+ Employees,Public,30,Chennai
+20,DXC Technology,3.8,IT Services & Consulting,10k-50k Employees,Public,7,Chennai
+21,Ashok Leyland,4.1,Automobile,5k-10k Employees,Public,76,Chennai
+22,L&T Construction,4.1,Engineering & Construction,5k-10k Employees,Public,80,Chennai
+23,MRF Tyres,3.8,Auto Components,10k-50k Employees,Public,78,Chennai
+24,LTIMindtree,3.6,IT Services & Consulting,50k-1 Lakh Employees,Public,27,Chennai
+25,Allsec Technologies,4.0,BPO,1k-5k Employees,Public,24,Chennai
+26,Mahindra & Mahindra,4.2,Automobile,1 Lakh+ Employees,Public,79,Chennai
+27,First Source,3.8,BPO,10k-50k Employees,Public,23,Chennai
+28,L&T Infotech,3.8,IT Services & Consulting,10k-50k Employees,Public,28,Chennai
+29,Intellect Design Arena,4.1,FinTech,5k-10k Employees,Public,13,Chennai
+30,Hewlett Packard Enterprise,4.3,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,9,Chennai
+31,Equitas Small Finance Bank,4.4,Banking,10k-50k Employees,Fortune India 500,17,Chennai
+32,Apollo Hospitals,4.2,Healthcare,10k-50k Employees,Public,41,Chennai
+33,Valeo,4.1,Auto Components,5k-10k Employees,Forbes Global 2000,101,Chennai
+34,Barclays,4.0,Banking,10k-50k Employees,Forbes Global 2000,334,Chennai
+35,Shell,4.3,Oil & Gas,10k-50k Employees,Public,117,Chennai
+36,Mando Automotive,3.9,Auto Components,1k-5k Employees,Fortune India 500,18,Chennai
+37,Brakes India,4.1,Auto Components,501-1k Employees,Fortune India 500,62,Chennai
+38,Mphasis,3.5,IT Services & Consulting,10k-50k Employees,Public,26,Chennai
+39,Verizon,4.2,Telecom,5k-10k Employees,Forbes Global 2000,24,Chennai
+40,Vestas,4.3,Power,1k-5k Employees,Forbes Global 2000,27,Chennai
+41,TVS Sundram Fasteners,3.8,Auto Components,1k-5k Employees,Public,62,Chennai
+42,Axis Bank,3.9,Banking,50k-1 Lakh Employees,Public,31,Chennai
+43,BNP Paribas,3.9,Financial Services,10k-50k Employees,Forbes Global 2000,176,Chennai
+44,IndusInd Bank,3.7,Banking,10k-50k Employees,Public,30,Mumbai
+45,Bharti Airtel,4.1,Telecom,10k-50k Employees,Public,29,Gurgaon
+46,Apollo Tyres,4.1,Auto Components,5k-10k Employees,Public,52,Chennai
+47,BYJU'S,3.1,EdTech,10k-50k Employees,Indian Unicorn,13,Chennai
+48,KONE,4.3,Industrial Machinery,5k-10k Employees,Forbes Global 2000,114,Chennai
+49,L&T Technology Services,3.4,IT Services & Consulting,10k-50k Employees,Public,12,Chennai
+50,Sundaram Clayton,4.1,Auto Components,1k-5k Employees,Public,62,Chennai
+51,Ramco Systems,3.5,Software Product,1k-5k Employees,Public,27,Chennai
+52,BGR Energy Systems,3.9,Engineering & Construction,1k-5k Employees,Public,39,Chennai
+53,Tractors and Farm Equipment,4.1,Industrial Machinery,10k-50k Employees,Public,64,Chennai
+54,AstraZeneca,4.2,Pharma,501-1k Employees,Public,25,Chennai
+55,Wells Fargo,4.0,Financial Services,10k-50k Employees,Public,172,Chennai
+56,Kotak Mahindra Bank,3.9,Banking,50k-1 Lakh Employees,Public,21,Chennai
+57,Tata Communications,4.1,Telecom,5k-10k Employees,Public,38,Chennai
+58,Yamaha Motor,4.2,Automobile,1k-5k Employees,Fortune India 500,69,Chennai
+59,Sheenlac Paints,4.6,Chemicals,501-1k Employees,Public,62,Chennai
+60,Atos,3.8,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,27,Chennai
+61,Jio,4.0,Telecom,50k-1 Lakh Employees,Public,6,Chennai
+62,Cavinkare,4.0,FMCG,1k-5k Employees,Conglomerate,41,Chennai
+63,Wheels,4.1,Auto Components,1k-5k Employees,Public,62,Chennai
+64,Caterpillar Inc,4.2,Industrial Machinery,5k-10k Employees,Forbes Global 2000,99,Chennai
+65,CGI Group,4.1,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,48,Chennai
+66,Yes Bank,3.9,Banking,10k-50k Employees,Public,20,Chennai
+67,Concentrix Corporation,3.9,BPO,50k-1 Lakh Employees,Public,41,Chennai
+68,Skill Lync,3.1,EdTech,1k-5k Employees,Startup,9,Chennai
+69,Samsung,4.1,Consumer Electronics & Appliances,50k-1 Lakh Employees,Public,55,Chennai
+70,Star Health & Allied Insurance,3.9,Insurance,10k-50k Employees,Fortune India 500,18,Chennai
+71,Tube Investments of India,4.0,Engineering & Construction,1k-5k Employees,Public,75,Chennai
+72,Freshworks,3.7,Software Product,1k-5k Employees,Public,14,Chennai
+73,Maveric Systems,3.7,IT Services & Consulting,1k-5k Employees,Public,24,Chennai
+74,Sl Lumax,3.5,Auto Components,1k-5k Employees,Public,27,Chennai
+75,Nokia,4.2,Telecom,10k-50k Employees,Forbes Global 2000,159,Chennai
+76,Citibank,4.0,Banking,10k-50k Employees (Global),Fortune India 500,212,Chennai
+77,Bank of America,4.4,Banking,10k-50k Employees,Fortune India 500,26,Chennai
+78,Saipem,4.1,Engineering & Construction,1k-5k Employees,Forbes Global 2000,67,Chennai
+79,Matrimony.com,4.4,Internet,1k-5k Employees,Public,27,Chennai
+80,Saint-Gobain,4.0,Building Material,10k-50k Employees,Forbes Global 2000,359,Chennai
+81,TVS Credit,4.5,NBFC,10k-50k Employees,Public,16,Chennai
+82,Fujitsu,3.9,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,89,Chennai
+83,Cholamandalam Investment & Finance,4.1,NBFC,10k-50k Employees,Fortune India 500,46,Chennai
+84,Sodexo,4.1,Facility Management Services,10k-50k Employees,Forbes Global 2000,16,Chennai
+85,ICON Plc,4.2,Clinical Research,1k-5k Employees,Public,34,Chennai
+86,Hyundai Mobis,3.9,Auto Components,1k-5k Employees,Forbes Global 2000,7,Chennai
+87,CBRE,4.2,Real Estate,10k-50k Employees,Forbes Global 2000,118,Chennai
+88,Schneider Electric,4.2,Industrial Automation,10k-50k Employees,Forbes Global 2000,25,Chennai
+89,Foundever,3.8,BPO,5k-10k Employees,Conglomerate,39,Chennai
+90,Mindsprint,3.8,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,17,Chennai
+91,Randstad,3.9,Recruitment,5k-10k Employees,Conglomerate,32,Chennai
+92,Pfizer,4.1,Pharma,1k-5k Employees,Public,20,Chennai
+93,Hinduja Global Solutions,4.0,IT Services & Consulting,10k-50k Employees,Public,24,Chennai
+94,Hatsun Agro Product,4.0,Food Processing,5k-10k Employees,Public,54,Chennai
+95,Samvardhana Motherson Group,3.8,Auto Components,1k-5k Employees,Public,38,Chennai
+96,Philips,3.9,Consumer Electronics & Appliances,5k-10k Employees,Forbes Global 2000,94,Chennai
+97,VA Tech Wabag,4.0,Waste Management,501-1k Employees,Public,100,Chennai
+98,HSBC Group,4.1,Banking,10k-50k Employees,Forbes Global 2000,159,Chennai
+99,Vodafone Idea,4.2,Telecom,5k-10k Employees,Public,6,Chennai
+100,ITC,4.0,FMCG,10k-50k Employees,Public,114,Chennai
+101,Steel Strips Wheels,3.8,Auto Components,1k-5k Employees,Public,33,Chennai
+102,PayPal,3.9,FinTech,1k-5k Employees,Forbes Global 2000,26,Chennai
+103,Sundaram Finance,4.2,NBFC,1k-5k Employees,Public,70,Chennai
+104,Ericsson,4.3,Telecom,10k-50k Employees,Forbes Global 2000,148,Chennai
+105,JK Tyres,3.8,Auto Components,1k-5k Employees,Fortune India 500,73,Chennai
+106,IDFC FIRST Bank,4.0,Banking,10k-50k Employees,Public,6,Chennai
+107,JLL,4.2,Real Estate,10k-50k Employees,Forbes Global 2000,25,Chennai
+108,Quess,4.0,BPO,1k-5k Employees,Public,17,Chennai
+109,TVS Motor,4.1,Automobile,5k-10k Employees,Public,45,Chennai
+110,Williams Lea,4.1,BPO,1k-5k Employees,Public,204,Chennai
+111,Hindustan Unilever,4.3,FMCG,10k-50k Employees,Public,152,Chennai
+112,Sopra Steria,4.0,IT Services & Consulting,5k-10k Employees,Conglomerate,56,Chennai
+113,Tiger Analytics,3.5,Analytics & KPO,1k-5k Employees,Startup,13,Chennai
+114,HDFC Life,4.1,Insurance,10k-50k Employees,Public,24,Chennai
+115,BigBasket,4.0,Internet,10k-50k Employees,Indian Unicorn,13,Chennai
+116,JBM Group,4.0,Auto Components,1k-5k Employees,Public,41,Chennai
+117,Samunnati Financial Intermediation and Services,4.5,Financial Services,201-500 Employees,Startup,10,Chennai
+118,Equiniti,3.6,IT Services & Consulting,1k-5k Employees,Public,10,Chennai
+119,Shriram Finance,4.1,NBFC,50k-1 Lakh Employees,Public,45,Chennai
+120,Dell,4.2,Consumer Electronics & Appliances,10k-50k Employees,Forbes Global 2000,40,Chennai
+121,NCR Corporation,4.1,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,140,Chennai
+122,Automatic Data Processing (ADP),4.1,Software Product,1k-5k Employees,Forbes Global 2000,75,Chennai
+123,Ceat Tyres,4.1,Auto Components,5k-10k Employees,Public,66,Chennai
+124,Walmart,4.0,Retail,5k-10k Employees,Forbes Global 2000,15,Chennai
+125,Tata Projects,4.3,Engineering & Construction,5k-10k Employees,Public,45,Chennai
+126,Siemens,4.2,Industrial Automation,5k-10k Employees,Public,177,Chennai
+127,Redington,4.0,Hardware & Networking,1k-5k Employees,Public,25,Chennai
+128,City Union Bank,3.4,Banking,5k-10k Employees,Public,120,Chennai
+129,Jana Small Finance Bank,3.9,Banking,10k-50k Employees,Public,18,Chennai
+130,DHL Express,4.1,Logistics,1k-5k Employees,Conglomerate,45,Chennai
+131,Onward Technologies Inc,3.2,Software Product,1k-5k Employees,Public,33,Chennai
+132,Inspirisys Solution,3.9,IT Services & Consulting,1k-5k Employees,Public,33,Chennai
+133,Flipkart,4.0,Internet,10k-50k Employees,Public,17,Chennai
+134,McDermott International,4.3,Engineering & Construction,1k-5k Employees,Public,101,Chennai
+135,ITC Hotels,4.2,Hospitality,5k-10k Employees,Public,49,Chennai
+136,TransUnion,4.0,Financial Services,201-500 Employees,Forbes Global 2000,56,Chennai
+137,JustDial,3.6,Internet,10k-50k Employees,Public,28,Chennai
+138,Fiserv,3.6,FinTech,5k-10k Employees,Forbes Global 2000,40,Chennai
+139,3i Infotech,3.6,IT Services & Consulting,1k-5k Employees,Public,31,Navi
+140,Nippon Paint India,4.1,Chemicals,1k-5k Employees,Forbes Global 2000,143,Nagpur
+141,Garuda Aerospace,4.3,Internet,11-50 Employees,Startup,9,Chennai
+142,ICICI Prudential Life Insurance,4.1,Insurance,10k-50k Employees,Public,24,Nagpur
+143,Kyndryl,4.1,IT Services & Consulting,10k-50k Employees,Public,2,Nagpur
+144,Manappuram Finance,4.0,NBFC,10k-50k Employees,Public,75,Nagpur
+145,Sharda Motor Industries,3.8,Auto Components,1k-5k Employees,Public,38,Chennai
+146,Asian Paints,4.1,Chemicals,5k-10k Employees,Public,82,Mumbai
+147,Wipro Infotech,4.0,IT Services & Consulting,1 Lakh+ Employees (Global),MNC,79,Bangalore
+148,Hitachi Energy,4.2,Power,1k-5k Employees,Fortune India 500,5,Zurich
+149,Reliance Industries,4.1,Oil & Gas,1 Lakh+ Employees,Public,47,Navi
+150,Toshiba JSW Power Systems,4.3,Industrial Machinery,501-1k Employees,Conglomerate,11,Chiyoda-ku
+151,InterGlobe Aviation,3.6,Aviation,10k-50k Employees,Fortune India 500,19,Gurgaon/Gurugram
+152,Trimble,4.2,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,46,Sunnyvale
+153,Infinite Computer Solutions,3.5,IT Services & Consulting,1k-5k Employees,Public,23,Chennai
+154,Shapoorji Pallonji Group,4.2,Engineering & Construction,5k-10k Employees,Conglomerate,159,Chennai
+155,Sun TV Network,3.8,Media & Entertainment,1k-5k Employees,Public,31,Chennai
+156,SRM Technologies Pvt.Ltd,3.6,IT Services & Consulting,1k-5k Employees,Conglomerate,26,Chennai
+157,Muthoot Finance,3.6,NBFC,10k-50k Employees,Public,85,Chennai
+158,Chennai Petroleum Corporation,4.6,Oil & Gas,1k-5k Employees,Public,59,Chennai
+159,Timken,3.9,Industrial Machinery,1k-5k Employees,Public,26,Chennai
+160,Team Lease,4.0,Recruitment,1k-5k Employees,Public,8,Chennai
+161,Genpact,3.9,IT Services & Consulting,1 Lakh+ Employees,Public,27,Chennai
+162,Hyatt Regency,4.2,Hospitality,1k-5k Employees,Forbes Global 2000,44,Chennai
+163,Swiggy,3.9,Internet,5k-10k Employees,Indian Unicorn,10,Chennai
+164,Netmeds.com,3.6,Internet,501-1k Employees,Startup,9,Chennai
+165,The Ramco Cements,4.3,Building Material,1k-5k Employees,Public,63,Chennai
+166,Veritas Finance,4.7,NBFC,1k-5k Employees,Startup,9,Chennai
+167,Karur Vysya Bank,3.7,Banking,5k-10k Employees,Public,108,Chennai
+168,Rane (Madras),4.0,Auto Components,1k-5k Employees,Public,27,Chennai
+169,Bajaj Finserv,4.1,Financial Services,50k-1 Lakh Employees,Public,17,Chennai
+170,Citigroup,3.7,Banking,10k-50k Employees,Forbes Global 2000,212,Chennai
+171,HDFC Ergo General Insurance,4.0,Insurance,10k-50k Employees,Public,22,Chennai
+172,Godrej & Boyce Manufacturing,4.0,Consumer Electronics & Appliances,10k-50k Employees,Fortune India 500,127,Chennai
+173,Asahi India Glass,3.9,Auto Components,1k-5k Employees,Public,40,Chennai
+174,KEC International,4.1,Engineering & Construction,5k-10k Employees,Public,79,Chennai
+175,UCAL Fuel Systems,3.7,Auto Components,501-1k Employees,Public,39,Chennai
+176,ESAB,4.2,Industrial Machinery,501-1k Employees,Public,37,Chennai
+177,Oyo Rooms,3.4,Hospitality,1k-5k Employees,Indian Unicorn,11,Chennai
+178,HCL Infosystems,4.1,IT Services & Consulting,51-200 Employees,Public,48,Chennai
+179,EMERSON PROCESS MANAGEMENT,4.1,Industrial Machinery,1k-5k Employees,Public,134,Chennai
+180,Comcast India Engineering Center,4.1,Software Product,1k-5k Employees,Conglomerate,61,Chennai
+181,SRF,4.3,Chemicals,5k-10k Employees,Public,54,Chennai
+182,PwC,3.6,Management Consulting,10k-50k Employees,Conglomerate,144,Chennai
+183,Paytm,3.5,FinTech,10k-50k Employees,Public,14,Chennai
+184,Axiscades,3.4,IT Services & Consulting,1k-5k Employees,Public,34,Chennai
+185,Nestle,4.1,Food Processing,5k-10k Employees,Public,65,Chennai
+186,Kellogg Brown and Root,4.1,Defence & Aerospace,501-1k Employees,Public,26,Chennai
+187,Vakilsearch,3.5,Legal,51-200 Employees,Startup,12,Chennai
+188,Dalmia Bharat Cement,4.1,Building Material,5k-10k Employees,Public,89,Chennai
+189,ICICI Lombard General Insurance Company,3.8,Insurance,10k-50k Employees,Public,23,Chennai
+190,Schwing Stetter,4.1,Industrial Machinery,1k-5k Employees,Fortune India 500,26,Chennai
+191,Muthoot Fincorp,4.1,NBFC,10k-50k Employees,Conglomerate,137,Chennai
+192,Isuzu Motors,4.0,Automobile,1k-5k Employees,Forbes Global 2000,12,Chennai
+193,DATAMARK BPO SERVICE (P) LTD,3.7,BPO,1k-5k Employees,MNC,35,Chennai
+194,State Bank of India,3.9,Banking,1 Lakh+ Employees,Fortune India 500,218,Chennai
+195,Tata Elxsi,4.0,IT Services & Consulting,5k-10k Employees,Public,35,Chennai
+196,Yalamanchili Software Exports,3.4,Software Product,51-200 Employees,Public,23,Chennai
+197,Rane Brake Lining,4.3,Auto Components,201-500 Employees,Public,60,Chennai
+198,Bosch,4.3,Auto Components,5k-10k Employees,Public,138,Chennai
+199,TPI Composites,4.3,Industrial Machinery,501-1k Employees,Public,56,Chennai
+200,The KCP,4.1,Building Material,1k-5k Employees,Public,83,Chennai
+201,Thermax Limited,4.2,Industrial Machinery,1k-5k Employees,Public,58,Chennai
+202,Blue Star,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,81,Chennai
+203,Butterfly Gandhimathi Appliances,4.3,Consumer Electronics & Appliances,501-1k Employees,Public,38,Chennai
+204,Butterfly Gandhimathi Appliances,4.3,Consumer Electronics & Appliances,501-1k Employees,Public,38,Chennai
+205,Kauvery Hospital,4.1,Healthcare,1k-5k Employees,Public,25,Chennai
+206,Ninjacart,4.1,Internet,1k-5k Employees,Startup,9,Chennai
+207,Indiafilings,3.1,Financial Services,501-1k Employees (Global),Startup,11,Chennai
+208,Orchid Pharma,3.9,Pharma,1k-5k Employees,Public,32,Chennai
+209,TVS Electronics,3.9,Consumer Electronics & Appliances,501-1k Employees,Public,38,Chennai
+210,Carborundum Universal,4.0,Metals & Mining,1k-5k Employees,Public,70,Chennai
+211,Bharat Electronics,4.2,Electronics Manufacturing,5k-10k Employees,Fortune India 500,70,Chennai
+212,Madras Radiators and Pressings Limited,4.0,Auto Components,501-1k Employees,Public,61,Chennai
+213,Igarashi Motors,4.1,Auto Components,501-1k Employees,Public,32,Chennai
+214,India Pistons,3.5,Auto Components,1k-5k Employees,Public,75,Chennai
+215,DataTracks,3.5,Financial Services,201-500 Employees,Public,19,Chennai
+216,Simplex Infrastructures,3.3,Engineering & Construction,1k-5k Employees,Public,100,Chennai
+217,Blue Dart Express,4.1,Logistics,10k-50k Employees,Public,41,Chennai
+218,Newgen Software Technologies,3.6,IT Services & Consulting,1k-5k Employees,Public,32,Chennai
+219,NortonLifeLock's,4.1,IT Services & Consulting,501-1k Employees,Forbes Global 2000,42,Chennai
+220,TTK Healthcare,4.2,Healthcare,1k-5k Employees,Public,96,Chennai
+221,India Cements,3.8,Building Material,1k-5k Employees,Public,78,Chennai
+222,Aditya Birla Fashion and Retail,4.2,Fashion & Textile,10k-50k Employees,Fortune India 500,36,Chennai
+223,Murugappa Group,4.0,Agro Chemicals,50k-1 Lakh Employees,Conglomerate,124,Chennai
+224,Xome,4.3,Internet,201-500 Employees,Startup,12,Chennai
+225,RBL Bank,3.8,Banking,10k-50k Employees,Public,81,Chennai
+226,Tata Motors,4.2,Automobile,10k-50k Employees,Public,79,Chennai
+227,Tech Mahindra Business Services,3.5,BPO,5k-10k Employees,Public,21,Chennai
+228,Indian Bank,3.5,Banking,10k-50k Employees,Fortune India 500,117,Chennai
+229,Rane Engine Valve Limited,4.0,Auto Components,1k-5k Employees,Public,65,Chennai
+230,Magna International,4.0,Auto Components,501-1k Employees,Public,67,Chennai
+231,Sterling Holiday Resort,3.9,Hospitality,1k-5k Employees,Public,38,Chennai
+232,Delhivery,4.0,Logistics,10k-50k Employees,Fortune India 500,13,Chennai
+233,Startek,3.3,BPO,10k-50k Employees,Public,7,Chennai
+234,Britannia,4.1,FMCG,1k-5k Employees,Public,132,Chennai
+235,Ramco Industries,4.2,Building Material,1k-5k Employees,Public,32,Chennai
+236,Indus Towers,4.0,Telecom,1k-5k Employees,Fortune India 500,17,Chennai
+237,Tamilnadu Petroproducts,4.3,Chemicals / Agri Inputs,201-500 Employees,Public,40,Chennai
+238,Yubi,2.7,Financial Services,501-1k Employees,Indian Unicorn,7,Chennai
+239,Mahindra Logistics,4.1,Logistics,1k-5k Employees,Public,24,Chennai
+240,DCB Bank,3.9,Banking,5k-10k Employees,Fortune India 500,94,Chennai
+241,Lifestyle,4.4,Retail,10k-50k Employees,Fortune India 500,25,Chennai
+242,Bajaj Capital,3.9,Financial Services,1k-5k Employees,Public,60,Chennai
+243,Vishay Precision Transducers,3.9,Semiconductors,1k-5k Employees,Public,14,Chennai
+244,Kotak Mahindara Life Insurance,3.9,Insurance,10k-50k Employees,Public,23,Chennai
+245,Voltas,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,70,Chennai
+246,Reliance Communications,4.0,Telecom,201-500 Employees,Public,22,Chennai
+247,Dr. Agarwal's Eye Hospital,4.0,Healthcare,1k-5k Employees,Public,67,Chennai
+248,Amazon Web Services,4.0,Software Product,10k-50k Employees,Public,18,Chennai
+249,Maersk Line,4.3,Logistics,1k-5k Employees,Public,120,Chennai
+250,Amrutanjan Health Care,3.8,Pharma,1k-5k Employees,Public,131,Chennai
+251,Consolidated Construction Consortium,4.3,Engineering & Construction,501-1k Employees,Public,27,Chennai
+252,NoBroker,3.2,Internet,1k-5k Employees,Indian Unicorn,10,Bangalore
+253,ABB Group,4.1,Electrical Equipment,1k-5k Employees,Public,36,Zurich
+254,Birlasoft,3.8,IT Services & Consulting,10k-50k Employees,Public,29,Pune
+255,IIFL Finance,4.0,NBFC,10k-50k Employees,Public,29,Mumbai
+256,Tata Capital,4.2,NBFC,5k-10k Employees,Fortune India 500,17,Mumbai
+257,Abbott,4.2,Pharma,10k-50k Employees,Public,136,Chennai
+258,TVS Mobility,4.2,Automobile,5k-10k Employees,Public,113,Chennai
+259,ZF Steering Gear,3.8,Auto Components,501-1k Employees,Public,109,Chennai
+260,Net Access India,4.0,IT Services & Consulting,201-500 Employees,Public,27,Chennai
+261,EID Parry (India),4.2,Food Processing,1k-5k Employees,Public,236,Chennai
+262,CARS24,3.7,Internet,5k-10k Employees,Indian Unicorn,9,Chennai
+263,Titan Company,4.4,Retail,5k-10k Employees,Public,40,Chennai
+264,Spark Minda,3.9,Auto Components,1k-5k Employees,Public,66,Chennai
+265,Indian Overseas Bank,3.4,Banking,10k-50k Employees,Fortune India 500,87,Chennai
+266,ITD Cementation India,4.3,Engineering & Construction,1k-5k Employees,Public,93,Mumbai
+267,TVS - SUNDARAM BRAKE LININGS,3.5,Auto Components,1k-5k Employees,Public,48,Chennai
+268,Pennar Industries,3.7,Engineering & Construction,1k-5k Employees,Public,36,Hyderabad/Secunderabad
+269,Domino's Pizza,4.0,Hospitality,1k-5k Employees,Public,64,Ypsilanti
+270,Sanmar Group,3.8,Chemicals,1k-5k Employees (Global),Public,52,Chennai
+271,Indian Railways,4.2,Railways,1 Lakh+ Employees,Central,171,Delhi/NCR
+272,Pidilite Industries,4.4,Chemicals,5k-10k Employees,Public,65,Chennai
+273,Rico Auto Industries,3.8,Auto Components,1k-5k Employees,Public,41,Chennai
+274,GE,4.3,Defence & Aerospace,10k-50k Employees,Forbes Global 2000,132,Chennai
+275,Five-Star Business Finance,4.3,NBFC,5k-10k Employees,Public,40,Chennai
+276,Compass Group Support Services,4.1,Hospitality,10k-50k Employees,Public,83,Chennai
+277,Solara Active Pharma Sciences,3.7,Pharma,1k-5k Employees,Public,6,Chennai
+278,Shriram EPC,4.3,Oil & Gas,201-500 Employees,Public,24,Chennai
+279,ABC,4.0,Broadcasting,1k-5k Employees (Global),Public,81,Chennai
+280,ABC,4.0,Broadcasting,1k-5k Employees (Global),Public,81,Chennai
+281,Lenskart,3.3,Internet,5k-10k Employees,Indian Unicorn,14,Chennai
+282,Sintex-bapl,3.8,Petrochemicals,501-1k Employees,Public,17,Chennai
+283,The Hindu Group,4.0,Printing & Publishing,1k-5k Employees,Public,146,Chennai
+284,Honeywell Automation,3.8,Consumer Electronics & Appliances,10k-50k Employees,Public,118,Chennai
+285,Spicejet,3.5,Aviation,5k-10k Employees,Public,20,Chennai
+286,Boeing,4.0,Aviation,1k-5k Employees,Public,108,Chennai
+287,Lotte India Corporation,3.9,FMCG,501-1k Employees,Public,20,Chennai
+288,Crisil,3.7,Financial Services,1k-5k Employees,Public,37,Chennai
+289,Hyundai Glovis,3.9,Logistics,201-500 Employees,Public,23,Chennai
+290,Tenneco,3.8,Auto Components,1k-5k Employees,Forbes Global 2000,84,Chennai
+291,DP World,4.1,Logistics,1k-5k Employees,Public,19,Chennai
+292,NSE.IT,3.6,IT Services & Consulting,1k-5k Employees,Public,25,Chennai
+293,Subros,4.0,Auto Components,1k-5k Employees,Public,39,Chennai
+294,Manali Petrochemicals,3.8,Chemicals,501-1k Employees,Public,38,Chennai
+295,NSK,4.0,Industrial Machinery,51-200 Employees,Public,108,Chennai
+296,Indian Oil Corporation,4.4,Oil & Gas,10k-50k Employees,Fortune India 500,65,Chennai
+297,Sona Comstar,4.3,Auto Components,1k-5k Employees,Public,29,Mumbai
+298,Jubilant Foods Works,3.9,Hospitality,10k-50k Employees,Public,29,Mumbai
+299,CIEL HR,4.1,Recruitment,1k-5k Employees,Startup,9,Mumbai
+300,Chemplast Sanmar,3.8,Chemicals,501-1k Employees,Fortune India 500,57,Mumbai
+301,Brimma Tech,4.9,IT Services & Consulting,51-200 Employees,Startup,8,Chennai
+302,RELX Group,3.8,Analytics & KPO,201-500 Employees,Forbes Global 2000,31,Chennai
+303,Agilisium,3.4,IT Services & Consulting,201-500 Employees,Startup,10,Chennai
+304,PVR Cinemas,4.1,Media & Entertainment,1k-5k Employees,Public,27,Chennai
+305,Aptiv,3.5,Auto Components,1k-5k Employees,Forbes Global 2000,30,Chennai
+306,Tekion,3.0,Software Product,1k-5k Employees,Startup,8,Chennai
+307,Ingram Micro,3.9,IT Services & Consulting,1k-5k Employees,Conglomerate,45,Chennai
+308,THE LEELA PALACES HOTELS & RESORTS,4.0,Hospitality,1k-5k Employees,Conglomerate,41,Chennai
+309,L&T Finance,4.0,NBFC,10k-50k Employees,Public,30,Chennai
+310,Ola Cabs,3.5,Internet,1k-5k Employees,Indian Unicorn,14,Chennai
+311,Adecco Group,3.8,Recruitment,1k-5k Employees,Forbes Global 2000,25,Chennai
+312,UltraTech Cement,4.2,Building Material,10k-50k Employees,Public,41,Chennai
+313,Nagarjuna Construction Company,4.2,Engineering & Construction,5k-10k Employees,Public,26,Chennai
+314,KFintech,3.7,FinTech,5k-10k Employees,Startup,7,Chennai
+315,GUVI,4.2,EdTech,501-1k Employees,Startup,10,Chennai
+316,Oracle Financial Services Software,3.7,IT Services & Consulting,10k-50k Employees,Public,34,Chennai
+317,Fiat Chrysler Automobiles,3.5,Automobile,1k-5k Employees,Public,10,Chennai
+318,Wolters Kluwer,3.9,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,188,Chennai
+319,CES,3.7,IT Services & Consulting,1k-5k Employees,Public,28,Chennai
+320,Nissan,4.0,Automobile,10k-50k Employees,Forbes Global 2000,91,Chennai
+321,Natco Pharma,4.1,Pharma,1k-5k Employees,Public,43,Hyderabad
+322,Virtusa Software Services,4.0,IT Services & Consulting,5k-10k Employees,Public,28,Chennai
+323,Saint Gobain Sekurit India,4.0,Auto Components,501-1k Employees,Public,51,Chennai
+324,Sundaram Auto Components,4.1,Auto Components,501-1k Employees,Public,44,Chennai
+325,Maruti Suzuki,4.2,Automobile,10k-50k Employees,Public,43,Chennai
+326,ManpowerGroup,3.9,Recruitment,50k-1 Lakh Employees,Forbes Global 2000,29,Chennai
+327,ICICI Securities,3.8,Financial Services,1k-5k Employees,Public,29,Chennai
+328,Bandhan Bank,3.8,Banking,50k-1 Lakh Employees,Public,23,Chennai
+329,Aon,3.9,Financial Services,5k-10k Employees,Forbes Global 2000,84,Chennai
+330,Exide Industries,3.6,Auto Components,5k-10k Employees,Public,77,Chennai
+331,Cipla,4.1,Pharma,10k-50k Employees,Public,89,Chennai
+332,Hilton,4.4,Hospitality,1k-5k Employees,Forbes Global 2000,105,Mumbai
+333,Rotork Controls,3.6,Industrial Machinery,201-500 Employees,Public,67,Mumbai
+334,Bureau Veritas,4.0,Other,1k-5k Employees,Forbes Global 2000,196,Mumbai
+335,REPCO HOME FINANCE,3.9,NBFC,501-1k Employees,Public,24,Mumbai
+336,REPCO HOME FINANCE,3.9,NBFC,501-1k Employees,Public,24,Chennai
+337,Bureau Veritas,4.0,Other,1k-5k Employees,Forbes Global 2000,196,Chennai
+338,Zaigo Infotech,4.3,IT Services & Consulting,51-200 Employees,Startup,9,Chennai
+339,Saksoft,3.7,IT Services & Consulting,1k-5k Employees,Public,25,Chennai
+340,Panasonic,4.1,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,106,Chennai
+341,Panasonic,4.1,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,106,Chennai
+342,Hitachi,4.1,Industrial Machinery,10k-50k Employees,Forbes Global 2000,114,Chennai
+343,KLA,4.1,Semiconductors,501-1k Employees,Public,27,Chennai
+344,Tata Teleservices,4.1,Telecom,201-500 Employees,Public,28,Chennai
+345,BHEL,4.2,Electrical Equipment,10k-50k Employees,Fortune India 500,60,Chennai
+346,Elsevier,4.4,Printing & Publishing,1k-5k Employees,Public,144,Chennai
+347,Pickyourtrail,3.9,Travel & Tourism,201-500 Employees,Startup,10,Chennai
+348,Indian Terrain Fashions,4.1,Fashion & Textile,201-500 Employees,Public,24,Chennai
+349,FedEx Express,4.2,Logistics,5k-10k Employees,Forbes Global 2000,53,Chennai
+350,Swelect Energy Systems,4.2,Electrical Equipment,201-500 Employees,Public,40,Chennai
+351,Alstom Transportation,3.9,Urban Transport,5k-10k Employees,Forbes Global 2000,96,Chennai
+352,Wittur Elevator Components,3.7,Industrial Machinery,51-200 Employees,Public,56,Chennai
+353,PULSUS HealthTech Group,3.9,Printing & Publishing,501-1k Employees,Public,40,Chennai
+354,DLF,4.0,Real Estate,501-1k Employees,Public,78,Chennai
+355,Daimler,3.9,Automobile,51-200 Employees,Forbes Global 2000,138,Chennai
+356,Jain Housing & Constructions,4.0,Architecture & Interior Design,501-1k Employees,Public,37,Chennai
+357,Tata Play,4.0,Broadcasting,5k-10k Employees,Public,18,Chennai
+358,Clarivate,3.9,Analytics & KPO,1k-5k Employees,Public,8,Chennai
+359,Strides Pharma,3.9,Pharma,201-500 Employees,Public,34,Chennai
+360,Stanza Living,3.1,Internet,501-1k Employees,Startup,7,Chennai
+361,Piramal Group,4.0,Financial Services,10k-50k Employees,Fortune India 500,44,Chennai
+362,Tamilnad Mercantile Bank,3.0,Banking,1k-5k Employees,Fortune India 500,103,Chennai
+363,Johnson Controls,3.7,Industrial Automation,5k-10k Employees,Public,139,Chennai
+364,Lookman Electroplast Industries,3.2,Law Enforcement & Security,51-200 Employees,Public,45,Chennai
+365,Zepto,3.7,Internet,1k-5k Employees,Indian Unicorn,3,Mumbai
+366,Adrenalin Esystems,3.7,Software Product,201-500 Employees,Public,22,Mumbai
+367,Expeditors International,3.9,Logistics,1k-5k Employees,Forbes Global 2000,45,Mumbai
+368,Adrenalin Esystems,3.7,Software Product,201-500 Employees,Public,22,Chennai
+369,EMIS Health,4.3,Software Product,201-500 Employees,Public,37,Chennai
+370,Fujitec,3.9,Electronics Manufacturing,51-200 Employees,Public,14,Chennai
+371,Anunta Technology Management Services,3.6,IT Services & Consulting,501-1k Employees,Startup,12,Chennai
+372,L.G.Balakrishnan & Bros,3.7,Auto Components,1k-5k Employees,Public,87,Chennai
+373,Rivigo,3.9,Internet,1k-5k Employees,Indian Unicorn,10,Chennai
+374,Cisco,4.3,Hardware & Networking,10k-50k Employees,Public,40,Chennai
+375,Air India,4.0,Aviation,10k-50k Employees,Central,94,Chennai
+376,MPS Limited,4.0,Content Development,1k-5k Employees,Public,54,Chennai
+377,Air India,4.0,Aviation,10k-50k Employees,Central,94,Chennai
+378,Tata Group,4.3,IT Services & Consulting,1 Lakh+ Employees,Conglomerate,156,Chennai
+379,Uflex,3.8,Packaging,5k-10k Employees,Public,39,Chennai
+380,CreditAccess Grameen,4.3,NBFC,10k-50k Employees,Public,25,Chennai
+381,Ge T & D India,4.3,Electrical Equipment,201-500 Employees,Public,67,Chennai
+382,BYD Electronics,3.3,Electronics Manufacturing,51-200 Employees,Forbes Global 2000,29,Chennai
+383,Zomato,3.8,Internet,1k-5k Employees,Public,16,Chennai
+384,Kotak Mahindra Prime,4.0,NBFC,5k-10k Employees,Public,28,Chennai
+385,Hinduja Group,4.0,Automobile,1 Lakh+ Employees,Public,15,Chennai
+386,OPPO,4.0,Consumer Electronics & Appliances,10k-50k Employees,Public,20,Chennai
+387,OPPO,4.0,Consumer Electronics & Appliances,10k-50k Employees,Public,20,Chennai
+388,Safexpress,4.1,Logistics,1k-5k Employees,Conglomerate,27,Chennai
+389,Coromandel International,4.2,Agro Chemicals,5k-10k Employees,Public,63,Chennai
+390,Hyoseong Electric,3.1,Auto Components,51-200 Employees,Public,51,Chennai
+391,Food Hub Software Solutions,4.2,Internet,1k-5k Employees (Global),Startup,3,Chennai
+392,Bharat Petroleum,4.2,Oil & Gas,5k-10k Employees,Fortune India 500,72,Chennai
+393,Endurance Technologies,3.9,Auto Components,1k-5k Employees,Public,39,Chennai
+394,BlueBinaries Engineering and Solutions,3.3,Software Product,501-1k Employees,Startup,7,Chennai
+395,PepsiCo,4.2,Food Processing,1 Lakh+ Employees,Public,59,Chennai
+396,Tata International,3.7,Import & Export,1k-5k Employees,Public,62,Chennai
+397,M2P Fintech,3.8,FinTech,1k-5k Employees,Startup,9,Chennai
+398,CitiusTech,3.5,IT Services & Consulting,1k-5k Employees,Indian Unicorn,19,Chennai
+399,Telesonic Networks,3.7,Telecom,5k-10k Employees,Public,15,Chennai
+400,Mitsuba Sical,4.0,Auto Components,201-500 Employees,Public,27,Chennai
+401,Sobha,4.0,Real Estate,1k-5k Employees,Public,29,Chennai
+402,Datamatics Global Services,3.6,IT Services & Consulting,5k-10k Employees,Public,49,Chennai
+403,McDonald's,4.2,Hospitality,1k-5k Employees,Forbes Global 2000,69,Chennai
+404,Johnson & Johnson,4.2,Pharma,1k-5k Employees,Forbes Global 2000,67,Chennai
+405,Shoppers Stop,4.1,Retail,5k-10k Employees,Public,33,Chennai
+406,Balmer Lawrie,4.0,Packaging,501-1k Employees,Central,157,Chennai
+407,Ujjivan Small Finance Bank,4.1,Banking,10k-50k Employees,Public,7,Chennai
+408,Harsha Toyota,4.4,Automobile,201-500 Employees (Global),Public,87,Chennai
+409,Heritage Foods,4.1,Food Processing,1k-5k Employees,Public,32,Chennai
+410,Landmark Group,4.1,Retail,1k-5k Employees,Conglomerate,51,Chennai
+411,Aditya Birla Group,4.1,Building Material,1 Lakh+ Employees,Conglomerate,167,Chennai
+412,Switch Mobility,4.0,Internet,51-200 Employees,Startup,5,Mumbai
+413,Celebrity Fashions,4.1,Fashion & Textile,1k-5k Employees,Public,36,Chennai
+414,Zolo,3.5,Internet,501-1k Employees,Startup,9,Mumbai
+415,Bafna Pharmaceuticals,4.0,Pharma,51-200 Employees,Public,43,Chennai
+416,Jaya Hind Industries,3.8,Auto Components,1k-5k Employees,Public,77,Mumbai
+417,Security and Intelligence Services (India),4.1,Law Enforcement & Security,1 Lakh+ Employees,Public,39,Mumbai
+418,Fortis Malar Hospital,3.9,Healthcare,201-500 Employees,Public,28,Chennai
+419,Mahindra Finance,4.3,NBFC,10k-50k Employees,Public,33,Chennai
+420,Mad Street Den,3.7,IT Services & Consulting,11-50 Employees,Startup,11,Chennai
+421,Kothari Petrochemicals,4.4,Chemicals / Agri Inputs,51-200 Employees,Public,34,Chennai
+422,XpressBees,3.8,Logistics,5k-10k Employees,Indian Unicorn,9,Chennai
+423,Spinny,3.9,Internet,1k-5k Employees,Indian Unicorn,9,Chennai
+424,Indian Army,4.7,Defence & Aerospace,1 Lakh+ Employees,Public,129,Chennai
+425,1point1 Solutions,3.4,BPO,5k-10k Employees,Public,16,Chennai
+426,Cooper-Standard Automotive,4.2,Auto Components,201-500 Employees,Public,64,Chennai
+427,Barclays Global Service Centre,4.0,IT Services & Consulting,201-500 Employees,Fortune India 500,17,Chennai
+428,Indian Army,4.7,Defence & Aerospace,1 Lakh+ Employees,Public,129,Chennai
+429,Havells,4.1,Electrical Equipment,5k-10k Employees,Public,41,Chennai
+430,Dr. Reddy's,4.2,Pharma,10k-50k Employees,Public,40,Chennai
+431,Piramal Pharma,4.0,Pharma,1k-5k Employees,Public,36,Chennai
+432,Sun Pharmaceutical Industries,4.1,Pharma,10k-50k Employees,Public,41,Chennai
+433,Komatsu,4.0,Industrial Machinery,201-500 Employees,Forbes Global 2000,103,Chennai
+434,KPIT Technologies,3.6,Software Product,5k-10k Employees,Public,34,Chennai
+435,Oil And Natural Gas Corporation,4.3,Oil & Gas,10k-50k Employees,Public,68,Chennai
+436,Kotak Securities,3.7,Financial Services,5k-10k Employees,Conglomerate,30,Chennai
+437,GlaxoSmithKline Pharmaceuticals,4.2,Pharma,1k-5k Employees,Fortune India 500,194,Chennai
+438,IQVIA,4.0,Clinical Research,10k-50k Employees,Forbes Global 2000,42,Chennai
+439,CenturyPly,4.0,Furniture & Furnishing,1k-5k Employees,Public,38,Chennai
+440,Electronica Finance,4.2,NBFC,1k-5k Employees,Public,34,Chennai
+441,Aditya Birla Capital,4.0,Financial Services,10k-50k Employees,Public,7,Chennai
+442,Marriott International,4.3,Hospitality,10k-50k Employees,Forbes Global 2000,97,Chennai
+443,Dabur,3.8,FMCG,5k-10k Employees,Public,140,Chennai
+444,L&T Power,3.9,Power,1k-5k Employees,Public,18,Chennai
+445,DMart,4.0,Retail,10k-50k Employees,Fortune India 500,22,Chennai
+446,IP Rings,3.8,Auto Components,501-1k Employees,Public,33,Chennai
+447,Eveready Industries,4.0,Consumer Electronics & Appliances,1k-5k Employees,Public,90,Chennai
+448,Godrej Group,4.0,Chemicals,10k-50k Employees,Public,127,Chennai
+449,Godrej Consumer Products,4.2,FMCG,1k-5k Employees,Public,23,Chennai
+450,Hyundai Steel,3.9,Iron & Steel,501-1k Employees,Forbes Global 2000,14,Chennai
+451,Jamna Auto Industries,3.7,Auto Components,1k-5k Employees,Public,70,Chennai
+452,HomeLane,3.5,Architecture & Interior Design,1k-5k Employees,Startup,10,Chennai
+453,Colgate Palmolive,4.2,FMCG,1k-5k Employees,Public,87,Chennai
+454,State Street Corporation,3.8,Financial Services,10k-50k Employees,Forbes Global 2000,232,Chennai
+455,Shadowfax Technologies,3.7,Logistics,1k-5k Employees,Public,9,Chennai
+456,Berger Paints,3.8,Chemicals,1k-5k Employees,Public,101,Chennai
+457,Ola Electric Mobility,3.3,Automobile,5k-10k Employees,Indian Unicorn,7,Chennai
+458,Gowthamraj Network,4.9,EdTech,51-200 Employees,Startup,1,Chennai
+459,Adani Ports and SEZ,3.9,Ports & Shipping,1k-5k Employees,Public,26,Chennai
+460,International Flavors & Fragrances,3.8,Chemicals,1k-5k Employees,Forbes Global 2000,191,Chennai
+461,USHA International,4.2,Consumer Electronics & Appliances,1k-5k Employees,Public,90,Chennai
+462,Airports Authority of India,4.4,Aviation,10k-50k Employees,Central,29,Chennai
+463,Government Of Tamilnadu,3.9,Government,1k-5k Employees,State,74,Chennai
+464,Twin Health,3.4,Healthcare,201-500 Employees,Startup,6,San
+465,Coforge,3.5,IT Services & Consulting,10k-50k Employees,Public,20,Noida
+466,Muthoot Group,3.6,Financial Services,10k-50k Employees,Public,137,Wedel
+467,IDBI Bank,3.7,Banking,10k-50k Employees,Public,60,Mumbai
+468,Canara Bank,3.5,Banking,50k-1 Lakh Employees,Public,118,Bangalore/Bengaluru
+469,Reliance SMSL,4.0,BPO,1k-5k Employees,Public,17,Chennai
+470,Canara Bank,3.5,Banking,50k-1 Lakh Employees,Public,118,Chennai
+471,IDBI Bank,3.7,Banking,10k-50k Employees,Public,60,Chennai
+472,Future Group,4.3,Retail,10k-50k Employees,Conglomerate,11,Chennai
+473,Daikin,4.2,Consumer Electronics & Appliances,1k-5k Employees,Fortune India 500,24,Chennai
+474,Muthoot Group,3.6,Financial Services,10k-50k Employees,Public,137,Chennai
+475,Rebel Foods,3.8,Internet,5k-10k Employees,Indian Unicorn,12,Chennai
+476,Crowne Plaza,4.1,Hospitality,501-1k Employees,Public,41,Chennai
+477,Chettinad Group,3.8,Building Material,1k-5k Employees,Conglomerate,112,Chennai
+478,Trane Technologies,4.2,Industrial Machinery,1k-5k Employees,Forbes Global 2000,153,Chennai
+479,Microsoft Corporation,4.1,Software Product,10k-50k Employees,Forbes Global 2000,49,Chennai
+480,NIIT,3.7,Education & Training,1k-5k Employees,Public,43,Chennai
+481,Glenmark Pharmaceuticals,4.0,Pharma,10k-50k Employees,Public,47,Chennai
+482,IFB,3.7,Consumer Electronics & Appliances,201-500 Employees,Public,50,Chennai
+483,Bata,3.9,Fashion & Textile,1k-5k Employees,Public,93,Chennai
+484,Sony,4.3,Consumer Electronics & Appliances,1k-5k Employees,Public,30,Chennai
+485,Lear Corporation,4.1,Auto Components,1k-5k Employees,Public,107,Chennai
+486,MEL Systems and Services,4.0,Electronics Manufacturing,51-200 Employees (Global),Public,29,Chennai
+487,Metropolis Healthcare,4.1,Healthcare,1k-5k Employees,Conglomerate,44,Chennai
+488,Indiabulls Home Loans,3.9,NBFC,5k-10k Employees,Public,19,Chennai
+489,DB Schenker,4.3,Logistics,1k-5k Employees,Conglomerate,34,Chennai
+490,Motilal Oswal Financial Services,3.8,Financial Services,10k-50k Employees,Public,37,Chennai
+491,Accurate Steel Forgings,3.2,Iron & Steel,51-200 Employees,Public,32,Chennai
+492,Fipola Retail,3.6,Food Processing,1k-5k Employees,Startup,8,Chennai
+493,Rappo Phygital Commerce,3.3,Internet,11-50 Employees,Startup,4,Chennai
+494,SightSpectrum Technology Solutions,3.8,IT Services & Consulting,501-1k Employees,Startup,7,Chennai
+495,Nippon Express,4.2,Logistics,501-1k Employees,Public,77,Chennai
+496,National Stock Exchange of India,3.7,Financial Services,1k-5k Employees,Fortune India 500,32,Chennai
+497,Bharat Sanchar Nigam,4.0,Telecom,50k-1 Lakh Employees,Central,24,Chennai
+498,Sicagen,4.0,Building Material,501-1k Employees,Public,20,Chennai
+499,Thomas Cook,3.9,Travel & Tourism,1k-5k Employees,Public,143,Chennai
+500,NLC,4.5,Metals & Mining,10k-50k Employees,Fortune India 500,68,Chennai
+501,Accel Limited,3.9,IT Services & Consulting,1k-5k Employees,Public,33,Chennai
+502,Bank of Baroda,3.6,Banking,50k-1 Lakh Employees,Fortune India 500,116,Chennai
+503,Fourkites,3.8,Software Product,201-500 Employees,Startup,10,Chennai
+504,Freightify,3.2,Internet,51-200 Employees,Startup,8,Chennai
+505,Freightify,3.2,Internet,51-200 Employees,Startup,8,Chennai
+506,Puravankara,3.7,Real Estate,501-1k Employees,Public,49,Chennai
+507,SunEdison Infrastructure,3.6,Power,201-500 Employees,Public,30,Chennai
+508,Natronix,3.5,Consumer Electronics & Appliances,201-500 Employees,Public,40,Chennai
+509,PNB MetLife,3.5,Insurance,5k-10k Employees,Conglomerate,23,Chennai
+510,Porter,4.2,Internet,1k-5k Employees,Startup,10,Bangalore
+511,Renault,4.3,Automobile,10k-50k Employees,Forbes Global 2000,126,Boulogne
+512,Workhall,4.3,Software Product,51-200 Employees,Startup,3,Chennai
+513,Supreme Industries,4.2,Petrochemicals,5k-10k Employees,Public,82,Mumbai
+514,Shriram Group,4.1,Financial Services,50k-1 Lakh Employees,Conglomerate,50,Chennai
+515,Sundaram Home Finance,4.2,NBFC,1k-5k Employees,Public,25,Chennai
+516,Reliance Trends,4.4,Retail,1 Lakh+ Employees,Conglomerate,18,Chennai
+517,Shriram Group,4.1,Financial Services,50k-1 Lakh Employees,Conglomerate,50,Chennai
+518,Vivriti Capital,4.0,Financial Services,201-500 Employees,Startup,7,Chennai
+519,Sundaram Home Finance,4.2,NBFC,1k-5k Employees,Public,25,Chennai
+520,TVS Upasana Engineering,3.6,Automobile,51-200 Employees,Public,39,Chennai
+521,Courtyard by Marriott,4.2,Hospitality,1k-5k Employees,Public,97,Chennai
+522,Sanofi,4.4,Pharma,1k-5k Employees,Public,20,Chennai
+523,NEARBY TECHNOLOGIES,3.8,Internet,1k-5k Employees,Startup,8,Chennai
+524,Oracle,3.8,Software Product,50k-1 Lakh Employees,Public,47,Chennai
+525,Aqgromalin,3.7,Other,51-200 Employees,Startup,4,Chennai
+526,Allcargo Logistics,3.9,Logistics,501-1k Employees,Public,31,Chennai
+527,Madras Fertilizers,4.5,Agro Chemicals,501-1k Employees,Public,58,Chennai
+528,PCBL Limited,3.9,Petrochemicals,1k-5k Employees,Public,64,Chennai
+529,NAPC,3.6,Engineering & Construction,501-1k Employees (Global),Public,75,Chennai
+530,Portea Medical,4.4,Healthcare,1k-5k Employees,Startup,11,Chennai
+531,Edelweiss,3.8,Financial Services,1k-5k Employees,Public,7,Chennai
+532,Tata Technologies,3.8,Engineering & Construction,5k-10k Employees,Conglomerate,35,Chennai
+533,Emerson Electric Co.,4.2,IT Services & Consulting,5k-10k Employees,Public,134,Chennai
+534,Greaves Cotton,4.1,Auto Components,501-1k Employees,Public,165,Chennai
+535,Vajro,3.4,Software Product,51-200 Employees,Startup,6,Chennai
+536,ACC,4.0,Building Material,5k-10k Employees,Public,88,Chennai
+537,Life Insurance Corporation of India,4.4,Insurance,1 Lakh+ Employees,Fortune India 500,68,Chennai
+538,Varun Beverages,4.1,Beverage,5k-10k Employees,Public,29,Chennai
+539,Varun Beverages,4.1,Beverage,5k-10k Employees,Public,29,Chennai
+540,Force Motors,3.6,Automobile,1k-5k Employees,Public,66,Chennai
+541,Health Care Global Enterprises,4.2,Healthcare,5k-10k Employees,Public,35,Chennai
+542,Image Infotainment,3.6,EdTech,201-500 Employees,Public,28,Chennai
+543,Zylog Systems,4.0,IT Services & Consulting,501-1k Employees,Public,29,Chennai
+544,Amco Batteries,4.1,Auto Components,201-500 Employees,Public,69,Chennai
+545,Haier Appliances India,4.1,Consumer Electronics & Appliances,1k-5k Employees,Conglomerate,20,Chennai
+546,Mondelez International,4.4,Food Processing,1k-5k Employees,Forbes Global 2000,12,Chennai
+547,Viasat,3.2,Telecom,201-500 Employees,Public,38,Chennai
+548,Raymond,4.1,Fashion & Textile,5k-10k Employees,Public,99,Chennai
+549,Sharekhan,4.0,Financial Services,1k-5k Employees,Public,24,Chennai
+550,Urban Company,3.6,Internet,1k-5k Employees,Indian Unicorn,9,Chennai
+551,Qualcomm,4.0,Semiconductors,10k-50k Employees,Forbes Global 2000,28,Chennai
+552,Eaton Corporation,4.0,Power,5k-10k Employees,Public,113,Chennai
+553,Northern Arc Capital,3.8,Financial Services,201-500 Employees,Public,35,Chennai
+554,Prince Pipes & Fittings,4.3,Building Material,1k-5k Employees,Public,37,Chennai
+555,QHTalbros,3.6,Auto Components,5k-10k Employees,Public,38,Chennai
+556,Adidas,4.0,Fashion & Textile,5k-10k Employees,Public,75,Chennai
+557,KritiLabs Technologies,3.9,Internet,501-1k Employees,Startup,12,Chennai
+558,Ppap Automotive,3.7,Auto Components,1k-5k Employees,Public,46,Chennai
+559,CreditMantri,4.0,Internet,51-200 Employees,Startup,12,Chennai
+560,HP Global e-Business Operations,4.2,BPO,1-10 Employees,Public,85,Chennai
+561,InsanelyGood,4.1,Internet,11-50 Employees,Startup,9,Chennai
+562,HP Global e-Business Operations,4.2,BPO,1-10 Employees,Public,85,Chennai
+563,Hindustan Petroleum,4.3,Oil & Gas,5k-10k Employees,Central,50,Chennai
+564,Sical Logistics,3.8,Logistics,201-500 Employees,Public,69,Chennai
+565,Vascon Engineers,3.6,Real Estate,501-1k Employees,Public,38,Chennai
+566,Gulf Oil Lubricants,4.1,Chemicals / Agri Inputs,501-1k Employees,Public,31,Chennai
+567,Aarvi Encon,4.1,Recruitment,5k-10k Employees,Public,37,Chennai
+568,Appaswamy Real Estates,4.2,Financial Services,51-200 Employees,Public,65,Chennai
+569,Big Bazaar,4.3,Retail,10k-50k Employees,Conglomerate,23,Chennai
+570,Amara Raja Energy & Mobility,4.3,Auto Components,5k-10k Employees,Fortune India 500,39,Chennai
+571,NELCAST,3.6,Iron & Steel,501-1k Employees,Public,42,Chennai
+572,Teva Pharmaceuticals,4.2,Pharma,1k-5k Employees,Forbes Global 2000,123,Chennai
+573,Alkem Laboratories,4.0,Pharma,10k-50k Employees,Public,51,Chennai
+574,Whirlpool,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,113,Chennai
+575,Amber Enterprises India,3.9,Consumer Electronics & Appliances,1k-5k Employees,Public,34,Chennai
+576,MARG,3.2,Real Estate,5k-10k Employees (Global),Public,30,Chennai
+577,Microland,3.6,IT Services & Consulting,1k-5k Employees,Public,35,Mumbai
+578,Tamil Nadu Electricity Board,4.3,Power,5k-10k Employees (Global),State,67,Chennai
+579,Bridge & Roof Co,3.6,Engineering & Construction,1k-5k Employees,Central,104,Mumbai
+580,Amber Enterprises India,3.9,Consumer Electronics & Appliances,1k-5k Employees,Public,34,Chennai
+581,Hotfoot Technology Solutions,3.6,Internet,51-200 Employees,Startup,8,Chennai
+582,Kuwy Digital Lender,3.8,Internet,51-200 Employees,Startup,7,Chennai
+583,Mahindra Rural Housing Finance,4.1,NBFC,10k-50k Employees,Public,17,Chennai
+584,Greenlam Industries,4.2,Building Material,1k-5k Employees,Public,11,Chennai
+585,Pine Labs,3.7,FinTech,1k-5k Employees,Indian Unicorn,26,Chennai
+586,GoBumpr,3.9,Internet,51-200 Employees (Global),Startup,9,Chennai
+587,Magic Crate,2.8,Education & Training,51-200 Employees,Startup,10,Chennai
+588,Inthree Access,3.9,Internet,51-200 Employees,Startup,11,Chennai
+589,Ion Exchange India,3.9,Waste Management,1k-5k Employees,Public,60,Chennai
+590,CareEdge Ratings,2.9,Financial Services,501-1k Employees,Public,31,Chennai
+591,Ashiana Housing,4.1,Real Estate,501-1k Employees,Public,45,Chennai
+592,Notion Press Media,3.2,Internet,51-200 Employees,Startup,12,Chennai
+593,Imarticus Learning,4.2,EdTech,501-1k Employees,Startup,12,Chennai
+594,Progressive Infotech,3.5,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,26,Chennai
+595,Roop Polymers,4.1,Auto Components,1k-5k Employees,Public,51,Chennai
+596,Canon,4.2,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,87,Chennai
+597,Sandhar Technologies,3.9,Auto Components,1k-5k Employees,Public,37,Chennai
+598,Mahindra Lifespace Developers,4.1,Real Estate,201-500 Employees,Public,30,Chennai
+599,The Waterbase,3.8,FMCG,201-500 Employees,Public,37,Chennai
+600,PhonePe,4.1,FinTech,5k-10k Employees,Indian Unicorn,9,Chennai
+601,FR8,4.4,Internet,51-200 Employees (Global),Startup,8,Chennai
+602,Disprz,3.5,Internet,201-500 Employees,Startup,9,Chennai
+603,Bajaj Auto,3.9,Automobile,5k-10k Employees,Public,79,Chennai
+604,Info Edge,4.0,Internet,5k-10k Employees,Public,29,Chennai
+605,AntWorks,3.2,Software Product,51-200 Employees,Startup,9,Chennai
+606,Shardlow India,3.5,Industrial Automation,201-500 Employees,Public,64,Chennai
+607,Pando,4.0,Internet,201-500 Employees,Startup,8,Chennai
+608,Henkel,4.1,Chemicals,501-1k Employees,Forbes Global 2000,59,Chennai
+609,Ingersoll Rand,4.3,Industrial Machinery,501-1k Employees,Public,52,Chennai
+610,Kellogg,4.3,FMCG,1k-5k Employees,Forbes Global 2000,118,Chennai
+611,Kansai Nerolac Paints,3.9,Chemicals,1k-5k Employees,Public,104,Chennai
+612,Shalimar Paints,3.9,Chemicals,1k-5k Employees,Public,122,Chennai
+613,Kansai Nerolac Paints,3.9,Chemicals,1k-5k Employees,Public,104,Chennai
+614,Shalimar Paints,3.9,Chemicals,1k-5k Employees,Public,122,Chennai
+615,Ingersoll Rand,4.3,Industrial Machinery,501-1k Employees,Public,52,Chennai
+616,Indostar Capital Finance,4.5,NBFC,1k-5k Employees,Public,13,Chennai
+617,Southern Petrochemical Industries Corporation,3.6,Agro Chemicals,1k-5k Employees,Public,55,Chennai
+618,Jumbotail Technologies,3.7,Retail,201-500 Employees,Startup,9,Chennai
+619,Indostar Capital Finance,4.5,NBFC,1k-5k Employees,Public,13,Chennai
+620,Isgec Heavy Engineering,3.9,Industrial Machinery,1k-5k Employees,Public,91,Chennai
+621,Deckzi Solutions Private Limited,4.7,Design,11-50 Employees,Startup,6,Chennai
+622,Pantaloons,4.2,Fashion & Textile,5k-10k Employees,Public,27,Chennai
+623,TTK Prestige,4.0,Consumer Electronics & Appliances,1k-5k Employees,Public,69,Chennai
+624,BlackBuck,3.9,Internet,1k-5k Employees,Indian Unicorn,9,Chennai
+625,Poonawalla Fincorp,3.9,NBFC,1k-5k Employees,Public,36,Chennai
+626,GAMMON INDIA,3.8,Engineering & Construction,11-50 Employees,Public,102,Chennai
+627,Refex Industries,4.2,Power,1k-5k Employees (Global),Public,22,Chennai
+628,Vivo,4.1,Consumer Electronics & Appliances,5k-10k Employees,Conglomerate,15,Chennai
+629,Vivo,4.1,Consumer Electronics & Appliances,5k-10k Employees,Conglomerate,15,Gurgaon/Gurugram
+630,SMC,3.9,Medical Equipment,201-500 Employees,Forbes Global 2000,36,Noblesville
+631,TCI Express,3.9,Logistics,1k-5k Employees,Public,28,Gurugram
+632,LEAD School,3.3,EdTech,1k-5k Employees,Indian Unicorn,11,Mumbai
+633,BlackBuck,3.9,Internet,1k-5k Employees,Indian Unicorn,9,Bangalore
+634,GAMMON INDIA,3.8,Engineering & Construction,11-50 Employees,Public,102,Mumbai
+635,Poonawalla Fincorp,3.9,NBFC,1k-5k Employees,Public,36,Mumbai
+636,Dunzo,3.5,Internet,1k-5k Employees,Startup,10,Chennai
+637,LEAD School,3.3,EdTech,1k-5k Employees,Indian Unicorn,11,Chennai
+638,PharmEasy,3.7,Internet,1k-5k Employees,Indian Unicorn,9,Chennai
+639,Lancor Holdings,4.4,Real Estate,51-200 Employees,Public,39,Chennai
+640,Tata Motors Finance,4.2,NBFC,1k-5k Employees,Conglomerate,67,Chennai
+641,KIA MOTORS,3.9,Automobile,1k-5k Employees,Forbes Global 2000,80,Chennai
+642,Zee Entertainment Enterprises,3.6,Media & Entertainment,1k-5k Employees,Public,32,Chennai
+643,Harita Techserv,3.4,Auto Components,51-200 Employees,Public,28,Chennai
+644,Concorde Motors,4.5,Automobile,501-1k Employees (Global),Public,52,Chennai
+645,HOV Services,3.2,BPO,51-200 Employees,Public,35,Chennai
+646,Parker Hannifin,4.0,Defence & Aerospace,1k-5k Employees,Forbes Global 2000,107,Chennai
+647,Blinkit,3.9,Internet,1k-5k Employees,Indian Unicorn,11,Chennai
+648,Dover India,3.9,Industrial Machinery,501-1k Employees,Forbes Global 2000,21,Chennai
+649,JSW Cement,4.1,Building Material,1k-5k Employees,Conglomerate,15,Chennai
+650,Bhartiya International,4.0,Fashion & Textile,201-500 Employees,Public,37,Chennai
+651,Aban Offshore,4.8,Oil & Gas,1k-5k Employees,Public,38,Chennai
+652,Uniphore Software Systems,3.6,Software Product,201-500 Employees,Indian Unicorn,16,Chennai
+653,Moglix,3.6,Internet,501-1k Employees,Indian Unicorn,9,Chennai
+654,JSW Cement,4.1,Building Material,1k-5k Employees,Conglomerate,15,Chennai
+655,Trent,4.1,Retail,10k-50k Employees,Public,26,Chennai
+656,CarDekho,3.7,Internet,1k-5k Employees,Indian Unicorn,16,Chennai
+657,Government of India,4.3,Government,1 Lakh+ Employees,Central,74,Chennai
+658,CG Power and Industrial Solutions,3.9,Electrical Equipment,1k-5k Employees,Public,87,Chennai
+659,Unitech,3.9,Real Estate,1k-5k Employees,Public,53,Chennai
+660,NEC,4.6,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,125,Chennai
+661,CMC,4.2,Education & Training,10k-50k Employees,Public,56,Chennai
+662,GlaxoSmithKline Consumer Healthcare,4.5,Pharma,1k-5k Employees,Public,24,Chennai
+663,CarDekho,3.7,Internet,1k-5k Employees,Indian Unicorn,16,Chennai
+664,CMC,4.2,Education & Training,10k-50k Employees,Public,56,Chennai
+665,NEC,4.6,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,125,Chennai
+666,Unitech,3.9,Real Estate,1k-5k Employees,Public,53,Chennai
+667,Government of India,4.3,Government,1 Lakh+ Employees,Central,74,Chennai
+668,CG Power and Industrial Solutions,3.9,Electrical Equipment,1k-5k Employees,Public,87,Chennai
+669,HungerBox,3.8,Internet,501-1k Employees,Startup,8,Chennai
+670,Cholamandalam Securities,4.0,Investment Banking / Venture Capital / Private Equity,201-500 Employees,Public,46,Chennai
+671,Naga,3.8,Food Processing,1k-5k Employees,Public,62,Chennai
+672,Ebix Software India,3.3,IT Services & Consulting,1k-5k Employees,Public,48,Chennai
+673,Gartner,4.2,Management Consulting,1k-5k Employees,Public,45,Chennai
+674,Ebix Software India,3.3,IT Services & Consulting,1k-5k Employees,Public,48,Chennai
+675,Naga,3.8,Food Processing,1k-5k Employees,Public,62,Chennai
+676,Cholamandalam Securities,4.0,Investment Banking / Venture Capital / Private Equity,201-500 Employees,Public,46,Chennai
+677,H&S Supply Chain Services,4.0,Logistics,201-500 Employees,Startup,9,Chennai
+678,Infra.Market,4.2,Building Material,1k-5k Employees,Indian Unicorn,8,Chennai
+679,Karvy Innotech,3.2,IT Services & Consulting,501-1k Employees,Public,12,Chennai
+680,Karvy Innotech,3.2,IT Services & Consulting,501-1k Employees,Public,12,Chennai
+681,Care Health Insurance,3.8,Internet,5k-10k Employees,Public,12,Chennai
+682,Sasken,3.5,IT Services & Consulting,1k-5k Employees,Public,35,Chennai
+683,Wirecard,4.3,FinTech,1k-5k Employees (Global),Forbes Global 2000,25,Chennai
+684,Doshi Housing,3.8,Engineering & Construction,51-200 Employees,Public,40,Chennai
+685,Union Bank of India,4.1,Banking,50k-1 Lakh Employees,Public,105,Chennai
+686,TotalEnergies,3.9,Oil & Gas,1k-5k Employees,Forbes Global 2000,100,Chennai
+687,Tata Steel,4.2,Iron & Steel,1 Lakh+ Employees,Public,117,Chennai
+688,Uber,4.2,Internet,1k-5k Employees,Public,15,Chennai
+689,Nilkamal,3.9,Furniture & Furnishing,1k-5k Employees,Public,43,Chennai
+690,AccorHotels,4.3,Hospitality,5k-10k Employees,Forbes Global 2000,57,Chennai
+691,Medtronic,4.1,Medical Equipment,1k-5k Employees,Forbes Global 2000,45,Chennai
+692,HIL,4.2,Building Material,1k-5k Employees,Public,78,Chennai
+693,Confederation of Indian Industry,3.5,Law Enforcement & Security,5k-10k Employees,Central,129,Chennai
+694,Rajshree Sugars & Chemicals,3.8,Food Processing,1k-5k Employees,Public,39,Chennai
+695,HIL,4.2,Building Material,1k-5k Employees,Public,78,Chennai
+696,Ricoh,3.9,IT Services & Consulting,1-10 Employees,Public,88,Chennai
+697,Confederation of Indian Industry,3.5,Law Enforcement & Security,5k-10k Employees,Central,129,Chennai
+698,Varroc Group,3.8,Auto Components,1k-5k Employees,Public,36,Chennai
+699,Rajshree Sugars & Chemicals,3.8,Food Processing,1k-5k Employees,Public,39,Chennai
+700,Air Liquide,3.9,Chemicals,201-500 Employees,Public,122,Chennai
+701,Modern Foods,3.8,Food Processing,51-200 Employees,Public,59,Chennai
+702,Facilio,3.7,Internet,11-50 Employees,Startup,7,Chennai
+703,Suzlon Group,4.2,Power,5k-10k Employees,Public,29,Chennai
+704,FirstCry,3.8,Retail,1k-5k Employees,Indian Unicorn,14,Chennai
+705,Facilio,3.7,Internet,11-50 Employees,Startup,7,Chennai
+706,RPP Infra Projects,3.9,Engineering & Construction,201-500 Employees,Public,36,Chennai
+707,PolicyBazaar,3.5,Internet,10k-50k Employees,Public,16,Chennai
+708,JSW Steel,4.0,Iron & Steel,10k-50k Employees,Public,42,Chennai
+709,JK Cement,4.2,Building Material,1k-5k Employees,Public,49,Chennai
+710,RAMADA PLAZA,4.2,Hospitality,201-500 Employees (Global),Public,71,Chennai
+711,National Small Industries Corporation,3.9,Government,1k-5k Employees,Central,69,Chennai
+712,Khadims,3.9,Fashion & Textile,1k-5k Employees,Public,59,Chennai
+713,Jumbo Bags,4.5,Packaging,201-500 Employees,Public,34,Chennai
+714,Suprajit Engineering,3.8,Auto Components,501-1k Employees,Public,39,Chennai
+715,VIP Industries,4.0,Retail,1k-5k Employees,Public,53,Chennai
+716,Jumbo Bags,4.5,Packaging,201-500 Employees,Public,34,Chennai
+717,Khadims,3.9,Fashion & Textile,1k-5k Employees,Public,59,Chennai
+718,Uncia Technologies,3.9,Software Product,51-200 Employees,Startup,4,Chennai
+719,Roche Diagnostics,3.7,Pharma,201-500 Employees,Conglomerate,128,Chennai
+720,Hyundai Engineering,4.1,Engineering & Construction,51-200 Employees,Forbes Global 2000,50,Chennai
+721,HDFC Securities,3.7,Financial Services,1k-5k Employees,Public,24,Chennai
+722,Zydus Lifesciences,4.2,Pharma,10k-50k Employees,Public,72,Chennai
+723,V-Guard Industries,4.4,Consumer Electronics & Appliances,1k-5k Employees,Public,47,Kochi
+724,Bridgestone,4.2,Auto Components,1k-5k Employees,Forbes Global 2000,28,Pune
+725,Zydus Lifesciences,4.2,Pharma,10k-50k Employees,Public,72,Chennai
+726,Borgwarner Emission System,4.1,Auto Components,1k-5k Employees,Forbes Global 2000,96,Chennai
+727,Uncia Technologies,3.9,Software Product,51-200 Employees,Startup,4,Chennai
+728,VLCC,3.7,Beauty & Personal Care,1k-5k Employees,Conglomerate,35,Chennai
+729,Baxter International,4.1,Healthcare,1k-5k Employees,Forbes Global 2000,93,Chennai
+730,Metropolitan Transport Corporation,4.0,Urban Transport,51-200 Employees,State,52,Chennai
+731,TARV TECHNOLOGIES,4.1,IT Services & Consulting,501-1k Employees,Public,17,Chennai
+732,Taizo.in,4.9,Recruitment,11-50 Employees,Startup,6,Chennai
+733,AVTEC,3.8,Auto Components,1k-5k Employees,Conglomerate,19,Chennai
+734,Mankind Pharma,4.1,Pharma,10k-50k Employees,Fortune India 500,29,Chennai
+735,Applied Materials,4.0,Semiconductors,5k-10k Employees,Forbes Global 2000,22,Chennai
+736,Central Institute of Plastics Engineering & Technology,3.9,Education & Training,51-200 Employees,Public,56,Chennai
+737,Kalpataru Power Transmission,4.2,Engineering & Construction,1k-5k Employees,Public,43,Chennai
+738,Volkswagen,4.2,Automobile,1k-5k Employees,Forbes Global 2000,23,Chennai
+739,Mastek,3.7,IT Services & Consulting,1k-5k Employees,Public,42,Chennai
+740,ICRA,3.1,Financial Services,201-500 Employees,Public,33,Chennai
+741,National Informatics Centre,4.2,Government,1k-5k Employees,Central,48,Chennai
+742,Kamachi Group,3.7,Iron & Steel,1-10 Employees,Public,46,Chennai
+743,Applied Data Finance,4.0,FinTech,201-500 Employees,Startup,10,Chennai
+744,Future Supply Chain Solutions,4.4,Logistics,1k-5k Employees,Public,18,Chennai
+745,Castrol,4.3,Petrochemicals,501-1k Employees,Public,125,Chennai
+746,Lemon Tree Hotels,4.2,Hospitality,5k-10k Employees,Public,22,Chennai
+747,Somany Ceramics,4.3,Building Material,1k-5k Employees,Public,56,Chennai
+748,Lava International,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,15,Chennai
+749,Patanjali Foods,4.0,FMCG,5k-10k Employees,Public,38,Chennai
+750,Ivrcl Infrastructures & Projects,4.3,Engineering & Construction,1k-5k Employees,Public,37,Chennai
+751,Yethi Consulting,3.4,IT Services & Consulting,501-1k Employees,Startup,11,Chennai
+752,PNB Housing Finance,3.9,Financial Services,1k-5k Employees,Public,36,Chennai
+753,AirAsia,3.6,Aviation,1k-5k Employees,Public,11,Chennai
+754,JTEKT,4.2,Auto Components,1k-5k Employees,Public,18,Chennai
+755,Bharat IT Services,3.2,IT Services & Consulting,501-1k Employees,Public,28,Chennai
+756,Kamachi Group,3.7,Iron & Steel,1-10 Employees,Public,46,Chennai
+757,IppoPay,3.9,Financial Services,501-1k Employees,Startup,4,Chennai
+758,Patanjali Foods,4.0,FMCG,5k-10k Employees,Public,38,Chennai
+759,Spencer's Retail,3.9,Retail,1k-5k Employees,Public,161,Chennai
+760,ZTE Corporation,4.0,Telecom,201-500 Employees,Forbes Global 2000,21,Chennai
+761,ZTE Corporation,4.0,Telecom,201-500 Employees,Forbes Global 2000,21,Chennai
+762,Loyal Textile Mills,3.5,Fashion & Textile,1k-5k Employees,Public,78,Chennai
+763,VOIZ,4.4,BPO,201-500 Employees,Startup,2,Chennai
+764,NeoGrowth Credit,3.7,NBFC,501-1k Employees,Startup,11,Chennai
+765,Walsons Facility Solutions,4.0,Recruitment,5k-10k Employees,Conglomerate,28,Chennai
+766,Test Yantra Software Solutions,3.4,IT Services & Consulting,1k-5k Employees,Public,17,Chennai
+767,IdeaRX Services,4.2,Internet,51-200 Employees,Startup,8,Chennai
+768,Unicharm,4.2,Beauty & Personal Care,1k-5k Employees,Forbes Global 2000,63,Chennai
+769,PropTiger.com,4.2,Internet,1k-5k Employees,Startup,13,Chennai
+770,TeleCMI,4.7,Telecom,11-50 Employees,Startup,8,Chennai
+771,Everonn Education,4.9,Education & Training,5k-10k Employees (Global),Public,37,Chennai
+772,Hyring,4.7,Software Product,11-50 Employees,Startup,2,Chennai
+773,Hyring,4.7,Software Product,11-50 Employees,Startup,2,Chennai
+774,Ipca Laboratories,4.0,Pharma,10k-50k Employees,Public,75,Chennai
+775,Vertiv,4.0,IT Services & Consulting,51-200 Employees (Global),Startup,8,Chennai
+776,Aviva Life Insurance India,3.6,Insurance,1k-5k Employees,Forbes Global 2000,328,Chennai
+777,Torrent Pharmaceuticals,4.0,Pharma,10k-50k Employees,Public,53,Chennai
+778,BillDesk,3.4,FinTech,201-500 Employees (Global),Public,24,Mumbai
+779,Shriram Housing Finance,4.0,Financial Services,501-1k Employees,Public,14,Mumbai
+780,Freight Systems,3.9,Ports & Shipping,501-1k Employees,Public,36,Mumbai
+781,Fresenius Medical Care,3.9,Healthcare,201-500 Employees,Public,28,Mumbai
+782,FTC Solar,4.0,Internet,51-200 Employees,Startup,7,Chennai
+783,Toppr,3.4,EdTech,1k-5k Employees,Startup,11,Chennai
+784,Quikr,3.9,Internet,1k-5k Employees,Indian Unicorn,16,Chennai
+785,Tata Consumer Products,3.9,FMCG,1k-5k Employees,Public,62,Chennai
+786,Polycab Wires,4.1,Electrical Equipment,1k-5k Employees,Fortune India 500,28,Chennai
+787,Dentsu Aegis Network,3.5,Marketing & Advertising,1k-5k Employees,Conglomerate,35,Chennai
+788,Sintex Industries,4.1,Industrial Machinery,5k-10k Employees,Public,93,Chennai
+789,Bsa Corporation,3.7,Auto Components,10k-50k Employees,Public,24,Chennai
+790,Power Mech Projects,3.9,Engineering & Construction,1k-5k Employees,Public,17,Chennai
+791,Imperial Auto Industries,3.8,Auto Components,1k-5k Employees,Public,55,Chennai
+792,Vertiv,4.0,IT Services & Consulting,51-200 Employees (Global),Startup,8,Chennai
+793,VMware Software,4.5,Software Product,5k-10k Employees,Forbes Global 2000,26,Chennai
+794,Cyber Heals,4.5,Emerging Technologies,11-50 Employees,Startup,3,Chennai
+795,Everi India,3.6,IT Services & Consulting,51-200 Employees,Public,9,Chennai
+796,Tidel Park,4.1,Real Estate,11-50 Employees,Public,24,Chennai
+797,Vertex,4.1,Pharma,501-1k Employees,Conglomerate,35,Chennai
+798,Corestack,3.0,Internet,11-50 Employees,Startup,8,Chennai
+799,Reckitt Benckiser,4.0,FMCG,1k-5k Employees,Conglomerate,25,Chennai
+800,Power Mech Projects,3.9,Engineering & Construction,1k-5k Employees,Public,17,Chennai
+801,FabHotels,3.1,Hospitality,501-1k Employees,Startup,10,Chennai
+802,SATHLOKHAR SYNERGYS,3.9,Real Estate,51-200 Employees (Global),Public,16,Chennai
+803,Barclays Investment Bank,3.9,Banking,50k-1 Lakh Employees (Global),Public,27,Chennai
+804,Reckitt Benckiser,4.0,FMCG,1k-5k Employees,Conglomerate,25,Chennai
+805,Merino Industries,2.7,Furniture & Furnishing,1k-5k Employees,Public,56,Chennai
+806,CMR Green Technologies,3.9,Metals & Mining,1k-5k Employees,Public,18,Chennai
+807,Carnival Cruise Lines,4.5,Sports & Recreation,1k-5k Employees,Public,52,Chennai
+808,Religare,3.9,Financial Services,1k-5k Employees,Public,40,Chennai
+809,Deutsche Bank,4.0,Banking,10k-50k Employees,Fortune India 500,154,Chennai
+810,Deccan Chronicle Holdings,4.4,Printing & Publishing,201-500 Employees,Public,94,Chennai
+811,WEGOT Utility Solutions,2.3,Emerging Technologies,51-200 Employees,Startup,9,Chennai
+812,Thirumalai Chemicals,4.0,Chemicals,501-1k Employees,Public,51,Ranipet
+813,Nucleus Software Exports,3.6,Software Product,1k-5k Employees,Public,38,Mumbai
+814,Alp Consulting,3.3,Recruitment,201-500 Employees,Public,28,Mumbai
+815,Tata Chemicals,4.2,Chemicals,1k-5k Employees,Public,85,Mumbai
+816,Orient Technologies,3.9,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,32,Mumbai
+817,Indian Navy,4.6,Defence & Aerospace,50k-1 Lakh Employees,Central,74,Mumbai
+818,Cadila Pharmaceuticals,3.6,Pharma,5k-10k Employees,Public,73,Mumbai
+819,Toshiba,4.0,Industrial Machinery,201-500 Employees,Forbes Global 2000,149,Mumbai
+820,Intex Technologies,3.7,Consumer Electronics & Appliances,1k-5k Employees,Public,28,Mumbai
+821,Lupin,4.1,Pharma,1k-5k Employees,Public,56,Chennai
+822,Wockhardt,3.9,Pharma,5k-10k Employees,Public,25,Chennai
+823,Inox Leisure,4.1,Media & Entertainment,1k-5k Employees,Public,25,Chennai
+824,Nxtra Data,4.1,IT Services & Consulting,51-200 Employees,Public,11,Chennai
+825,ITSource Technologies,3.1,IT Services & Consulting,201-500 Employees,Public,26,Chennai
+826,Ge India Industrial,4.3,Industrial Machinery,201-500 Employees,Conglomerate,122,Chennai
+827,Keyence,4.3,Internet,11-50 Employees,Forbes Global 2000,50,Chennai
+828,VRL Logistics,4.0,Logistics,10k-50k Employees,Public,41,Chennai
+829,A2Z Infraservices,4.0,Facility Management Services,201-500 Employees,Public,22,Chennai
+830,GMR Group,4.1,Engineering & Construction,10k-50k Employees,Public,46,Chennai
+831,Nucleus Software Exports,3.6,Software Product,1k-5k Employees,Public,38,Chennai
+832,Ather Energy,4.1,Automobile,1k-5k Employees,Startup,11,Chennai
+833,Indian Navy,4.6,Defence & Aerospace,50k-1 Lakh Employees,Central,74,Chennai
+834,Alp Consulting,3.3,Recruitment,201-500 Employees,Public,28,Chennai
+835,Tata Chemicals,4.2,Chemicals,1k-5k Employees,Public,85,Chennai
+836,Orient Technologies,3.9,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,32,Chennai
+837,Pondy Oxides and Chemicals,4.1,Chemicals / Agri Inputs,501-1k Employees,Public,29,Chennai
+838,Xforia Technologies,4.4,Recruitment,51-200 Employees,Startup,6,Chennai
+839,Nayara Energy,4.3,Petrochemicals,1k-5k Employees,Fortune India 500,35,Chennai
+840,Honda Cars,4.4,Automobile,5k-10k Employees,Fortune India 500,29,Chennai
+841,Blackbuck Insights,4.0,IT Services & Consulting,201-500 Employees,Startup,8,Chennai
+842,Great Learning,3.7,EdTech,1k-5k Employees,Startup,11,Chennai
+843,Maximl Labs,3.3,Internet,51-200 Employees,Startup,8,Chennai
+844,Risland India,3.4,Real Estate,201-500 Employees,Forbes Global 2000,7,Chennai
+845,NTT Global Networks,4.1,IT Services & Consulting,501-1k Employees,Public,5,Chennai
+846,Great Learning,3.7,EdTech,1k-5k Employees,Startup,11,Chennai
+847,Maximl Labs,3.3,Internet,51-200 Employees,Startup,8,Chennai
+848,AceMicromatic Group,4.4,Industrial Machinery,501-1k Employees,Public,45,Mumbai
+849,Marks & Spencer,4.0,Retail,1k-5k Employees,Forbes Global 2000,140,Mumbai
+850,Toyota Tsusho,4.0,Metals & Mining,501-1k Employees,Public,25,Mumbai
+851,Rapid Acceleration Partners,3.5,Software Product,51-200 Employees,Startup,7,Chennai
+852,Rane Holdings,4.2,Auto Components,51-200 Employees,Public,95,Chennai
+853,Ziffity,4.4,Internet,11-50 Employees,Startup,10,Chennai
+854,8KMiles Software Services,2.3,IT Services & Consulting,501-1k Employees (Global),Public,17,Chennai
+855,TenderCuts,4.0,Internet,201-500 Employees,Startup,8,Chennai
+856,Thrise,4.5,Internet,11-50 Employees,Startup,4,Chennai
+857,Gemini Communication,4.2,IT Services & Consulting,11-50 Employees,Public,29,Chennai
+858,Reliance Home Finance,4.5,NBFC,501-1k Employees,Public,16,Chennai
+859,Novo Nordisk,4.1,Pharma,1k-5k Employees,Forbes Global 2000,101,Chennai
+860,InCred Finance,4.0,NBFC,1k-5k Employees,Indian Unicorn,8,Chennai
+861,AT&T,4.2,Telecom,5k-10k Employees,Forbes Global 2000,41,Chennai
+862,Central Reserve Police Force,4.6,Government,1 Lakh+ Employees,Central,85,Chennai
+863,Lakshmi Machine Works,4.0,Industrial Machinery,1k-5k Employees,Public,62,Chennai
+864,Kraft Heinz Company,4.2,Food Processing,501-1k Employees,Forbes Global 2000,30,Chennai
+865,Lakme,4.3,Beauty & Personal Care,201-500 Employees,Public,44,Chennai
+866,Crio.Do,3.7,EdTech,501-1k Employees,Startup,6,Chennai
+867,Prakash Industries,3.6,Metals & Mining,501-1k Employees,Public,44,Chennai
+868,Prakash Industries,3.6,Metals & Mining,501-1k Employees,Public,44,Chennai
+869,Elixr Labs Technologies,4.6,IT Services & Consulting,51-200 Employees,Startup,3,Chennai
+870,RITES,4.0,Engineering & Construction,1k-5k Employees,Central,50,Chennai
+871,Alcatel-Lucent,4.2,Telecom,201-500 Employees,Public,32,Chennai
+872,DISH TV,3.6,Broadcasting,201-500 Employees,Public,21,Chennai
+873,Jindal Steel and Power,4.0,Iron & Steel,5k-10k Employees,Fortune India 500,45,Chennai
+874,Dynamatic Technologies,3.8,Auto Components,1k-5k Employees,Public,51,Chennai
+875,OnePlus,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,11,Chennai
+876,Rupeek,3.7,FinTech,1k-5k Employees,Startup,9,Chennai
+877,Dr Lal PathLabs,4.2,Healthcare,1k-5k Employees,Public,75,Chennai
+878,TAJSATS AIR CATERING,4.1,Hospitality,51-200 Employees,Public,48,Chennai
+879,Pearl Global Industries,3.9,Fashion & Textile,501-1k Employees,Public,37,Chennai
+880,Smartworks,3.4,Real Estate,201-500 Employees,Startup,8,Chennai
+881,United Breweries,3.9,Beverage,1k-5k Employees,Public,167,Chennai
+882,FastInfo,4.3,EdTech,501-1k Employees,Startup,5,Chennai
+883,Bluestone.com,3.8,Jewellery,501-1k Employees,Startup,13,Chennai
+884,Cult.fit,3.8,Fitness & Wellness,1k-5k Employees,Indian Unicorn,8,Chennai
+885,Brigade Group,4.2,Real Estate,501-1k Employees,Public,38,Chennai
+886,Alembic Pharmaceuticals,4.1,Pharma,10k-50k Employees,Public,117,Chennai
+887,Zoomcar,3.7,Internet,1k-5k Employees,Startup,12,Chennai
+888,Marsh McLennan,4.1,Management Consulting,5k-10k Employees,Forbes Global 2000,153,Chennai
+889,Eris Lifesciences,3.8,Pharma,1k-5k Employees,Public,17,Chennai
+890,Geometric,3.2,Software Product,5k-10k Employees (Global),Public,40,Chennai
+891,Tecpro Systems,3.7,Industrial Machinery,1k-5k Employees (Global),Public,34,Chennai
+892,Agnice Fire Protection,3.1,Engineering & Construction,201-500 Employees,Public,29,Chennai
+893,Empee Distilleries,3.7,Beverage,11-50 Employees,Public,41,Chennai
+894,Tecpro Systems,3.7,Industrial Machinery,1k-5k Employees (Global),Public,34,Chennai
+895,Empee Distilleries,3.7,Beverage,11-50 Employees,Public,41,Chennai
+896,Fincover,4.9,Financial Services,51-200 Employees,Startup,4,Chennai
+897,Shinhan Bank,3.5,Banking,51-200 Employees,Public,42,Chennai
+898,Jindal Stainless,4.3,Iron & Steel,1k-5k Employees,Public,54,Chennai
+899,Alcon,3.7,Medical Equipment,1k-5k Employees,Public,79,Chennai
+900,Prism Johnson,4.0,Building Material,1k-5k Employees,Public,32,Chennai
+901,You Broadband,3.7,Telecom,1k-5k Employees,Public,23,Chennai
+902,Airtel Payments Bank,4.2,FinTech,501-1k Employees,Public,8,Chennai
+903,Nykaa,3.5,Internet,1k-5k Employees,Public,12,Chennai
+904,Page Industries,4.2,Fashion & Textile,10k-50k Employees,Public,30,Chennai
+905,Ofbusiness,3.1,Internet,1k-5k Employees,Indian Unicorn,9,Chennai
+906,Levi Strauss & Co.,4.5,Fashion & Textile,1k-5k Employees,Public,171,Chennai
+907,Marico,4.1,FMCG,1k-5k Employees,Public,36,Chennai
+908,Coca-Cola Company,4.3,Beverage,5k-10k Employees,Forbes Global 2000,138,Chennai
+909,Sonata Software,3.7,IT Services & Consulting,1k-5k Employees,Public,38,Chennai
+910,Punj Lloyd,4.4,Engineering & Construction,5k-10k Employees,Public,42,Chennai
+911,Srei Equipment Finance,4.5,Financial Services,1k-5k Employees,Public,35,Chennai
+912,Shinhan Bank,3.5,Banking,51-200 Employees,Public,42,Chennai
+913,V-Trans,4.1,Logistics,1k-5k Employees,Public,66,Chennai
+914,Snowman Logistics,4.1,Logistics,201-500 Employees,Public,28,Chennai
+915,Supreme Petrochem,4.0,Chemicals,201-500 Employees,Public,31,Chennai
+916,Apollo Clinic,4.0,Healthcare,201-500 Employees,Public,22,Chennai
+917,Legrand,3.7,Electrical Equipment,1k-5k Employees,Forbes Global 2000,164,Chennai
+918,Prism Johnson,4.0,Building Material,1k-5k Employees,Public,32,Chennai
+919,Kalyan Jewellers,4.7,Jewellery,5k-10k Employees,Fortune India 500,31,Chennai
+920,Eicher Motors,4.2,Automobile,5k-10k Employees,Public,42,Hyderabad
+921,Milkbasket,3.8,Internet,501-1k Employees,Startup,9,Hyderabad
+922,Kalyan Jewellers,4.7,Jewellery,5k-10k Employees,Fortune India 500,31,Chennai
+923,Milkbasket,3.8,Internet,501-1k Employees,Startup,9,Chennai
+924,R Systems International,3.4,IT Services & Consulting,1k-5k Employees,Public,31,Chennai
+925,Sterlite Technologies,3.8,Hardware & Networking,1k-5k Employees,Public,36,Chennai
+926,Greenply,4.0,Furniture & Furnishing,1k-5k Employees,Public,40,Chennai
+927,Future Retail,4.3,Retail,10k-50k Employees,Public,37,Chennai
+928,Club Oxygen,4.2,Hospitality,201-500 Employees,Public,6,Chennai
+929,myTVS Parts & Accessories,3.5,Auto Components,201-500 Employees,Startup,17,Chennai
+930,Tekplay Systems,2.8,IT Services & Consulting,51-200 Employees,Public,24,Chennai
+931,Cummins,4.4,Industrial Machinery,1k-5k Employees,Fortune India 500,105,Chennai
+932,Mitosis Technologies,3.7,IT Services & Consulting,51-200 Employees,Startup,11,Chennai
+933,SP Robotic Works,4.0,Emerging Technologies,11-50 Employees,Startup,12,Chennai
+934,Borg Warner Morse Tec,4.5,Auto Components,51-200 Employees,Public,96,Chennai
+935,Reliance Smart,4.2,Retail,5k-10k Employees,Public,18,Chennai
+936,Pearson,4.1,Education & Training,10k-50k Employees (Global),Conglomerate,180,Chennai
+937,Wapcos,3.6,Engineering & Construction,1k-5k Employees,State,55,Chennai
+938,Emcure Pharmaceuticals,3.8,Pharma,5k-10k Employees,Fortune India 500,43,Chennai
+939,Relyon Softech,4.0,Software Product,501-1k Employees,Public,23,Chennai
+940,SKF,4.0,Auto Components,1k-5k Employees,Public,101,Chennai
+941,Samsung SDS,3.5,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,39,Chennai
+942,Kirloskar Oil Engines,4.2,Industrial Machinery,1k-5k Employees,Public,78,Chennai
+943,Wapcos,3.6,Engineering & Construction,1k-5k Employees,State,55,Chennai
+944,Reliance Smart,4.2,Retail,5k-10k Employees,Public,18,Chennai
+945,USV,4.1,Pharma,1k-5k Employees,Fortune India 500,63,Chennai
+946,MakeMyTrip,3.7,Internet,5k-10k Employees,Public,24,Chennai
+947,Atlas Copco,4.3,Industrial Machinery,1k-5k Employees,Public,151,Chennai
+948,Allergan,3.8,Healthcare,1k-5k Employees,Forbes Global 2000,11,Chennai
+949,Tata AutoComp Systems,3.9,Auto Components,1k-5k Employees,Public,29,Chennai
+950,Gem Granites,3.9,Internet,51-200 Employees,Startup,7,Chennai
+951,ABC Bearings,4.1,Auto Components,201-500 Employees,Public,63,Chennai
+952,Atlas Copco,4.3,Industrial Machinery,1k-5k Employees,Public,151,Chennai
+953,MakeMyTrip,3.7,Internet,5k-10k Employees,Public,24,Chennai
+954,ABC Bearings,4.1,Auto Components,201-500 Employees,Public,63,Chennai
+955,Paytm Payments Bank,4.0,FinTech,1k-5k Employees,Public,8,Chennai
+956,Punjab National Bank,4.1,Banking,1 Lakh+ Employees,Fortune India 500,130,Chennai
+957,Emcure Pharmaceuticals,3.8,Pharma,5k-10k Employees,Fortune India 500,43,Chennai
+958,Tata AutoComp Systems,3.9,Auto Components,1k-5k Employees,Public,29,Chennai
+959,Housing.com,3.8,Internet,1k-5k Employees,Startup,12,Chennai
+960,Bank of India,4.0,Banking,50k-1 Lakh Employees,Fortune India 500,118,Chennai
+961,Gem Granites,3.9,Internet,51-200 Employees,Startup,7,Chennai
+962,Saregama India,4.1,Media & Entertainment,201-500 Employees,Public,123,Chennai
+963,Gujarat Heavy Chemicals,4.0,Chemicals,1k-5k Employees,Public,41,Chennai
+964,Licious,3.8,Internet,1k-5k Employees,Indian Unicorn,9,Chennai
+965,Allergan,3.8,Healthcare,1k-5k Employees,Forbes Global 2000,11,Chennai
+966,Wilco Source,4.0,IT Services & Consulting,11-50 Employees,Startup,10,Chennai
+967,Vedantu,3.4,EdTech,1k-5k Employees,Indian Unicorn,13,Chennai
+968,National Polyplast,3.7,Petrochemicals,51-200 Employees,Public,49,Chennai
+969,HLL Lifecare,3.7,Healthcare,1k-5k Employees,Central,58,Chennai
+970,Philips Innovation Campus,3.9,Healthcare,1k-5k Employees,Public,26,Chennai
+971,Vedantu,3.4,EdTech,1k-5k Employees,Indian Unicorn,13,Chennai
+972,National Polyplast,3.7,Petrochemicals,51-200 Employees,Public,49,Chennai
+973,Vectrus,3.6,Defence & Aerospace,51-200 Employees,Public,79,Chennai
+974,Excel Engineers,3.3,Industrial Machinery,51-200 Employees,Public,37,Chennai
+975,ASM Technologies,3.7,Engineering & Construction,1k-5k Employees,Public,32,Chennai
+976,WPP,3.6,Marketing & Advertising,501-1k Employees,Forbes Global 2000,39,Chennai
+977,NxtWave,3.9,EdTech,1k-5k Employees,Startup,4,Chennai
+978,Pace Automation,4.6,Hardware & Networking,51-200 Employees,Public,35,Chennai
+979,Orix Auto Infrastructure Services,4.4,Logistics,201-500 Employees,Public,29,Chennai
+980,Capacit'e Infraprojects,3.6,Engineering & Construction,1k-5k Employees,Public,12,Chennai
+981,Megha Engineering & Infrastructures,4.0,Engineering & Construction,5k-10k Employees,Conglomerate,35,Chennai
+982,Thomson Reuters,4.2,Software Product,5k-10k Employees,Forbes Global 2000,16,Chennai
+983,ElasticRun,3.4,Logistics,1k-5k Employees,Indian Unicorn,8,Chennai
+984,Adani Group,4.0,Power,10k-50k Employees,Public,36,Chennai
+985,Intelsat,4.2,Telecom,11-50 Employees,Public,60,Chennai
+986,Intelsat,4.2,Telecom,11-50 Employees,Public,60,Chennai
+987,Metawallah,4.9,Internet,51-200 Employees,Startup,3,Chennai
+988,BDO,3.5,Accounting & Auditing,5k-10k Employees,Public,61,Chennai
+989,Anora Semiconductor Labs,3.5,Semiconductors,201-500 Employees (Global),Startup,16,Chennai
+990,Videocon d2h,3.9,Internet,501-1k Employees,Public,15,Chennai
+991,Learning Links Foundation,3.9,Non-Profit,501-1k Employees,Public,22,Mumbai
+992,myGate,3.3,Law Enforcement & Security,1k-5k Employees,Startup,8,Mumbai
+993,UBS,3.9,Investment Banking / Venture Capital / Private Equity,5k-10k Employees,Forbes Global 2000,9,Chennai
+994,BASF,4.5,Chemicals,1k-5k Employees,Fortune India 500,81,Chennai
+995,Urban Ladder,3.8,Furniture & Furnishing,501-1k Employees,Startup,12,Chennai
+996,LetsTransport,3.4,Logistics,501-1k Employees,Startup,9,Chennai
+997,BDO,3.5,Accounting & Auditing,5k-10k Employees,Public,61,Chennai
+998,Kendriya Vidyalaya Sangathan,4.4,Education & Training,10k-50k Employees,Public,61,Chennai
+999,myGate,3.3,Law Enforcement & Security,1k-5k Employees,Startup,8,Chennai
+1000,Anora Semiconductor Labs,3.5,Semiconductors,201-500 Employees (Global),Startup,16,Chennai
+1001,Learning Links Foundation,3.9,Non-Profit,501-1k Employees,Public,22,Chennai
+1002,Videocon d2h,3.9,Internet,501-1k Employees,Public,15,Chennai
+1003,Kaya Skin Clinic,4.1,Beauty & Personal Care,501-1k Employees,Public,21,Chennai
+1004,The Indian Hotels Company,4.2,Hospitality,10k-50k Employees,Fortune India 500,125,Chennai
+1005,3M,4.3,Electronics Manufacturing,1k-5k Employees,Public,37,Chennai
+1006,ECIL,4.1,Electronics Manufacturing,1k-5k Employees,Public,57,Chennai
+1007,Orange Business,4.3,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,32,Chennai
+1008,Mitsubishi Electric,4.2,Electronics Manufacturing,501-1k Employees,Forbes Global 2000,103,Chennai
+1009,Fabheads Automation,4.3,Internet,11-50 Employees,Startup,9,Chennai
+1010,Nestaway,4.0,Internet,201-500 Employees,Startup,9,Bangalore
+1011,Safari Industries India,4.2,Fashion & Textile,501-1k Employees,Public,50,Chennai
+1012,Prism Johnson Limited - RMC (India) Division,4.1,Building Material,501-1k Employees,Public,28,Chennai
+1013,Patanjali Ayurved,3.2,FMCG,1k-5k Employees,Fortune India 500,18,Chennai
+1014,Zensar Technologies,3.8,IT Services & Consulting,5k-10k Employees,Public,23,Chennai
+1015,Ador Welding,4.0,Industrial Machinery,501-1k Employees,Public,73,Chennai
+1016,Uniproducts,3.8,Auto Components,51-200 Employees,Public,42,Chennai
+1017,Machino Polymers,3.4,Petrochemicals,501-1k Employees,Public,29,Chennai
+1018,Securitas,4.0,Law Enforcement & Security,10k-50k Employees,Forbes Global 2000,90,Chennai
+1019,Tulsyan Nec,4.4,Building Material,1k-5k Employees,Public,77,Chennai
+1020,SYSKA LED Lights,2.9,Consumer Electronics & Appliances,1k-5k Employees (Global),Startup,12,Chennai
+1021,FMC,4.2,Agro Chemicals,1k-5k Employees,Forbes Global 2000,15,Chennai
+1022,Spinircle,3.0,Internet,51-200 Employees,Startup,10,Chennai
+1023,Maruti Service Masters,4.1,Automobile,201-500 Employees,Public,25,Mumbai
+1024,Prestige Estates Projects,4.5,Real Estate,1k-5k Employees,Public,38,Chennai
+1025,Maruti Service Masters,4.1,Automobile,201-500 Employees,Public,25,Chennai
+1026,Consolidated Contractors,4.5,Engineering & Construction,1k-5k Employees,Public,72,Chennai
+1027,SFL,4.2,Auto Components,1k-5k Employees (Global),Public,62,Chennai
+1028,Adani Wilmar,4.2,FMCG,1k-5k Employees,Public,25,Chennai
+1029,Rajiv Gandhi College of Engineering,4.4,Education & Training,51-200 Employees,Public,23,Chennai
+1030,APPL Industries,3.7,Chemicals,201-500 Employees,Public,33,Chennai
+1031,Sri Hema Infotech,4.4,IT Services & Consulting,11-50 Employees (Global),Public,20,Chennai
+1032,WayCool Foods Chennai DC,4.1,Internet,1k-5k Employees,Startup,9,Chennai
+1033,Sri Hema Infotech,4.4,IT Services & Consulting,11-50 Employees (Global),Public,20,Chennai
+1034,Brio Bliss Life Science,4.0,Internet,51-200 Employees (Global),Startup,12,Chennai
+1035,BTree Systems,4.9,Education & Training,11-50 Employees,Startup,5,Chennai
+1036,Forward,5.0,Internet,11-50 Employees,Startup,2,Chennai
+1037,ZustPe,3.7,FinTech,1-10 Employees,Startup,2,Chennai
+1038,Ashoka Buildcon,4.1,Engineering & Construction,1k-5k Employees,Public,48,Chennai
+1039,Tata Realty and Infrastructure,4.0,Real Estate,501-1k Employees,Public,17,Chennai
+1040,Go First,3.7,Aviation,1k-5k Employees,Public,19,Chennai
+1041,Swaraj Tractors,4.2,Automobile,1k-5k Employees,Conglomerate,62,Chennai
+1042,UCO Bank,3.6,Banking,10k-50k Employees,Public,81,Chennai
+1043,HARMAN,3.9,Consumer Electronics & Appliances,5k-10k Employees,Public,15,Chennai
+1044,India Nippon Electricals,4.1,Auto Components,501-1k Employees,Public,40,Chennai
+1045,Jtekt Sona Automotive India,4.0,Auto Components,51-200 Employees,Public,17,Chennai
+1046,PSL,4.0,Industrial Machinery,501-1k Employees,Public,37,Chennai
+1047,Godfrey Phillips India,4.1,FMCG,501-1k Employees,Public,91,Chennai
+1048,Allied Digital Services,3.5,IT Services & Consulting,1k-5k Employees,Public,29,Chennai
+1049,MTR Foods,4.2,FMCG,1k-5k Employees,Forbes Global 2000,100,Chennai
+1050,Mold-Tek Technologies,3.6,IT Services & Consulting,1k-5k Employees,Public,38,Chennai
+1051,ASSA ABLOY,3.7,Real Estate,51-200 Employees,Public,19,Chennai
+1052,Control Print,3.9,Consumer Electronics & Appliances,501-1k Employees,Public,33,Chennai
+1053,Satya MicroCapital,3.8,Financial Services,1k-5k Employees,Public,8,Chennai
+1054,Ugro Capital,3.8,NBFC,1k-5k Employees,Public,31,Chennai
+1055,Confidence Petroleum India,3.5,Oil & Gas,501-1k Employees,Public,27,Chennai
+1056,Cuemath,3.8,EdTech,1k-5k Employees,Startup,11,Chennai
+1057,Ruloans,3.8,Financial Services,51-200 Employees (Global),Public,28,Chennai
+1058,Satin Creditcare Network,4.1,NBFC,5k-10k Employees,Public,34,Chennai
+1059,Hindustan Motors,3.9,Automobile,51-200 Employees,Public,82,Chennai
+1060,PCS Technology,4.5,IT Services & Consulting,1k-5k Employees,Public,43,Chennai
+1061,Confidence Petroleum India,3.5,Oil & Gas,501-1k Employees,Public,27,Chennai
+1062,Time Technoplast,3.8,Petrochemicals,1k-5k Employees,Public,32,Chennai
+1063,HARMAN,3.9,Consumer Electronics & Appliances,5k-10k Employees,Public,15,Chennai
+1064,Swaraj Tractors,4.2,Automobile,1k-5k Employees,Conglomerate,62,Chennai
+1065,Ramky Infrastructure,4.2,Engineering & Construction,501-1k Employees,Public,30,Chennai
+1066,LivQuik Technology,3.9,Financial Services,51-200 Employees,Startup,12,Mumbai
+1067,Guidewire Software,4.7,Software Product,201-500 Employees,Public,23,Chennai
+1068,Kovai Medical Center and Hospital,4.1,Healthcare,201-500 Employees,Public,39,Chennai
+1069,Wakefit,4.2,Furniture & Furnishing,1k-5k Employees,Startup,8,Chennai
+1070,Tanla Platforms,3.5,Software Product,501-1k Employees,Public,25,Chennai
+1071,Elgi Ultra Industries,4.1,Consumer Electronics & Appliances,51-200 Employees,Public,41,Chennai
+1072,CNH,4.2,Automobile,1k-5k Employees,Public,11,Chennai
+1073,TCNS Clothing Company,4.1,Fashion & Textile,501-1k Employees,Public,23,Chennai
+1074,Ruloans,3.8,Financial Services,51-200 Employees (Global),Public,28,Chennai
+1075,Cuemath,3.8,EdTech,1k-5k Employees,Startup,11,Chennai
+1076,Mold-Tek Technologies,3.6,IT Services & Consulting,1k-5k Employees,Public,38,Chennai
+1077,Cure foods,3.9,Fitness & Wellness,501-1k Employees,Startup,8,Chennai
+1078,Elgi Ultra Industries,4.1,Consumer Electronics & Appliances,51-200 Employees,Public,41,Chennai
+1079,Cure foods,3.9,Fitness & Wellness,501-1k Employees,Startup,8,Chennai
+1080,CNH,4.2,Automobile,1k-5k Employees,Public,11,Chennai
+1081,Xchanging,4.0,IT Services & Consulting,201-500 Employees,Public,26,Chennai
+1082,Oxyzo Financial Services,3.9,Financial Services,201-500 Employees,Indian Unicorn,8,Chennai
+1083,Eli Lilly and Company,4.1,Pharma,1k-5k Employees,Public,31,Chennai
+1084,Grasim Industries,4.1,Building Material,10k-50k Employees,Public,77,Chennai
+1085,Viatris,4.2,Pharma,10k-50k Employees,Forbes Global 2000,4,Chennai
+1086,Godrej Industries,4.2,Chemicals,1k-5k Employees,Public,61,Chennai
+1087,ALIGHT HR SERVICES,3.9,IT Services & Consulting,1k-5k Employees,Startup,7,Chennai
+1088,Faasos Food Services,4.0,Internet,1k-5k Employees,Indian Unicorn,14,Chennai
+1089,Sparsh BPO Services,3.9,BPO,10k-50k Employees,Public,46,Chennai
+1090,Faasos Food Services,4.0,Internet,1k-5k Employees,Indian Unicorn,14,Chennai
+1091,Chiptest Engineering,3.1,Semiconductors,11-50 Employees,Public,19,Chennai
+1092,LAKSHMI CARGO COMPANY,4.0,Logistics,51-200 Employees,Public,39,Chennai
+1093,Fulford India,4.3,Pharma,501-1k Employees,Public,76,Chennai
+1094,LAKSHMI CARGO COMPANY,4.0,Logistics,51-200 Employees,Public,39,Chennai
+1095,Flintobox,3.8,Internet,51-200 Employees,Startup,11,Chennai
+1096,Flintobox,3.8,Internet,51-200 Employees,Startup,11,Chennai
+1097,Tamil Nadu State Transport Corporation,4.6,Financial Services,1 Lakh+ Employees,State,49,Chennai
+1098,Vanta Bioscience,2.2,Healthcare,51-200 Employees,Public,8,Chennai
+1099,Fulford India,4.3,Pharma,501-1k Employees,Public,76,Chennai
+1100,Socure India,3.4,IT Services & Consulting,11-50 Employees,Startup,12,Chennai
+1101,Sagous Software and Services,4.6,IT Services & Consulting,11-50 Employees,Startup,7,Chennai
+1102,Rocketlane,3.9,Internet,11-50 Employees,Startup,4,Chennai
+1103,Sai University,4.3,Education & Training,11-50 Employees (Global),Startup,3,Chennai
+1104,Rocketlane,3.9,Internet,11-50 Employees,Startup,4,Chennai
+1105,Sagous Software and Services,4.6,IT Services & Consulting,11-50 Employees,Startup,7,Chennai
+1106,Sai University,4.3,Education & Training,11-50 Employees (Global),Startup,3,Chennai
+1107,LT Foods,4.1,Food Processing,1k-5k Employees,Public,34,Chennai
+1108,Bimetal Bearings,4.3,Industrial Machinery,1k-5k Employees,Public,63,Chennai
+1109,Ventura Securities,4.0,Financial Services,1k-5k Employees,Public,30,Chennai
+1110,Kajaria Ceramics,4.2,Building Material,1k-5k Employees,Public,39,Chennai
+1111,IDBI Intech Limited,3.7,IT Services & Consulting,1k-5k Employees,Public,24,Chennai
+1112,Pricol,4.0,Auto Components,1k-5k Employees,Public,49,Chennai
+1113,Everest Industries,4.1,Building Material,1k-5k Employees,Public,90,Chennai
+1114,Knorr-Bremse,4.1,Auto Components,501-1k Employees,Forbes Global 2000,11,Chennai
+1115,UFO Moviez,3.7,Media & Entertainment,201-500 Employees,Public,19,Chennai
+1116,Wheelseye Technology,3.7,Logistics,1k-5k Employees,Startup,7,Chennai
+1117,Central Bank of India,4.0,Banking,10k-50k Employees,Public,113,Chennai
+1118,Blowhorn,4.6,Logistics,501-1k Employees,Startup,10,Chennai
+1119,Sterlite Power,4.0,Power,1k-5k Employees,Fortune India 500,14,Chennai
+1120,Optimus Global Services,4.1,BPO,51-200 Employees,Public,22,Chennai
+1121,AU Small Finance Bank,4.4,Banking,10k-50k Employees,Fortune India 500,28,Chennai
+1122,Jay Ushin,4.0,Auto Components,1k-5k Employees,Public,65,Chennai
+1123,RenewBuy,3.8,Insurance,1k-5k Employees,Startup,10,Chennai
+1124,Fashor Lifestyle,3.0,Internet,11-50 Employees,Startup,7,Chennai
+1125,Wistron,3.9,Electronics Manufacturing,1k-5k Employees,Forbes Global 2000,23,Chennai
+1126,Hippo Video,2.4,Internet,51-200 Employees,Startup,8,Chennai
+1127,Syngene International,3.9,Pharma,1k-5k Employees,Public,31,Chennai
+1128,UTL Technologies,4.0,Education & Training,51-200 Employees,Public,23,Chennai
+1129,NexGen Technologies,4.3,Internet,51-200 Employees (Global),Public,27,Chennai
+1130,HFCL,4.2,Hardware & Networking,1k-5k Employees,Public,37,Chennai
+1131,The Hershey Company,4.2,Food Processing,201-500 Employees,Forbes Global 2000,130,Chennai
+1132,Central Bank of India,4.0,Banking,10k-50k Employees,Public,113,Chennai
+1133,Wheelseye Technology,3.7,Logistics,1k-5k Employees,Startup,7,Chennai
+1134,Jyoti CNC Automation,4.0,Industrial Machinery,501-1k Employees,Public,35,Chennai
+1135,POSCO,4.2,Metals & Mining,51-200 Employees,Forbes Global 2000,56,Chennai
+1136,DIC India,4.2,Chemicals,501-1k Employees,Public,77,Chennai
+1137,Assurekit Technology and Services,4.8,Insurance,51-200 Employees,Startup,5,Chennai
+1138,Healthcare At Home,3.6,Healthcare,1k-5k Employees,Startup,12,Chennai
+1139,UTL Technologies,4.0,Education & Training,51-200 Employees,Public,23,Chennai
+1140,Bayer,4.2,Pharma,10k-50k Employees,Public,161,Chennai
+1141,Orient Electric,4.0,Consumer Electronics & Appliances,501-1k Employees,Public,70,Chennai
+1142,ClarityTTS,4.2,Travel & Tourism,51-200 Employees,Startup,5,Chennai
+1143,IL&FS Engineering and Construction,4.4,Engineering & Construction,1k-5k Employees,Public,36,Chennai
+1144,JoulestoWatts Business Solutions,2.9,IT Services & Consulting,201-500 Employees,Startup,9,Chennai
+1145,IDBI Intech Limited,3.7,IT Services & Consulting,1k-5k Employees,Public,24,Chennai
+1146,Entertainment Network India,3.5,Media & Entertainment,501-1k Employees,Public,25,Chennai
+1147,Sterlite Power,4.0,Power,1k-5k Employees,Fortune India 500,14,Chennai
+1148,Gabriel India,4.2,Auto Components,1k-5k Employees,Public,63,Chennai
+1149,Optimus Global Services,4.1,BPO,51-200 Employees,Public,22,Chennai
+1150,Gabriel India,4.2,Auto Components,1k-5k Employees,Public,63,Chennai
+1151,Ministry of Defence,4.4,Government,1 Lakh+ Employees,Central,77,Chennai
+1152,Grindwell Norton,4.1,Industrial Machinery,1k-5k Employees,Public,83,Chennai
+1153,WS Industries,3.2,Industrial Machinery,501-1k Employees,Public,63,Mumbai
+1154,WS Industries,3.2,Industrial Machinery,501-1k Employees,Public,63,Chennai
+1155,Ministry of Defence,4.4,Government,1 Lakh+ Employees,Central,77,Chennai
+1156,Honeywell International India,4.0,Defence & Aerospace,10k-50k Employees,Forbes Global 2000,118,Chennai
+1157,India Post,3.9,Government,1 Lakh+ Employees,Public,170,Chennai
+1158,The Indian Hume Pipe Co.,4.1,Building Material,1k-5k Employees,Public,98,Chennai
+1159,Andrew Yule & Co.,3.8,Food Processing,201-500 Employees,Public,161,Chennai
+1160,Core Integra Consulting Services,3.6,Recruitment,501-1k Employees,Conglomerate,13,Chennai
+1161,Core Integra Consulting Services,3.6,Recruitment,501-1k Employees,Conglomerate,13,Chennai
+1162,Chemfab Alkalis,4.1,Chemicals / Agri Inputs,51-200 Employees,Public,39,Chennai
+1163,TIL,3.4,Industrial Machinery,1k-5k Employees,Public,80,Mumbai
+1164,Currents Technology Retail India,4.6,Retail,51-200 Employees (Global),Public,13,Chennai
+1165,Ion Exchange Services,3.6,Waste Management,1k-5k Employees (Global),Public,60,Chennai
+1166,Hip Bar,4.3,Internet,51-200 Employees (Global),Startup,9,Chennai
+1167,ITC Wills Lifestyle,4.6,Fashion & Textile,201-500 Employees (Global),Public,114,Chennai
+1168,Hip Bar,4.3,Internet,51-200 Employees (Global),Startup,9,Chennai
+1169,Negup Solutions,5.0,IT Services & Consulting,1-10 Employees,Startup,6,Chennai
+1170,Currents Technology Retail India,4.6,Retail,51-200 Employees (Global),Public,13,Chennai
+1171,Velocix Solutions,2.8,Internet,51-200 Employees,Public,22,Chennai
+1172,ArcelorMittal,4.0,Iron & Steel,501-1k Employees,Forbes Global 2000,18,Chennai
+1173,Mitsui O.S.K. Lines,4.0,Ports & Shipping,51-200 Employees,Forbes Global 2000,140,Chennai
+1174,CCI Logistics,3.1,Logistics,201-500 Employees,Public,47,Chennai
+1175,DSM,4.4,Chemicals,1k-5k Employees,Forbes Global 2000,122,Chennai
+1176,Zee Learn,3.8,Education & Training,201-500 Employees,Public,8,Chennai
+1177,Mitsui O.S.K. Lines,4.0,Ports & Shipping,51-200 Employees,Forbes Global 2000,140,Chennai
+1178,CCI Logistics,3.1,Logistics,201-500 Employees,Public,47,Chennai
+1179,KEI Industries,4.2,Electrical Equipment,1k-5k Employees,Public,56,Chennai
+1180,Apple,4.3,Consumer Electronics & Appliances,10k-50k Employees,Forbes Global 2000,48,Chennai
+1181,Volvo,4.1,Automobile,1k-5k Employees,Forbes Global 2000,97,Chennai
+1182,Food Corporation of India,4.2,Government,10k-50k Employees (Global),Central,59,Chennai
+1183,DSM,4.4,Chemicals,1k-5k Employees,Forbes Global 2000,122,Chennai
+1184,Zee Learn,3.8,Education & Training,201-500 Employees,Public,8,Chennai
+1185,Trigyn Technologies,3.8,IT Services & Consulting,501-1k Employees,Public,38,Chennai
+1186,Stanley Black & Decker,4.0,Industrial Machinery,1k-5k Employees,Forbes Global 2000,181,Chennai
+1187,ArcelorMittal,4.0,Iron & Steel,501-1k Employees,Forbes Global 2000,18,Chennai
+1188,Lacoste,4.2,Fashion & Textile,5k-10k Employees (Global),Public,91,Chennai
+1189,Indoco Remedies,3.7,Pharma,5k-10k Employees,Public,77,Chennai
+1190,Goodyear,4.0,Auto Components,501-1k Employees,Public,126,Chennai
+1191,KPR Mill,4.1,Fashion & Textile,501-1k Employees,Public,40,Chennai
+1192,Loadshare Networks,3.6,Logistics,501-1k Employees,Startup,7,Chennai
+1193,Bank Muscat,4.2,Banking,51-200 Employees,Forbes Global 2000,42,Mumbai
+1194,Tech Data,4.0,IT Services & Consulting,501-1k Employees,Public,50,Chennai
+1195,Cera Sanitaryware,4.3,Building Material,1k-5k Employees,Public,44,Chennai
+1196,Emerald Jewel Industry India,3.9,Jewellery,51-200 Employees,Public,40,Chennai
+1197,Nidec Corporation,4.0,Industrial Machinery,501-1k Employees,Forbes Global 2000,51,Chennai
+1198,STAR,4.2,Broadcasting,1k-5k Employees,Conglomerate,30,Chennai
+1199,VST Industries,4.1,FMCG,501-1k Employees,Public,94,Chennai
+1200,SAP,4.3,Software Product,10k-50k Employees,Forbes Global 2000,52,Chennai
+1201,Negup Solutions,5.0,IT Services & Consulting,1-10 Employees,Startup,6,Chennai
+1202,Goodyear,4.0,Auto Components,501-1k Employees,Public,126,Chennai
+1203,Indoco Remedies,3.7,Pharma,5k-10k Employees,Public,77,Chennai
+1204,Lacoste,4.2,Fashion & Textile,5k-10k Employees (Global),Public,91,Chennai
+1205,Schaeffler India,4.2,Auto Components,1k-5k Employees,Public,78,Chennai
+1206,Pec,4.7,Analytics & KPO,501-1k Employees,Central,40,Chennai
+1207,SAP,4.3,Software Product,10k-50k Employees,Forbes Global 2000,52,Chennai
+1208,Zydus Wellness,3.9,FMCG,501-1k Employees,Public,36,Chennai
+1209,Lumen Technologies,4.0,Hardware & Networking,1k-5k Employees,Forbes Global 2000,94,Chennai
+1210,Hindustan Sanitaryware & Industries,4.1,Furniture & Furnishing,1k-5k Employees,Public,64,Chennai
+1211,Tci Freight,4.3,Logistics,201-500 Employees,Public,66,Chennai
+1212,Cera Sanitaryware,4.3,Building Material,1k-5k Employees,Public,44,Chennai
+1213,Macpower Cnc Machines,3.3,Industrial Machinery,201-500 Employees,Public,21,Chennai
+1214,Lumen Technologies,4.0,Hardware & Networking,1k-5k Employees,Forbes Global 2000,94,Chennai
+1215,Tide Water Oil,3.8,Chemicals / Agri Inputs,501-1k Employees,Public,96,Chennai
+1216,Axio,3.7,Financial Services,501-1k Employees,Startup,11,Chennai
+1217,Volvo,4.1,Automobile,1k-5k Employees,Forbes Global 2000,97,Chennai
+1218,Apple,4.3,Consumer Electronics & Appliances,10k-50k Employees,Forbes Global 2000,48,Chennai
+1219,KEI Industries,4.2,Electrical Equipment,1k-5k Employees,Public,56,Chennai
+1220,Food Corporation of India,4.2,Government,10k-50k Employees (Global),Central,59,Mumbai
+1221,Trigyn Technologies,3.8,IT Services & Consulting,501-1k Employees,Public,38,Mumbai
+1222,Ok Play,3.6,Industrial Machinery,51-200 Employees,Public,31,Mumbai
+1223,Ripplr,3.9,Internet,201-500 Employees,Startup,5,Mumbai
+1224,Riddhi Corporate Services,3.9,IT Services & Consulting,11-50 Employees,Public,14,Chennai
+1225,Sakthi Finance,4.3,Financial Services,201-500 Employees,Public,69,Chennai
+1226,American Tower Corporation,3.9,Telecom,501-1k Employees,Forbes Global 2000,29,Chennai
+1227,Ripplr,3.9,Internet,201-500 Employees,Startup,5,Chennai
+1228,Ok Play,3.6,Industrial Machinery,51-200 Employees,Public,31,Chennai
+1229,American Tower Corporation,3.9,Telecom,501-1k Employees,Forbes Global 2000,29,Chennai
+1230,Tuticorin Alkali Chemicals Fertilizers,3.3,Chemicals,201-500 Employees,Public,53,Chennai
+1231,Intas Pharmaceuticals,4.2,Pharma,10k-50k Employees,Fortune India 500,47,Chennai
+1232,Olympus,4.1,Healthcare,201-500 Employees,Forbes Global 2000,14,Chennai
+1233,Rapido,3.8,Internet,1k-5k Employees,Startup,9,Chennai
+1234,Schaeffler India,4.2,Auto Components,1k-5k Employees,Public,78,Chennai
+1235,Leap Finance,4.2,FinTech,501-1k Employees,Startup,5,Chennai
+1236,Nuvoco Vistas,4.2,Building Material,1k-5k Employees,Fortune India 500,25,Chennai
+1237,Tuticorin Alkali Chemicals Fertilizers,3.3,Chemicals,201-500 Employees,Public,53,Chennai
+1238,Federal Mogul Goetze,4.2,Auto Components,1k-5k Employees,Public,70,Chennai
+1239,MAS Financial Services,3.7,Financial Services,1k-5k Employees,Public,29,Chennai
+1240,Securens System,4.2,Law Enforcement & Security,201-500 Employees,Startup,12,Chennai
+1241,Auxilo Finserve,4.2,Financial Services,51-200 Employees,Startup,7,Chennai
+1242,Muthoot Pappachan Group,3.1,Financial Services,10k-50k Employees,Conglomerate,137,Chennai
+1243,Digit Insurance,4.0,Insurance,1k-5k Employees,Fortune India 500,8,Chennai
+1244,Procter & Gamble,4.2,FMCG,1k-5k Employees,Public,187,Chennai
+1245,Uber eats,4.5,Internet,1k-5k Employees (Global),Startup,10,Chennai
+1246,Digit Insurance,4.0,Insurance,1k-5k Employees,Fortune India 500,8,Chennai
+1247,Muthoot Pappachan Group,3.1,Financial Services,10k-50k Employees,Conglomerate,137,Chennai
+1248,Delta Electronics,4.0,Electronics Manufacturing,501-1k Employees,Forbes Global 2000,32,Chennai
+1249,Biocon Limited,3.9,Biotechnology,5k-10k Employees,Public,46,Chennai
+1250,UAE Exchange,4.2,FinTech,1-10 Employees,Public,29,Chennai
+1251,UAE Exchange,4.2,FinTech,1-10 Employees,Public,29,Chennai
+1252,Kangaroo Kids Education,4.4,Education & Training,51-200 Employees,Public,31,Chennai
+1253,M M Rubber Company,4.8,Furniture & Furnishing,201-500 Employees,Public,60,Chennai
+1254,Uniply Industries,3.1,Furniture & Furnishing,51-200 Employees,Public,36,Chennai
+1255,Davita Nephrolife Care,4.4,Healthcare,51-200 Employees,Forbes Global 2000,15,Chennai
+1256,Uniply Industries,3.1,Furniture & Furnishing,51-200 Employees,Public,36,Chennai
+1257,Davita Nephrolife Care,4.4,Healthcare,51-200 Employees,Forbes Global 2000,15,Chennai
+1258,Harita Seating Systems,3.9,Auto Components,201-500 Employees,Public,14,Chennai
+1259,Jetfleet,3.6,Internet,201-500 Employees,Startup,6,Chennai
+1260,The Oriental Insurance Co.,4.5,Insurance,10k-50k Employees,Central,77,Chennai
+1261,M M Rubber Company,4.8,Furniture & Furnishing,201-500 Employees,Public,60,Chennai
+1262,PipeCandy,4.7,Software Product,11-50 Employees,Startup,8,Chennai
+1263,Agarwal Packers and Movers Limited,3.6,Logistics,5k-10k Employees,Public,37,Mumbai
+1264,Techno Electric & Engineering Company,4.0,Engineering & Construction,201-500 Employees,Public,61,Chennai
+1265,Mitsubishi Heavy Industries,4.1,Industrial Machinery,51-200 Employees,Forbes Global 2000,140,Chennai
+1266,Locuz Enterprise Solutions,4.2,IT Services & Consulting,501-1k Employees,Public,25,Chennai
+1267,LendingKart,3.2,NBFC,1k-5k Employees,Public,10,Chennai
+1268,Paul Merchants,4.3,NBFC,1k-5k Employees,Public,40,Chennai
+1269,SkillRecruit,4.7,Recruitment,201-500 Employees,MNC,19,Chennai
+1270,Utkarsh Small Finance Bank,3.9,Banking,10k-50k Employees,Public,15,Chennai
+1271,Career Point,3.5,Education & Training,501-1k Employees,Public,31,Chennai
+1272,Jeevan Scientific Technology,3.7,Healthcare,51-200 Employees,Public,25,Chennai
+1273,Ang India,4.0,Consumer Electronics & Appliances,201-500 Employees,Public,46,Chennai
+1274,Setco Automotive,3.9,Auto Components,501-1k Employees,Public,42,Chennai
+1275,Themis Medicare,3.7,Pharma,201-500 Employees,Public,55,Chennai
+1276,Orient Bell,3.8,Building Material,501-1k Employees,Public,47,Mumbai
+1277,Archidply Industries,4.0,Furniture & Furnishing,501-1k Employees,Public,48,Mumbai
+1278,Elecon Engineering,4.2,Electrical Equipment,501-1k Employees,Public,73,Mumbai
+1279,Dilip Buildcon,4.1,Engineering & Construction,10k-50k Employees,Public,37,Mumbai
+1280,Tango Eye,2.6,Internet,11-50 Employees,Startup,7,Chennai
+1281,CriticaLog India Private Limited,4.6,Logistics,501-1k Employees,Startup,11,Chennai
+1282,Wonderla Holidays,4.6,Hospitality,501-1k Employees,Public,24,Chennai
+1283,J. Kumar Infraprojects,4.1,Engineering & Construction,5k-10k Employees,Public,44,Chennai
+1284,KreditBee,3.6,Internet,501-1k Employees,Startup,6,Chennai
+1285,Cybele Industries,4.0,Real Estate,51-200 Employees,Public,31,Chennai
+1286,Sri Chaitanya Schools,3.9,Education & Training,11-50 Employees,Public,38,Chennai
+1287,Indian Railway Catering and Tourism,4.0,Urban Transport,1k-5k Employees,Public,25,Chennai
+1288,Transsion,4.2,Consumer Electronics & Appliances,501-1k Employees,Public,18,Chennai
+1289,Alibaba Group,4.0,Internet,501-1k Employees,Public,25,Chennai
+1290,Linde India,4.1,Oil & Gas,201-500 Employees,Public,145,Chennai
+1291,Teachmint,3.4,EdTech,501-1k Employees,Startup,4,Chennai
+1292,Orient Cement,4.3,Building Material,1k-5k Employees,Public,45,Chennai
+1293,FoodPanda,3.9,Internet,501-1k Employees,Startup,12,Chennai
+1294,Poly Medicure,3.7,Medical Equipment,1k-5k Employees,Public,27,Chennai
+1295,Brick&Bolt,4.0,Engineering & Construction,51-200 Employees,Startup,7,Chennai
+1296,Genus Power Infrastructures,4.0,Consumer Electronics & Appliances,1k-5k Employees,Public,32,Chennai
+1297,Roto Pumps,3.8,Industrial Machinery,201-500 Employees,Public,56,Chennai
+1298,Batliboi,4.2,Industrial Machinery,501-1k Employees,Public,132,Chennai
+1299,Nicco Engineering Services,4.1,Engineering & Construction,51-200 Employees,Public,44,Chennai
+1300,Cashkaro.com,3.5,Internet,51-200 Employees,Startup,12,Chennai
+1301,Poly Medicure,3.7,Medical Equipment,1k-5k Employees,Public,27,Chennai
+1302,Brick&Bolt,4.0,Engineering & Construction,51-200 Employees,Startup,7,Chennai
+1303,Air India Engineering Services,3.9,Industrial Machinery,501-1k Employees,Public,20,Chennai
+1304,Genus Power Infrastructures,4.0,Consumer Electronics & Appliances,1k-5k Employees,Public,32,Jaipur
+1305,Acer India,4.2,IT Services & Consulting,51-200 Employees,Public,48,Mumbai
+1306,Patel Integrated Logistics,4.3,Logistics,201-500 Employees,Public,65,Mumbai
+1307,Raptakos Brett and Company,3.6,Pharma,201-500 Employees,Public,94,Mumbai
+1308,Treebo Hotels,3.5,Internet,51-200 Employees,Startup,9,Mumbai
+1309,N.C.L. Industries,3.9,Building Material,501-1k Employees,Public,44,Chennai
+1310,NOON.COM,3.8,Internet,1k-5k Employees,Startup,8,Chennai
+1311,FANUC,3.9,Industrial Machinery,501-1k Employees,Forbes Global 2000,68,Chennai
+1312,LIXIL,4.0,Building Material,501-1k Employees,Public,17,Chennai
+1313,Techno Electric & Engineering Company,4.0,Engineering & Construction,201-500 Employees,Public,61,Chennai
+1314,ELGI Equipments,4.1,Industrial Machinery,1k-5k Employees,Public,64,Chennai
+1315,John Deere,4.3,Industrial Machinery,5k-10k Employees,Fortune India 500,23,Chennai
+1316,Linde India,4.1,Oil & Gas,201-500 Employees,Public,145,Chennai
+1317,Ang India,4.0,Consumer Electronics & Appliances,201-500 Employees,Public,46,Chennai
+1318,Air India Engineering Services,3.9,Industrial Machinery,501-1k Employees,Public,20,Chennai
+1319,Jeevan Scientific Technology,3.7,Healthcare,51-200 Employees,Public,25,Chennai
+1320,Locuz Enterprise Solutions,4.2,IT Services & Consulting,501-1k Employees,Public,25,Chennai
+1321,Orient Cement,4.3,Building Material,1k-5k Employees,Public,45,Chennai
+1322,Forbes & Company,4.1,Engineering & Construction,501-1k Employees,Fortune India 500,259,Chennai
+1323,Emirates NBD,3.9,Banking,201-500 Employees,Public,61,Chennai
+1324,Thyrocare Technologies,3.6,Healthcare,1k-5k Employees,Public,28,Chennai
+1325,GTL,4.2,Hardware & Networking,1k-5k Employees,Public,37,Chennai
+1326,SkillRecruit,4.7,Recruitment,201-500 Employees,MNC,19,Chennai
+1327,Career Point,3.5,Education & Training,501-1k Employees,Public,31,Chennai
+1328,Wonderla Holidays,4.6,Hospitality,501-1k Employees,Public,24,Chennai
+1329,J. Kumar Infraprojects,4.1,Engineering & Construction,5k-10k Employees,Public,44,Chennai
+1330,Billabong High International School,3.8,Education & Training,51-200 Employees,Public,15,Chennai
+1331,CriticaLog India Private Limited,4.6,Logistics,501-1k Employees,Startup,11,Chennai
+1332,Sri Chaitanya Schools,3.9,Education & Training,11-50 Employees,Public,38,Chennai
+1333,Cybele Industries,4.0,Real Estate,51-200 Employees,Public,31,Chennai
+1334,Medfin India,3.3,Internet,51-200 Employees,Startup,8,Chennai
+1335,Aditya Birla Insurance Brokers,4.4,Insurance,201-500 Employees,Public,21,Chennai
+1336,Groupm Media,4.0,Marketing & Advertising,1k-5k Employees,Public,21,Chennai
+1337,thinkbridge,3.9,Software Product,201-500 Employees,Startup,10,Chennai
+1338,Inditrade Capital,4.1,NBFC,201-500 Employees,Public,30,Chennai
+1339,Asset Reconstruction Company (India),3.9,Investment Banking / Venture Capital / Private Equity,1-10 Employees,Public,22,Chennai
+1340,Dynamic Engineering,3.5,Industrial Machinery,51-200 Employees,Public,42,Chennai
+1341,BOB Financial Solutions,4.3,NBFC,501-1k Employees,Public,30,Chennai
+1342,AtkinsRealis,4.0,Engineering & Construction,1k-5k Employees,Public,113,Chennai
+1343,The Walt Disney Company,4.1,Media & Entertainment,5k-10k Employees,Forbes Global 2000,101,Mumbai
+1344,LIXIL,4.0,Building Material,501-1k Employees,Public,17,Mumbai
+1345,FANUC,3.9,Industrial Machinery,501-1k Employees,Forbes Global 2000,68,Mumbai
+1346,thinkbridge,3.9,Software Product,201-500 Employees,Startup,10,Chennai
+1347,Inditrade Capital,4.1,NBFC,201-500 Employees,Public,30,Chennai
+1348,AB InBev India,3.5,Beverage,1k-5k Employees,Public,36,Chennai
+1349,Jsw Infrastructure,4.1,Engineering & Construction,1k-5k Employees,Public,25,Chennai
+1350,Nabard Financial Services,4.3,NBFC,1k-5k Employees,Public,15,Chennai
+1351,BOB Financial Solutions,4.3,NBFC,501-1k Employees,Public,30,Chennai
+1352,Dynamic Engineering,3.5,Industrial Machinery,51-200 Employees,Public,42,Chennai
+1353,Monexo Fintech,4.1,FinTech,11-50 Employees,Startup,8,Chennai
+1354,Nilkamal Furniture,4.1,Furniture & Furnishing,1k-5k Employees,Public,34,Chennai
+1355,Asset Reconstruction Company (India),3.9,Investment Banking / Venture Capital / Private Equity,1-10 Employees,Public,22,Chennai
+1356,UTI Technology Services,3.8,IT Services & Consulting,1k-5k Employees,Public,31,Chennai
+1357,UTI Technology Services,3.8,IT Services & Consulting,1k-5k Employees,Public,31,Chennai
+1358,AB InBev India,3.5,Beverage,1k-5k Employees,Public,36,Chennai
+1359,Nabard Financial Services,4.3,NBFC,1k-5k Employees,Public,15,Chennai
+1360,Thermo Fisher Scientific,3.9,Pharma,1k-5k Employees,Forbes Global 2000,68,Chennai
+1361,Air India Express,3.5,Aviation,501-1k Employees,Central,19,Chennai
+1362,Macleods Pharmaceuticals,3.8,Pharma,10k-50k Employees,Public,38,Chennai
+1363,Karma Healthcare Ltd,3.8,Medical Equipment,51-200 Employees,Startup,10,Chennai
+1364,Council of Scientific and Industrial Research,4.5,Government,5k-10k Employees,Central,82,Chennai
+1365,Sakthi Auto Components,3.5,Auto Components,501-1k Employees,Public,41,Chennai
+1366,Zetwerk Manufacturing Businesses,4.1,Industrial Machinery,1k-5k Employees,Indian Unicorn,6,Chennai
+1367,Tamilnadu Newsprint Papers,4.4,Pulp & Paper,1k-5k Employees,Public,25,Chennai
+1368,Tv18 Broadcast,4.1,Media & Entertainment,1k-5k Employees,Public,28,Chennai
+1369,National Plastic Technologies,3.9,Auto Components,51-200 Employees,Public,35,Chennai
+1370,First Abu Dhabi Bank,3.3,Banking,201-500 Employees,Public,7,Chennai
+1371,National Plastic Technologies,3.9,Auto Components,51-200 Employees,Public,35,Chennai
+1372,First Abu Dhabi Bank,3.3,Banking,201-500 Employees,Public,7,Chennai
+1373,Tv18 Broadcast,4.1,Media & Entertainment,1k-5k Employees,Public,28,Chennai
+1374,Impact Guru,4.1,Internet,501-1k Employees,Startup,10,Chennai
+1375,Milky Mist Dairy Food,3.6,Food Processing,501-1k Employees,Startup,10,Chennai
+1376,Impower Solutions,4.4,Marketing & Advertising,51-200 Employees,Public,10,Chennai
+1377,Jsw Infrastructure,4.1,Engineering & Construction,1k-5k Employees,Public,25,Chennai
+1378,S&P Global,4.2,Analytics & KPO,10k-50k Employees,Public,164,Chennai
+1379,Concord Biotech,3.7,Pharma,501-1k Employees,Public,24,Chennai
+1380,WizKlub,3.0,EdTech,201-500 Employees,Startup,6,Chennai
+1381,Entero Healthcare Solutions,4.3,Pharma,1k-5k Employees,Public,6,Mumbai
+1382,TE Connectivity,4.1,Industrial Machinery,1k-5k Employees,Forbes Global 2000,83,Schaffhausen
+1383,The MobileStore,4.3,Internet,501-1k Employees,Public,18,Chennai
+1384,Weizmann Forex,3.7,Financial Services,201-500 Employees,Public,31,Chennai
+1385,Abengoa,4.2,Engineering & Construction,51-200 Employees,Forbes Global 2000,83,Chennai
+1386,Mascon Global,1.1,IT Services & Consulting,1k-5k Employees (Global),Public,43,Chennai
+1387,Prithvi Information Solutions,3.8,IT Services & Consulting,1k-5k Employees,Public,26,Chennai
+1388,Sanco Trans,3.8,Logistics,51-200 Employees,Public,45,Chennai
+1389,Avasarala Technologies,4.1,Industrial Automation,201-500 Employees,Public,39,Chennai
+1390,Transcorp International,3.5,NBFC,501-1k Employees,Public,30,Chennai
+1391,Quintegra Solutions,4.8,IT Services & Consulting,51-200 Employees (Global),Public,30,Chennai
+1392,Remi Sales & Engineering,3.2,Medical Equipment,201-500 Employees (Global),Public,64,Chennai
+1393,Bank of America Securities,4.4,Investment Banking / Venture Capital / Private Equity,51-200 Employees,Public,15,Chennai
+1394,Ventures HRD Centre,4.6,Recruitment,51-200 Employees,State,25,Chennai
+1395,Stanpacks,5.0,Packaging,201-500 Employees,Public,33,Chennai
+1396,Talwalkars Better value Fitness,4.1,Fitness & Wellness,201-500 Employees,Public,92,Chennai
+1397,Magma Housing Finance,4.3,Financial Services,5k-10k Employees,Public,35,Chennai
+1398,Cogniphi Technologies,4.3,Software Product,11-50 Employees,Startup,9,Chennai
+1399,ODeX India Solutions,3.8,Internet,51-200 Employees,Startup,9,Chennai
+1400,Calvin Klein Jeans,4.8,Fashion & Textile,10k-50k Employees (Global),Public,56,Chennai
+1401,Cogniphi Technologies,4.3,Software Product,11-50 Employees,Startup,9,Chennai
+1402,Calvin Klein Jeans,4.8,Fashion & Textile,10k-50k Employees (Global),Public,56,Chennai

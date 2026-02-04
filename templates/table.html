@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+<h4 class="page-title">📋 Filtered Data</h4>
+<div class="card p-3">
+  <div class="table-responsive">
+    <div id="table-container">{{ table|safe }}</div>
+  </div>
+</div>
+<a href="/" class="btn btn-secondary mt-3">⬅ Back</a>
+{% endblock %}
+
+{% block scripts %}
+<script>
+  const tbl = document.querySelector("#table-container table");
+  if (tbl) { tbl.id = "results"; }
+  $(document).ready(()=> $("#results").DataTable({ 
+    pageLength:10, 
+    lengthMenu:[5,10,25,50,100], 
+    order:[] 
+  }));
+</script>
+{% endblock %}

@@ -1,0 +1,1337 @@
+,company_name,company_rating,industry,size,type,years_old,location
+0,TCS,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,56,Pune
+1,Infosys,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,43,Pune
+2,Cognizant,3.9,IT Services & Consulting,1 Lakh+ Employees,Forbes Global 2000,30,Pune
+3,Wipro,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,79,Pune
+4,Capgemini,3.8,IT Services & Consulting,1 Lakh+ Employees,Public,57,Pune
+5,Tech Mahindra,3.7,IT Services & Consulting,1 Lakh+ Employees,Public,38,Pune
+6,Accenture,4.0,IT Services & Consulting,1 Lakh+ Employees,Public,35,Pune
+7,Amdocs,4.0,Software Product,10k-50k Employees,Forbes Global 2000,42,Pune
+8,Tata Motors,4.2,Automobile,10k-50k Employees,Public,79,Pune
+9,Vodafone Idea,4.2,Telecom,5k-10k Employees,Public,6,Pune
+10,IBM,4.1,IT Services & Consulting,1 Lakh+ Employees,Public,113,Pune
+11,BNY Mellon,4.0,Investment Banking / Venture Capital / Private Equity,10k-50k Employees,Forbes Global 2000,20,Pune
+12,Mphasis,3.5,IT Services & Consulting,10k-50k Employees,Public,26,Pune
+13,John Deere,4.3,Industrial Machinery,5k-10k Employees,Fortune India 500,23,Pune
+14,Concentrix Corporation,3.9,BPO,50k-1 Lakh Employees,Public,41,Pune
+15,Persistent Systems,3.8,IT Services & Consulting,10k-50k Employees,Public,34,Pune
+16,eClerx,3.5,IT Services & Consulting,10k-50k Employees,Public,24,Pune
+17,Cummins,4.4,Industrial Machinery,1k-5k Employees,Fortune India 500,105,Pune
+18,Tata Technologies,3.8,Engineering & Construction,5k-10k Employees,Conglomerate,35,Pune
+19,L&T Infotech,3.8,IT Services & Consulting,10k-50k Employees,Public,28,Pune
+20,Thermax Limited,4.2,Industrial Machinery,1k-5k Employees,Public,58,Pune
+21,HCLTech,3.7,IT Services & Consulting,1 Lakh+ Employees,Public,33,Pune
+22,Mahindra & Mahindra,4.2,Automobile,1 Lakh+ Employees,Public,79,Pune
+23,LTIMindtree,3.6,IT Services & Consulting,50k-1 Lakh Employees,Public,27,Pune
+24,Barclays,4.0,Banking,10k-50k Employees,Forbes Global 2000,334,Pune
+25,Zensar Technologies,3.8,IT Services & Consulting,5k-10k Employees,Public,23,Pune
+26,Bajaj Auto,3.9,Automobile,5k-10k Employees,Public,79,Pune
+27,KPIT Technologies,3.6,Software Product,5k-10k Employees,Public,34,Pune
+28,Tata Communications,4.1,Telecom,5k-10k Employees,Public,38,Pune
+29,Johnson Controls,3.7,Industrial Automation,5k-10k Employees,Public,139,Pune
+30,Bajaj Finserv,4.1,Financial Services,50k-1 Lakh Employees,Public,17,Pune
+31,HSBC Group,4.1,Banking,10k-50k Employees,Forbes Global 2000,159,Pune
+32,Amazon,4.1,Internet,1 Lakh+ Employees,Public,30,Pune
+33,HDFC Bank,4.0,Banking,1 Lakh+ Employees,Public,30,Pune
+34,Atos,3.8,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,27,Pune
+35,ICICI Bank,4.0,Banking,1 Lakh+ Employees,Public,30,Pune
+36,Deutsche Bank,4.0,Banking,10k-50k Employees,Fortune India 500,154,Pune
+37,Emcure Pharmaceuticals,3.8,Pharma,5k-10k Employees,Fortune India 500,43,Pune
+38,Fujitsu,3.9,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,89,Pune
+39,Tietoevry,4.3,IT Services & Consulting,1k-5k Employees,Public,56,Pune
+40,Automatic Data Processing (ADP),4.1,Software Product,1k-5k Employees,Forbes Global 2000,75,Pune
+41,Eaton Corporation,4.0,Power,5k-10k Employees,Public,113,Pune
+42,Allstate,4.0,Insurance,5k-10k Employees,Forbes Global 2000,12,Pune
+43,Fiserv,3.6,FinTech,5k-10k Employees,Forbes Global 2000,40,Pune
+44,Force Motors,3.6,Automobile,1k-5k Employees,Public,66,Pune
+45,Lupin,4.1,Pharma,1k-5k Employees,Public,56,Pune
+46,Birlasoft,3.8,IT Services & Consulting,10k-50k Employees,Public,29,Pune
+47,UBS,3.9,Investment Banking / Venture Capital / Private Equity,5k-10k Employees,Forbes Global 2000,9,Pune
+48,Bharat Forge,3.9,Iron & Steel,1k-5k Employees,Public,63,Pune
+49,Dassault Systemes,4.0,Software Product,5k-10k Employees,Forbes Global 2000,43,Pune
+50,BYJU'S,3.1,EdTech,10k-50k Employees,Indian Unicorn,13,Pune
+51,Tata AutoComp Systems,3.9,Auto Components,1k-5k Employees,Public,29,Pune
+52,ElasticRun,3.4,Logistics,1k-5k Employees,Indian Unicorn,8,Pune
+53,Gallagher,3.9,Insurance,10k-50k Employees,Forbes Global 2000,97,Pune
+54,Honeywell Automation,3.8,Consumer Electronics & Appliances,10k-50k Employees,Public,118,Pune
+55,Kotak Mahindra Bank,3.9,Banking,50k-1 Lakh Employees,Public,21,Pune
+56,Axis Bank,3.9,Banking,50k-1 Lakh Employees,Public,31,Pune
+57,Flex,4.1,Logistics,5k-10k Employees,Forbes Global 2000,55,Pune
+58,Varroc Group,3.8,Auto Components,1k-5k Employees,Public,36,Pune
+59,FirstCry,3.8,Retail,1k-5k Employees,Indian Unicorn,14,Pune
+60,Suzlon Group,4.2,Power,5k-10k Employees,Public,29,Pune
+61,T-SYSTEMS ICT INDIA,3.9,IT Services & Consulting,1k-5k Employees,Public,8,Pune
+62,Tech Mahindra Business Services,3.5,BPO,5k-10k Employees,Public,21,Pune
+63,Hexaware Technologies,3.7,IT Services & Consulting,10k-50k Employees,Fortune India 500,34,Pune
+64,Jabil Circuit India,4.0,Electronics Manufacturing,1k-5k Employees,Public,58,Pune
+65,UNO Minda,4.1,Auto Components,201-500 Employees,Fortune India 500,66,Pune
+66,HARMAN,3.9,Consumer Electronics & Appliances,5k-10k Employees,Public,15,Pune
+67,MasterCard,4.1,FinTech,5k-10k Employees,Forbes Global 2000,58,Pune
+68,Whirlpool,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,113,Pune
+69,Principal Global Services,4.2,Insurance,1k-5k Employees,Forbes Global 2000,18,Pune
+70,Mahindra CIE Automotive,3.8,Auto Components,1k-5k Employees,Public,25,Pune
+71,Veritas,4.2,Software Product,1k-5k Employees,Public,35,Pune
+72,Larsen & Toubro Limited,4.1,Engineering & Construction,10k-50k Employees,Public,86,Pune
+73,JustDial,3.6,Internet,10k-50k Employees,Public,28,Pune
+74,Atlas Copco,4.3,Industrial Machinery,1k-5k Employees,Public,151,Pune
+75,Siemens,4.2,Industrial Automation,5k-10k Employees,Public,177,Pune
+76,ZF Steering Gear,3.8,Auto Components,501-1k Employees,Public,109,Pune
+77,AU Small Finance Bank,4.4,Banking,10k-50k Employees,Fortune India 500,28,Pune
+78,Tata Elxsi,4.0,IT Services & Consulting,5k-10k Employees,Public,35,Pune
+79,Ups Logistics,4.0,Logistics,1k-5k Employees,Forbes Global 2000,117,Pune
+80,Jio,4.0,Telecom,50k-1 Lakh Employees,Public,6,Pune
+81,NICE,3.8,Software Product,1k-5k Employees,Public,38,Pune
+82,Ge India Industrial,4.3,Industrial Machinery,201-500 Employees,Conglomerate,122,Pune
+83,Bharti Airtel,4.1,Telecom,10k-50k Employees,Public,29,Pune
+84,Shapoorji Pallonji Group,4.2,Engineering & Construction,5k-10k Employees,Conglomerate,159,Pune
+85,Gabriel India,4.2,Auto Components,1k-5k Employees,Public,63,Pune
+86,SKF,4.0,Auto Components,1k-5k Employees,Public,101,Pune
+87,ThyssenKrupp Industries India,4.2,Industrial Machinery,1k-5k Employees,Conglomerate,77,Pune
+88,Škoda Auto Volkswagen,4.3,Automobile,5k-10k Employees,Fortune India 500,23,Pune
+89,Spark Minda,3.9,Auto Components,1k-5k Employees,Public,66,Pune
+90,Cipla,4.1,Pharma,10k-50k Employees,Public,89,Pune
+91,Jaya Hind Industries,3.8,Auto Components,1k-5k Employees,Public,77,Pune
+92,Haier Appliances India,4.1,Consumer Electronics & Appliances,1k-5k Employees,Conglomerate,20,Pune
+93,Crisil,3.7,Financial Services,1k-5k Employees,Public,37,Pune
+94,Knorr-Bremse,4.1,Auto Components,501-1k Employees,Forbes Global 2000,11,Pune
+95,GE,4.3,Defence & Aerospace,10k-50k Employees,Forbes Global 2000,132,Pune
+96,Northern Trust Operating Services,4.1,Financial Services,5k-10k Employees,Forbes Global 2000,135,Pune
+97,CBRE,4.2,Real Estate,10k-50k Employees,Forbes Global 2000,118,Pune
+98,Praj Industries,4.3,Biotechnology,1k-5k Employees,Public,41,New
+99,Schlumberger,4.1,Oil & Gas,5k-10k Employees,Forbes Global 2000,98,New
+100,XpressBees,3.8,Logistics,5k-10k Employees,Indian Unicorn,9,New
+101,Kirloskar Oil Engines,4.2,Industrial Machinery,1k-5k Employees,Public,78,New
+102,Endurance Technologies,3.9,Auto Components,1k-5k Employees,Public,39,New
+103,Onward Technologies Inc,3.2,Software Product,1k-5k Employees,Public,33,New
+104,Kirloskar Pneumatic,4.2,Industrial Machinery,501-1k Employees,Public,66,New
+105,LG Electronics,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,66,Pune
+106,Coforge,3.5,IT Services & Consulting,10k-50k Employees,Public,20,Pune
+107,Magna International,4.0,Auto Components,501-1k Employees,Public,67,Pune
+108,Mahindra Logistics,4.1,Logistics,1k-5k Employees,Public,24,Pune
+109,Volkswagen,4.2,Automobile,1k-5k Employees,Forbes Global 2000,23,Pune
+110,Indian Army,4.7,Defence & Aerospace,1 Lakh+ Employees,Public,129,Pune
+111,Agrostar,4.0,Internet,1k-5k Employees,Startup,11,Pune
+112,JLL,4.2,Real Estate,10k-50k Employees,Forbes Global 2000,25,Pune
+113,Lear Corporation,4.1,Auto Components,1k-5k Employees,Public,107,Pune
+114,Ericsson,4.3,Telecom,10k-50k Employees,Forbes Global 2000,148,Pune
+115,DMart,4.0,Retail,10k-50k Employees,Fortune India 500,22,Pune
+116,IndusInd Bank,3.7,Banking,10k-50k Employees,Public,30,Pune
+117,Wolters Kluwer,3.9,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,188,Pune
+118,IDFC FIRST Bank,4.0,Banking,10k-50k Employees,Public,6,Pune
+119,British Petroleum,3.8,Oil & Gas,1k-5k Employees,Forbes Global 2000,115,Pune
+120,PTC,4.2,Software Product,1k-5k Employees,Public,39,Pune
+121,Kirloskar Brothers,4.1,Industrial Machinery,1k-5k Employees,Public,136,Pune
+122,HDFC Life,4.1,Insurance,10k-50k Employees,Public,24,Pune
+123,Mercedes-Benz Research & Development India,4.0,IT Services & Consulting,5k-10k Employees,Public,28,Pune
+124,Evolent Health International,3.9,Software Product,501-1k Employees,Public,13,Pune
+125,Tetra Pak,4.2,Packaging,1k-5k Employees,Fortune India 500,37,Pune
+126,Citibank,4.0,Banking,10k-50k Employees (Global),Fortune India 500,212,Pune
+127,Emerson Electric Co.,4.2,IT Services & Consulting,5k-10k Employees,Public,134,Pune
+128,BigBasket,4.0,Internet,10k-50k Employees,Indian Unicorn,13,Pune
+129,UltraTech Cement,4.2,Building Material,10k-50k Employees,Public,41,Pune
+130,Philips,3.9,Consumer Electronics & Appliances,5k-10k Employees,Forbes Global 2000,94,Pune
+131,Kolte Patil Developers,4.1,Real Estate,1k-5k Employees,Public,33,Pune
+132,Wipro Infotech,4.0,IT Services & Consulting,1 Lakh+ Employees (Global),MNC,79,Pune
+133,Startek,3.3,BPO,10k-50k Employees,Public,7,Pune
+134,e-Zest,4.1,IT Services & Consulting,1k-5k Employees,Public,24,Pune
+135,Bosch,4.3,Auto Components,5k-10k Employees,Public,138,Pune
+136,Quess,4.0,BPO,1k-5k Employees,Public,17,Pune
+137,Yes Bank,3.9,Banking,10k-50k Employees,Public,20,Pune
+138,ICICI Prudential Life Insurance,4.1,Insurance,10k-50k Employees,Public,24,Pune
+139,Sodexo,4.1,Facility Management Services,10k-50k Employees,Forbes Global 2000,16,Pune
+140,CitiusTech,3.5,IT Services & Consulting,1k-5k Employees,Indian Unicorn,19,Pune
+141,METRO Global Solutions Center,4.0,IT Services & Consulting,501-1k Employees,Public,13,Pune
+142,Valeo,4.1,Auto Components,5k-10k Employees,Forbes Global 2000,101,Pune
+143,Innoplexus,4.0,IT Services & Consulting,201-500 Employees,Startup,9,Pune
+144,Asian Paints,4.1,Chemicals,5k-10k Employees,Public,82,Pune
+145,Icertis,3.7,Software Product,1k-5k Employees,Indian Unicorn,15,Pune
+146,Citigroup,3.7,Banking,10k-50k Employees,Forbes Global 2000,212,Pune
+147,Nvidia,4.1,Hardware & Networking,1k-5k Employees,Forbes Global 2000,31,Pune
+148,Western Union,4.0,FinTech,1k-5k Employees,Forbes Global 2000,173,Pune
+149,TSYS|Total System Services,4.4,Financial Services,1k-5k Employees,Public,40,Pune
+150,Tenneco,3.8,Auto Components,1k-5k Employees,Forbes Global 2000,84,Pune
+151,EMERSON PROCESS MANAGEMENT,4.1,Industrial Machinery,1k-5k Employees,Public,134,Pune
+152,Hinduja Global Solutions,4.0,IT Services & Consulting,10k-50k Employees,Public,24,Pune
+153,Team Lease,4.0,Recruitment,1k-5k Employees,Public,8,Pune
+154,SYSKA LED Lights,2.9,Consumer Electronics & Appliances,1k-5k Employees (Global),Startup,12,Pune
+155,Sopra Steria,4.0,IT Services & Consulting,5k-10k Employees,Conglomerate,56,Pune
+156,Reliance Industries,4.1,Oil & Gas,1 Lakh+ Employees,Public,47,Pune
+157,QUICK HEAL TECHNOLOGIES,3.9,Software Product,1k-5k Employees,Public,29,Pune
+158,Alfa Laval,3.8,Industrial Machinery,1k-5k Employees,Forbes Global 2000,141,Pune
+159,Finolex Cables,3.9,Electrical Equipment,1k-5k Employees,Public,68,Pune
+160,Schaeffler India,4.2,Auto Components,1k-5k Employees,Public,78,Pune
+161,Genpact,3.9,IT Services & Consulting,1 Lakh+ Employees,Public,27,Pune
+162,Godrej Properties,3.7,Real Estate,1k-5k Employees,Public,34,Pune
+163,Sterlite Technologies,3.8,Hardware & Networking,1k-5k Employees,Public,36,Pune
+164,Adient,3.9,Auto Components,501-1k Employees,Forbes Global 2000,28,Pune
+165,General Motors,4.5,Automobile,10k-50k Employees,Forbes Global 2000,28,Pune
+166,Vertiv,4.0,IT Services & Consulting,51-200 Employees (Global),Startup,8,Pune
+167,Paytm,3.5,FinTech,10k-50k Employees,Public,14,Pune
+168,Teleperformance,3.8,BPO,50k-1 Lakh Employees,Forbes Global 2000,46,Pune
+169,Sany Heavy Industry,4.0,Industrial Machinery,1k-5k Employees,Forbes Global 2000,35,Pune
+170,Kyndryl,4.1,IT Services & Consulting,10k-50k Employees,Public,2,Pune
+171,Alicon Castalloy,3.7,Auto Components,501-1k Employees,Public,34,Pune
+172,Tata Projects,4.3,Engineering & Construction,5k-10k Employees,Public,45,Pune
+173,JBM Group,4.0,Auto Components,1k-5k Employees,Public,41,Pune
+174,Ujjivan Small Finance Bank,4.1,Banking,10k-50k Employees,Public,7,Pune
+175,TE Connectivity,4.1,Industrial Machinery,1k-5k Employees,Forbes Global 2000,83,Pune
+176,Rockwell Automation,4.1,Industrial Automation,1k-5k Employees,Forbes Global 2000,121,Pune
+177,Britannia,4.1,FMCG,1k-5k Employees,Public,132,Pune
+178,TomTom,4.1,IT Services & Consulting,501-1k Employees,Public,33,Pune
+179,Poonawalla Fincorp,3.9,NBFC,1k-5k Employees,Public,36,Pune
+180,Lumax Industries,4.0,Auto Components,1k-5k Employees,Public,79,Gurgaon
+181,Bridgestone,4.2,Auto Components,1k-5k Employees,Forbes Global 2000,28,Navi
+182,PwC,3.6,Management Consulting,10k-50k Employees,Conglomerate,144,Navi
+183,Randstad,3.9,Recruitment,5k-10k Employees,Conglomerate,32,Navi
+184,Pharmarack Technologies,3.8,IT Services & Consulting,51-200 Employees,Startup,9,Pune
+185,Kogta Financial India Limited,4.8,NBFC,1k-5k Employees,Public,28,Pune
+186,ITC,4.0,FMCG,10k-50k Employees,Public,114,Pune
+187,Venky's,3.7,FMCG,5k-10k Employees,Public,48,Pune
+188,ICICI Lombard General Insurance Company,3.8,Insurance,10k-50k Employees,Public,23,Pune
+189,Jana Small Finance Bank,3.9,Banking,10k-50k Employees,Public,18,Pune
+190,Greaves Cotton,4.1,Auto Components,501-1k Employees,Public,165,Pune
+191,Lentra AI,3.0,Financial Services,201-500 Employees,Startup,6,Pune
+192,Digit Insurance,4.0,Insurance,1k-5k Employees,Fortune India 500,8,Pune
+193,Intellect Design Arena,4.1,FinTech,5k-10k Employees,Public,13,Pune
+194,Burckhardt Compression,4.3,Industrial Machinery,201-500 Employees,Public,180,Pune
+195,Oracle Financial Services Software,3.7,IT Services & Consulting,10k-50k Employees,Public,34,Pune
+196,IIFL Finance,4.0,NBFC,10k-50k Employees,Public,29,Pune
+197,Samvardhana Motherson Group,3.8,Auto Components,1k-5k Employees,Public,38,Pune
+198,Kalyani Forge,3.0,Iron & Steel,501-1k Employees,Public,45,Pune
+199,Samsung,4.1,Consumer Electronics & Appliances,50k-1 Lakh Employees,Public,55,Pune
+200,Godrej & Boyce Manufacturing,4.0,Consumer Electronics & Appliances,10k-50k Employees,Fortune India 500,127,Pune
+201,Nuance Communications,4.3,Software Product,1k-5k Employees,Public,32,Pune
+202,Cyient,3.8,IT Services & Consulting,10k-50k Employees,Public,33,Pune
+203,Tata Teleservices,4.1,Telecom,201-500 Employees,Public,28,Pune
+204,Pricol,4.0,Auto Components,1k-5k Employees,Public,49,Pune
+205,Oyo Rooms,3.4,Hospitality,1k-5k Employees,Indian Unicorn,11,Pune
+206,Delhivery,4.0,Logistics,10k-50k Employees,Fortune India 500,13,Pune
+207,CARS24,3.7,Internet,5k-10k Employees,Indian Unicorn,9,Pune
+208,SS&C TECHNOLOGIES,3.5,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,38,Pune
+209,Bajaj Electricals,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,86,Pune
+210,NortonLifeLock's,4.1,IT Services & Consulting,501-1k Employees,Forbes Global 2000,42,Pune
+211,Indus Towers,4.0,Telecom,1k-5k Employees,Fortune India 500,17,Pune
+212,NoBroker,3.2,Internet,1k-5k Employees,Indian Unicorn,10,Pune
+213,Hyatt Regency,4.2,Hospitality,1k-5k Employees,Forbes Global 2000,44,Pune
+214,Noccarc Robotics,4.3,Medical Equipment,51-200 Employees,Startup,7,Pune
+215,Exide Industries,3.6,Auto Components,5k-10k Employees,Public,77,Pune
+216,Electronica Finance,4.2,NBFC,1k-5k Employees,Public,34,Pune
+217,Oracle,3.8,Software Product,50k-1 Lakh Employees,Public,47,Pune
+218,ISMT,3.8,Iron & Steel,1k-5k Employees,Public,47,Pune
+219,Stanley Black & Decker,4.0,Industrial Machinery,1k-5k Employees,Forbes Global 2000,181,Pune
+220,Prepca Eduserv,4.4,EdTech,51-200 Employees,Startup,8,Pune
+221,Swiggy,3.9,Internet,5k-10k Employees,Indian Unicorn,10,Pune
+222,Akzo Nobel India,4.2,Chemicals,1k-5k Employees,Public,85,Pune
+223,Marsh McLennan,4.1,Management Consulting,5k-10k Employees,Forbes Global 2000,153,Pune
+224,Maersk Line,4.3,Logistics,1k-5k Employees,Public,120,Pune
+225,PhonePe,4.1,FinTech,5k-10k Employees,Indian Unicorn,9,Pune
+226,RBL Bank,3.8,Banking,10k-50k Employees,Public,81,Pune
+227,Equitas Small Finance Bank,4.4,Banking,10k-50k Employees,Fortune India 500,17,Pune
+228,Sharda Motor Industries,3.8,Auto Components,1k-5k Employees,Public,38,Pune
+229,Stanza Living,3.1,Internet,501-1k Employees,Startup,7,Pune
+230,CMS IT Services,3.2,IT Services & Consulting,5k-10k Employees,Startup,10,Pune
+231,Amber,4.3,Internet,501-1k Employees,Startup,8,Pune
+232,Sears Holdings,3.6,Retail,501-1k Employees,Forbes Global 2000,15,Pune
+233,Flipkart,4.0,Internet,10k-50k Employees,Public,17,Pune
+234,Deepak Fertilisers and Petrochemicals,3.9,Agro Chemicals,1k-5k Employees,Public,45,Pune
+235,Sudarshan Chemical Industries,3.8,Chemicals,1k-5k Employees,Public,72,Pune
+236,Rebel Foods,3.8,Internet,5k-10k Employees,Indian Unicorn,12,Pune
+237,Finastra,3.9,Software Product,1k-5k Employees,Startup,7,Pune
+238,Subros,4.0,Auto Components,1k-5k Employees,Public,39,Pune
+239,Aditya Birla Fashion and Retail,4.2,Fashion & Textile,10k-50k Employees,Fortune India 500,36,Pune
+240,Ador Welding,4.0,Industrial Machinery,501-1k Employees,Public,73,Pune
+241,CNH,4.2,Automobile,1k-5k Employees,Public,11,Pune
+242,McDonald's,4.2,Hospitality,1k-5k Employees,Forbes Global 2000,69,Pune
+243,Sansera Engineering,4.2,Auto Components,1k-5k Employees,Public,38,Pune
+244,SEED Infotech,3.8,IT Services & Consulting,1k-5k Employees,Public,30,Pune
+245,TALENTEDGE,3.4,EdTech,201-500 Employees,Startup,12,Pune
+246,Tata Group,4.3,IT Services & Consulting,1 Lakh+ Employees,Conglomerate,156,Pune
+247,Tata Capital,4.2,NBFC,5k-10k Employees,Fortune India 500,17,Pune
+248,Vascon Engineers,3.6,Real Estate,501-1k Employees,Public,38,Pune
+249,Reliance Communications,4.0,Telecom,201-500 Employees,Public,22,Pune
+250,Kalpataru Group,3.9,Real Estate,1k-5k Employees,Conglomerate,55,Pune
+251,Parag Milk Foods,4.3,FMCG,1k-5k Employees,Public,32,Pune
+252,Bank of Maharashtra,3.7,Banking,10k-50k Employees,Fortune India 500,89,Pune
+253,Walchandnagar Industries,4.0,Industrial Machinery,1k-5k Employees,Public,116,Pune
+254,LivSpace,3.5,Architecture & Interior Design,1k-5k Employees,Indian Unicorn,9,Pune
+255,FedEx Express,4.2,Logistics,5k-10k Employees,Forbes Global 2000,53,Pune
+256,Honeywell International India,4.0,Defence & Aerospace,10k-50k Employees,Forbes Global 2000,118,Pune
+257,L&T Technology Services,3.4,IT Services & Consulting,10k-50k Employees,Public,12,Pune
+258,Smith & Nephew Healthcare,3.9,Medical Equipment,1k-5k Employees,Public,168,Pune
+259,Rivigo,3.9,Internet,1k-5k Employees,Indian Unicorn,10,Pune
+260,Rivigo,3.9,Internet,1k-5k Employees,Indian Unicorn,10,Hyderabad
+261,Ninjacart,4.1,Internet,1k-5k Employees,Startup,9,Hyderabad
+262,Berger Paints,3.8,Chemicals,1k-5k Employees,Public,101,Pune
+263,Autoline Industries,3.9,Auto Components,1k-5k Employees,Public,21,Pune
+264,Dbs Mintek,3.6,Financial Services,1k-5k Employees,Forbes Global 2000,16,Pune
+265,Shriram Finance,4.1,NBFC,50k-1 Lakh Employees,Public,45,Pune
+266,Druva,3.5,Software Product,501-1k Employees,Indian Unicorn,16,Pune
+267,VMware Software,4.5,Software Product,5k-10k Employees,Forbes Global 2000,26,Pune
+268,ICICI Securities,3.8,Financial Services,1k-5k Employees,Public,29,Pune
+269,Pidilite Industries,4.4,Chemicals,5k-10k Employees,Public,65,Pune
+270,AYN InfoTech,4.6,IT Services & Consulting,51-200 Employees,Public,15,Pune
+271,Ice Mortgage Technology,4.2,Software Product,501-1k Employees,Public,24,Pune
+272,ABIL Group,4.2,Real Estate,1k-5k Employees,Conglomerate,45,Pune
+273,Tata Play,4.0,Broadcasting,5k-10k Employees,Public,18,Pune
+274,Future Group,4.3,Retail,10k-50k Employees,Conglomerate,11,Pune
+275,State Bank of India,3.9,Banking,1 Lakh+ Employees,Fortune India 500,218,Pune
+276,Airproducts,4.0,Chemicals,501-1k Employees,Public,84,Pune
+277,IQVIA,4.0,Clinical Research,10k-50k Employees,Forbes Global 2000,42,Pune
+278,Shoppers Stop,4.1,Retail,5k-10k Employees,Public,33,Pune
+279,Mitsubishi Electric,4.2,Electronics Manufacturing,501-1k Employees,Forbes Global 2000,103,Pune
+280,EarlySalary.com,3.8,FinTech,501-1k Employees,Startup,9,Pune
+281,Domino's Pizza,4.0,Hospitality,1k-5k Employees,Public,64,Pune
+282,Repos Energy,3.6,Power,51-200 Employees,Startup,7,Pune
+283,Automotive Stampings and Assemblies,3.5,Auto Components,501-1k Employees,Public,34,Pune
+284,ABC,4.0,Broadcasting,1k-5k Employees (Global),Public,81,Pune
+285,Lodha group,4.1,Real Estate,5k-10k Employees,Fortune India 500,44,Pune
+286,Fiat Chrysler Automobiles,3.5,Automobile,1k-5k Employees,Public,10,Pune
+287,Affordable Robotic and Automation,3.6,IT Services & Consulting,201-500 Employees,Public,19,Pune
+288,Motilal Oswal Financial Services,3.8,Financial Services,10k-50k Employees,Public,37,Pune
+289,3M,4.3,Electronics Manufacturing,1k-5k Employees,Public,37,Pune
+290,Microland,3.6,IT Services & Consulting,1k-5k Employees,Public,35,Pune
+291,TransUnion,4.0,Financial Services,201-500 Employees,Forbes Global 2000,56,Pune
+292,Compass Group Support Services,4.1,Hospitality,10k-50k Employees,Public,83,Pune
+293,Vivo,4.1,Consumer Electronics & Appliances,5k-10k Employees,Conglomerate,15,Pune
+294,Titan Company,4.4,Retail,5k-10k Employees,Public,40,Pune
+295,InfoBeans,3.6,IT Services & Consulting,1k-5k Employees,Public,24,Pune
+296,Hindustan Unilever,4.3,FMCG,10k-50k Employees,Public,152,Pune
+297,AGIO Pharmaceuticals,2.4,Pharma,201-500 Employees,Public,33,Pune
+298,City Corporation Ltd (Amanora),4.2,Real Estate,201-500 Employees,Public,21,Pune
+299,Spinny,3.9,Internet,1k-5k Employees,Indian Unicorn,9,Pune
+300,Mahindra Finance,4.3,NBFC,10k-50k Employees,Public,33,Pune
+301,Cholamandalam Investment & Finance,4.1,NBFC,10k-50k Employees,Fortune India 500,46,Pune
+302,L&T Finance,4.0,NBFC,10k-50k Employees,Public,30,Pune
+303,Havells,4.1,Electrical Equipment,5k-10k Employees,Public,41,Pune
+304,Cargill,4.2,Food Processing,1k-5k Employees,Conglomerate,159,Pune
+305,Trent,4.1,Retail,10k-50k Employees,Public,26,Pune
+306,CGI Group,4.1,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,48,Pune
+307,Aptiv,3.5,Auto Components,1k-5k Employees,Forbes Global 2000,30,Pune
+308,CTR Manufacturing Industries,3.7,Electronics Manufacturing,51-200 Employees,Public,60,Pune
+309,Ola Cabs,3.5,Internet,1k-5k Employees,Indian Unicorn,14,Pune
+310,Lenskart,3.3,Internet,5k-10k Employees,Indian Unicorn,14,Pune
+311,State Street Corporation,3.8,Financial Services,10k-50k Employees,Forbes Global 2000,232,Pune
+312,OneCard,3.8,FinTech,51-200 Employees,Indian Unicorn,5,Pune
+313,OmniActive Health Technologies,3.7,Fitness & Wellness,501-1k Employees,Public,20,Pune
+314,Jubilant Foods Works,3.9,Hospitality,10k-50k Employees,Public,29,Pune
+315,TVS Credit,4.5,NBFC,10k-50k Employees,Public,16,Pune
+316,SAVA Healthcare,4.0,Pharma,501-1k Employees,Public,21,Pune
+317,Mastek,3.7,IT Services & Consulting,1k-5k Employees,Public,42,Pune
+318,Seagate,3.3,Hardware & Networking,11-50 Employees,Forbes Global 2000,17,Pune
+319,DCB Bank,3.9,Banking,5k-10k Employees,Fortune India 500,94,Pune
+320,Manappuram Finance,4.0,NBFC,10k-50k Employees,Public,75,Pune
+321,HDFC Ergo General Insurance,4.0,Insurance,10k-50k Employees,Public,22,Pune
+322,Alkyl Amines,4.3,Chemicals,501-1k Employees,Public,45,Pune
+323,Bandhan Bank,3.8,Banking,50k-1 Lakh Employees,Public,23,Pune
+324,Century Enka,4.1,Fashion & Textile,501-1k Employees,Public,59,Pune
+325,Sahyadri Industries,3.9,Building Material,501-1k Employees,Public,77,Pune
+326,InterGlobe Aviation,3.6,Aviation,10k-50k Employees,Fortune India 500,19,Pune
+327,Century Enka,4.1,Fashion & Textile,501-1k Employees,Public,59,Pune
+328,Marriott International,4.3,Hospitality,10k-50k Employees,Forbes Global 2000,97,Pune
+329,Enkei Wheels India,4.2,Auto Components,201-500 Employees,Public,15,Pune
+330,Maruti Suzuki,4.2,Automobile,10k-50k Employees,Public,43,Pune
+331,Atomberg Technologies,4.1,Consumer Electronics & Appliances,201-500 Employees,Startup,12,Pune
+332,Zomato,3.8,Internet,1k-5k Employees,Public,16,Pune
+333,UPL,4.2,Agro Chemicals,5k-10k Employees,Public,55,Pune
+334,ManpowerGroup,3.9,Recruitment,50k-1 Lakh Employees,Forbes Global 2000,29,Pune
+335,Imperial Auto Industries,3.8,Auto Components,1k-5k Employees,Public,55,Pune
+336,Dell,4.2,Consumer Electronics & Appliances,10k-50k Employees,Forbes Global 2000,40,Pune
+337,Coupa Software Inc,4.0,IT Services & Consulting,501-1k Employees,Public,18,Pune
+338,Kion india,3.8,Industrial Machinery,201-500 Employees,Forbes Global 2000,13,Pune
+339,Softtech Engineers,3.6,IT Services & Consulting,201-500 Employees,Public,28,Pune
+340,National Chemical Laboratory,4.2,Clinical Research,501-1k Employees,Public,74,Pune
+341,Kinetic Engineering,3.7,Auto Components,501-1k Employees,Public,54,Pune
+342,Kirloskar Ebara Pumps,3.7,Industrial Machinery,201-500 Employees,Public,36,Pune
+343,Softtech Engineers,3.6,IT Services & Consulting,201-500 Employees,Public,28,Pune
+344,Monjin Interviews,3.2,Software Product,51-200 Employees,Startup,10,Pune
+345,Indiabulls Home Loans,3.9,NBFC,5k-10k Employees,Public,19,Pune
+346,Courtyard by Marriott,4.2,Hospitality,1k-5k Employees,Public,97,Pune
+347,L&T Construction,4.1,Engineering & Construction,5k-10k Employees,Public,80,Pune
+348,ANSYS,3.7,IT Services & Consulting,501-1k Employees,Forbes Global 2000,54,Pune
+349,MindTickle,3.3,IT Services & Consulting,201-500 Employees,Indian Unicorn,13,Pune
+350,Sayaji Hotels,4.3,Hospitality,1k-5k Employees,Public,37,Pune
+351,KEC International,4.1,Engineering & Construction,5k-10k Employees,Public,79,Pune
+352,PropTiger.com,4.2,Internet,1k-5k Employees,Startup,13,Pune
+353,JK Cement,4.2,Building Material,1k-5k Employees,Public,49,Pune
+354,Vinsys IT Services India Limited,4.2,Education & Training,201-500 Employees,Public,16,Pune
+355,Blue Dart Express,4.1,Logistics,10k-50k Employees,Public,41,Pune
+356,Kotak Mahindara Life Insurance,3.9,Insurance,10k-50k Employees,Public,23,Pune
+357,OPPO,4.0,Consumer Electronics & Appliances,10k-50k Employees,Public,20,Pune
+358,VA Tech Wabag,4.0,Waste Management,501-1k Employees,Public,100,Pune
+359,TCL,4.1,Consumer Electronics & Appliances,51-200 Employees,Forbes Global 2000,43,Pune
+360,Sintex-bapl,3.8,Petrochemicals,501-1k Employees,Public,17,Pune
+361,Muthoot Finance,3.6,NBFC,10k-50k Employees,Public,85,Pune
+362,Majesco,3.8,IT Services & Consulting,1k-5k Employees,Public,42,Pune
+363,Kanerika Software,4.4,IT Services & Consulting,51-200 Employees,Startup,9,Pune
+364,Zolo,3.5,Internet,501-1k Employees,Startup,9,Pune
+365,Allied Digital Services,3.5,IT Services & Consulting,1k-5k Employees,Public,29,Pune
+366,Ashok Leyland,4.1,Automobile,5k-10k Employees,Public,76,Pune
+367,Info Edge,4.0,Internet,5k-10k Employees,Public,29,Pune
+368,Supreme Industries,4.2,Petrochemicals,5k-10k Employees,Public,82,Pune
+369,JetSynthesys,2.7,IT Services & Consulting,201-500 Employees,Startup,12,Pune
+370,6Sense,3.5,Software Product,201-500 Employees,Startup,11,Pune
+371,Mylab Discovery Solutions,3.3,Internet,51-200 Employees,Startup,8,Pune
+372,Nagarjuna Construction Company,4.2,Engineering & Construction,5k-10k Employees,Public,26,Pune
+373,Nokia,4.2,Telecom,10k-50k Employees,Forbes Global 2000,159,Pune
+374,Givaudan,4.1,Beauty & Personal Care,51-200 Employees,Forbes Global 2000,129,Pune
+375,Kores,3.8,FMCG,1k-5k Employees,Conglomerate,88,Pune
+376,Wheels,4.1,Auto Components,1k-5k Employees,Public,62,Pune
+377,Sandhar Technologies,3.9,Auto Components,1k-5k Employees,Public,37,Pune
+378,Tractors and Farm Equipment,4.1,Industrial Machinery,10k-50k Employees,Public,64,Chennai
+379,Vritti Solutions,3.9,IT Services & Consulting,201-500 Employees,Public,19,Pune
+380,LOREAL,4.1,Beauty & Personal Care,1k-5k Employees,Forbes Global 2000,33,Pune
+381,Coromandel International,4.2,Agro Chemicals,5k-10k Employees,Public,63,Pune
+382,Aditya Birla Capital,4.0,Financial Services,10k-50k Employees,Public,7,Pune
+383,Japfa Comfeed,4.2,Agriculture,501-1k Employees,Public,29,Pune
+384,Bharat Electronics,4.2,Electronics Manufacturing,5k-10k Employees,Fortune India 500,70,Pune
+385,MSCI,4.0,Financial Services,1k-5k Employees,Public,55,Pune
+386,Bsa Corporation,3.7,Auto Components,10k-50k Employees,Public,24,Pune
+387,KONE,4.3,Industrial Machinery,5k-10k Employees,Forbes Global 2000,114,Hyderabad
+388,Allianz,4.3,Insurance,5k-10k Employees,Forbes Global 2000,134,Hyderabad
+389,IDBI Bank,3.7,Banking,10k-50k Employees,Public,60,Pune
+390,Star Health & Allied Insurance,3.9,Insurance,10k-50k Employees,Fortune India 500,18,Pune
+391,Avery Dennison,4.0,Packaging,1k-5k Employees,Forbes Global 2000,29,Pune
+392,Garrett - Advancing Motion,3.5,Auto Components,201-500 Employees,Public,70,Pune
+393,Kloudq Technologies,3.6,IT Services & Consulting,51-200 Employees,Public,11,Pune
+394,JSW Steel,4.0,Iron & Steel,10k-50k Employees,Public,42,Pune
+395,GTL,4.2,Hardware & Networking,1k-5k Employees,Public,37,Pune
+396,VLCC,3.7,Beauty & Personal Care,1k-5k Employees,Conglomerate,35,Pune
+397,Aavas Financiers,4.0,Financial Services,5k-10k Employees,Public,13,Pune
+398,Standard Chartered,3.9,Banking,10k-50k Employees,Fortune India 500,171,Pune
+399,Blinkit,3.9,Internet,1k-5k Employees,Indian Unicorn,11,Pune
+400,Sobha,4.0,Real Estate,1k-5k Employees,Public,29,Pune
+401,CrowdStrike,4.0,IT Services & Consulting,501-1k Employees,Public,13,Pune
+402,Bank of Baroda,3.6,Banking,50k-1 Lakh Employees,Fortune India 500,116,Pune
+403,Hansen Technologies,3.6,IT Services & Consulting,201-500 Employees,Public,53,Pune
+404,CrowdStrike,4.0,IT Services & Consulting,501-1k Employees,Public,13,Pune
+405,Hansen Technologies,3.6,IT Services & Consulting,201-500 Employees,Public,53,Pune
+406,Sobha,4.0,Real Estate,1k-5k Employees,Public,29,Pune
+407,Eternis Fine Chemicals,3.8,Chemicals,201-500 Employees,Public,36,Pune
+408,Hewlett Packard Enterprise,4.3,IT Services & Consulting,10k-50k Employees,Forbes Global 2000,9,Pune
+409,Barclays Global Service Centre,4.0,IT Services & Consulting,201-500 Employees,Fortune India 500,17,Pune
+410,Škoda Auto India,4.4,Automobile,1k-5k Employees,Conglomerate,23,Pune
+411,thinkbridge,3.9,Software Product,201-500 Employees,Startup,10,Pune
+412,DXC Technology,3.8,IT Services & Consulting,10k-50k Employees,Public,7,Pune
+413,Bilcare,3.9,Healthcare,1k-5k Employees,Public,37,Pune
+414,APPL Industries,3.7,Chemicals,201-500 Employees,Public,33,Pune
+415,Tata Steel,4.2,Iron & Steel,1 Lakh+ Employees,Public,117,Pune
+416,Tata Steel,4.2,Iron & Steel,1 Lakh+ Employees,Public,117,Pune
+417,Celebal Technologies,2.7,IT Services & Consulting,1k-5k Employees,Startup,9,Pune
+418,Adecco Group,3.8,Recruitment,1k-5k Employees,Forbes Global 2000,25,Pune
+419,PNB Housing Finance,3.9,Financial Services,1k-5k Employees,Public,36,Pune
+420,PNB Housing Finance,3.9,Financial Services,1k-5k Employees,Public,36,Pune
+421,Happiest Minds Technologies,3.9,IT Services & Consulting,1k-5k Employees,Public,13,Pune
+422,SAI Life Sciences,3.9,Pharma,1k-5k Employees,Public,25,Pune
+423,Edelweiss,3.8,Financial Services,1k-5k Employees,Public,7,Pune
+424,Cisco,4.3,Hardware & Networking,10k-50k Employees,Public,40,Pune
+425,Xpo Logistics,3.8,Logistics,51-200 Employees,Public,13,Pune
+426,Kotak Securities,3.7,Financial Services,5k-10k Employees,Conglomerate,30,Pune
+427,Toppr,3.4,EdTech,1k-5k Employees,Startup,11,Pune
+428,Patanjali Ayurved,3.2,FMCG,1k-5k Employees,Fortune India 500,18,Pune
+429,Schneider Electric,4.2,Industrial Automation,10k-50k Employees,Forbes Global 2000,25,Pune
+430,SAP,4.3,Software Product,10k-50k Employees,Forbes Global 2000,52,Pune
+431,Safexpress,4.1,Logistics,1k-5k Employees,Conglomerate,27,Pune
+432,Parakh Agro Industries,4.2,Food Processing,1k-5k Employees,Public,39,Pune
+433,Pine Labs,3.7,FinTech,1k-5k Employees,Indian Unicorn,26,Pune
+434,Fujikura Automotive,4.8,Auto Components,11-50 Employees,Public,139,Pune
+435,Saksoft,3.7,IT Services & Consulting,1k-5k Employees,Public,25,Pune
+436,J. Kumar Infraprojects,4.1,Engineering & Construction,5k-10k Employees,Public,44,Pune
+437,IFB,3.7,Consumer Electronics & Appliances,201-500 Employees,Public,50,Pune
+438,Upcurve Consumer Technologies Private Limited,3.0,IT Services & Consulting,201-500 Employees,Startup,12,Pune
+439,PepsiCo,4.2,Food Processing,1 Lakh+ Employees,Public,59,Pune
+440,Ecolab Food Safety & Hygiene Solutions,4.1,Chemicals,51-200 Employees,Public,101,Pune
+441,Roop Polymers,4.1,Auto Components,1k-5k Employees,Public,51,Pune
+442,National Informatics Centre,4.2,Government,1k-5k Employees,Central,48,Pune
+443,Kansai Nerolac Paints,3.9,Chemicals,1k-5k Employees,Public,104,Pune
+444,Puranik Builders,3.8,Real Estate,201-500 Employees,Public,56,Pune
+445,Sekel Technologies,4.7,Software Product,11-50 Employees,Startup,8,Pune
+446,Kansai Nerolac Paints,3.9,Chemicals,1k-5k Employees,Public,104,Pune
+447,Roop Polymers,4.1,Auto Components,1k-5k Employees,Public,51,Pune
+448,National Informatics Centre,4.2,Government,1k-5k Employees,Central,48,Pune
+449,Maveric Systems,3.7,IT Services & Consulting,1k-5k Employees,Public,24,Pune
+450,HCL Infosystems,4.1,IT Services & Consulting,51-200 Employees,Public,48,Pune
+451,Mahindra Lifespace Developers,4.1,Real Estate,201-500 Employees,Public,30,Pune
+452,QHTalbros,3.6,Auto Components,5k-10k Employees,Public,38,Pune
+453,Ebix Software India,3.3,IT Services & Consulting,1k-5k Employees,Public,48,Pune
+454,Philips Innovation Campus,3.9,Healthcare,1k-5k Employees,Public,26,Pune
+455,Foseco,3.9,Chemicals,201-500 Employees,Public,92,Pune
+456,Blue Star,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,81,Pune
+457,Lemon Tree Hotels,4.2,Hospitality,5k-10k Employees,Public,22,Pune
+458,Abbott,4.2,Pharma,10k-50k Employees,Public,136,Pune
+459,Mitcon Consultancy and Engineering Services,3.7,Education & Training,201-500 Employees,Public,42,Pune
+460,Apollo Hospitals,4.2,Healthcare,10k-50k Employees,Public,41,Pune
+461,Marks & Spencer,4.0,Retail,1k-5k Employees,Forbes Global 2000,140,Pune
+462,Johnson & Johnson,4.2,Pharma,1k-5k Employees,Forbes Global 2000,67,Pune
+463,Rexel,4.0,Industrial Automation,201-500 Employees,Forbes Global 2000,10,Pune
+464,Shree Cement,4.0,Building Material,5k-10k Employees,Public,45,Pune
+465,myGate,3.3,Law Enforcement & Security,1k-5k Employees,Startup,8,Pune
+466,Bharat Petroleum,4.2,Oil & Gas,5k-10k Employees,Fortune India 500,72,Pune
+467,LoanTap Financial Technologies,3.1,FinTech,51-200 Employees,Startup,8,Pune
+468,Reliance SMSL,4.0,BPO,1k-5k Employees,Public,17,Pune
+469,Aviva Life Insurance India,3.6,Insurance,1k-5k Employees,Forbes Global 2000,328,Pune
+470,Visaka Industries,4.1,Building Material,1k-5k Employees,Public,43,Pune
+471,Coca-Cola Company,4.3,Beverage,5k-10k Employees,Forbes Global 2000,138,Pune
+472,Reliance SMSL,4.0,BPO,1k-5k Employees,Public,17,Pune
+473,Datamatics Global Services,3.6,IT Services & Consulting,5k-10k Employees,Public,49,Pune
+474,Transport Corporation Of India,4.1,Logistics,1k-5k Employees,Public,66,Pune
+475,Inox Leisure,4.1,Media & Entertainment,1k-5k Employees,Public,25,Pune
+476,Intercontinental Exchange,3.6,FinTech,1k-5k Employees,Forbes Global 2000,24,Pune
+477,Telstra,4.3,Telecom,1k-5k Employees,Forbes Global 2000,32,Pune
+478,Aditya Birla Group,4.1,Building Material,1 Lakh+ Employees,Conglomerate,167,Pune
+479,Tasty Bite Eatables,4.1,FMCG,201-500 Employees,Public,39,Pune
+480,Barclays Investment Bank,3.9,Banking,50k-1 Lakh Employees (Global),Public,27,Pune
+481,Infinite Uptime,4.1,Internet,51-200 Employees,Startup,9,Pune
+482,Dr. Reddy's,4.2,Pharma,10k-50k Employees,Public,40,Pune
+483,Pantaloons,4.2,Fashion & Textile,5k-10k Employees,Public,27,Pune
+484,HomeLane,3.5,Architecture & Interior Design,1k-5k Employees,Startup,10,Pune
+485,Sharekhan,4.0,Financial Services,1k-5k Employees,Public,24,Pune
+486,Sopra Banking Software,3.7,IT Services & Consulting,1k-5k Employees,Public,12,Pune
+487,Suprajit Engineering,3.8,Auto Components,501-1k Employees,Public,39,Pune
+488,American Express,4.2,Financial Services,10k-50k Employees,Forbes Global 2000,174,Pune
+489,Dunzo,3.5,Internet,1k-5k Employees,Startup,10,Pune
+490,Tata International,3.7,Import & Export,1k-5k Employees,Public,62,Pune
+491,Tork Motors,4.1,Internet,51-200 Employees,Startup,8,Pune
+492,Future Retail,4.3,Retail,10k-50k Employees,Public,37,Pune
+493,PVR Cinemas,4.1,Media & Entertainment,1k-5k Employees,Public,27,Pune
+494,Hero MotoCorp,4.2,Automobile,5k-10k Employees,Public,40,Pune
+495,Sintercom,3.6,Industrial Machinery,201-500 Employees,Public,17,Pune
+496,JM Financial,3.8,Financial Services,1k-5k Employees,Public,40,Pune
+497,Nilkamal,3.9,Furniture & Furnishing,1k-5k Employees,Public,43,Pune
+498,Baker Hughes,4.1,Oil & Gas,1k-5k Employees,Conglomerate,8,Pune
+499,Landmark Group,4.1,Retail,1k-5k Employees,Conglomerate,51,Pune
+500,Zebra Technologies,4.1,IT Services & Consulting,51-200 Employees,Forbes Global 2000,55,Pune
+501,S2 Infotech,3.4,Recruitment,201-500 Employees,Public,19,Pune
+502,ProMobi Technologies,3.6,IT Services & Consulting,51-200 Employees,Startup,11,Pune
+503,Microsoft Corporation,4.1,Software Product,10k-50k Employees,Forbes Global 2000,49,Pune
+504,Tata Motors Finance,4.2,NBFC,1k-5k Employees,Conglomerate,67,Pune
+505,Tata Motors Finance,4.2,NBFC,1k-5k Employees,Conglomerate,67,Pune
+506,Microsoft Corporation,4.1,Software Product,10k-50k Employees,Forbes Global 2000,49,Pune
+507,Care Health Insurance,3.8,Internet,5k-10k Employees,Public,12,Pune
+508,Urban Company,3.6,Internet,1k-5k Employees,Indian Unicorn,9,Pune
+509,TCI Express,3.9,Logistics,1k-5k Employees,Public,28,Pune
+510,SCIKEY,3.5,Internet,201-500 Employees,Startup,8,Pune
+511,Amber Enterprises India,3.9,Consumer Electronics & Appliances,1k-5k Employees,Public,34,Pune
+512,Talbros,4.1,Auto Components,501-1k Employees,Public,68,Pune
+513,Continuum Managed Services,4.0,IT Services & Consulting,51-200 Employees,Conglomerate,19,Pune
+514,Council of Scientific and Industrial Research,4.5,Government,5k-10k Employees,Central,82,Pune
+515,Katerra,3.4,Engineering & Construction,501-1k Employees,Startup,9,Pune
+516,Brakes India,4.1,Auto Components,501-1k Employees,Fortune India 500,62,Pune
+517,JPMorgan Chase & Co.,4.1,Financial Services,50k-1 Lakh Employees,Public,56,Pune
+518,BDO,3.5,Accounting & Auditing,5k-10k Employees,Public,61,Pune
+519,Cornerstone OnDemand,3.8,Software Product,501-1k Employees,Conglomerate,25,Pune
+520,Halliburton,3.6,Engineering & Construction,1k-5k Employees,Forbes Global 2000,105,Pune
+521,Sony,4.3,Consumer Electronics & Appliances,1k-5k Employees,Public,30,Pune
+522,GTL Infrastructure,4.6,Hardware & Networking,1k-5k Employees,Public,20,Pune
+523,Xanadu,3.4,Real Estate,501-1k Employees,Startup,9,Pune
+524,Air Liquide,3.9,Chemicals,201-500 Employees,Public,122,Pune
+525,Xanadu,3.4,Real Estate,501-1k Employees,Startup,9,Hyderabad
+526,Escorts Kubota Limited,4.1,Automobile,1k-5k Employees,Public,80,Pune
+527,Mondelez International,4.4,Food Processing,1k-5k Employees,Forbes Global 2000,12,Pune
+528,Alkem Laboratories,4.0,Pharma,10k-50k Employees,Public,51,Pune
+529,Lokesh Machines,3.7,Industrial Machinery,501-1k Employees,Public,41,Pune
+530,Security and Intelligence Services (India),4.1,Law Enforcement & Security,1 Lakh+ Employees,Public,39,Pune
+531,Federal Bank,3.9,Banking,10k-50k Employees,Public,93,Pune
+532,Grauer & Weil (i),3.6,Chemicals,501-1k Employees,Public,67,Pune
+533,HSBC Global Banking and Markets,4.1,Banking,10k-50k Employees,Public,33,Pune
+534,Gazon Communications,4.5,Telecom,11-50 Employees,Public,12,Pune
+535,Federal Bank,3.9,Banking,10k-50k Employees,Public,93,Pune
+536,Security and Intelligence Services (India),4.1,Law Enforcement & Security,1 Lakh+ Employees,Public,39,Pune
+537,HSBC Global Banking and Markets,4.1,Banking,10k-50k Employees,Public,33,Pune
+538,Gazon Communications,4.5,Telecom,11-50 Employees,Public,12,Pune
+539,Avaloq,3.2,Software Product,51-200 Employees,Public,39,Pune
+540,Tata Chemicals,4.2,Chemicals,1k-5k Employees,Public,85,Pune
+541,Autodesk,4.3,Software Product,1k-5k Employees,Public,42,Pune
+542,Ventura Securities,4.0,Financial Services,1k-5k Employees,Public,30,Pune
+543,Viavi Solutions,4.4,Internet,201-500 Employees,Startup,9,Pune
+544,Infinite Computer Solutions,3.5,IT Services & Consulting,1k-5k Employees,Public,23,Pune
+545,The Phoenix Mills,3.8,Real Estate,501-1k Employees,Public,119,Pune
+546,Godrej Group,4.0,Chemicals,10k-50k Employees,Public,127,Pune
+547,Viavi Solutions,4.4,Internet,201-500 Employees,Startup,9,Pune
+548,Saint Gobain Sekurit India,4.0,Auto Components,501-1k Employees,Public,51,Pune
+549,Techspian Services,4.8,IT Services & Consulting,51-200 Employees,Startup,4,Pune
+550,RentoMojo,4.4,Internet,501-1k Employees,Startup,10,Pune
+551,Global Payments,4.2,FinTech,51-200 Employees,Forbes Global 2000,57,Pune
+552,Ola Electric Mobility,3.3,Automobile,5k-10k Employees,Indian Unicorn,7,Pune
+553,RentoMojo,4.4,Internet,501-1k Employees,Startup,10,Pune
+554,Sun Pharmaceutical Industries,4.1,Pharma,10k-50k Employees,Public,41,Pune
+555,Intangles Lab,4.2,Automobile,51-200 Employees,Startup,9,Pune
+556,Remsons Industries,3.8,Auto Components,51-200 Employees,Public,65,Pune
+557,Pin Click,2.5,Real Estate,51-200 Employees,Startup,10,Pune
+558,Reliance Trends,4.4,Retail,1 Lakh+ Employees,Conglomerate,18,Pune
+559,Kingfa Science & Technology,4.2,Chemicals / Agri Inputs,501-1k Employees,Public,41,Pune
+560,NXP Semiconductors,3.9,Semiconductors,1k-5k Employees,Public,55,Pune
+561,Housing.com,3.8,Internet,1k-5k Employees,Startup,12,Pune
+562,Moglix,3.6,Internet,501-1k Employees,Indian Unicorn,9,Pune
+563,Bharat Financial Inclusion,4.0,NBFC,10k-50k Employees,Public,26,Pune
+564,Isgec Heavy Engineering,3.9,Industrial Machinery,1k-5k Employees,Public,91,Pune
+565,Infra.Market,4.2,Building Material,1k-5k Employees,Indian Unicorn,8,Pune
+566,NeoGrowth Credit,3.7,NBFC,501-1k Employees,Startup,11,Pune
+567,Faasos Food Services,4.0,Internet,1k-5k Employees,Indian Unicorn,14,Pune
+568,Biddano,3.1,Internet,51-200 Employees,Startup,8,Pune
+569,Panasonic,4.1,Consumer Electronics & Appliances,1k-5k Employees,Forbes Global 2000,106,Pune
+570,Acquia,4.5,IT Services & Consulting,201-500 Employees,Startup,9,Pune
+571,Thomas Cook,3.9,Travel & Tourism,1k-5k Employees,Public,143,Pune
+572,Syscryption Technologies,4.7,IT Services & Consulting,501-1k Employees,Startup,7,Pune
+573,Nestaway,4.0,Internet,201-500 Employees,Startup,9,Pune
+574,DeHaat,3.7,Agriculture,1k-5k Employees,Startup,5,Pune
+575,Thomas Cook,3.9,Travel & Tourism,1k-5k Employees,Public,143,Pune
+576,Syscryption Technologies,4.7,IT Services & Consulting,501-1k Employees,Startup,7,Pune
+577,DeHaat,3.7,Agriculture,1k-5k Employees,Startup,5,Pune
+578,Hitachi,4.1,Industrial Machinery,10k-50k Employees,Forbes Global 2000,114,Pune
+579,BlueBinaries Engineering and Solutions,3.3,Software Product,501-1k Employees,Startup,7,Pune
+580,Nestaway,4.0,Internet,201-500 Employees,Startup,9,Pune
+581,Redington,4.0,Hardware & Networking,1k-5k Employees,Public,25,Pune
+582,TVS Motor,4.1,Automobile,5k-10k Employees,Public,45,Pune
+583,HOV Services,3.2,BPO,51-200 Employees,Public,35,Pune
+584,Tapi Prestressed Products,1.6,Engineering & Construction,51-200 Employees,Public,38,Pune
+585,Wiggles,2.8,Internet,11-50 Employees,Startup,6,Pune
+586,Atgeir Solutions,4.7,IT Services & Consulting,51-200 Employees,Startup,3,Pune
+587,DISH TV,3.6,Broadcasting,201-500 Employees,Public,21,Pune
+588,Canara Bank,3.5,Banking,50k-1 Lakh Employees,Public,118,Pune
+589,UB Engineering,4.1,Engineering & Construction,51-200 Employees,Public,61,Pune
+590,Mahindra Two Wheelers,4.0,Automobile,501-1k Employees,Public,16,Hyderabad
+591,HungerBox,3.8,Internet,501-1k Employees,Startup,8,Hyderabad
+592,LEAP India Private Limited,4.4,Packaging,501-1k Employees,Startup,11,Hyderabad
+593,UB Engineering,4.1,Engineering & Construction,51-200 Employees,Public,61,Hyderabad
+594,Canara Bank,3.5,Banking,50k-1 Lakh Employees,Public,118,Hyderabad
+595,DISH TV,3.6,Broadcasting,201-500 Employees,Public,21,Hyderabad
+596,Shadowfax Technologies,3.7,Logistics,1k-5k Employees,Public,9,Pune
+597,HungerBox,3.8,Internet,501-1k Employees,Startup,8,Pune
+598,LEAP India Private Limited,4.4,Packaging,501-1k Employees,Startup,11,Pune
+599,Easy Pay,4.3,Internet,51-200 Employees,Startup,10,Pune
+600,Indian Oil Corporation,4.4,Oil & Gas,10k-50k Employees,Fortune India 500,65,Pune
+601,upGrad,3.8,EdTech,5k-10k Employees,Indian Unicorn,9,Pune
+602,CenturyPly,4.0,Furniture & Furnishing,1k-5k Employees,Public,38,Pune
+603,Geometric,3.2,Software Product,5k-10k Employees (Global),Public,40,Pune
+604,SparesHub,4.5,Internet,51-200 Employees (Global),Startup,11,Pune
+605,ONN Bikes,4.3,Internet,11-50 Employees,Startup,9,Pune
+606,Naukri,4.0,Internet,1k-5k Employees,Public,28,Pune
+607,Loop Health,3.0,Software Product,201-500 Employees,Startup,6,Pune
+608,HolidayMe,4.4,Travel & Tourism,51-200 Employees,Startup,11,Pune
+609,Loop Health,3.0,Software Product,201-500 Employees,Startup,6,Pune
+610,HolidayMe,4.4,Travel & Tourism,51-200 Employees,Startup,11,Pune
+611,WhizAI,4.5,Software Product,51-200 Employees,Startup,7,Pune
+612,Amara Raja Energy & Mobility,4.3,Auto Components,5k-10k Employees,Fortune India 500,39,Pune
+613,Aye Finance,4.2,NBFC,5k-10k Employees,Startup,11,Pune
+614,Capri Global Capital,3.7,NBFC,1k-5k Employees,Public,27,Aurangabad
+615,MPTA Education,4.5,EdTech,51-200 Employees,Public,19,Pune
+616,Spicejet,3.5,Aviation,5k-10k Employees,Public,20,Pune
+617,DSM,4.4,Chemicals,1k-5k Employees,Forbes Global 2000,122,Pune
+618,Videocon d2h,3.9,Internet,501-1k Employees,Public,15,Pune
+619,Metropolis Healthcare,4.1,Healthcare,1k-5k Employees,Conglomerate,44,Pune
+620,Smartchem Technologies,3.6,Agro Chemicals,51-200 Employees,Public,37,Pune
+621,Big Bazaar,4.3,Retail,10k-50k Employees,Conglomerate,23,Pune
+622,Kirloskar Electric Company,3.6,Electrical Equipment,1k-5k Employees,Public,78,Pune
+623,Dr Lal PathLabs,4.2,Healthcare,1k-5k Employees,Public,75,Pune
+624,Sona Comstar,4.3,Auto Components,1k-5k Employees,Public,29,Pune
+625,Big Bazaar,4.3,Retail,10k-50k Employees,Conglomerate,23,Pune
+626,Smartchem Technologies,3.6,Agro Chemicals,51-200 Employees,Public,37,Pune
+627,Crowne Plaza,4.1,Hospitality,501-1k Employees,Public,41,Pune
+628,Turtlemint,3.6,Internet,1k-5k Employees,Startup,9,Pune
+629,Crowne Plaza,4.1,Hospitality,501-1k Employees,Public,41,Pune
+630,Adroit Infotech,2.2,IT Services & Consulting,11-50 Employees,Public,24,Pune
+631,ITSource Technologies,3.1,IT Services & Consulting,201-500 Employees,Public,26,Pune
+632,Carlsberg,4.3,Beverage,1k-5k Employees,Forbes Global 2000,177,Pune
+633,Rallis India,4.3,Agro Chemicals,1k-5k Employees,Public,76,Pune
+634,Kabra Extrusion Technik,4.0,Industrial Machinery,501-1k Employees,Public,62,Pune
+635,Bharat Sanchar Nigam,4.0,Telecom,50k-1 Lakh Employees,Central,24,Pune
+636,Nowfloats Technologies,3.3,Software Product,201-500 Employees,Startup,12,Pune
+637,Bata,3.9,Fashion & Textile,1k-5k Employees,Public,93,Pune
+638,Premier,4.0,Industrial Machinery,201-500 Employees,Public,80,Pune
+639,Zepto,3.7,Internet,1k-5k Employees,Indian Unicorn,3,Pune
+640,BharatPe,3.7,FinTech,201-500 Employees,Indian Unicorn,6,Pune
+641,Rallis India,4.3,Agro Chemicals,1k-5k Employees,Public,76,Pune
+642,Nowfloats Technologies,3.3,Software Product,201-500 Employees,Startup,12,Pune
+643,Bata,3.9,Fashion & Textile,1k-5k Employees,Public,93,Pune
+644,Premier,4.0,Industrial Machinery,201-500 Employees,Public,80,Pune
+645,Zepto,3.7,Internet,1k-5k Employees,Indian Unicorn,3,Pune
+646,Hilton,4.4,Hospitality,1k-5k Employees,Forbes Global 2000,105,Pune
+647,Rupeek,3.7,FinTech,1k-5k Employees,Startup,9,Pune
+648,Arvind Group,4.1,Fashion & Textile,10k-50k Employees,Public,93,Pune
+649,HDFC Securities,3.7,Financial Services,1k-5k Employees,Public,24,Pune
+650,Arvind Group,4.1,Fashion & Textile,10k-50k Employees,Public,93,Pune
+651,Amcor Flexibles India,3.6,Packaging,201-500 Employees,Forbes Global 2000,160,Pune
+652,Dabur,3.8,FMCG,5k-10k Employees,Public,140,Pune
+653,Kalyani Group,4.1,Metals & Mining,10k-50k Employees,Conglomerate,64,Pune
+654,Agri10x,4.2,Internet,51-200 Employees,Startup,5,Pune
+655,Indian Railways,4.2,Railways,1 Lakh+ Employees,Central,171,Pune
+656,ACC,4.0,Building Material,5k-10k Employees,Public,88,Pune
+657,Delphi Automotive Systems,3.9,Auto Components,51-200 Employees,Public,30,Pune
+658,Metro Cash & Carry,4.3,Retail,1k-5k Employees,Forbes Global 2000,21,Pune
+659,Nxtra Data,4.1,IT Services & Consulting,51-200 Employees,Public,11,Pune
+660,ACC,4.0,Building Material,5k-10k Employees,Public,88,Pune
+661,Metro Cash & Carry,4.3,Retail,1k-5k Employees,Forbes Global 2000,21,Pune
+662,Zoomcar,3.7,Internet,1k-5k Employees,Startup,12,Pune
+663,Nxtra Data,4.1,IT Services & Consulting,51-200 Employees,Public,11,Pune
+664,Puravankara,3.7,Real Estate,501-1k Employees,Public,49,Pune
+665,Sasken,3.5,IT Services & Consulting,1k-5k Employees,Public,35,Pune
+666,Glenmark Pharmaceuticals,4.0,Pharma,10k-50k Employees,Public,47,Pune
+667,Red Lion Controls,4.6,Industrial Automation,51-200 Employees,Public,52,Pune
+668,Concorde Motors,4.5,Automobile,501-1k Employees (Global),Public,52,Pune
+669,Uber,4.2,Internet,1k-5k Employees,Public,15,Pune
+670,VIP Industries,4.0,Retail,1k-5k Employees,Public,53,Pune
+671,Jubilant Ingrevia,3.9,Chemicals,201-500 Employees,Fortune India 500,4,Pune
+672,Cera Sanitaryware,4.3,Building Material,1k-5k Employees,Public,44,Pune
+673,PayU Payments,3.8,FinTech,1k-5k Employees,Conglomerate,22,Pune
+674,Asian Granito India,3.8,Building Material,1k-5k Employees,Public,24,Pune
+675,EASEBUZZ,2.6,Internet,11-50 Employees,Startup,8,Pune
+676,Jubilant Ingrevia,3.9,Chemicals,201-500 Employees,Fortune India 500,4,Pune
+677,VIP Industries,4.0,Retail,1k-5k Employees,Public,53,Pune
+678,Vedantu,3.4,EdTech,1k-5k Employees,Indian Unicorn,13,Pune
+679,Alembic Pharmaceuticals,4.1,Pharma,10k-50k Employees,Public,117,Pune
+680,Harita Techserv,3.4,Auto Components,51-200 Employees,Public,28,Pune
+681,Seniority,4.0,Retail,51-200 Employees,Startup,8,Pune
+682,Cutshort,4.4,Internet,11-50 Employees,Startup,9,Pune
+683,Life Insurance Corporation of India,4.4,Insurance,1 Lakh+ Employees,Fortune India 500,68,Pune
+684,Government of India,4.3,Government,1 Lakh+ Employees,Central,74,Pune
+685,Orient Technologies,3.9,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,32,Pune
+686,CG Power and Industrial Solutions,3.9,Electrical Equipment,1k-5k Employees,Public,87,Pune
+687,Times Internet,3.6,Internet,10k-50k Employees,Public,25,Pune
+688,Intex Technologies,3.7,Consumer Electronics & Appliances,1k-5k Employees,Public,28,Pune
+689,Saint-Gobain,4.0,Building Material,10k-50k Employees,Forbes Global 2000,359,Pune
+690,AmBoxDemo-PuneHQ,4.4,Electrical Equipment,51-200 Employees,Startup,30,Pune
+691,Progressive Infotech,3.5,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,26,Pune
+692,CreditAccess Grameen,4.3,NBFC,10k-50k Employees,Public,25,Pune
+693,Consulting Engineers Group,4.2,Engineering & Construction,1k-5k Employees,Public,40,Pune
+694,AmBoxDemo-PuneHQ,4.4,Electrical Equipment,51-200 Employees,Startup,30,Pune
+695,Progressive Infotech,3.5,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,26,Pune
+696,Pudumjee Paper Products,4.1,Pulp & Paper,501-1k Employees,Public,9,Pune
+697,Bilt Graphic Paper Products,3.9,Pulp & Paper,51-200 Employees,Public,17,Pune
+698,Greenply,4.0,Furniture & Furnishing,1k-5k Employees,Public,40,Pune
+699,Zydus Lifesciences,4.2,Pharma,10k-50k Employees,Public,72,Pune
+700,Bilt Graphic Paper Products,3.9,Pulp & Paper,51-200 Employees,Public,17,Pune
+701,MRF Tyres,3.8,Auto Components,10k-50k Employees,Public,78,Pune
+702,Orix Auto Infrastructure Services,4.4,Logistics,201-500 Employees,Public,29,Pune
+703,H&M,4.0,Fashion & Textile,1k-5k Employees,Forbes Global 2000,77,Pune
+704,SEABIRD LOGISOLUTIONS,3.7,Logistics,51-200 Employees,Public,19,Pune
+705,Shoptimize,3.7,Internet,51-200 Employees,Startup,12,Pune
+706,CloudRedux,4.8,IT Services & Consulting,11-50 Employees,Startup,8,Pune
+707,Accoona Global,4.5,Internet,11-50 Employees,Startup,8,Pune
+708,HASBRO INDIA SOURCING & OPERATIONS LLP,3.3,Gaming,51-200 Employees,Public,101,Pune
+709,Mankind Pharma,4.1,Pharma,10k-50k Employees,Fortune India 500,29,Pune
+710,Kendriya Vidyalaya Sangathan,4.4,Education & Training,10k-50k Employees,Public,61,Pune
+711,Arista Networks,4.3,Hardware & Networking,501-1k Employees,Forbes Global 2000,20,Pune
+712,Coleda,3.0,Marketing & Advertising,51-200 Employees,Startup,6,Pune
+713,Royal Orchid Hotels,4.0,Hospitality,1k-5k Employees,Public,38,Pune
+714,ITD Cementation India,4.3,Engineering & Construction,1k-5k Employees,Public,93,Pune
+715,ITC Hotels,4.2,Hospitality,5k-10k Employees,Public,49,Pune
+716,Cadence Design Systems,4.2,IT Services & Consulting,1k-5k Employees,Public,36,Pune
+717,Elantas Beck India,4.5,Electrical Equipment,501-1k Employees,Public,68,Pune
+718,Blackbuck Insights,4.0,IT Services & Consulting,201-500 Employees,Startup,8,Pune
+719,SMC,3.9,Medical Equipment,201-500 Employees,Forbes Global 2000,36,Pune
+720,ITC Hotels,4.2,Hospitality,5k-10k Employees,Public,49,Pune
+721,Peninsula Land,3.9,Real Estate,501-1k Employees,Public,27,Pune
+722,ITD Cementation India,4.3,Engineering & Construction,1k-5k Employees,Public,93,Pune
+723,Coleda,3.0,Marketing & Advertising,51-200 Employees,Startup,6,Pune
+724,Quikr,3.9,Internet,1k-5k Employees,Indian Unicorn,16,Pune
+725,Mankind Pharma,4.1,Pharma,10k-50k Employees,Fortune India 500,29,Pune
+726,Maharashtra State Electricity Transmission Company,4.1,Government,1k-5k Employees,State,19,Pune
+727,DHL Express,4.1,Logistics,1k-5k Employees,Conglomerate,45,Pune
+728,OnePlus,4.1,Consumer Electronics & Appliances,1k-5k Employees,Public,11,Shenzhen
+729,Amazon Web Services,4.0,Software Product,10k-50k Employees,Public,18,Pune
+730,Elantas Beck India,4.5,Electrical Equipment,501-1k Employees,Public,68,Pune
+731,Cadence Design Systems,4.2,IT Services & Consulting,1k-5k Employees,Public,36,Pune
+732,Fineshift Software,4.5,IT Services & Consulting,11-50 Employees,Startup,2,Pune
+733,Thermo Fisher Scientific,3.9,Pharma,1k-5k Employees,Forbes Global 2000,68,Pune
+734,Apollo Tyres,4.1,Auto Components,5k-10k Employees,Public,52,Pune
+735,PNB MetLife,3.5,Insurance,5k-10k Employees,Conglomerate,23,Pune
+736,Apollo Tyres,4.1,Auto Components,5k-10k Employees,Public,52,Pune
+737,Blancco Diagnostics India,4.4,Software Product,51-200 Employees,Public,27,Pune
+738,Ipca Laboratories,4.0,Pharma,10k-50k Employees,Public,75,Pune
+739,Henkel,4.1,Chemicals,501-1k Employees,Forbes Global 2000,59,Pune
+740,TVS Electronics,3.9,Consumer Electronics & Appliances,501-1k Employees,Public,38,Pune
+741,Legrand,3.7,Electrical Equipment,1k-5k Employees,Forbes Global 2000,164,Pune
+742,JoulestoWatts Business Solutions,2.9,IT Services & Consulting,201-500 Employees,Startup,9,Pune
+743,InCred Finance,4.0,NBFC,1k-5k Employees,Indian Unicorn,8,Hyderabad
+744,Jamna Auto Industries,3.7,Auto Components,1k-5k Employees,Public,70,New
+745,IKF Finance,3.9,NBFC,1k-5k Employees,Public,33,Hyderabad
+746,Nykaa,3.5,Internet,1k-5k Employees,Public,12,Hyderabad
+747,InsanelyGood,4.1,Internet,11-50 Employees,Startup,9,Hyderabad
+748,Raymond,4.1,Fashion & Textile,5k-10k Employees,Public,99,Hyderabad
+749,Wockhardt,3.9,Pharma,5k-10k Employees,Public,25,Pune
+750,Nippon Paint India,4.1,Chemicals,1k-5k Employees,Forbes Global 2000,143,Pune
+751,InCred Finance,4.0,NBFC,1k-5k Employees,Indian Unicorn,8,Pune
+752,JoulestoWatts Business Solutions,2.9,IT Services & Consulting,201-500 Employees,Startup,9,Pune
+753,Legrand,3.7,Electrical Equipment,1k-5k Employees,Forbes Global 2000,164,Pune
+754,InsanelyGood,4.1,Internet,11-50 Employees,Startup,9,Pune
+755,Raymond,4.1,Fashion & Textile,5k-10k Employees,Public,99,Pune
+756,Nykaa,3.5,Internet,1k-5k Employees,Public,12,Pune
+757,AppZen,3.9,Software Product,51-200 Employees,Startup,12,Pune
+758,Indian Card Clothing Co.,4.4,Industrial Machinery,201-500 Employees,Public,69,Pune
+759,FANUC,3.9,Industrial Machinery,501-1k Employees,Forbes Global 2000,68,Pune
+760,Sundaram Finance,4.2,NBFC,1k-5k Employees,Public,70,Pune
+761,Greenlam Industries,4.2,Building Material,1k-5k Employees,Public,11,Pune
+762,AppZen,3.9,Software Product,51-200 Employees,Startup,12,Pune
+763,Bharat Gears,4.2,Auto Components,1k-5k Employees,Public,52,Pune
+764,Hni Office India,4.3,Furniture & Furnishing,51-200 Employees,Public,80,Pune
+765,Religare,3.9,Financial Services,1k-5k Employees,Public,40,Pune
+766,Finolex,3.9,Petrochemicals,1k-5k Employees,Conglomerate,66,Pune
+767,TAB Capital,4.6,Financial Services,51-200 Employees,Startup,8,Pune
+768,Atul Auto,3.9,Automobile,501-1k Employees,Public,38,Pune
+769,Union Bank of India,4.1,Banking,50k-1 Lakh Employees,Public,105,Pune
+770,Pfizer,4.1,Pharma,1k-5k Employees,Public,20,Pune
+771,Ingersoll Rand,4.3,Industrial Machinery,501-1k Employees,Public,52,Pune
+772,Muthoot Group,3.6,Financial Services,10k-50k Employees,Public,137,Pune
+773,Docplexus Online Services,2.9,Internet,11-50 Employees,Startup,11,Pune
+774,Wheelseye Technology,3.7,Logistics,1k-5k Employees,Startup,7,Pune
+775,CIEL HR,4.1,Recruitment,1k-5k Employees,Startup,9,Pune
+776,REPCO HOME FINANCE,3.9,NBFC,501-1k Employees,Public,24,Pune
+777,Hero Housing Finance,3.9,Financial Services,501-1k Employees,Startup,7,Pune
+778,Skill Lync,3.1,EdTech,1k-5k Employees,Startup,9,Pune
+779,Pratyin Infotech Consulting,4.0,IT Services & Consulting,51-200 Employees,Startup,13,Pune
+780,Muthoot Group,3.6,Financial Services,10k-50k Employees,Public,137,Pune
+781,Hero Housing Finance,3.9,Financial Services,501-1k Employees,Startup,7,Pune
+782,Union Bank of India,4.1,Banking,50k-1 Lakh Employees,Public,105,Pune
+783,Pfizer,4.1,Pharma,1k-5k Employees,Public,20,Pune
+784,Ingersoll Rand,4.3,Industrial Machinery,501-1k Employees,Public,52,Pune
+785,Elpro International,4.6,Real Estate,51-200 Employees,Public,62,Pune
+786,American Tower Corporation,3.9,Telecom,501-1k Employees,Forbes Global 2000,29,Pune
+787,TCG Lifesciences,4.2,Pharma,1k-5k Employees,Public,23,Pune
+788,American Tower Corporation,3.9,Telecom,501-1k Employees,Forbes Global 2000,29,Pune
+789,JMC Projects,4.2,Engineering & Construction,1k-5k Employees,Public,42,Pune
+790,TCG Lifesciences,4.2,Pharma,1k-5k Employees,Public,23,Pune
+791,AceMicromatic Group,4.4,Industrial Machinery,501-1k Employees,Public,45,Pune
+792,Cult.fit,3.8,Fitness & Wellness,1k-5k Employees,Indian Unicorn,8,Pune
+793,Arrow Electronics,3.7,Semiconductors,1k-5k Employees,Forbes Global 2000,34,Pune
+794,Dana Group,5.0,Pharma,11-50 Employees,Conglomerate,49,Pune
+795,Cult.fit,3.8,Fitness & Wellness,1k-5k Employees,Indian Unicorn,8,Pune
+796,Karvy Innotech,3.2,IT Services & Consulting,501-1k Employees,Public,12,Pune
+797,Hinduja Group,4.0,Automobile,1 Lakh+ Employees,Public,15,Pune
+798,AGC Networks,3.7,IT Services & Consulting,501-1k Employees,Public,38,Pune
+799,Deeptek,3.8,Internet,11-50 Employees,Startup,7,Pune
+800,Kajaria Ceramics,4.2,Building Material,1k-5k Employees,Public,39,Pune
+801,TTK Prestige,4.0,Consumer Electronics & Appliances,1k-5k Employees,Public,69,Pune
+802,Cadila Pharmaceuticals,3.6,Pharma,5k-10k Employees,Public,73,Pune
+803,Orient Electric,4.0,Consumer Electronics & Appliances,501-1k Employees,Public,70,Pune
+804,Rasandik Engineering Industries India,3.6,Auto Components,1k-5k Employees,Public,38,Pune
+805,TVS Eurogrip,3.8,Auto Components,1k-5k Employees,Public,42,Pune
+806,Abhinav IT Solutions,3.9,IT Services & Consulting,11-50 Employees,Startup,11,Pune
+807,GigIndia,3.7,Internet,201-500 Employees,Startup,8,Pune
+808,Starbucks,4.3,Hospitality,1k-5k Employees,Public,53,Pune
+809,Hatsun Agro Product,4.0,Food Processing,5k-10k Employees,Public,54,Pune
+810,Abhinav IT Solutions,3.9,IT Services & Consulting,11-50 Employees,Startup,11,Pune
+811,TVS Eurogrip,3.8,Auto Components,1k-5k Employees,Public,42,Pune
+812,Rasandik Engineering Industries India,3.6,Auto Components,1k-5k Employees,Public,38,Pune
+813,Orient Electric,4.0,Consumer Electronics & Appliances,501-1k Employees,Public,70,Pune
+814,R Systems International,3.4,IT Services & Consulting,1k-5k Employees,Public,31,Pune
+815,GigIndia,3.7,Internet,201-500 Employees,Startup,8,Pune
+816,Toothsi,2.8,Internet,501-1k Employees,Startup,6,Pune
+817,Starbucks,4.3,Hospitality,1k-5k Employees,Public,53,Pune
+818,Mahindra Rural Housing Finance,4.1,NBFC,10k-50k Employees,Public,17,Pune
+819,PharmEasy,3.7,Internet,1k-5k Employees,Indian Unicorn,9,Pune
+820,Alstom Transportation,3.9,Urban Transport,5k-10k Employees,Forbes Global 2000,96,Pune
+821,Alstom Transportation,3.9,Urban Transport,5k-10k Employees,Forbes Global 2000,96,Pune
+822,Schwing Stetter,4.1,Industrial Machinery,1k-5k Employees,Fortune India 500,26,Pune
+823,Ceat Tyres,4.1,Auto Components,5k-10k Employees,Public,66,Pune
+824,Razorpay,3.7,FinTech,1k-5k Employees,Indian Unicorn,10,Pune
+825,NIIT,3.7,Education & Training,1k-5k Employees,Public,43,Pune
+826,Ellie Mae,3.7,IT Services & Consulting,51-200 Employees,Public,27,Pune
+827,PolicyBazaar,3.5,Internet,10k-50k Employees,Public,16,Pune
+828,Ksolves India Limited,2.8,IT Services & Consulting,201-500 Employees,Public,12,Pune
+829,Credicus,4.9,IT Services & Consulting,51-200 Employees,Startup,2,Pune
+830,Posiview Digital Technologies,4.5,IT Services & Consulting,11-50 Employees,Startup,12,Pune
+831,Ziffytech Digital Healthcare,2.3,Healthcare,201-500 Employees (Global),Startup,6,Pune
+832,ITI,3.7,Hardware & Networking,1k-5k Employees,Central,76,Pune
+833,Reliance Infrastructure,4.1,Engineering & Construction,1k-5k Employees,Public,95,Pune
+834,Triveni Turbines,3.8,Electrical Equipment,501-1k Employees,Public,56,Pune
+835,ITI,3.7,Hardware & Networking,1k-5k Employees,Central,76,Pune
+836,Timken,3.9,Industrial Machinery,1k-5k Employees,Public,26,Pune
+837,Kaya Skin Clinic,4.1,Beauty & Personal Care,501-1k Employees,Public,21,Pune
+838,Senvion,4.3,Power,51-200 Employees,Startup,7,Pune
+839,POSCO,4.2,Metals & Mining,51-200 Employees,Forbes Global 2000,56,Pune
+840,Aditya Birla Housing Finance,4.0,Financial Services,1k-5k Employees,Public,15,Pune
+841,True Elements,4.0,FMCG,51-200 Employees,Startup,7,Pune
+842,Fujitec,3.9,Electronics Manufacturing,51-200 Employees,Public,14,Pune
+843,Ugro Capital,3.8,NBFC,1k-5k Employees,Public,31,Pune
+844,JNS Instruments,3.9,Industrial Machinery,501-1k Employees,Public,23,Pune
+845,Somany Ceramics,4.3,Building Material,1k-5k Employees,Public,56,Pune
+846,Stock Holding Corporation of India,3.6,Financial Services,201-500 Employees,Public,38,Pune
+847,Zydus Wellness,3.9,FMCG,501-1k Employees,Public,36,Pune
+848,Medlife,3.7,Internet,1k-5k Employees,Startup,10,Pune
+849,Maharashtra Seamless,3.7,Building Material,1k-5k Employees,Public,36,Pune
+850,Aditya Birla Housing Finance,4.0,Financial Services,1k-5k Employees,Public,15,Pune
+851,POSCO,4.2,Metals & Mining,51-200 Employees,Forbes Global 2000,56,Pune
+852,Atul,4.0,Chemicals,1k-5k Employees,Public,77,Pune
+853,Ambuja Cements,4.0,Building Material,5k-10k Employees,Public,41,Pune
+854,Senvion,4.3,Power,51-200 Employees,Startup,7,Pune
+855,True Elements,4.0,FMCG,51-200 Employees,Startup,7,Pune
+856,Ugro Capital,3.8,NBFC,1k-5k Employees,Public,31,Pune
+857,ImaginXP,3.2,Education & Training,51-200 Employees (Global),Startup,11,Pune
+858,Optiva,4.4,Software Product,51-200 Employees,Public,25,Pune
+859,Maharashtra Seamless,3.7,Building Material,1k-5k Employees,Public,36,Pune
+860,Tribhovandas Bhimji Zaveri,4.2,Metals & Mining,1k-5k Employees,Public,160,Pune
+861,Grindwell Norton,4.1,Industrial Machinery,1k-5k Employees,Public,83,Pune
+862,KGP AUTO,4.7,Automobile,11-50 Employees,Public,53,Pune
+863,Army Ordnance Corps,4.7,Defence & Aerospace,11-50 Employees,Public,249,Pune
+864,Ministry of Defence,4.4,Government,1 Lakh+ Employees,Central,77,Pune
+865,Borgwarner Emission System,4.1,Auto Components,1k-5k Employees,Forbes Global 2000,96,Pune
+866,Fractal Analytics,4.1,Analytics & KPO,1k-5k Employees,Indian Unicorn,24,Pune
+867,DealShare,3.5,Internet,1k-5k Employees,Indian Unicorn,6,Pune
+868,Test Yantra Software Solutions,3.4,IT Services & Consulting,1k-5k Employees,Public,17,Pune
+869,NCR Corporation,4.1,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,140,Pune
+870,Inspirisys Solution,3.9,IT Services & Consulting,1k-5k Employees,Public,33,Pune
+871,Garware Bestretch,4.5,Fashion & Textile,501-1k Employees,Public,30,Pune
+872,Future Lifestyle Fashion,4.2,Retail,1k-5k Employees,Public,12,Pune
+873,UNIVASTU,3.4,Engineering & Construction,51-200 Employees,Public,15,Pune
+874,UNIVASTU,3.4,Engineering & Construction,51-200 Employees,Public,15,Pune
+875,QuickXpert Infotech,3.5,IT Services & Consulting,11-50 Employees,Public,10,Pune
+876,Religare Finvest,4.4,Financial Services,1k-5k Employees,Public,18,Pune
+877,Livguard,4.2,Electronics Manufacturing,501-1k Employees,Startup,10,Pune
+878,Ashiana Housing,4.1,Real Estate,501-1k Employees,Public,45,Pune
+879,Prism Johnson,4.0,Building Material,1k-5k Employees,Public,32,Pune
+880,AVIN Systems,4.0,Internet,201-500 Employees,Startup,10,Pune
+881,Accord Synergy,4.2,Hardware & Networking,51-200 Employees,Public,10,Pune
+882,Chatrapati Multistate Co-Operative Credit Society,3.9,Investment Banking / Venture Capital / Private Equity,11-50 Employees,Public,9,Pune
+883,Intas Pharmaceuticals,4.2,Pharma,10k-50k Employees,Fortune India 500,47,Pune
+884,Ather Energy,4.1,Automobile,1k-5k Employees,Startup,11,Pune
+885,Prism Johnson Limited - RMC (India) Division,4.1,Building Material,501-1k Employees,Public,28,Pune
+886,Military Engineer Services,4.5,Engineering & Construction,51-200 Employees,Public,101,Pune
+887,Treebo Hotels,3.5,Internet,51-200 Employees,Startup,9,Pune
+888,LEAD School,3.3,EdTech,1k-5k Employees,Indian Unicorn,11,Pune
+889,Livguard,4.2,Electronics Manufacturing,501-1k Employees,Startup,10,Pune
+890,Ashiana Housing,4.1,Real Estate,501-1k Employees,Public,45,Pune
+891,Prism Johnson,4.0,Building Material,1k-5k Employees,Public,32,Pune
+892,Visionindia Software Exports,3.9,IT Services & Consulting,11-50 Employees,Public,24,Pune
+893,Accord Synergy,4.2,Hardware & Networking,51-200 Employees,Public,10,Pune
+894,Chatrapati Multistate Co-Operative Credit Society,3.9,Investment Banking / Venture Capital / Private Equity,11-50 Employees,Public,9,Pune
+895,Dr. Agarwal's Eye Hospital,4.0,Healthcare,1k-5k Employees,Public,67,Pune
+896,PG Electroplast,4.1,Consumer Electronics & Appliances,501-1k Employees,Public,47,Pune
+897,Housewise,4.4,Internet,51-200 Employees,Startup,9,Pune
+898,PG Electroplast,4.1,Consumer Electronics & Appliances,501-1k Employees,Public,47,Pune
+899,Fraazo,3.4,Internet,201-500 Employees,Startup,8,Pune
+900,"CHAKR INNOVATION PVT LTD, WORKSHOP",4.1,Power,51-200 Employees,Public,9,Pune
+901,Bank of America,4.4,Banking,10k-50k Employees,Fortune India 500,26,Pune
+902,Continental,4.0,Auto Components,5k-10k Employees,Forbes Global 2000,153,Pune
+903,Adani Wilmar,4.2,FMCG,1k-5k Employees,Public,25,Pune
+904,H B Fuller,3.9,Chemicals,5k-10k Employees (Global),Public,137,Pune
+905,Chordia Food Products,2.4,FMCG,51-200 Employees,Public,64,Satara
+906,iobot Technologies,4.5,Internet,11-50 Employees,Startup,8,Pune
+907,ChiStats,4.9,IT Services & Consulting,11-50 Employees,Startup,5,Pune
+908,Go First,3.7,Aviation,1k-5k Employees,Public,19,Pune
+909,Urban Ladder,3.8,Furniture & Furnishing,501-1k Employees,Startup,12,Pune
+910,CRYSTAL CROP PROTECTION,3.9,Agro Chemicals,1k-5k Employees,Public,44,Pune
+911,Apollo Clinic,4.0,Healthcare,201-500 Employees,Public,22,Pune
+912,Trimble,4.2,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,46,Pune
+913,Diageo,4.0,Beverage,1k-5k Employees,Public,27,Pune
+914,Prabhat Dairy,3.8,FMCG,201-500 Employees,Public,26,Pune
+915,Laxmi Organic Industries,4.2,Chemicals,501-1k Employees,Public,32,Pune
+916,ExtraaEdge,4.3,IT Services & Consulting,51-200 Employees,Startup,9,Pune
+917,EarnWealth Solutions,2.5,Internet,11-50 Employees,Startup,10,Pune
+918,V.S.T Tillers Tractors,3.6,Industrial Machinery,201-500 Employees,Public,57,Pune
+919,Marico,4.1,FMCG,1k-5k Employees,Public,36,Pune
+920,Go First,3.7,Aviation,1k-5k Employees,Public,19,Pune
+921,Zuari Agro Chemicals,4.1,Agro Chemicals,501-1k Employees,Public,57,Pune
+922,Godfrey Phillips India,4.1,FMCG,501-1k Employees,Public,91,Pune
+923,Telesonic Networks,3.7,Telecom,5k-10k Employees,Public,15,Pune
+924,Acer India,4.2,IT Services & Consulting,51-200 Employees,Public,48,Pune
+925,Prabhat Dairy,3.8,FMCG,201-500 Employees,Public,26,Pune
+926,Laxmi Organic Industries,4.2,Chemicals,501-1k Employees,Public,32,Pune
+927,Snowman Logistics,4.1,Logistics,201-500 Employees,Public,28,Pune
+928,Bayer,4.2,Pharma,10k-50k Employees,Public,161,Pune
+929,Equifax,3.5,IT Services & Consulting,201-500 Employees,Public,14,Pune
+930,Diageo,4.0,Beverage,1k-5k Employees,Public,27,Pune
+931,Apollo Clinic,4.0,Healthcare,201-500 Employees,Public,22,Pune
+932,NRB Bearings,4.2,Auto Components,1k-5k Employees,Public,59,Pune
+933,Wakefit,4.2,Furniture & Furnishing,1k-5k Employees,Startup,8,Pune
+934,Riddhi Corporate Services,3.9,IT Services & Consulting,11-50 Employees,Public,14,Pune
+935,Eicher Motors,4.2,Automobile,5k-10k Employees,Public,42,Pune
+936,PI Industries,4.2,Agro Chemicals,1k-5k Employees,Public,77,Pune
+937,Avanse Financial Services,4.0,Financial Services,501-1k Employees,Startup,12,Pune
+938,BridgeLabz Solutions,3.4,EdTech,201-500 Employees,Startup,8,Pune
+939,Wardwizard Innovations & Mobility,4.1,Automobile,51-200 Employees,Public,8,Pune
+940,Quantiphi Analytics Solutions Private Limited,3.1,IT Services & Consulting,1k-5k Employees,Startup,11,Pune
+941,GlaxoSmithKline Pharmaceuticals,4.2,Pharma,1k-5k Employees,Fortune India 500,194,Pune
+942,MAS Financial Services,3.7,Financial Services,1k-5k Employees,Public,29,Pune
+943,Milky Mist Dairy Food,3.6,Food Processing,501-1k Employees,Startup,10,Pune
+944,Porter,4.2,Internet,1k-5k Employees,Startup,10,Pune
+945,Jubilant Pharmova,4.0,Pharma,1k-5k Employees,Public,46,Pune
+946,Sika,3.9,Chemicals,201-500 Employees,Public,114,Pune
+947,Jubilant Pharmova,4.0,Pharma,1k-5k Employees,Public,46,Pune
+948,Nestle,4.1,Food Processing,5k-10k Employees,Public,65,Pune
+949,Fresenius,3.8,Medical Equipment,201-500 Employees,Public,25,Pune
+950,Ugaoo,3.3,Agriculture,11-50 Employees,Startup,9,Pune
+951,VNMT Solutions,4.8,Software Product,11-50 Employees,Startup,7,Pune
+952,Uflex,3.8,Packaging,5k-10k Employees,Public,39,Pune
+953,GE Transportation,4.2,Industrial Machinery,1k-5k Employees,Public,117,Pune
+954,USHA International,4.2,Consumer Electronics & Appliances,1k-5k Employees,Public,90,Pune
+955,Uflex,3.8,Packaging,5k-10k Employees,Public,39,Pune
+956,GE Transportation,4.2,Industrial Machinery,1k-5k Employees,Public,117,Pune
+957,APL Apollo Tubes,3.8,Building Material,1k-5k Employees,Public,38,Pune
+958,Advance Technology (India),3.7,Industrial Machinery,51-200 Employees,Public,14,Pune
+959,Jyoti CNC Automation,4.0,Industrial Machinery,501-1k Employees,Public,35,Pune
+960,Keyence,4.3,Internet,11-50 Employees,Forbes Global 2000,50,Pune
+961,Network People Services Technologies,4.0,IT Services & Consulting,51-200 Employees,Startup,11,Pune
+962,Pariksha.Co,4.7,Internet,51-200 Employees,Startup,9,Pune
+963,Action Construction Equipment,3.8,Industrial Machinery,1k-5k Employees,Public,29,Pune
+964,Central Reserve Police Force,4.6,Government,1 Lakh+ Employees,Central,85,Pune
+965,Future Supply Chain Solutions,4.4,Logistics,1k-5k Employees,Public,18,Pune
+966,ShopX,4.4,Internet,201-500 Employees,Startup,9,Pune
+967,Shalimar Paints,3.9,Chemicals,1k-5k Employees,Public,122,Pune
+968,Castrol,4.3,Petrochemicals,501-1k Employees,Public,125,Pune
+969,Satin Creditcare Network,4.1,NBFC,5k-10k Employees,Public,34,Pune
+970,Tata Consumer Products,3.9,FMCG,1k-5k Employees,Public,62,Pune
+971,Accel Limited,3.9,IT Services & Consulting,1k-5k Employees,Public,33,Pune
+972,DS Group,4.1,FMCG,1k-5k Employees,Conglomerate,95,Pune
+973,Advance Technology (India),3.7,Industrial Machinery,51-200 Employees,Public,14,Pune
+974,Jyoti CNC Automation,4.0,Industrial Machinery,501-1k Employees,Public,35,Pune
+975,Keyence,4.3,Internet,11-50 Employees,Forbes Global 2000,50,Pune
+976,Network People Services Technologies,4.0,IT Services & Consulting,51-200 Employees,Startup,11,Pune
+977,Pariksha.Co,4.7,Internet,51-200 Employees,Startup,9,Pune
+978,APL Apollo Tubes,3.8,Building Material,1k-5k Employees,Public,38,Pune
+979,Boston Scientific,4.1,Healthcare,201-500 Employees,Forbes Global 2000,45,Pune
+980,Novozymes South Asia,4.2,Biotechnology,501-1k Employees,Forbes Global 2000,24,Pune
+981,Karvy Financial Services,3.7,Financial Services,51-200 Employees,Conglomerate,43,Pune
+982,SirionLabs,3.4,IT Services & Consulting,501-1k Employees,Startup,12,Pune
+983,ThinkSmart IT Solutions,3.8,IT Services & Consulting,11-50 Employees,Startup,12,Pune
+984,MagicPin,3.2,Internet,201-500 Employees,Startup,9,Pune
+985,Viney Corporation,3.8,Auto Components,501-1k Employees,Public,35,Pune
+986,Salesforce,4.1,Software Product,5k-10k Employees,Public,25,Pune
+987,Country Delight,4.1,Food Processing,1k-5k Employees,Startup,9,Pune
+988,Nippon Life India Asset Management,4.7,Financial Services,1k-5k Employees,Public,29,Pune
+989,Indostar Capital Finance,4.5,NBFC,1k-5k Employees,Public,13,Pune
+990,FabHotels,3.1,Hospitality,501-1k Employees,Startup,10,Pune
+991,Bajaj Group,4.2,Automobile,10k-50k Employees,Conglomerate,98,Pune
+992,DB Schenker,4.3,Logistics,1k-5k Employees,Conglomerate,34,Pune
+993,Heritage Foods,4.1,Food Processing,1k-5k Employees,Public,32,Pune
+994,Sanofi,4.4,Pharma,1k-5k Employees,Public,20,Pune
+995,Financepeer,3.1,Financial Services,201-500 Employees,Startup,7,Pune
+996,Arrivae,3.5,Internet,201-500 Employees,Startup,7,Hyderabad
+997,Physicswallah,3.8,EdTech,10k-50k Employees,Indian Unicorn,5,Hyderabad
+998,Heritage Foods,4.1,Food Processing,1k-5k Employees,Public,32,Pune
+999,Merino Industries,2.7,Furniture & Furnishing,1k-5k Employees,Public,56,Pune
+1000,Physicswallah,3.8,EdTech,10k-50k Employees,Indian Unicorn,5,Pune
+1001,Megha Engineering & Infrastructures,4.0,Engineering & Construction,5k-10k Employees,Conglomerate,35,Pune
+1002,Walsons Facility Solutions,4.0,Recruitment,5k-10k Employees,Conglomerate,28,Pune
+1003,Ahluwalia Contracts India,4.1,Engineering & Construction,1k-5k Employees,Public,59,Pune
+1004,Innoventive Industries,4.9,Industrial Machinery,1k-5k Employees (Global),Public,22,Pune
+1005,iServe Financial,4.2,Financial Services,51-200 Employees,Startup,10,Pune
+1006,Vitaminhaat,4.0,Internet,11-50 Employees,Startup,9,Pune
+1007,Salt Technologies,4.3,IT Services & Consulting,11-50 Employees,Startup,12,Pune
+1008,Bafna Motors,3.6,Automobile,201-500 Employees,Conglomerate,68,Pune
+1009,Idox India,3.2,IT Services & Consulting,11-50 Employees,Startup,24,Pune
+1010,Idox India,3.2,IT Services & Consulting,11-50 Employees,Startup,24,Pune
+1011,Super Gaming,4.1,Internet,51-200 Employees,Startup,7,Pune
+1012,PearVisa Immigration Services,4.6,Recruitment,51-200 Employees,Public,14,Pune
+1013,CareEdge Ratings,2.9,Financial Services,501-1k Employees,Public,31,Pune
+1014,Cavinkare,4.0,FMCG,1k-5k Employees,Conglomerate,41,Pune
+1015,Reliance Home Finance,4.5,NBFC,501-1k Employees,Public,16,Pune
+1016,Roots Multiclean,4.0,Industrial Machinery,1k-5k Employees,Public,32,Pune
+1017,Sumitomo Chemical,4.0,Chemicals,1k-5k Employees,Fortune India 500,99,Pune
+1018,Jindal Steel and Power,4.0,Iron & Steel,5k-10k Employees,Fortune India 500,45,Pune
+1019,Kennametal,3.8,Industrial Machinery,501-1k Employees,Public,86,Pune
+1020,Indian Navy,4.6,Defence & Aerospace,50k-1 Lakh Employees,Central,74,Pune
+1021,Cavinkare,4.0,FMCG,1k-5k Employees,Conglomerate,41,Pune
+1022,PCS Technology,4.5,IT Services & Consulting,1k-5k Employees,Public,43,Pune
+1023,Reliance Home Finance,4.5,NBFC,501-1k Employees,Public,16,Pune
+1024,Muthoot Capital Services,4.2,Financial Services,1k-5k Employees,Public,30,Pune
+1025,Punjab National Bank,4.1,Banking,1 Lakh+ Employees,Fortune India 500,130,Pune
+1026,SasMos HET Technologies,4.0,Electrical Equipment,201-500 Employees,Public,17,Pune
+1027,Granules India,3.9,Pharma,1k-5k Employees,Public,40,Pune
+1028,Colgate Palmolive,4.2,FMCG,1k-5k Employees,Public,87,Pune
+1029,LeadsGuru,4.3,EdTech,11-50 Employees,Startup,4,Pune
+1030,Kamat Hotels India,3.3,Hospitality,1k-5k Employees,Public,38,Pune
+1031,Levi Strauss & Co.,4.5,Fashion & Textile,1k-5k Employees,Public,171,Pune
+1032,Snowflake Inc,2.8,Internet,1k-5k Employees (Global),Startup,12,Pune
+1033,Homesfy Realty,3.9,Real Estate,201-500 Employees,Public,11,Pune
+1034,Kellogg Brown and Root,4.1,Defence & Aerospace,501-1k Employees,Public,26,Pune
+1035,Power Grid Corporation of India,4.4,Power,5k-10k Employees,Fortune India 500,35,Pune
+1036,TVS Sundram Fasteners,3.8,Auto Components,1k-5k Employees,Public,62,Pune
+1037,Shriram Pistons & Rings,4.1,Auto Components,1k-5k Employees,Public,61,Pune
+1038,Portea Medical,4.4,Healthcare,1k-5k Employees,Startup,11,Pune
+1039,PCS Technology,4.5,IT Services & Consulting,1k-5k Employees,Public,43,Pune
+1040,Aarvi Encon,4.1,Recruitment,5k-10k Employees,Public,37,Pune
+1041,DP World,4.1,Logistics,1k-5k Employees,Public,19,Pune
+1042,Portea Medical,4.4,Healthcare,1k-5k Employees,Startup,11,Pune
+1043,Sugansa Solutions,3.0,Software Product,51-200 Employees,Startup,10,Pune
+1044,Huntsman International,4.3,Chemicals,501-1k Employees,Forbes Global 2000,54,Mumbai
+1045,Kennametal,3.8,Industrial Machinery,501-1k Employees,Public,86,Hyderabad
+1046,LIC Housing Finance,4.0,NBFC,1k-5k Employees,Public,35,Pune
+1047,Granules India,3.9,Pharma,1k-5k Employees,Public,40,Pune
+1048,Emami,4.1,Beauty & Personal Care,1k-5k Employees,Public,50,Pune
+1049,Securitas,4.0,Law Enforcement & Security,10k-50k Employees,Forbes Global 2000,90,Pune
+1050,Ford Motor,4.5,Automobile,5k-10k Employees,Public,121,Pune
+1051,Awfis,4.0,Real Estate,501-1k Employees,Startup,9,Pune
+1052,ASSA ABLOY,3.7,Real Estate,51-200 Employees,Public,19,Pune
+1053,FMC,4.2,Agro Chemicals,1k-5k Employees,Forbes Global 2000,15,Pune
+1054,Ford Motor,4.5,Automobile,5k-10k Employees,Public,121,Pune
+1055,Unacademy,3.3,EdTech,1k-5k Employees,Indian Unicorn,9,Pune
+1056,United Breweries,3.9,Beverage,1k-5k Employees,Public,167,Pune
+1057,BT Group,4.1,Telecom,10k-50k Employees,Forbes Global 2000,178,Pune
+1058,BYJU'S Exam Prep,3.8,EdTech,501-1k Employees,Startup,9,Pune
+1059,AB InBev India,3.5,Beverage,1k-5k Employees,Public,36,Pune
+1060,Dai Ichi,3.7,Chemicals,501-1k Employees,Public,64,Pune
+1061,Olectra Greentech,3.3,Automobile,201-500 Employees,Public,32,Pune
+1062,Shell,4.3,Oil & Gas,10k-50k Employees,Public,117,Pune
+1063,ZTE Corporation,4.0,Telecom,201-500 Employees,Forbes Global 2000,21,Pune
+1064,Praxis home Retail,4.1,Retail,1k-5k Employees,Public,17,Pune
+1065,Capacit'e Infraprojects,3.6,Engineering & Construction,1k-5k Employees,Public,12,Pune
+1066,Allengers Medical Systems,3.2,Medical Equipment,1k-5k Employees,Public,37,Pune
+1067,Renault,4.3,Automobile,10k-50k Employees,Forbes Global 2000,126,Pune
+1068,Eris Lifesciences,3.8,Pharma,1k-5k Employees,Public,17,Pune
+1069,The MobileStore,4.3,Internet,501-1k Employees,Public,18,Pune
+1070,Magma Housing Finance,4.3,Financial Services,5k-10k Employees,Public,35,Pune
+1071,Emsphere Technologies,4.8,Internet,11-50 Employees,Startup,9,Pune
+1072,Cognition Techsystems,5.0,IT Services & Consulting,1-10 Employees,Startup,9,Pune
+1073,Emsphere Technologies,4.8,Internet,11-50 Employees,Startup,9,Pune
+1074,The New India Assurance Co.,4.6,Insurance,10k-50k Employees,Public,105,Pune
+1075,Ashoka Buildcon,4.1,Engineering & Construction,1k-5k Employees,Public,48,Pune
+1076,Yamaha Motor,4.2,Automobile,1k-5k Employees,Fortune India 500,69,Pune
+1077,Nippon Express,4.2,Logistics,501-1k Employees,Public,77,Pune
+1078,Yamaha Motor,4.2,Automobile,1k-5k Employees,Fortune India 500,69,Pune
+1079,Tata Housing Development Company,4.1,Real Estate,1k-5k Employees,Public,40,Pune
+1080,Ashoka Buildcon,4.1,Engineering & Construction,1k-5k Employees,Public,48,Pune
+1081,Novo Nordisk,4.1,Pharma,1k-5k Employees,Forbes Global 2000,101,Pune
+1082,Spoton Logistics,4.5,Logistics,1k-5k Employees,Startup,12,Pune
+1083,Netmeds.com,3.6,Internet,501-1k Employees,Startup,9,Chennai
+1084,Delta Electronics,4.0,Electronics Manufacturing,501-1k Employees,Forbes Global 2000,32,Chennai
+1085,Bharat IT Services,3.2,IT Services & Consulting,501-1k Employees,Public,28,Chennai
+1086,Locuz Enterprise Solutions,4.2,IT Services & Consulting,501-1k Employees,Public,25,Pune
+1087,Berar Finance,4.1,NBFC,1k-5k Employees,Public,34,Pune
+1088,Reliance Capital,4.0,Financial Services,1k-5k Employees,Public,19,Pune
+1089,Shree Renuka Sugars,4.2,Food Processing,1k-5k Employees,Public,26,Pune
+1090,Baroda Global Shared Services,4.0,Banking,10k-50k Employees,Public,7,Pune
+1091,Freecharge,4.0,FinTech,501-1k Employees,Conglomerate,14,Pune
+1092,ROI NET Solution,4.4,FinTech,51-200 Employees,Startup,12,Pune
+1093,VRL Logistics,4.0,Logistics,10k-50k Employees,Public,41,Pune
+1094,Sterling Holiday Resort,3.9,Hospitality,1k-5k Employees,Public,38,Pune
+1095,Axis Mutual Fund,4.3,Financial Services,501-1k Employees,Public,15,Pune
+1096,MyGlamm,3.5,Beauty & Personal Care,501-1k Employees,Indian Unicorn,9,Hyderabad
+1097,Testbook.com,3.7,EdTech,501-1k Employees,Startup,10,Hyderabad
+1098,STYLAM Industries,3.7,Engineering & Construction,201-500 Employees,Public,33,Hyderabad
+1099,Brick&Bolt,4.0,Engineering & Construction,51-200 Employees,Startup,7,Hyderabad
+1100,Safari Industries India,4.2,Fashion & Textile,501-1k Employees,Public,50,Hyderabad
+1101,South Indian Bank,3.6,Banking,1k-5k Employees,Public,95,Pune
+1102,Hindalco Industries,4.3,Metals & Mining,10k-50k Employees,Public,66,Pune
+1103,Cashify,3.8,Other,501-1k Employees,Startup,11,Pune
+1104,Synergy,4.1,Marketing & Advertising,11-50 Employees,Conglomerate,18,Pune
+1105,Sintex Industries,4.1,Industrial Machinery,5k-10k Employees,Public,93,Pune
+1106,Shakti Pumps,3.9,Industrial Machinery,501-1k Employees,Public,42,Pune
+1107,Scandid,5.0,Internet,11-50 Employees (Global),Startup,12,Pune
+1108,Orange Business,4.3,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,32,Pune
+1109,STERIS,3.8,Internet,51-200 Employees,Forbes Global 2000,37,Pune
+1110,Safari Industries India,4.2,Fashion & Textile,501-1k Employees,Public,50,Pune
+1111,Brick&Bolt,4.0,Engineering & Construction,51-200 Employees,Startup,7,Pune
+1112,South Indian Bank,3.6,Banking,1k-5k Employees,Public,95,Pune
+1113,Hindalco Industries,4.3,Metals & Mining,10k-50k Employees,Public,66,Pune
+1114,Sintex Industries,4.1,Industrial Machinery,5k-10k Employees,Public,93,Pune
+1115,Upwork,4.6,Internet,501-1k Employees,Public,9,Pune
+1116,Sterling Holiday Resort,3.9,Hospitality,1k-5k Employees,Public,38,Pune
+1117,Shree Renuka Sugars,4.2,Food Processing,1k-5k Employees,Public,26,Pune
+1118,Locuz Enterprise Solutions,4.2,IT Services & Consulting,501-1k Employees,Public,25,Pune
+1119,Delta Electronics,4.0,Electronics Manufacturing,501-1k Employees,Forbes Global 2000,32,Pune
+1120,Berar Finance,4.1,NBFC,1k-5k Employees,Public,34,Pune
+1121,Bharat IT Services,3.2,IT Services & Consulting,501-1k Employees,Public,28,Pune
+1122,Spoton Logistics,4.5,Logistics,1k-5k Employees,Startup,12,Pune
+1123,Netmeds.com,3.6,Internet,501-1k Employees,Startup,9,Pune
+1124,LetsTransport,3.4,Logistics,501-1k Employees,Startup,9,Pune
+1125,Trigyn Technologies,3.8,IT Services & Consulting,501-1k Employees,Public,38,Pune
+1126,Licious,3.8,Internet,1k-5k Employees,Indian Unicorn,9,Pune
+1127,TTK Healthcare,4.2,Healthcare,1k-5k Employees,Public,96,Pune
+1128,Honda Cars,4.4,Automobile,5k-10k Employees,Fortune India 500,29,Pune
+1129,TTK Healthcare,4.2,Healthcare,1k-5k Employees,Public,96,Pune
+1130,Licious,3.8,Internet,1k-5k Employees,Indian Unicorn,9,Pune
+1131,Honda Cars,4.4,Automobile,5k-10k Employees,Fortune India 500,29,Pune
+1132,Cityfurnish,3.0,Furniture & Furnishing,11-50 Employees,Startup,9,Pune
+1133,ICPA Health Products,3.4,Healthcare,51-200 Employees,Public,41,Pune
+1134,Dainik Bhaskar Group,4.4,Printing & Publishing,5k-10k Employees,Public,66,Pune
+1135,Delhi Public School,3.9,Education & Training,1k-5k Employees,Public,26,Pune
+1136,Glenmark Life Sciences,3.8,Pharma,201-500 Employees,Public,47,Pune
+1137,Hindustan Aeronautics,4.4,Defence & Aerospace,10k-50k Employees,Fortune India 500,84,Pune
+1138,New India Co-Op Bank,3.3,Banking,11-50 Employees,Public,56,Pune
+1139,Delhi Public School,3.9,Education & Training,1k-5k Employees,Public,26,Pune
+1140,Jumbotail Technologies,3.7,Retail,201-500 Employees,Startup,9,Pune
+1141,Ryan International School,3.7,Education & Training,10k-50k Employees,Public,32,Pune
+1142,Alankit,3.3,Financial Services,1k-5k Employees,Public,33,Pune
+1143,Paz Care,3.7,Internet,51-200 Employees,Startup,3,Pune
+1144,SK Finance Limited,4.1,NBFC,10k-50k Employees,Public,30,Pune
+1145,Securens System,4.2,Law Enforcement & Security,201-500 Employees,Startup,12,Pune
+1146,India Post,3.9,Government,1 Lakh+ Employees,Public,170,Pune
+1147,Bluestone.com,3.8,Jewellery,501-1k Employees,Startup,13,Pune
+1148,IRB Infrastructure,4.2,Engineering & Construction,5k-10k Employees,Public,26,Pune
+1149,Paz Care,3.7,Internet,51-200 Employees,Startup,3,Pune
+1150,Vadilal Dairy International,3.0,Agriculture,201-500 Employees,Public,117,Pune
+1151,Procter & Gamble,4.2,FMCG,1k-5k Employees,Public,187,Pune
+1152,Adani Group,4.0,Power,10k-50k Employees,Public,36,Pune
+1153,Publicis,3.7,Marketing & Advertising,5k-10k Employees,Forbes Global 2000,98,Pune
+1154,Adani Group,4.0,Power,10k-50k Employees,Public,36,Pune
+1155,Pagarbook,4.1,Software Product,51-200 Employees,Startup,5,Pune
+1156,RR kabel,4.2,Electrical Equipment,1k-5k Employees,Public,29,Pune
+1157,Docplexus,2.6,Internet,51-200 Employees (Global),Startup,10,Pune
+1158,Inditex,3.8,Fashion & Textile,1k-5k Employees,Forbes Global 2000,61,Pune
+1159,TripHobo,5.0,Travel & Tourism,11-50 Employees (Global),Startup,12,Pune
+1160,Brand Factory,4.5,Retail,10k-50k Employees,Public,18,Pune
+1161,MahaOnline,4.5,IT Services & Consulting,501-1k Employees (Global),Public,14,Pune
+1162,CarIQ,5.0,Internet,11-50 Employees,Startup,11,Pune
+1163,Alphalogic,1.6,IT Services & Consulting,11-50 Employees,Public,16,Pune
+1164,Brand Factory,4.5,Retail,10k-50k Employees,Public,18,Pune
+1165,KOHINOOR TELEVIDEO,3.1,Internet,501-1k Employees,Public,57,Pune
+1166,NuvoEx,4.2,Logistics,1k-5k Employees,Startup,11,Gurgaon
+1167,FlytBase Labs,2.8,Industrial Automation,51-200 Employees,Startup,7,Pune
+1168,STEMM One Cloudworks,3.1,Software Product,1-10 Employees,Startup,2,Pune
+1169,S.Q.U.A.T.S.,4.1,Fitness & Wellness,51-200 Employees,Startup,9,Pune
+1170,CyberMeru Technologies,4.3,IT Services & Consulting,11-50 Employees,Startup,5,Pune
+1171,Periwinkle Technologies,3.5,Internet,11-50 Employees (Global),Startup,11,Pune
+1172,Government Polytechnic Nagpur,4.0,Education & Training,1k-5k Employees,State,110,Pune
+1173,IDBI Capital,3.5,Financial Services,51-200 Employees,Public,31,Pune
+1174,Cogent E Services,3.3,BPO,10k-50k Employees,Conglomerate,20,Pune
+1175,Jawed Habib Hair & Beauty,4.1,Retail,1k-5k Employees,Public,18,Hyderabad
+1176,Axio,3.7,Financial Services,501-1k Employees,Startup,11,Hyderabad
+1177,Woodenstreet.com,3.5,Furniture & Furnishing,51-200 Employees,Startup,9,Hyderabad
+1178,Airtel Payments Bank,4.2,FinTech,501-1k Employees,Public,8,Chennai
+1179,Cooper-Standard Automotive,4.2,Auto Components,201-500 Employees,Public,64,Pune
+1180,Lakme,4.3,Beauty & Personal Care,201-500 Employees,Public,44,Pune
+1181,Rajkumar Forge,4.4,Industrial Machinery,51-200 Employees,Public,34,Pune
+1182,Jet Airways,4.6,Aviation,201-500 Employees,Public,31,Pune
+1183,Steel Strips Wheels,3.8,Auto Components,1k-5k Employees,Public,33,Pune
+1184,Motilal Oswal,3.9,Financial Services,5k-10k Employees,Public,37,Pune
+1185,Easy Home Finance,4.2,FinTech,501-1k Employees,Public,6,Pune
+1186,Periwinkle Technologies,3.5,Internet,11-50 Employees (Global),Startup,11,Pune
+1187,ZenTrades,3.6,Software Product,51-200 Employees,Startup,2,Pune
+1188,HIL,4.2,Building Material,1k-5k Employees,Public,78,Pune
+1189,Ricoh,3.9,IT Services & Consulting,1-10 Employees,Public,88,Pune
+1190,General Mills,4.2,Food Processing,1k-5k Employees,Forbes Global 2000,96,Pune
+1191,L.G.Balakrishnan & Bros,3.7,Auto Components,1k-5k Employees,Public,87,Hyderabad
+1192,Lumiq,3.3,IT Services & Consulting,201-500 Employees,Startup,11,Pune
+1193,Woodenstreet.com,3.5,Furniture & Furnishing,51-200 Employees,Startup,9,Hyderabad
+1194,IDBI Capital,3.5,Financial Services,51-200 Employees,Public,31,Hyderabad
+1195,Jawed Habib Hair & Beauty,4.1,Retail,1k-5k Employees,Public,18,Pune
+1196,Axio,3.7,Financial Services,501-1k Employees,Startup,11,Pune
+1197,Cogent E Services,3.3,BPO,10k-50k Employees,Conglomerate,20,Pune
+1198,Government Polytechnic Nagpur,4.0,Education & Training,1k-5k Employees,State,110,Pune
+1199,STEMM One Cloudworks,3.1,Software Product,1-10 Employees,Startup,2,Pune
+1200,Karur Vysya Bank,3.7,Banking,5k-10k Employees,Public,108,Pune
+1201,Kalyan Jewellers,4.7,Jewellery,5k-10k Employees,Fortune India 500,31,Pune
+1202,Entertainment Network India,3.5,Media & Entertainment,501-1k Employees,Public,25,Pune
+1203,TREJHARA SOLUTIONS,3.0,IT Services & Consulting,51-200 Employees,Public,7,Pune
+1204,Gensol Engineering,4.3,Power,51-200 Employees,Public,17,Pune
+1205,Venus Remedies,4.4,Pharma,1k-5k Employees,Public,35,Pune
+1206,Gensol Engineering,4.3,Power,51-200 Employees,Public,17,Gurgaon
+1207,Milkbasket,3.8,Internet,501-1k Employees,Startup,9,Gurgaon
+1208,TREJHARA SOLUTIONS,3.0,IT Services & Consulting,51-200 Employees,Public,7,Navi
+1209,Sterling Hospitals,4.0,Healthcare,1k-5k Employees,Public,23,Ahmedabad
+1210,Unicorn DenMart,3.3,Medical Equipment,201-500 Employees,Public,30,New
+1211,Software Technology Parks of India,4.2,Software Product,501-1k Employees (Global),Public,33,Pune
+1212,Rucha Group Of Industries,3.3,Industrial Machinery,1k-5k Employees,Public,30,Pune
+1213,MediBuddy,3.2,Healthcare,1k-5k Employees,Startup,11,Pune
+1214,Weddingz.in,4.1,Internet,501-1k Employees,Startup,9,Pune
+1215,Snapper Future Tech,3.3,Internet,11-50 Employees,Startup,7,Pune
+1216,ANI INTEGRATED SERVICES,3.8,Engineering & Construction,1k-5k Employees,Public,36,Thane
+1217,Employees State Insurance Corporation,3.6,Insurance,1-10 Employees,Public,72,Hyderabad
+1218,Cure foods,3.9,Fitness & Wellness,501-1k Employees,Startup,8,Hyderabad
+1219,NTT Global Networks,4.1,IT Services & Consulting,501-1k Employees,Public,5,Pune
+1220,NTT Global Networks,4.1,IT Services & Consulting,501-1k Employees,Public,5,Pune
+1221,Omron Automation,4.2,Consumer Electronics & Appliances,201-500 Employees,Forbes Global 2000,91,Pune
+1222,Omron Automation,4.2,Consumer Electronics & Appliances,201-500 Employees,Forbes Global 2000,91,Pune
+1223,Venus Remedies,4.4,Pharma,1k-5k Employees,Public,35,Pune
+1224,Snapper Future Tech,3.3,Internet,11-50 Employees,Startup,7,Pune
+1225,Sterling Hospitals,4.0,Healthcare,1k-5k Employees,Public,23,Pune
+1226,Software Technology Parks of India,4.2,Software Product,501-1k Employees (Global),Public,33,Pune
+1227,Geberit Plumbing Technology,4.7,Building Material,51-200 Employees,Forbes Global 2000,150,Pune
+1228,Merito,4.0,Recruitment,1-10 Employees,Startup,3,Pune
+1229,The Indian Hume Pipe Co.,4.1,Building Material,1k-5k Employees,Public,98,Pune
+1230,Impact Guru,4.1,Internet,501-1k Employees,Startup,10,Pune
+1231,Thomson Reuters,4.2,Software Product,5k-10k Employees,Forbes Global 2000,16,Pune
+1232,Finnovationz,4.3,Financial Services,51-200 Employees,Startup,4,Pune
+1233,Talent,3.0,Internet,11-50 Employees,Startup,9,Pune
+1234,Thomson Reuters,4.2,Software Product,5k-10k Employees,Forbes Global 2000,16,Pune
+1235,GBS,4.0,Internet,11-50 Employees (Global),Startup,8,Pune
+1236,Meesho,3.7,Internet,5k-10k Employees,Indian Unicorn,9,Pune
+1237,Matrimony.com,4.4,Internet,1k-5k Employees,Public,27,Pune
+1238,Intel,4.3,Semiconductors,10k-50k Employees,Public,56,Pune
+1239,Viatris,4.2,Pharma,10k-50k Employees,Forbes Global 2000,4,Pune
+1240,Meesho,3.7,Internet,5k-10k Employees,Indian Unicorn,9,Pune
+1241,Viatris,4.2,Pharma,10k-50k Employees,Forbes Global 2000,4,Pune
+1242,Matrimony.com,4.4,Internet,1k-5k Employees,Public,27,Pune
+1243,Oxfam,4.9,Non-Profit,51-200 Employees,Public,20,Pune
+1244,Gruh Finance,4.3,Financial Services,501-1k Employees,Public,36,Pune
+1245,Jetfleet,3.6,Internet,201-500 Employees,Startup,6,Pune
+1246,The Oriental Insurance Co.,4.5,Insurance,10k-50k Employees,Central,77,Pune
+1247,Hush Puppies,3.9,Internet,51-200 Employees,Startup,6,Pune
+1248,Davita Nephrolife Care,4.4,Healthcare,51-200 Employees,Forbes Global 2000,15,Pune
+1249,Davita Nephrolife Care,4.4,Healthcare,51-200 Employees,Forbes Global 2000,15,Pune
+1250,Yourownroom,4.1,Internet,11-50 Employees,Startup,8,Bangalore
+1251,BSI Group,4.0,Analytics & KPO,201-500 Employees,Public,123,Pune
+1252,Dice Enterprises Private Limited,5.0,FinTech,51-200 Employees,Startup,6,Pune
+1253,Maverick Labs,3.2,Internet,11-50 Employees (Global),Startup,9,Pune
+1254,Dice Enterprises Private Limited,5.0,FinTech,51-200 Employees,Startup,6,Pune
+1255,Propaly Realtors,5.0,Real Estate,11-50 Employees,Startup,7,Pune
+1256,Hygiene Bigbite,4.1,Internet,11-50 Employees,Startup,8,Pune
+1257,Tata Hitachi Construction Machinery,4.1,Industrial Machinery,1k-5k Employees,Fortune India 500,25,Pune
+1258,Torrent Power,3.8,Power,5k-10k Employees,Public,28,Pune
+1259,Sterlite Industries,4.4,Other,201-500 Employees,Public,49,Pune
+1260,Datasigns Technologies,4.3,FinTech,51-200 Employees,Startup,8,Pune
+1261,Unity Infraprojects,3.6,Engineering & Construction,501-1k Employees,Public,45,Pune
+1262,Everest Industries,4.1,Building Material,1k-5k Employees,Public,90,Pune
+1263,Man Infraconstruction,4.3,Real Estate,201-500 Employees,Public,60,Pune
+1264,21North,3.0,Internet,501-1k Employees,Startup,9,Pune
+1265,AirAsia,3.6,Aviation,1k-5k Employees,Public,11,Pune
+1266,91springboard,3.7,Real Estate,51-200 Employees,Startup,11,Pune
+1267,Gtpl Hathway,4.1,Broadcasting,501-1k Employees,Public,18,Pune
+1268,Silver Touch Technologies,3.6,IT Services & Consulting,1k-5k Employees,Public,32,Pune
+1269,Eshopbox Ecommerce,2.9,Internet,51-200 Employees,Startup,12,Pune
+1270,ESAB,4.2,Industrial Machinery,501-1k Employees,Public,37,Pune
+1271,Relyon Softech,4.0,Software Product,501-1k Employees,Public,23,Pune
+1272,Indag Rubber,4.2,Auto Components,201-500 Employees,Public,46,Pune
+1273,Apollo Munich Health Insurance,3.9,Financial Services,1k-5k Employees,Public,17,Pune
+1274,Black Box Corporation,3.4,IT Services & Consulting,1k-5k Employees,Fortune India 500,48,Pune
+1275,NEC,4.6,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,125,Pune
+1276,Amadeus,4.0,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,37,Pune
+1277,MTR Foods,4.2,FMCG,1k-5k Employees,Forbes Global 2000,100,Pune
+1278,JSW Group,4.1,Iron & Steel,10k-50k Employees,Conglomerate,42,Pune
+1279,EduFund,3.5,FinTech,11-50 Employees,Startup,5,Pune
+1280,Blue Cross Laboratories,3.9,Pharma,1k-5k Employees,Public,44,Pune
+1281,Grab (India),4.1,Internet,5k-10k Employees,Startup,12,Pune
+1282,GlaxoSmithKline Consumer Healthcare,4.5,Pharma,1k-5k Employees,Public,24,Pune
+1283,Reliance Lifestyle Holdings,3.8,Retail,51-200 Employees,Public,51,Pune
+1284,Hercules Hoists,3.5,Industrial Machinery,51-200 Employees,Public,62,Pune
+1285,Vardhman Fabrics,4.1,Fashion & Textile,10k-50k Employees,Fortune India 500,59,Pune
+1286,Third wave Coffee Roasters,3.5,Internet,1-10 Employees (Global),Startup,8,Pune
+1287,Linde India,4.1,Oil & Gas,201-500 Employees,Public,145,Pune
+1288,Cortica Web Solutions,2.6,IT Services & Consulting,11-50 Employees,Startup,6,Pune
+1289,Hi-tech Corporation,4.1,Packaging,201-500 Employees,Public,12,Pune
+1290,Freshworks,3.7,Software Product,1k-5k Employees,Public,14,Pune
+1291,IndustryBuying.com,3.1,Import & Export,51-200 Employees,Startup,11,Pune
+1292,VST Industries,4.1,FMCG,501-1k Employees,Public,94,Pune
+1293,Gtpl Hathway,4.1,Broadcasting,501-1k Employees,Public,18,Pune
+1294,Tci Freight,4.3,Logistics,201-500 Employees,Public,66,Pune
+1295,Hindustan Sanitaryware & Industries,4.1,Furniture & Furnishing,1k-5k Employees,Public,64,Pune
+1296,Confidence Petroleum India,3.5,Oil & Gas,501-1k Employees,Public,27,Pune
+1297,Silver Touch Technologies,3.6,IT Services & Consulting,1k-5k Employees,Public,32,Pune
+1298,TITAGARH WAGONS,3.2,Industrial Machinery,501-1k Employees,Public,26,Pune
+1299,MTR Foods,4.2,FMCG,1k-5k Employees,Forbes Global 2000,100,Pune
+1300,NEC,4.6,IT Services & Consulting,5k-10k Employees,Forbes Global 2000,125,Pune
+1301,Amadeus,4.0,IT Services & Consulting,1k-5k Employees,Forbes Global 2000,37,Pune
+1302,Pratibha Industries,4.7,Engineering & Construction,501-1k Employees,Public,42,Pune
+1303,Hindustan Sanitaryware & Industries,4.1,Furniture & Furnishing,1k-5k Employees,Public,64,Pune
+1304,Tci Freight,4.3,Logistics,201-500 Employees,Public,66,Pune
+1305,Panacea Biotec,3.9,Biotechnology,1k-5k Employees,Public,40,Pune
+1306,IndustryBuying.com,3.1,Import & Export,51-200 Employees,Startup,11,Pune
+1307,Compuage Infocom,3.9,Hardware & Networking,501-1k Employees,Public,37,Pune
+1308,Apar Industries,4.1,Electrical Equipment,1k-5k Employees,Public,66,Pune
+1309,Linde India,4.1,Oil & Gas,201-500 Employees,Public,145,Pune
+1310,BNP Paribas,3.9,Financial Services,10k-50k Employees,Forbes Global 2000,176,Pune
+1311,Volvo,4.1,Automobile,1k-5k Employees,Forbes Global 2000,97,Pune
+1312,Surya Roshni,4.1,Real Estate,1k-5k Employees,Public,51,Pune
+1313,Aurionpro Solutions,3.7,Software Product,1k-5k Employees,Public,27,Pune
+1314,91springboard,3.7,Real Estate,51-200 Employees,Startup,11,Pune
+1315,AirAsia,3.6,Aviation,1k-5k Employees,Public,11,Pune
+1316,Man Infraconstruction,4.3,Real Estate,201-500 Employees,Public,60,Pune
+1317,Relyon Softech,4.0,Software Product,501-1k Employees,Public,23,Pune
+1318,Pradhan Mantri Kaushal Vikas Yojana,4.0,Education & Training,1-10 Employees,Public,9,Pune
+1319,Park Plus,3.0,Internet,201-500 Employees,Startup,5,Pune
+1320,Reliance Lifestyle Holdings,3.8,Retail,51-200 Employees,Public,51,Pune
+1321,Adonmo,3.9,Marketing & Advertising,501-1k Employees,Startup,8,Pune
+1322,Jacobs Engineering Group,4.1,Engineering & Construction,1k-5k Employees,Forbes Global 2000,77,Pune
+1323,Ethos Swiss Watch Studios,3.4,Consumer Electronics & Appliances,201-500 Employees,Public,21,Pune
+1324,Signzy Technologies,3.0,Software Product,51-200 Employees,Startup,9,Pune
+1325,Cornerstone,4.0,EdTech,11-50 Employees,Conglomerate,20,Pune
+1326,DCM Shriram,4.3,Chemicals,5k-10k Employees,Public,34,Pune
+1327,Cholamandalam Securities,4.0,Investment Banking / Venture Capital / Private Equity,201-500 Employees,Public,46,Pune
+1328,Park Plus,3.0,Internet,201-500 Employees,Startup,5,Pune
+1329,GlaxoSmithKline Consumer Healthcare,4.5,Pharma,1k-5k Employees,Public,24,Pune
+1330,Radio City,3.8,Broadcasting,201-500 Employees (Global),Public,23,Pune
+1331,HLL Lifecare,3.7,Healthcare,1k-5k Employees,Central,58,Pune
+1332,N.C.L. Industries,3.9,Building Material,501-1k Employees,Public,44,Pune
+1333,Grab (India),4.1,Internet,5k-10k Employees,Startup,12,Pune
+1334,Snapbizz,3.2,Software Product,51-200 Employees,Startup,11,Pune
+1335,HLL Lifecare,3.7,Healthcare,1k-5k Employees,Central,58,Pune
